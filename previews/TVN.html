@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/TVN-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>TVN visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/TVN-files/logo.png" />
+	<img class="preload-hidden" src="/sets/TVN-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="TVN"><img src="/sets/TVN-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/TVN-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\TVN-files\img\12_Elbow-Grease Innovator.png" id="12_Elbow-Grease Innovator" data-flag="@X" onclick="openSidebar('12_Elbow-Grease Innovator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\60_Mooneye Octopus.png" id="60_Mooneye Octopus" data-flag="@X" onclick="openSidebar('60_Mooneye Octopus',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\83_Cursed Compass.png" id="83_Cursed Compass" data-flag="@X" onclick="openSidebar('83_Cursed Compass',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\138_Inevitable, Doom's Flagship.png" id="138_Inevitable, Dooms Flagship" data-flag="@X" onclick="openSidebar('138_Inevitable, Dooms Flagship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\170_Hydra Hullbreaker.png" id="170_Hydra Hullbreaker" data-flag="@X" onclick="openSidebar('170_Hydra Hullbreaker',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\17_Glorycarved Masthead.png" id="17_Glorycarved Masthead" data-flag="@X" onclick="openSidebar('17_Glorycarved Masthead',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\70_Spellcatcher Conch.png" id="70_Spellcatcher Conch" data-flag="@X" onclick="openSidebar('70_Spellcatcher Conch',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\98_Midnight Queen, Damned Vessel.png" id="98_Midnight Queen, Damned Vessel" data-flag="@X" onclick="openSidebar('98_Midnight Queen, Damned Vessel',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\153_Stormward Shanties.png" id="153_Stormward Shanties" data-flag="@X" onclick="openSidebar('153_Stormward Shanties',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\176_Otoro, Wild Explorer.png" id="176_Otoro, Wild Explorer" data-flag="@X" onclick="openSidebar('176_Otoro, Wild Explorer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\1_Cloudscape Kraken.png" id="1_Cloudscape Kraken" data-flag="@X" onclick="openSidebar('1_Cloudscape Kraken',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\45_Cloud Sea Bell.png" id="45_Cloud Sea Bell" data-flag="@X" onclick="openSidebar('45_Cloud Sea Bell',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\82_Crossbone Cove Cutter.png" id="82_Crossbone Cove Cutter" data-flag="@X" onclick="openSidebar('82_Crossbone Cove Cutter',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\121_Blacksail Looter.png" id="121_Blacksail Looter" data-flag="@X" onclick="openSidebar('121_Blacksail Looter',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\188_Tin Isle Bear.png" id="188_Tin Isle Bear" data-flag="@X" onclick="openSidebar('188_Tin Isle Bear',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\7_Deckside Gunner.png" id="7_Deckside Gunner" data-flag="@X" onclick="openSidebar('7_Deckside Gunner',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\47_Cynette, Cnidariamancer.png" id="47_Cynette, Cnidariamancer" data-flag="@X" onclick="openSidebar('47_Cynette, Cnidariamancer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\84_Deadlights Leviathan.png" id="84_Deadlights Leviathan" data-flag="@X" onclick="openSidebar('84_Deadlights Leviathan',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\123_Charred Isles Excavator.png" id="123_Charred Isles Excavator" data-flag="@X" onclick="openSidebar('123_Charred Isles Excavator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\158_Ava, Thorny Diva.png" id="158_Ava, Thorny Diva" data-flag="@X" onclick="openSidebar('158_Ava, Thorny Diva',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\14_Eradicating Wave.png" id="14_Eradicating Wave" data-flag="@X" onclick="openSidebar('14_Eradicating Wave',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\55_Hunting Whale.png" id="55_Hunting Whale" data-flag="@X" onclick="openSidebar('55_Hunting Whale',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\86_Deep Tyrant's Challenge.png" id="86_Deep Tyrants Challenge" data-flag="@X" onclick="openSidebar('86_Deep Tyrants Challenge',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\126_Crackling Eel.png" id="126_Crackling Eel" data-flag="@X" onclick="openSidebar('126_Crackling Eel',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\159_Coral Tyrant's Challenge.png" id="159_Coral Tyrants Challenge" data-flag="@X" onclick="openSidebar('159_Coral Tyrants Challenge',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\15_Exuberant Podcaller.png" id="15_Exuberant Podcaller" data-flag="@X" onclick="openSidebar('15_Exuberant Podcaller',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\56_Inkmane Hippocamp.png" id="56_Inkmane Hippocamp" data-flag="@X" onclick="openSidebar('56_Inkmane Hippocamp',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\90_Fleetsinker.png" id="90_Fleetsinker" data-flag="@X" onclick="openSidebar('90_Fleetsinker',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\137_Hookfin, Basalt Commander.png" id="137_Hookfin, Basalt Commander" data-flag="@X" onclick="openSidebar('137_Hookfin, Basalt Commander',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\167_Gothil's Clutchling.png" id="167_Gothils Clutchling" data-flag="@X" onclick="openSidebar('167_Gothils Clutchling',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\19_GR-4E, Personal Guard.png" id="19_GR-4E, Personal Guard" data-flag="@X" onclick="openSidebar('19_GR-4E, Personal Guard',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\58_Meticulous Planning.png" id="58_Meticulous Planning" data-flag="@X" onclick="openSidebar('58_Meticulous Planning',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\94_Jahan, High Seas Lich.png" id="94_Jahan, High Seas Lich" data-flag="@X" onclick="openSidebar('94_Jahan, High Seas Lich',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\139_Ironfang Amphisbaena.png" id="139_Ironfang Amphisbaena" data-flag="@X" onclick="openSidebar('139_Ironfang Amphisbaena',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\171_Isle-Mimic Leviathan.png" id="171_Isle-Mimic Leviathan" data-flag="@X" onclick="openSidebar('171_Isle-Mimic Leviathan',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\31_Shore Tyrant's Challenge.png" id="31_Shore Tyrants Challenge" data-flag="@X" onclick="openSidebar('31_Shore Tyrants Challenge',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\59_Mindribbon Serpent.png" id="59_Mindribbon Serpent" data-flag="@X" onclick="openSidebar('59_Mindribbon Serpent',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\97_Lich's Insight.png" id="97_Lichs Insight" data-flag="@X" onclick="openSidebar('97_Lichs Insight',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\140_Lavaheart Dragon.png" id="140_Lavaheart Dragon" data-flag="@X" onclick="openSidebar('140_Lavaheart Dragon',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\178_Perennial Regrowth.png" id="178_Perennial Regrowth" data-flag="@X" onclick="openSidebar('178_Perennial Regrowth',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\32_Skilled Shipwright.png" id="32_Skilled Shipwright" data-flag="@X" onclick="openSidebar('32_Skilled Shipwright',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\63_Northern Tyrant's Challenge.png" id="63_Northern Tyrants Challenge" data-flag="@X" onclick="openSidebar('63_Northern Tyrants Challenge',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\109_Rot Sea Worm.png" id="109_Rot Sea Worm" data-flag="@X" onclick="openSidebar('109_Rot Sea Worm',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\146_Magmawake Whale.png" id="146_Magmawake Whale" data-flag="@X" onclick="openSidebar('146_Magmawake Whale',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\191_Tin Isle Wurmrig.png" id="191_Tin Isle Wurmrig" data-flag="@X" onclick="openSidebar('191_Tin Isle Wurmrig',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\34_Splendor Port Guardship.png" id="34_Splendor Port Guardship" data-flag="@X" onclick="openSidebar('34_Splendor Port Guardship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\78_Wunderpus Mimic.png" id="78_Wunderpus Mimic" data-flag="@X" onclick="openSidebar('78_Wunderpus Mimic',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\112_Silent Drifter.png" id="112_Silent Drifter" data-flag="@X" onclick="openSidebar('112_Silent Drifter',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\156_Vein Tyrant's Challenge.png" id="156_Vein Tyrants Challenge" data-flag="@X" onclick="openSidebar('156_Vein Tyrants Challenge',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\193_Vedre Strait Caller.png" id="193_Vedre Strait Caller" data-flag="@X" onclick="openSidebar('193_Vedre Strait Caller',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\4_Cogwork Deckhands.png" id="4_Cogwork Deckhands" data-flag="@X" onclick="openSidebar('4_Cogwork Deckhands',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\40_Abyssal Trilobite.png" id="40_Abyssal Trilobite" data-flag="@X" onclick="openSidebar('40_Abyssal Trilobite',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\88_Dredging Arm.png" id="88_Dredging Arm" data-flag="@X" onclick="openSidebar('88_Dredging Arm',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\125_Clamp Down.png" id="125_Clamp Down" data-flag="@X" onclick="openSidebar('125_Clamp Down',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\194_Vibrant Siphonophore.png" id="194_Vibrant Siphonophore" data-flag="@X" onclick="openSidebar('194_Vibrant Siphonophore',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\5_Combat Rigging.png" id="5_Combat Rigging" data-flag="@X" onclick="openSidebar('5_Combat Rigging',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\41_Adel, the Northern Tyrant.png" id="41_Adel, the Northern Tyrant" data-flag="@X" onclick="openSidebar('41_Adel, the Northern Tyrant',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\91_Grimechurner Rotboat.png" id="91_Grimechurner Rotboat" data-flag="@X" onclick="openSidebar('91_Grimechurner Rotboat',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\130_Dunemaker Wurm.png" id="130_Dunemaker Wurm" data-flag="@X" onclick="openSidebar('130_Dunemaker Wurm',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\157_Apex Anomalocaris.png" id="157_Apex Anomalocaris" data-flag="@X" onclick="openSidebar('157_Apex Anomalocaris',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\9_Distracting Dolphin.png" id="9_Distracting Dolphin" data-flag="@X" onclick="openSidebar('9_Distracting Dolphin',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\44_Chart a Course.png" id="44_Chart a Course" data-flag="@X" onclick="openSidebar('44_Chart a Course',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\93_Inktrench's Trail.png" id="93_Inktrenchs Trail" data-flag="@X" onclick="openSidebar('93_Inktrenchs Trail',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\132_Eruptive Emergence.png" id="132_Eruptive Emergence" data-flag="@X" onclick="openSidebar('132_Eruptive Emergence',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\160_Destructive Wake.png" id="160_Destructive Wake" data-flag="@X" onclick="openSidebar('160_Destructive Wake',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\13_Engine Repairs.png" id="13_Engine Repairs" data-flag="@X" onclick="openSidebar('13_Engine Repairs',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\46_Cloud Sea Snatcher.png" id="46_Cloud Sea Snatcher" data-flag="@X" onclick="openSidebar('46_Cloud Sea Snatcher',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\95_Jahan's Pets.png" id="95_Jahans Pets" data-flag="@X" onclick="openSidebar('95_Jahans Pets',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\135_Full Tilt.png" id="135_Full Tilt" data-flag="@X" onclick="openSidebar('135_Full Tilt',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\164_Foraging Badger.png" id="164_Foraging Badger" data-flag="@X" onclick="openSidebar('164_Foraging Badger',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\16_First Fleet Airship.png" id="16_First Fleet Airship" data-flag="@X" onclick="openSidebar('16_First Fleet Airship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\48_Dash on the Rocks.png" id="48_Dash on the Rocks" data-flag="@X" onclick="openSidebar('48_Dash on the Rocks',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\99_Needlehull Corsair.png" id="99_Needlehull Corsair" data-flag="@X" onclick="openSidebar('99_Needlehull Corsair',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\136_Gella, the Vein Tyrant.png" id="136_Gella, the Vein Tyrant" data-flag="@X" onclick="openSidebar('136_Gella, the Vein Tyrant',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\165_Gilded Plating.png" id="165_Gilded Plating" data-flag="@X" onclick="openSidebar('165_Gilded Plating',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\21_Mistcutter Attendant.png" id="21_Mistcutter Attendant" data-flag="@X" onclick="openSidebar('21_Mistcutter Attendant',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\49_Dirigible Navigator.png" id="49_Dirigible Navigator" data-flag="@X" onclick="openSidebar('49_Dirigible Navigator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\101_Nullvice, the Deep Tyrant.png" id="101_Nullvice, the Deep Tyrant" data-flag="@X" onclick="openSidebar('101_Nullvice, the Deep Tyrant',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\141_Lavaskipper Captain.png" id="141_Lavaskipper Captain" data-flag="@X" onclick="openSidebar('141_Lavaskipper Captain',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\168_Goz, the Coral Tyrant.png" id="168_Goz, the Coral Tyrant" data-flag="@X" onclick="openSidebar('168_Goz, the Coral Tyrant',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\23_Port Patrolship.png" id="23_Port Patrolship" data-flag="@X" onclick="openSidebar('23_Port Patrolship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\50_Disrupt Existence.png" id="50_Disrupt Existence" data-flag="@X" onclick="openSidebar('50_Disrupt Existence',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\103_Pirate's Blessing.png" id="103_Pirates Blessing" data-flag="@X" onclick="openSidebar('103_Pirates Blessing',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\143_Loose Cannon.png" id="143_Loose Cannon" data-flag="@X" onclick="openSidebar('143_Loose Cannon',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\173_Lineaz Eulogist.png" id="173_Lineaz Eulogist" data-flag="@X" onclick="openSidebar('173_Lineaz Eulogist',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\24_Repel Titans.png" id="24_Repel Titans" data-flag="@X" onclick="openSidebar('24_Repel Titans',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\54_Hippocamp Wrangler.png" id="54_Hippocamp Wrangler" data-flag="@X" onclick="openSidebar('54_Hippocamp Wrangler',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\104_Raise from the Depths.png" id="104_Raise from the Depths" data-flag="@X" onclick="openSidebar('104_Raise from the Depths',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\144_Lovebyrd's Galleon.png" id="144_Lovebyrds Galleon" data-flag="@X" onclick="openSidebar('144_Lovebyrds Galleon',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\174_Lurking Alligator.png" id="174_Lurking Alligator" data-flag="@X" onclick="openSidebar('174_Lurking Alligator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\25_Rescue Carrier.png" id="25_Rescue Carrier" data-flag="@X" onclick="openSidebar('25_Rescue Carrier',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\62_North Sea Whale.png" id="62_North Sea Whale" data-flag="@X" onclick="openSidebar('62_North Sea Whale',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\105_Requisitioned Raider.png" id="105_Requisitioned Raider" data-flag="@X" onclick="openSidebar('105_Requisitioned Raider',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\145_Magmatic Gastrolith.png" id="145_Magmatic Gastrolith" data-flag="@X" onclick="openSidebar('145_Magmatic Gastrolith',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\177_Pathstomper Javelina.png" id="177_Pathstomper Javelina" data-flag="@X" onclick="openSidebar('177_Pathstomper Javelina',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\26_Runeoar Rower.png" id="26_Runeoar Rower" data-flag="@X" onclick="openSidebar('26_Runeoar Rower',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\65_Overwhelming Riptide.png" id="65_Overwhelming Riptide" data-flag="@X" onclick="openSidebar('65_Overwhelming Riptide',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\110_Scroll Snatcher.png" id="110_Scroll Snatcher" data-flag="@X" onclick="openSidebar('110_Scroll Snatcher',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\149_Ready, Aim, Fire!.png" id="149_Ready, Aim, Fire!" data-flag="@X" onclick="openSidebar('149_Ready, Aim, Fire!',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\179_Plow Through.png" id="179_Plow Through" data-flag="@X" onclick="openSidebar('179_Plow Through',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\27_Sabek, the Shore Tyrant.png" id="27_Sabek, the Shore Tyrant" data-flag="@X" onclick="openSidebar('27_Sabek, the Shore Tyrant',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\66_Pearl Trader's Manta.png" id="66_Pearl Traders Manta" data-flag="@X" onclick="openSidebar('66_Pearl Traders Manta',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\111_Shipyard Scavenger.png" id="111_Shipyard Scavenger" data-flag="@X" onclick="openSidebar('111_Shipyard Scavenger',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\150_Roaming Dunkleosteus.png" id="150_Roaming Dunkleosteus" data-flag="@X" onclick="openSidebar('150_Roaming Dunkleosteus',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\180_Primordial Coelacanth.png" id="180_Primordial Coelacanth" data-flag="@X" onclick="openSidebar('180_Primordial Coelacanth',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\28_Seafolk Pilgrimguard.png" id="28_Seafolk Pilgrimguard" data-flag="@X" onclick="openSidebar('28_Seafolk Pilgrimguard',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\71_Starry Night Skiff.png" id="71_Starry Night Skiff" data-flag="@X" onclick="openSidebar('71_Starry Night Skiff',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\114_Tendrils of the Deep.png" id="114_Tendrils of the Deep" data-flag="@X" onclick="openSidebar('114_Tendrils of the Deep',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\152_Seasoned Cannoneer.png" id="152_Seasoned Cannoneer" data-flag="@X" onclick="openSidebar('152_Seasoned Cannoneer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\183_Ramming Prow.png" id="183_Ramming Prow" data-flag="@X" onclick="openSidebar('183_Ramming Prow',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\30_Shining Wingfin.png" id="30_Shining Wingfin" data-flag="@X" onclick="openSidebar('30_Shining Wingfin',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\73_Submersible Pod.png" id="73_Submersible Pod" data-flag="@X" onclick="openSidebar('73_Submersible Pod',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\116_Vile Gastrolith.png" id="116_Vile Gastrolith" data-flag="@X" onclick="openSidebar('116_Vile Gastrolith',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\154_Thrashing Fiddler.png" id="154_Thrashing Fiddler" data-flag="@X" onclick="openSidebar('154_Thrashing Fiddler',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\184_Relentless Islehopper.png" id="184_Relentless Islehopper" data-flag="@X" onclick="openSidebar('184_Relentless Islehopper',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\39_Tanglegrasp Jelly.png" id="39_Tanglegrasp Jelly" data-flag="@X" onclick="openSidebar('39_Tanglegrasp Jelly',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\74_Thirst for Power.png" id="74_Thirst for Power" data-flag="@X" onclick="openSidebar('74_Thirst for Power',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\117_Whirlpool Annihilator.png" id="117_Whirlpool Annihilator" data-flag="@X" onclick="openSidebar('117_Whirlpool Annihilator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\155_Tyrant's Demand.png" id="155_Tyrants Demand" data-flag="@X" onclick="openSidebar('155_Tyrants Demand',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\189_Tin Isle Channeler.png" id="189_Tin Isle Channeler" data-flag="@X" onclick="openSidebar('189_Tin Isle Channeler',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\2_Cog Maintainer.png" id="2_Cog Maintainer" data-flag="@X" onclick="openSidebar('2_Cog Maintainer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\42_Beachcombing Tiktaalik.png" id="42_Beachcombing Tiktaalik" data-flag="@X" onclick="openSidebar('42_Beachcombing Tiktaalik',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\79_Abyssal Tempter.png" id="79_Abyssal Tempter" data-flag="@X" onclick="openSidebar('79_Abyssal Tempter',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\118_Angered Slaghorn.png" id="118_Angered Slaghorn" data-flag="@X" onclick="openSidebar('118_Angered Slaghorn',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\196_Zoophonic Call.png" id="196_Zoophonic Call" data-flag="@X" onclick="openSidebar('196_Zoophonic Call',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\3_Cogwork Crew.png" id="3_Cogwork Crew" data-flag="@X" onclick="openSidebar('3_Cogwork Crew',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\43_Breaching Greatshark.png" id="43_Breaching Greatshark" data-flag="@X" onclick="openSidebar('43_Breaching Greatshark',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\80_Ambitious Prototype.png" id="80_Ambitious Prototype" data-flag="@X" onclick="openSidebar('80_Ambitious Prototype',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\119_Basking Iguanin.png" id="119_Basking Iguanin" data-flag="@X" onclick="openSidebar('119_Basking Iguanin',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\161_Drag from the Shallows.png" id="161_Drag from the Shallows" data-flag="@X" onclick="openSidebar('161_Drag from the Shallows',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\6_Deckhand's Blade.png" id="6_Deckhands Blade" data-flag="@X" onclick="openSidebar('6_Deckhands Blade',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\51_Fishy Rumormonger.png" id="51_Fishy Rumormonger" data-flag="@X" onclick="openSidebar('51_Fishy Rumormonger',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\81_Clattering Boneship.png" id="81_Clattering Boneship" data-flag="@X" onclick="openSidebar('81_Clattering Boneship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\120_Big Score.png" id="120_Big Score" data-flag="@X" onclick="openSidebar('120_Big Score',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\162_Dryad Navigator.png" id="162_Dryad Navigator" data-flag="@X" onclick="openSidebar('162_Dryad Navigator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\8_Determined Push.png" id="8_Determined Push" data-flag="@X" onclick="openSidebar('8_Determined Push',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\52_Freezing Winds.png" id="52_Freezing Winds" data-flag="@X" onclick="openSidebar('52_Freezing Winds',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\85_Deadman's Tales.png" id="85_Deadmans Tales" data-flag="@X" onclick="openSidebar('85_Deadmans Tales',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\122_Bursting Vein Serpent.png" id="122_Bursting Vein Serpent" data-flag="@X" onclick="openSidebar('122_Bursting Vein Serpent',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\163_Elemental's Flourish.png" id="163_Elementals Flourish" data-flag="@X" onclick="openSidebar('163_Elementals Flourish',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\10_Drop-Off Specialist.png" id="10_Drop-Off Specialist" data-flag="@X" onclick="openSidebar('10_Drop-Off Specialist',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\53_Giant Remora.png" id="53_Giant Remora" data-flag="@X" onclick="openSidebar('53_Giant Remora',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\87_Devour.png" id="87_Devour" data-flag="@X" onclick="openSidebar('87_Devour',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\124_Charred Isles Shovelbearer.png" id="124_Charred Isles Shovelbearer" data-flag="@X" onclick="openSidebar('124_Charred Isles Shovelbearer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\166_Give In to Instinct.png" id="166_Give In to Instinct" data-flag="@X" onclick="openSidebar('166_Give In to Instinct',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\11_Early-Stage Aviator.png" id="11_Early-Stage Aviator" data-flag="@X" onclick="openSidebar('11_Early-Stage Aviator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\57_Mercurial Skyrod.png" id="57_Mercurial Skyrod" data-flag="@X" onclick="openSidebar('57_Mercurial Skyrod',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\89_Fangcrest Finisher.png" id="89_Fangcrest Finisher" data-flag="@X" onclick="openSidebar('89_Fangcrest Finisher',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\127_Crushing Charge.png" id="127_Crushing Charge" data-flag="@X" onclick="openSidebar('127_Crushing Charge',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\169_Hoofbeats in the Woods.png" id="169_Hoofbeats in the Woods" data-flag="@X" onclick="openSidebar('169_Hoofbeats in the Woods',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\18_Goldseeker Cruiser.png" id="18_Goldseeker Cruiser" data-flag="@X" onclick="openSidebar('18_Goldseeker Cruiser',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\61_North Sea Courier.png" id="61_North Sea Courier" data-flag="@X" onclick="openSidebar('61_North Sea Courier',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\92_Inktrench Stinger.png" id="92_Inktrench Stinger" data-flag="@X" onclick="openSidebar('92_Inktrench Stinger',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\128_Daunting Figurehead.png" id="128_Daunting Figurehead" data-flag="@X" onclick="openSidebar('128_Daunting Figurehead',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\172_Leafwhisper Beetle.png" id="172_Leafwhisper Beetle" data-flag="@X" onclick="openSidebar('172_Leafwhisper Beetle',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\20_Heartfelt Shipwright.png" id="20_Heartfelt Shipwright" data-flag="@X" onclick="openSidebar('20_Heartfelt Shipwright',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\64_Observant Osprey.png" id="64_Observant Osprey" data-flag="@X" onclick="openSidebar('64_Observant Osprey',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\96_Lamprey Swarm.png" id="96_Lamprey Swarm" data-flag="@X" onclick="openSidebar('96_Lamprey Swarm',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\129_Dockside Rebuffer.png" id="129_Dockside Rebuffer" data-flag="@X" onclick="openSidebar('129_Dockside Rebuffer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\175_Mosstusk Guardian.png" id="175_Mosstusk Guardian" data-flag="@X" onclick="openSidebar('175_Mosstusk Guardian',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\22_Pearlthrone Guard.png" id="22_Pearlthrone Guard" data-flag="@X" onclick="openSidebar('22_Pearlthrone Guard',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\67_Read the Starfish.png" id="67_Read the Starfish" data-flag="@X" onclick="openSidebar('67_Read the Starfish',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\100_Noxious Venting.png" id="100_Noxious Venting" data-flag="@X" onclick="openSidebar('100_Noxious Venting',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\131_Encrusted Crustacean.png" id="131_Encrusted Crustacean" data-flag="@X" onclick="openSidebar('131_Encrusted Crustacean',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\181_Propagated Bioship.png" id="181_Propagated Bioship" data-flag="@X" onclick="openSidebar('181_Propagated Bioship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\29_Seafolk Sentinel.png" id="29_Seafolk Sentinel" data-flag="@X" onclick="openSidebar('29_Seafolk Sentinel',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\68_Sea Witch's Wards.png" id="68_Sea Witchs Wards" data-flag="@X" onclick="openSidebar('68_Sea Witchs Wards',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\102_Perilous Pickpocket.png" id="102_Perilous Pickpocket" data-flag="@X" onclick="openSidebar('102_Perilous Pickpocket',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\133_Expedition Funding.png" id="133_Expedition Funding" data-flag="@X" onclick="openSidebar('133_Expedition Funding',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\182_Quaking Tunneler.png" id="182_Quaking Tunneler" data-flag="@X" onclick="openSidebar('182_Quaking Tunneler',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\33_Skyskimmer Glaucus.png" id="33_Skyskimmer Glaucus" data-flag="@X" onclick="openSidebar('33_Skyskimmer Glaucus',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\69_Seafoam Shackles.png" id="69_Seafoam Shackles" data-flag="@X" onclick="openSidebar('69_Seafoam Shackles',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\106_Retrofitted Rampager.png" id="106_Retrofitted Rampager" data-flag="@X" onclick="openSidebar('106_Retrofitted Rampager',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\134_Explosive Rage.png" id="134_Explosive Rage" data-flag="@X" onclick="openSidebar('134_Explosive Rage',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\185_Rootpath Mamba.png" id="185_Rootpath Mamba" data-flag="@X" onclick="openSidebar('185_Rootpath Mamba',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\35_Stand as One.png" id="35_Stand as One" data-flag="@X" onclick="openSidebar('35_Stand as One',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\72_Stormbelt Serpent.png" id="72_Stormbelt Serpent" data-flag="@X" onclick="openSidebar('72_Stormbelt Serpent',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\107_Ripmaw Assassin.png" id="107_Ripmaw Assassin" data-flag="@X" onclick="openSidebar('107_Ripmaw Assassin',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\142_Lightning Rod Installer.png" id="142_Lightning Rod Installer" data-flag="@X" onclick="openSidebar('142_Lightning Rod Installer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\186_Rustbladder Kelp.png" id="186_Rustbladder Kelp" data-flag="@X" onclick="openSidebar('186_Rustbladder Kelp',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\36_Steelfin Dolphin.png" id="36_Steelfin Dolphin" data-flag="@X" onclick="openSidebar('36_Steelfin Dolphin',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\75_Titanic Haruspicy.png" id="75_Titanic Haruspicy" data-flag="@X" onclick="openSidebar('75_Titanic Haruspicy',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\108_Rot Sea Surge.png" id="108_Rot Sea Surge" data-flag="@X" onclick="openSidebar('108_Rot Sea Surge',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\147_Overloaded Cannonship.png" id="147_Overloaded Cannonship" data-flag="@X" onclick="openSidebar('147_Overloaded Cannonship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\187_Shallows Altisaur.png" id="187_Shallows Altisaur" data-flag="@X" onclick="openSidebar('187_Shallows Altisaur',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\37_Sunken Casket.png" id="37_Sunken Casket" data-flag="@X" onclick="openSidebar('37_Sunken Casket',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\76_Wash Overboard.png" id="76_Wash Overboard" data-flag="@X" onclick="openSidebar('76_Wash Overboard',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\113_Standard Issue Guardbot.png" id="113_Standard Issue Guardbot" data-flag="@X" onclick="openSidebar('113_Standard Issue Guardbot',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\148_Powderkeg Explosion.png" id="148_Powderkeg Explosion" data-flag="@X" onclick="openSidebar('148_Powderkeg Explosion',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\190_Tin Isle Lifetender.png" id="190_Tin Isle Lifetender" data-flag="@X" onclick="openSidebar('190_Tin Isle Lifetender',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\38_Sunvine Nurturer.png" id="38_Sunvine Nurturer" data-flag="@X" onclick="openSidebar('38_Sunvine Nurturer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\77_Wavemaker Yacht.png" id="77_Wavemaker Yacht" data-flag="@X" onclick="openSidebar('77_Wavemaker Yacht',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\115_Titan Bone Assault.png" id="115_Titan Bone Assault" data-flag="@X" onclick="openSidebar('115_Titan Bone Assault',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\151_Scorching Fox.png" id="151_Scorching Fox" data-flag="@X" onclick="openSidebar('151_Scorching Fox',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\192_To the Horizon.png" id="192_To the Horizon" data-flag="@X" onclick="openSidebar('192_To the Horizon',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\195_Wingbeast Hunter.png" id="195_Wingbeast Hunter" data-flag="@X" onclick="openSidebar('195_Wingbeast Hunter',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\223_Malzan the Shipwright.png" id="223_Malzan the Shipwright" data-flag="@X" onclick="openSidebar('223_Malzan the Shipwright',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\205_Cyfra, Inktrench Tyrant.png" id="205_Cyfra, Inktrench Tyrant" data-flag="@X" onclick="openSidebar('205_Cyfra, Inktrench Tyrant',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\209_Eskin, Furnace Master.png" id="209_Eskin, Furnace Master" data-flag="@X" onclick="openSidebar('209_Eskin, Furnace Master',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\220_Ka'bi, the Bloomhoof.png" id="220_Kabi, the Bloomhoof" data-flag="@X" onclick="openSidebar('220_Kabi, the Bloomhoof',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\213_Firenz, Sunvine Custodian.png" id="213_Firenz, Sunvine Custodian" data-flag="@X" onclick="openSidebar('213_Firenz, Sunvine Custodian',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\206_Ehn, Cloud Sea Ancient.png" id="206_Ehn, Cloud Sea Ancient" data-flag="@X" onclick="openSidebar('206_Ehn, Cloud Sea Ancient',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\197_Abyssal Sea-Witch.png" id="197_Abyssal Sea-Witch" data-flag="@X" onclick="openSidebar('197_Abyssal Sea-Witch',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\208_Engines Critical.png" id="208_Engines Critical" data-flag="@X" onclick="openSidebar('208_Engines Critical',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\236_Tiz'ek's Meltdown.png" id="236_Tizeks Meltdown" data-flag="@X" onclick="openSidebar('236_Tizeks Meltdown',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\226_Pantry Filler.png" id="226_Pantry Filler" data-flag="@X" onclick="openSidebar('226_Pantry Filler',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\202_Cephalid Strategist.png" id="202_Cephalid Strategist" data-flag="@X" onclick="openSidebar('202_Cephalid Strategist',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\224_Memory Eater.png" id="224_Memory Eater" data-flag="@X" onclick="openSidebar('224_Memory Eater',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\211_Fangworm Fleetship.png" id="211_Fangworm Fleetship" data-flag="@X" onclick="openSidebar('211_Fangworm Fleetship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\199_Apex Landshifter.png" id="199_Apex Landshifter" data-flag="@X" onclick="openSidebar('199_Apex Landshifter',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\231_Riding Turtle.png" id="231_Riding Turtle" data-flag="@X" onclick="openSidebar('231_Riding Turtle',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\219_Intrepid Courier.png" id="219_Intrepid Courier" data-flag="@X" onclick="openSidebar('219_Intrepid Courier',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\229_Reckless Innovator.png" id="229_Reckless Innovator" data-flag="@X" onclick="openSidebar('229_Reckless Innovator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\221_Lava Flow Hellbender.png" id="221_Lava Flow Hellbender" data-flag="@X" onclick="openSidebar('221_Lava Flow Hellbender',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\210_Evram, Blind Metallomancer.png" id="210_Evram, Blind Metallomancer" data-flag="@X" onclick="openSidebar('210_Evram, Blind Metallomancer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\215_Grandir, the Storm-Bodied.png" id="215_Grandir, the Storm-Bodied" data-flag="@X" onclick="openSidebar('215_Grandir, the Storm-Bodied',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\207_Elagid, the Endless Glutton.png" id="207_Elagid, the Endless Glutton" data-flag="@X" onclick="openSidebar('207_Elagid, the Endless Glutton',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\201_Beliaz, Hot Shot.png" id="201_Beliaz, Hot Shot" data-flag="@X" onclick="openSidebar('201_Beliaz, Hot Shot',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\232_Runes of Recall.png" id="232_Runes of Recall" data-flag="@X" onclick="openSidebar('232_Runes of Recall',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\234_Superb Salvage.png" id="234_Superb Salvage" data-flag="@X" onclick="openSidebar('234_Superb Salvage',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\216_Grandir's Trove.png" id="216_Grandirs Trove" data-flag="@X" onclick="openSidebar('216_Grandirs Trove',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\200_Back For More.png" id="200_Back For More" data-flag="@X" onclick="openSidebar('200_Back For More',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\228_Raucous Week, Party Ship.png" id="228_Raucous Week, Party Ship" data-flag="@X" onclick="openSidebar('228_Raucous Week, Party Ship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\198_Aesi, Capricious Serpent.png" id="198_Aesi, Capricious Serpent" data-flag="@X" onclick="openSidebar('198_Aesi, Capricious Serpent',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\233_Soulbound Sloop.png" id="233_Soulbound Sloop" data-flag="@X" onclick="openSidebar('233_Soulbound Sloop',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\203_Chordatan Bloodseeker.png" id="203_Chordatan Bloodseeker" data-flag="@X" onclick="openSidebar('203_Chordatan Bloodseeker',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\218_Hungering Greatleech.png" id="218_Hungering Greatleech" data-flag="@X" onclick="openSidebar('218_Hungering Greatleech',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\227_Provisions Ship.png" id="227_Provisions Ship" data-flag="@X" onclick="openSidebar('227_Provisions Ship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\225_Nurturing Algaeback.png" id="225_Nurturing Algaeback" data-flag="@X" onclick="openSidebar('225_Nurturing Algaeback',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\235_Surly Maintainer.png" id="235_Surly Maintainer" data-flag="@X" onclick="openSidebar('235_Surly Maintainer',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\212_Firejelly Anomaly.png" id="212_Firejelly Anomaly" data-flag="@X" onclick="openSidebar('212_Firejelly Anomaly',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\230_Relentless Reconstructionist.png" id="230_Relentless Reconstructionist" data-flag="@X" onclick="openSidebar('230_Relentless Reconstructionist',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\237_Tyrant Territory.png" id="237_Tyrant Territory" data-flag="@X" onclick="openSidebar('237_Tyrant Territory',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\214_Grahn, Seafolk Huntmaster.png" id="214_Grahn, Seafolk Huntmaster" data-flag="@X" onclick="openSidebar('214_Grahn, Seafolk Huntmaster',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\217_Holtz, Devilish Benefactor.png" id="217_Holtz, Devilish Benefactor" data-flag="@X" onclick="openSidebar('217_Holtz, Devilish Benefactor',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\222_Len, Endless Tentacles.png" id="222_Len, Endless Tentacles" data-flag="@X" onclick="openSidebar('222_Len, Endless Tentacles',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\204_Cloudbelt Synthesis.png" id="204_Cloudbelt Synthesis" data-flag="@X" onclick="openSidebar('204_Cloudbelt Synthesis',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\242_Goldvein Monstrosity.png" id="242_Goldvein Monstrosity" data-flag="@X" onclick="openSidebar('242_Goldvein Monstrosity',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\245_Power Siphon.png" id="245_Power Siphon" data-flag="@X" onclick="openSidebar('245_Power Siphon',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\248_Tideborne Generator.png" id="248_Tideborne Generator" data-flag="@X" onclick="openSidebar('248_Tideborne Generator',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\238_Cogwork Companion.png" id="238_Cogwork Companion" data-flag="@X" onclick="openSidebar('238_Cogwork Companion',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\243_Merchant Vessel.png" id="243_Merchant Vessel" data-flag="@X" onclick="openSidebar('243_Merchant Vessel',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\244_Pirate Salvo.png" id="244_Pirate Salvo" data-flag="@X" onclick="openSidebar('244_Pirate Salvo',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\247_Sturdy Anchoring.png" id="247_Sturdy Anchoring" data-flag="@X" onclick="openSidebar('247_Sturdy Anchoring',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\249_Trench Drone.png" id="249_Trench Drone" data-flag="@X" onclick="openSidebar('249_Trench Drone',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\251_Untapped Gastrolith.png" id="251_Untapped Gastrolith" data-flag="@X" onclick="openSidebar('251_Untapped Gastrolith',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\239_Cogwork Corsair.png" id="239_Cogwork Corsair" data-flag="@X" onclick="openSidebar('239_Cogwork Corsair',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\240_Cogwork Ichthyoid.png" id="240_Cogwork Ichthyoid" data-flag="@X" onclick="openSidebar('240_Cogwork Ichthyoid',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\241_Deepweb Spider.png" id="241_Deepweb Spider" data-flag="@X" onclick="openSidebar('241_Deepweb Spider',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\246_Research Vessel.png" id="246_Research Vessel" data-flag="@X" onclick="openSidebar('246_Research Vessel',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\250_Uncovered Pitfall.png" id="250_Uncovered Pitfall" data-flag="@X" onclick="openSidebar('250_Uncovered Pitfall',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="land" class="anchor"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\258_Glamorous Port.png" id="258_Glamorous Port" data-flag="@X" onclick="openSidebar('258_Glamorous Port',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\262_Seafolk Court.png" id="262_Seafolk Court" data-flag="@X" onclick="openSidebar('262_Seafolk Court',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\261_Pirates' Bay.png" id="261_Pirates Bay" data-flag="@X" onclick="openSidebar('261_Pirates Bay',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\264_Unstable Vein.png" id="264_Unstable Vein" data-flag="@X" onclick="openSidebar('264_Unstable Vein',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\254_Churning Landscape.png" id="254_Churning Landscape" data-flag="@X" onclick="openSidebar('254_Churning Landscape',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\265_Cloud Sea.png" id="265_Cloud Sea" data-flag="@X" onclick="openSidebar('265_Cloud Sea',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\269_Inktrench Crag.png" id="269_Inktrench Crag" data-flag="@X" onclick="openSidebar('269_Inktrench Crag',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\267_Grand Rim Caldera.png" id="267_Grand Rim Caldera" data-flag="@X" onclick="openSidebar('267_Grand Rim Caldera',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\273_Tin Isle Canyon.png" id="273_Tin Isle Canyon" data-flag="@X" onclick="openSidebar('273_Tin Isle Canyon',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\274_Turtle Beach.png" id="274_Turtle Beach" data-flag="@X" onclick="openSidebar('274_Turtle Beach',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\260_Labor District.png" id="260_Labor District" data-flag="@X" onclick="openSidebar('260_Labor District',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\255_Crackling Cataract.png" id="255_Crackling Cataract" data-flag="@X" onclick="openSidebar('255_Crackling Cataract',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\257_Fertile Delta.png" id="257_Fertile Delta" data-flag="@X" onclick="openSidebar('257_Fertile Delta',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\259_Gold Mine.png" id="259_Gold Mine" data-flag="@X" onclick="openSidebar('259_Gold Mine',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\252_Algal Orchard.png" id="252_Algal Orchard" data-flag="@X" onclick="openSidebar('252_Algal Orchard',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\271_Silent Shores.png" id="271_Silent Shores" data-flag="@X" onclick="openSidebar('271_Silent Shores',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\272_Storm Belt.png" id="272_Storm Belt" data-flag="@X" onclick="openSidebar('272_Storm Belt',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\270_Rot Sea.png" id="270_Rot Sea" data-flag="@X" onclick="openSidebar('270_Rot Sea',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\266_Congregation Reef.png" id="266_Congregation Reef" data-flag="@X" onclick="openSidebar('266_Congregation Reef',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\268_Gyre Strait.png" id="268_Gyre Strait" data-flag="@X" onclick="openSidebar('268_Gyre Strait',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\256_Deepsea Maw.png" id="256_Deepsea Maw" data-flag="@X" onclick="openSidebar('256_Deepsea Maw',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\263_Uncharted Strait.png" id="263_Uncharted Strait" data-flag="@X" onclick="openSidebar('263_Uncharted Strait',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\253_Busy Workshop.png" id="253_Busy Workshop" data-flag="@X" onclick="openSidebar('253_Busy Workshop',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\276_Plains.png" id="276_Plains" data-flag="@X" onclick="openSidebar('276_Plains',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\275_Plains.png" id="275_Plains" data-flag="@X" onclick="openSidebar('275_Plains',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\279_Island.png" id="279_Island" data-flag="@X" onclick="openSidebar('279_Island',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\278_Island.png" id="278_Island" data-flag="@X" onclick="openSidebar('278_Island',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\281_Swamp.png" id="281_Swamp" data-flag="@X" onclick="openSidebar('281_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\282_Swamp.png" id="282_Swamp" data-flag="@X" onclick="openSidebar('282_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\285_Mountain.png" id="285_Mountain" data-flag="@X" onclick="openSidebar('285_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\286_Mountain.png" id="286_Mountain" data-flag="@X" onclick="openSidebar('286_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\287_Forest.png" id="287_Forest" data-flag="@X" onclick="openSidebar('287_Forest',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\289_Forest.png" id="289_Forest" data-flag="@X" onclick="openSidebar('289_Forest',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\277_Plains.png" id="277_Plains" data-flag="@X" onclick="openSidebar('277_Plains',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\280_Island.png" id="280_Island" data-flag="@X" onclick="openSidebar('280_Island',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\283_Swamp.png" id="283_Swamp" data-flag="@X" onclick="openSidebar('283_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\284_Mountain.png" id="284_Mountain" data-flag="@X" onclick="openSidebar('284_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\288_Forest.png" id="288_Forest" data-flag="@X" onclick="openSidebar('288_Forest',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\1t_Copy.png" id="1t_Copy" data-flag="@X" onclick="openSidebar('1t_Copy',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\15t_Blood.png" id="15t_Blood" data-flag="@X" onclick="openSidebar('15t_Blood',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\16t_Clue.png" id="16t_Clue" data-flag="@X" onclick="openSidebar('16t_Clue',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\17t_Map.png" id="17t_Map" data-flag="@X" onclick="openSidebar('17t_Map',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\18t_Treasure.png" id="18t_Treasure" data-flag="@X" onclick="openSidebar('18t_Treasure',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\2t_Sailor.png" id="2t_Sailor" data-flag="@X" onclick="openSidebar('2t_Sailor',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\3t_Whale.png" id="3t_Whale" data-flag="@X" onclick="openSidebar('3t_Whale',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\4t_Bird Pirate.png" id="4t_Bird Pirate" data-flag="@X" onclick="openSidebar('4t_Bird Pirate',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\5t_Construct.png" id="5t_Construct" data-flag="@X" onclick="openSidebar('5t_Construct',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\6t_Hippocamp.png" id="6t_Hippocamp" data-flag="@X" onclick="openSidebar('6t_Hippocamp',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\7t_Jellyfish.png" id="7t_Jellyfish" data-flag="@X" onclick="openSidebar('7t_Jellyfish',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\8t_Shrimp.png" id="8t_Shrimp" data-flag="@X" onclick="openSidebar('8t_Shrimp',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\9t_Pirate.png" id="9t_Pirate" data-flag="@X" onclick="openSidebar('9t_Pirate',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\10t_Serpent.png" id="10t_Serpent" data-flag="@X" onclick="openSidebar('10t_Serpent',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\11t_Dragon Fish.png" id="11t_Dragon Fish" data-flag="@X" onclick="openSidebar('11t_Dragon Fish',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\12t_Elemental Elk.png" id="12t_Elemental Elk" data-flag="@X" onclick="openSidebar('12t_Elemental Elk',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\13t_Scout.png" id="13t_Scout" data-flag="@X" onclick="openSidebar('13t_Scout',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\14t_Turtle.png" id="14t_Turtle" data-flag="@X" onclick="openSidebar('14t_Turtle',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="masterpiece" class="anchor"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\10_Waveslicer, Liko's Cruiser.png" id="10_Waveslicer, Likos Cruiser" data-flag="@X" onclick="openSidebar('10_Waveslicer, Likos Cruiser',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\1_Reprieve.png" id="1_Reprieve" data-flag="@X" onclick="openSidebar('1_Reprieve',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\2_Ankertrold, the Harrower.png" id="2_Ankertrold, the Harrower" data-flag="@X" onclick="openSidebar('2_Ankertrold, the Harrower',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\3_Muzzio, Exiled Cogworker.png" id="3_Muzzio, Exiled Cogworker" data-flag="@X" onclick="openSidebar('3_Muzzio, Exiled Cogworker',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\4_Out of the Tombs.png" id="4_Out of the Tombs" data-flag="@X" onclick="openSidebar('4_Out of the Tombs',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\5_Bloodgap, Reaver Warship.png" id="5_Bloodgap, Reaver Warship" data-flag="@X" onclick="openSidebar('5_Bloodgap, Reaver Warship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\6_Lazing Megatherium.png" id="6_Lazing Megatherium" data-flag="@X" onclick="openSidebar('6_Lazing Megatherium',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\7_Coloeus, Blacksail Flagship.png" id="7_Coloeus, Blacksail Flagship" data-flag="@X" onclick="openSidebar('7_Coloeus, Blacksail Flagship',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\9_Ruz and Elda, Lethal Lovebirds.png" id="9_Ruz and Elda, Lethal Lovebirds" data-flag="@X" onclick="openSidebar('9_Ruz and Elda, Lethal Lovebirds',false)"></div>
+			<div class="container"><img alt="/sets\TVN-files\img\8_Drang, Blacksail Captain.png" id="8_Drang, Blacksail Captain" data-flag="@X" onclick="openSidebar('8_Drang, Blacksail Captain',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
