@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "TVN", "set_name": "Titans of Viludin", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "TVN",
+            "set_name": "Titans of Viludin",
+            "formats": ""
+        }
+    ]
+}
