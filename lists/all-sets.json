@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "TVC",
+            "set_name": "Titans of Viludin Commander",
+            "formats": ""
+        },
+        {
             "set_code": "TVN",
             "set_name": "Titans of Viludin",
             "formats": ""
