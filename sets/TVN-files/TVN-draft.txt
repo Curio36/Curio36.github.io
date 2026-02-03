@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Creature — Serpent",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/27_Sabek, the Shore Tyrant.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/26_Sabek, the Shore Tyrant.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/37_Sunken Casket.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/36_Sunken Casket.png"
 			}
 		},
 		{
@@ -235,29 +235,29 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Merfolk Soldier",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/29_Seafolk Sentinel.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/28_Seafolk Sentinel.png"
 			}
 		},
 		{
 			"name": "Shining Wingfin",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Bird Fish",
-			"collector_number": "30",
+			"type": "Creature — Fish",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/30_Shining Wingfin.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/29_Shining Wingfin.png"
 			}
 		},
 		{
 			"name": "Shore Tyrant's Challenge",
 			"rarity": "rare",
-			"mana_cost": "{X}{W}{W}",
-			"type": "Instant",
-			"collector_number": "31",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/31_Shore Tyrant's Challenge.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/30_Shore Tyrant's Challenge.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/32_Skilled Shipwright.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/31_Skilled Shipwright.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Slug Dragon",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/33_Skyskimmer Glaucus.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/32_Skyskimmer Glaucus.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/34_Splendor Port Guardship.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/33_Splendor Port Guardship.png"
 			}
 		},
 		{
@@ -295,19 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/35_Stand as One.png"
-			}
-		},
-		{
-			"name": "Runeoar Rower",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Sailor",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/26_Runeoar Rower.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/34_Stand as One.png"
 			}
 		},
 		{
@@ -325,19 +315,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Satyr Cleric",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/38_Sunvine Nurturer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/37_Sunvine Nurturer.png"
 			}
 		},
 		{
-			"name": "Adel, the Northern Tyrant",
+			"name": "Adel, the Gelid Tyrant",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Legendary Creature — Elemental Kraken",
-			"collector_number": "41",
+			"type": "Legendary Creature — Elemental Leviathan",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/41_Adel, the Northern Tyrant.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/40_Adel, the Gelid Tyrant.png"
 			}
 		},
 		{
@@ -345,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Fish Beast",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/42_Beachcombing Tiktaalik.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/41_Beachcombing Tiktaalik.png"
 			}
 		},
 		{
@@ -355,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Shark",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/43_Breaching Greatshark.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/42_Breaching Greatshark.png"
 			}
 		},
 		{
@@ -365,9 +355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/44_Chart a Course.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/43_Chart a Course.png"
 			}
 		},
 		{
@@ -375,9 +365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/45_Cloud Sea Bell.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/44_Cloud Sea Bell.png"
 			}
 		},
 		{
@@ -385,9 +375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird Pirate Wizard",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/46_Cloud Sea Snatcher.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/45_Cloud Sea Snatcher.png"
 			}
 		},
 		{
@@ -395,29 +385,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/47_Cynette, Cnidariamancer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/46_Cynette, Cnidariamancer.png"
 			}
 		},
 		{
 			"name": "Dash on the Rocks",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/48_Dash on the Rocks.png"
-			}
-		},
-		{
-			"name": "Dirigible Navigator",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "49",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/49_Dirigible Navigator.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/47_Dash on the Rocks.png"
 			}
 		},
 		{
@@ -425,9 +405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/50_Disrupt Existence.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/48_Disrupt Existence.png"
 			}
 		},
 		{
@@ -435,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/52_Freezing Winds.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/50_Freezing Winds.png"
 			}
 		},
 		{
@@ -445,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/53_Giant Remora.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/54_Giant Remora.png"
 			}
 		},
 		{
@@ -455,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Shark Rogue",
-			"collector_number": "51",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/51_Fishy Rumormonger.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/49_Fishy Rumormonger.png"
 			}
 		},
 		{
@@ -465,9 +445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Octopus Ranger",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/54_Hippocamp Wrangler.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/55_Hippocamp Wrangler.png"
 			}
 		},
 		{
@@ -475,9 +455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Whale",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/55_Hunting Whale.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/56_Hunting Whale.png"
 			}
 		},
 		{
@@ -485,9 +465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Creature — Nightmare Horse Fish",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/56_Inkmane Hippocamp.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/57_Inkmane Hippocamp.png"
 			}
 		},
 		{
@@ -495,19 +475,19 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Fish",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/57_Mercurial Skyrod.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/58_Mercurial Skyrod.png"
 			}
 		},
 		{
 			"name": "Meticulous Planning",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/58_Meticulous Planning.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/59_Meticulous Planning.png"
 			}
 		},
 		{
@@ -515,29 +495,29 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Serpent",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/59_Mindribbon Serpent.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/60_Mindribbon Serpent.png"
 			}
 		},
 		{
-			"name": "North Sea Courier",
+			"name": "Gelid Sea Courier",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Merfolk Scout",
-			"collector_number": "61",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/61_North Sea Courier.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/51_Gelid Sea Courier.png"
 			}
 		},
 		{
-			"name": "Northern Tyrant's Challenge",
+			"name": "Gelid Tyrant's Challenge",
 			"rarity": "rare",
-			"mana_cost": "{X}{U}{U}",
+			"mana_cost": "{X}{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "63",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/63_Northern Tyrant's Challenge.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/53_Gelid Tyrant's Challenge.png"
 			}
 		},
 		{
@@ -545,9 +525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "65",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/65_Overwhelming Riptide.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/63_Overwhelming Riptide.png"
 			}
 		},
 		{
@@ -555,19 +535,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Fish",
-			"collector_number": "66",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/66_Pearl Trader's Manta.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/64_Pearl Trader's Manta.png"
 			}
 		},
 		{
 			"name": "Read the Starfish",
 			"rarity": "common",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/67_Read the Starfish.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/65_Read the Starfish.png"
 			}
 		},
 		{
@@ -575,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/68_Sea Witch's Wards.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/66_Sea Witch's Wards.png"
 			}
 		},
 		{
@@ -585,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "69",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/69_Seafoam Shackles.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/67_Seafoam Shackles.png"
 			}
 		},
 		{
@@ -595,19 +575,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact",
-			"collector_number": "70",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/70_Spellcatcher Conch.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/68_Spellcatcher Conch.png"
 			}
 		},
 		{
 			"name": "Starry Night Skiff",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact Enchantment — Vehicle",
-			"collector_number": "71",
+			"type": "Artifact — Vehicle",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/71_Starry Night Skiff.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/69_Starry Night Skiff.png"
 			}
 		},
 		{
@@ -615,9 +595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/73_Submersible Pod.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/72_Submersible Pod.png"
 			}
 		},
 		{
@@ -625,9 +605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/74_Thirst for Power.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/73_Thirst for Power.png"
 			}
 		},
 		{
@@ -635,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/75_Titanic Haruspicy.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/74_Titanic Haruspicy.png"
 			}
 		},
 		{
@@ -645,29 +625,29 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/76_Wash Overboard.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/75_Wash Overboard.png"
 			}
 		},
 		{
-			"name": "Wavemaker Yacht",
+			"name": "Stormbringer Ship",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "77",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/77_Wavemaker Yacht.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/71_Stormbringer Ship.png"
 			}
 		},
 		{
 			"name": "Wunderpus Mimic",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Octopus",
-			"collector_number": "78",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/78_Wunderpus Mimic.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/76_Wunderpus Mimic.png"
 			}
 		},
 		{
@@ -675,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Clue Drone",
-			"collector_number": "80",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/80_Ambitious Prototype.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/78_Ambitious Prototype.png"
 			}
 		},
 		{
@@ -685,9 +665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "82",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/82_Crossbone Cove Cutter.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/80_Crossbone Cove Cutter.png"
 			}
 		},
 		{
@@ -695,9 +675,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Artifact",
-			"collector_number": "83",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/83_Cursed Compass.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/81_Cursed Compass.png"
 			}
 		},
 		{
@@ -705,9 +685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Instant",
-			"collector_number": "86",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/86_Deep Tyrant's Challenge.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/84_Deep Tyrant's Challenge.png"
 			}
 		},
 		{
@@ -715,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
-			"collector_number": "87",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/87_Devour.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/85_Devour.png"
 			}
 		},
 		{
@@ -725,9 +705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "88",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/88_Dredging Arm.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/86_Dredging Arm.png"
 			}
 		},
 		{
@@ -735,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Bird Pirate",
-			"collector_number": "89",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/89_Fangcrest Finisher.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/87_Fangcrest Finisher.png"
 			}
 		},
 		{
@@ -745,9 +725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "91",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/91_Grimechurner Rotboat.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/89_Grimechurner Rotboat.png"
 			}
 		},
 		{
@@ -755,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "85",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/85_Deadman's Tales.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/83_Deadman's Tales.png"
 			}
 		},
 		{
@@ -765,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Nightmare Jellyfish",
-			"collector_number": "92",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/92_Inktrench Stinger.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/90_Inktrench Stinger.png"
 			}
 		},
 		{
@@ -775,19 +755,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/93_Inktrench's Trail.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/91_Inktrench's Trail.png"
 			}
 		},
 		{
 			"name": "Fleetsinker",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Octopus",
-			"collector_number": "90",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/90_Fleetsinker.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/88_Fleetsinker.png"
 			}
 		},
 		{
@@ -795,9 +775,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Zombie Pirate Wizard",
-			"collector_number": "94",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/94_Jahan, High Seas Lich.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/92_Jahan, High Seas Lich.png"
 			}
 		},
 		{
@@ -805,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Bat Pirate",
-			"collector_number": "95",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/95_Jahan's Pets.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/93_Jahan's Pets.png"
 			}
 		},
 		{
@@ -815,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Fish",
-			"collector_number": "96",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/96_Lamprey Swarm.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/94_Lamprey Swarm.png"
 			}
 		},
 		{
@@ -825,29 +805,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "97",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/97_Lich's Insight.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/95_Lich's Insight.png"
 			}
 		},
 		{
 			"name": "Midnight Queen, Damned Vessel",
 			"rarity": "mythic",
-			"mana_cost": "{4}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "98",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/98_Midnight Queen, Damned Vessel.png"
-			}
-		},
-		{
-			"name": "Needlehull Corsair",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Orc Pirate",
-			"collector_number": "99",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/99_Needlehull Corsair.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/96_Midnight Queen, Damned Vessel.png"
 			}
 		},
 		{
@@ -855,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "100",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/100_Noxious Venting.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/97_Noxious Venting.png"
 			}
 		},
 		{
@@ -865,9 +835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Nightmare Crab",
-			"collector_number": "101",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/101_Nullvice, the Deep Tyrant.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/98_Nullvice, the Deep Tyrant.png"
 			}
 		},
 		{
@@ -875,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Goblin Pirate",
-			"collector_number": "102",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/102_Perilous Pickpocket.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/99_Perilous Pickpocket.png"
 			}
 		},
 		{
@@ -885,9 +855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/104_Raise from the Depths.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/101_Raise from the Depths.png"
 			}
 		},
 		{
@@ -895,9 +865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Robot Pirate",
-			"collector_number": "106",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/106_Requisitioned Raider.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/103_Requisitioned Raider.png"
 			}
 		},
 		{
@@ -905,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Serpent",
-			"collector_number": "107",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/107_Retrofitted Rampager.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/104_Retrofitted Rampager.png"
 			}
 		},
 		{
@@ -915,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Shark Assassin",
-			"collector_number": "108",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/108_Ripmaw Assassin.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/105_Ripmaw Assassin.png"
 			}
 		},
 		{
@@ -925,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/109_Rot Sea Surge.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/106_Rot Sea Surge.png"
 			}
 		},
 		{
@@ -935,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Orc Pirate",
-			"collector_number": "105",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/105_Rakish Buccaneer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/102_Rakish Buccaneer.png"
 			}
 		},
 		{
@@ -945,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "111",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/111_Shipyard Scavenger.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/108_Shipyard Scavenger.png"
 			}
 		},
 		{
@@ -955,9 +925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spirit Shark",
-			"collector_number": "112",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/112_Silent Drifter.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/109_Silent Drifter.png"
 			}
 		},
 		{
@@ -965,19 +935,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Nightmare Tentacle",
-			"collector_number": "114",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/114_Tendrils of the Deep.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/111_Tendrils of the Deep.png"
 			}
 		},
 		{
 			"name": "Titan Bone Assault",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "115",
+			"type": "Sorcery",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/115_Titan Bone Assault.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/112_Titan Bone Assault.png"
 			}
 		},
 		{
@@ -985,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Warrior",
-			"collector_number": "113",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/113_Standard Issue Guardbot.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/110_Standard Issue Guardbot.png"
 			}
 		},
 		{
@@ -995,9 +965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact",
-			"collector_number": "116",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/116_Vile Gastrolith.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/113_Vile Gastrolith.png"
 			}
 		},
 		{
@@ -1005,9 +975,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Lizard Warrior",
-			"collector_number": "119",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/119_Basking Iguanin.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/116_Basking Iguanin.png"
 			}
 		},
 		{
@@ -1015,9 +985,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/120_Big Score.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/117_Big Score.png"
 			}
 		},
 		{
@@ -1025,9 +995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "121",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/121_Blacksail Looter.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/118_Blacksail Looter.png"
 			}
 		},
 		{
@@ -1035,9 +1005,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Elemental Serpent",
-			"collector_number": "122",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/122_Bursting Vein Serpent.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/119_Bursting Vein Serpent.png"
 			}
 		},
 		{
@@ -1045,9 +1015,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "123",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/123_Charred Isles Excavator.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/120_Charred Isles Excavator.png"
 			}
 		},
 		{
@@ -1055,9 +1025,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "124",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/124_Charred Isles Shovelbearer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/121_Charred Isles Shovelbearer.png"
 			}
 		},
 		{
@@ -1065,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "125",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/125_Clamp Down.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/122_Clamp Down.png"
 			}
 		},
 		{
@@ -1075,9 +1045,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/127_Crushing Charge.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/124_Crushing Charge.png"
 			}
 		},
 		{
@@ -1085,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Giant Pirate",
-			"collector_number": "128",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/128_Daunting Figurehead.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/125_Daunting Figurehead.png"
 			}
 		},
 		{
@@ -1095,19 +1065,19 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact Creature — Warrior",
-			"collector_number": "129",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/129_Dockside Rebuffer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/126_Dockside Rebuffer.png"
 			}
 		},
 		{
 			"name": "Dunemaker Wurm",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Elemental Wurm",
-			"collector_number": "130",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/130_Dunemaker Wurm.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/127_Dunemaker Wurm.png"
 			}
 		},
 		{
@@ -1115,19 +1085,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Crab",
-			"collector_number": "131",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/131_Encrusted Crustacean.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/128_Encrusted Crustacean.png"
 			}
 		},
 		{
 			"name": "Eruptive Emergence",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "132",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/132_Eruptive Emergence.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/129_Eruptive Emergence.png"
 			}
 		},
 		{
@@ -1135,9 +1105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Treasure",
-			"collector_number": "133",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/133_Expedition Funding.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/130_Expedition Funding.png"
 			}
 		},
 		{
@@ -1145,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "134",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/134_Explosive Rage.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/131_Explosive Rage.png"
 			}
 		},
 		{
@@ -1155,9 +1125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/135_Full Tilt.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/132_Full Tilt.png"
 			}
 		},
 		{
@@ -1165,9 +1135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Elemental Salamander",
-			"collector_number": "136",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/136_Gella, the Vein Tyrant.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/133_Gella, the Vein Tyrant.png"
 			}
 		},
 		{
@@ -1175,9 +1145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "144",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/144_Lovebyrd's Galleon.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/140_Lovebyrd's Galleon.png"
 			}
 		},
 		{
@@ -1185,29 +1155,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "138",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/138_Inevitable, Doom's Flagship.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/135_Inevitable, Doom's Flagship.png"
 			}
 		},
 		{
 			"name": "Lavaheart Dragon",
 			"rarity": "rare",
-			"mana_cost": "{6}{R}",
+			"mana_cost": "{5}{R}",
 			"type": "Creature — Elemental Dragon",
-			"collector_number": "140",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/140_Lavaheart Dragon.png"
-			}
-		},
-		{
-			"name": "Lavaskipper Captain",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Elemental Pilot",
-			"collector_number": "141",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/141_Lavaskipper Captain.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/137_Lavaheart Dragon.png"
 			}
 		},
 		{
@@ -1215,9 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Artificer",
-			"collector_number": "142",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/142_Lightning Rod Installer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/138_Lightning Rod Installer.png"
 			}
 		},
 		{
@@ -1225,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "143",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/143_Loose Cannon.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/139_Loose Cannon.png"
 			}
 		},
 		{
@@ -1235,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact",
-			"collector_number": "145",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/145_Magmatic Gastrolith.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/141_Magmatic Gastrolith.png"
 			}
 		},
 		{
@@ -1245,9 +1205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Elemental Whale",
-			"collector_number": "146",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/146_Magmawake Whale.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/142_Magmawake Whale.png"
 			}
 		},
 		{
@@ -1255,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "147",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/147_Overloaded Cannonship.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/143_Overloaded Cannonship.png"
 			}
 		},
 		{
@@ -1265,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "149",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/149_Ready, Aim, Fire!.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/145_Ready, Aim, Fire!.png"
 			}
 		},
 		{
@@ -1275,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Fish",
-			"collector_number": "150",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/150_Roaming Dunkleosteus.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/146_Roaming Dunkleosteus.png"
 			}
 		},
 		{
@@ -1285,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Goblin Pirate",
-			"collector_number": "152",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/152_Seasoned Cannoneer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/148_Seasoned Cannoneer.png"
 			}
 		},
 		{
@@ -1295,9 +1255,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental Fox",
-			"collector_number": "151",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/151_Scorching Fox.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/147_Scorching Fox.png"
 			}
 		},
 		{
@@ -1305,9 +1265,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "153",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/153_Stormward Shanties.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/149_Stormward Shanties.png"
 			}
 		},
 		{
@@ -1315,9 +1275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "148",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/148_Powderkeg Explosion.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/144_Powderkeg Explosion.png"
 			}
 		},
 		{
@@ -1325,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/155_Tyrant's Demand.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/151_Tyrant's Demand.png"
 			}
 		},
 		{
@@ -1335,9 +1295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/156_Vein Tyrant's Challenge.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/152_Vein Tyrant's Challenge.png"
 			}
 		},
 		{
@@ -1345,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Shrimp Beast",
-			"collector_number": "157",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/157_Apex Anomalocaris.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/153_Apex Anomalocaris.png"
 			}
 		},
 		{
@@ -1355,9 +1315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Dryad Bard",
-			"collector_number": "158",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/158_Ava, Thorny Diva.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/154_Ava, Thorny Diva.png"
 			}
 		},
 		{
@@ -1365,9 +1325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{X}{G}",
 			"type": "Sorcery",
-			"collector_number": "159",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/159_Coral Tyrant's Challenge.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/155_Coral Tyrant's Challenge.png"
 			}
 		},
 		{
@@ -1375,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Instant",
-			"collector_number": "160",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/160_Destructive Wake.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/156_Destructive Wake.png"
 			}
 		},
 		{
@@ -1385,9 +1345,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "161",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/161_Drag from the Shallows.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/157_Drag from the Shallows.png"
 			}
 		},
 		{
@@ -1395,9 +1355,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dryad Sailor Scout",
-			"collector_number": "162",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/162_Dryad Navigator.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/158_Dryad Navigator.png"
 			}
 		},
 		{
@@ -1405,9 +1365,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "163",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/163_Elemental's Flourish.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/159_Elemental's Flourish.png"
 			}
 		},
 		{
@@ -1415,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Elemental Badger",
-			"collector_number": "164",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/164_Foraging Badger.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/160_Foraging Badger.png"
 			}
 		},
 		{
@@ -1425,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "165",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/165_Gilded Plating.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/161_Gilded Plating.png"
 			}
 		},
 		{
@@ -1435,9 +1395,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "166",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/166_Give In to Instinct.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/162_Give In to Instinct.png"
 			}
 		},
 		{
@@ -1445,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Legendary Creature — Dragon Fish",
-			"collector_number": "168",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/168_Goz, the Coral Tyrant.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/164_Goz, the Coral Tyrant.png"
 			}
 		},
 		{
@@ -1455,9 +1415,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "169",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/169_Hoofbeats in the Woods.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/165_Hoofbeats in the Woods.png"
 			}
 		},
 		{
@@ -1465,9 +1425,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Serpent Hydra Mount",
-			"collector_number": "170",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/170_Hydra Hullbreaker.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/166_Hydra Hullbreaker.png"
 			}
 		},
 		{
@@ -1475,9 +1435,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "181",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/181_Propagated Bioship.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/177_Propagated Bioship.png"
 			}
 		},
 		{
@@ -1485,9 +1445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Leviathan",
-			"collector_number": "171",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/171_Isle-Mimic Leviathan.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/167_Isle-Mimic Leviathan.png"
 			}
 		},
 		{
@@ -1495,9 +1455,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elemental Insect",
-			"collector_number": "172",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/172_Leafwhisper Beetle.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/168_Leafwhisper Beetle.png"
 			}
 		},
 		{
@@ -1505,9 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Merfolk Bard",
-			"collector_number": "173",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/173_Lineaz Eulogist.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/169_Lineaz Eulogist.png"
 			}
 		},
 		{
@@ -1515,9 +1475,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elemental Boar",
-			"collector_number": "175",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/175_Mosstusk Guardian.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/171_Mosstusk Guardian.png"
 			}
 		},
 		{
@@ -1525,9 +1485,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Planeswalker — Otoro",
-			"collector_number": "176",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/176_Otoro, Wild Explorer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/172_Otoro, Wild Explorer.png"
 			}
 		},
 		{
@@ -1535,9 +1495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "178",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/178_Perennial Regrowth.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/174_Perennial Regrowth.png"
 			}
 		},
 		{
@@ -1545,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "179",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/179_Plow Through.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/175_Plow Through.png"
 			}
 		},
 		{
@@ -1555,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Fish",
-			"collector_number": "180",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/180_Primordial Coelacanth.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/176_Primordial Coelacanth.png"
 			}
 		},
 		{
@@ -1565,19 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "183",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/183_Ramming Prow.png"
-			}
-		},
-		{
-			"name": "Relentless Islehopper",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Lizard Scout",
-			"collector_number": "184",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/184_Relentless Islehopper.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/179_Ramming Prow.png"
 			}
 		},
 		{
@@ -1585,9 +1535,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Lizard Ranger",
-			"collector_number": "195",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/195_Wingbeast Hunter.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/190_Wingbeast Hunter.png"
 			}
 		},
 		{
@@ -1595,9 +1545,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elemental Snake",
-			"collector_number": "185",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/185_Rootpath Mamba.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/180_Rootpath Mamba.png"
 			}
 		},
 		{
@@ -1605,9 +1555,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Plant",
-			"collector_number": "186",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/186_Rustbladder Kelp.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/181_Rustbladder Kelp.png"
 			}
 		},
 		{
@@ -1615,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Druid",
-			"collector_number": "189",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/189_Tin Isle Channeler.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/184_Tin Isle Channeler.png"
 			}
 		},
 		{
@@ -1625,9 +1575,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Dryad Druid",
-			"collector_number": "190",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/190_Tin Isle Lifetender.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/185_Tin Isle Lifetender.png"
 			}
 		},
 		{
@@ -1635,9 +1585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "191",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/191_Tin Isle Wurmrig.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/186_Tin Isle Wurmrig.png"
 			}
 		},
 		{
@@ -1645,9 +1595,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "192",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/192_To the Horizon.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/187_To the Horizon.png"
 			}
 		},
 		{
@@ -1655,9 +1605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dryad Druid",
-			"collector_number": "193",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/193_Vedre Strait Caller.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/188_Vedre Strait Caller.png"
 			}
 		},
 		{
@@ -1665,19 +1615,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Jellyfish",
-			"collector_number": "194",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/194_Vibrant Siphonophore.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/189_Vibrant Siphonophore.png"
 			}
 		},
 		{
 			"name": "Zoophonic Call",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "196",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/196_Zoophonic Call.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/191_Zoophonic Call.png"
 			}
 		},
 		{
@@ -1685,9 +1635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Merfolk Warlock",
-			"collector_number": "197",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/197_Abyssal Sea-Witch.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/192_Abyssal Sea-Witch.png"
 			}
 		},
 		{
@@ -1695,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Legendary Creature — Serpent",
-			"collector_number": "198",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/198_Aesi, Capricious Serpent.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/193_Aesi, Capricious Serpent.png"
 			}
 		},
 		{
@@ -1705,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Instant",
-			"collector_number": "200",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/200_Back For More.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/195_Back For More.png"
 			}
 		},
 		{
@@ -1715,9 +1665,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}{W}{W}",
 			"type": "Legendary Creature — Bird Pilot",
-			"collector_number": "201",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/201_Beliaz, Hot Shot.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/196_Beliaz, Hot Shot.png"
 			}
 		},
 		{
@@ -1725,9 +1675,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Merfolk Noble Ranger",
-			"collector_number": "214",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/214_Grahn, Seafolk Huntmaster.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/209_Grahn, Seafolk Huntmaster.png"
 			}
 		},
 		{
@@ -1735,9 +1685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Octopus Advisor",
-			"collector_number": "202",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/202_Cephalid Strategist.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/197_Cephalid Strategist.png"
 			}
 		},
 		{
@@ -1745,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Elemental Dinosaur",
-			"collector_number": "199",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/199_Apex Landshifter.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/194_Apex Landshifter.png"
 			}
 		},
 		{
@@ -1755,9 +1705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Shark Pirate",
-			"collector_number": "203",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/203_Chordatan Bloodseeker.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/198_Chordatan Bloodseeker.png"
 			}
 		},
 		{
@@ -1765,9 +1715,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "204",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/204_Cloudbelt Synthesis.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/199_Cloudbelt Synthesis.png"
 			}
 		},
 		{
@@ -1775,19 +1725,19 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Nightmare Crab",
-			"collector_number": "205",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/205_Cyfra, Inktrench Tyrant.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/200_Cyfra, Inktrench Tyrant.png"
 			}
 		},
 		{
 			"name": "Elagid, the Endless Glutton",
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{G}",
-			"type": "Legendary Creature — Zombie Crocodile",
-			"collector_number": "207",
+			"type": "Legendary Creature — Crocodile Leviathan",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/207_Elagid, the Endless Glutton.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/202_Elagid, the Endless Glutton.png"
 			}
 		},
 		{
@@ -1795,9 +1745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "208",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/208_Engines Critical.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/203_Engines Critical.png"
 			}
 		},
 		{
@@ -1805,9 +1755,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Goblin Artificer",
-			"collector_number": "209",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/209_Eskin, Furnace Master.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/204_Eskin, Furnace Master.png"
 			}
 		},
 		{
@@ -1815,9 +1765,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "210",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/210_Evram, Blind Metallomancer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/205_Evram, Blind Metallomancer.png"
 			}
 		},
 		{
@@ -1825,9 +1775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "211",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/211_Fangworm Fleetship.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/206_Fangworm Fleetship.png"
 			}
 		},
 		{
@@ -1835,9 +1785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Dryad Druid Pilot",
-			"collector_number": "213",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/213_Firenz, Sunvine Custodian.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/208_Firenz, Sunvine Custodian.png"
 			}
 		},
 		{
@@ -1845,9 +1795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{7}{W}{U}",
 			"type": "Legendary Creature — Elder Whale",
-			"collector_number": "206",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/206_Ehn, Cloud Sea Ancient.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/201_Ehn, Cloud Sea Ancient.png"
 			}
 		},
 		{
@@ -1855,19 +1805,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{R}",
 			"type": "Legendary Creature — Serpent Leviathan",
-			"collector_number": "215",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/215_Grandir, the Storm-Bodied.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/210_Grandir, the Storm-Bodied.png"
 			}
 		},
 		{
 			"name": "Grandir's Trove",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{R}",
+			"mana_cost": "{U}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "216",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/216_Grandir's Trove.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/211_Grandir's Trove.png"
 			}
 		},
 		{
@@ -1875,9 +1825,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Creature — Devil Advisor",
-			"collector_number": "217",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/217_Holtz, Devilish Benefactor.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/212_Holtz, Devilish Benefactor.png"
 			}
 		},
 		{
@@ -1885,9 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Merfolk Scout",
-			"collector_number": "219",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/219_Intrepid Courier.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/214_Intrepid Courier.png"
 			}
 		},
 		{
@@ -1895,9 +1845,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Elemental Elk",
-			"collector_number": "220",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/220_Ka'bi, the Bloomhoof.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/215_Ka'bi, the Bloomhoof.png"
 			}
 		},
 		{
@@ -1905,9 +1855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Elemental Salamander",
-			"collector_number": "221",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/221_Lava Flow Hellbender.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/216_Lava Flow Hellbender.png"
 			}
 		},
 		{
@@ -1915,9 +1865,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}{B}{G}{U}",
 			"type": "Legendary Creature — Octopus Demon",
-			"collector_number": "222",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/222_Len, Endless Tentacles.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/217_Len, Endless Tentacles.png"
 			}
 		},
 		{
@@ -1925,9 +1875,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Planeswalker — Malzan",
-			"collector_number": "223",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/223_Malzan the Shipwright.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/218_Malzan the Shipwright.png"
 			}
 		},
 		{
@@ -1935,9 +1885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Lizard Druid",
-			"collector_number": "226",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/226_Pantry Filler.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/221_Pantry Filler.png"
 			}
 		},
 		{
@@ -1945,9 +1895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "227",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/227_Provisions Ship.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/222_Provisions Ship.png"
 			}
 		},
 		{
@@ -1955,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "228",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/228_Raucous Week, Party Ship.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/223_Raucous Week, Party Ship.png"
 			}
 		},
 		{
@@ -1965,9 +1915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Dwarf Artificer",
-			"collector_number": "229",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/229_Reckless Innovator.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/224_Reckless Innovator.png"
 			}
 		},
 		{
@@ -1975,9 +1925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "230",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/230_Relentless Reconstructionist.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/225_Relentless Reconstructionist.png"
 			}
 		},
 		{
@@ -1985,9 +1935,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/232_Runes of Recall.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/227_Runes of Recall.png"
 			}
 		},
 		{
@@ -1995,19 +1945,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "233",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/233_Soulbound Sloop.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/228_Soulbound Sloop.png"
 			}
 		},
 		{
 			"name": "Superb Salvage",
 			"rarity": "rare",
-			"mana_cost": "{W}{B}",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "234",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/234_Superb Salvage.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/229_Superb Salvage.png"
 			}
 		},
 		{
@@ -2015,19 +1965,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Elemental Jellyfish Beast",
-			"collector_number": "212",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/212_Firejelly Anomaly.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/207_Firejelly Anomaly.png"
 			}
 		},
 		{
 			"name": "Tiz'ek's Meltdown",
 			"rarity": "rare",
-			"mana_cost": "{X}{R}{G}",
+			"mana_cost": "{3}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "236",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/236_Tiz'ek's Meltdown.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/231_Tiz'ek's Meltdown.png"
 			}
 		},
 		{
@@ -2035,9 +1985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "237",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/237_Tyrant Territory.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/232_Tyrant Territory.png"
 			}
 		},
 		{
@@ -2045,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "238",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/238_Cogwork Companion.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/233_Cogwork Companion.png"
 			}
 		},
 		{
@@ -2055,9 +2005,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Treasure Fish",
-			"collector_number": "240",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/240_Cogwork Ichthyoid.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/234_Cogwork Ichthyoid.png"
 			}
 		},
 		{
@@ -2065,19 +2015,19 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Spider",
-			"collector_number": "241",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/241_Deepweb Spider.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/235_Deepweb Spider.png"
 			}
 		},
 		{
-			"name": "Cogwork Corsair",
+			"name": "High Seas Harrier",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Robot Pirate",
-			"collector_number": "239",
+			"type": "Artifact Creature — Pirate",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/239_Cogwork Corsair.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/237_High Seas Harrier.png"
 			}
 		},
 		{
@@ -2085,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Construct Horror",
-			"collector_number": "242",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/242_Goldvein Monstrosity.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/236_Goldvein Monstrosity.png"
 			}
 		},
 		{
@@ -2095,9 +2045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "243",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/243_Merchant Vessel.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/238_Merchant Vessel.png"
 			}
 		},
 		{
@@ -2105,9 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/244_Pirate Salvo.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/239_Pirate Salvo.png"
 			}
 		},
 		{
@@ -2115,9 +2065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "245",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/245_Power Siphon.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/240_Power Siphon.png"
 			}
 		},
 		{
@@ -2125,9 +2075,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "246",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/246_Research Vessel.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/241_Research Vessel.png"
 			}
 		},
 		{
@@ -2135,9 +2085,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Clue",
-			"collector_number": "250",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/250_Uncovered Pitfall.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/245_Uncovered Pitfall.png"
 			}
 		},
 		{
@@ -2145,9 +2095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "247",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/247_Sturdy Anchoring.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/242_Sturdy Anchoring.png"
 			}
 		},
 		{
@@ -2155,9 +2105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "248",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/248_Tideborne Generator.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/243_Tideborne Generator.png"
 			}
 		},
 		{
@@ -2165,9 +2115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Drone",
-			"collector_number": "249",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/249_Trench Drone.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/244_Trench Drone.png"
 			}
 		},
 		{
@@ -2175,9 +2125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/251_Untapped Gastrolith.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/246_Untapped Gastrolith.png"
 			}
 		},
 		{
@@ -2185,9 +2135,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "253",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/253_Busy Workshop.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/248_Busy Workshop.png"
 			}
 		},
 		{
@@ -2195,9 +2145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/254_Churning Landscape.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/249_Churning Landscape.png"
 			}
 		},
 		{
@@ -2205,9 +2155,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Cave",
-			"collector_number": "256",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/256_Deepsea Maw.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/251_Deepsea Maw.png"
 			}
 		},
 		{
@@ -2215,9 +2165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/258_Glamorous Port.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/253_Glamorous Port.png"
 			}
 		},
 		{
@@ -2225,9 +2175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/262_Seafolk Court.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/257_Seafolk Court.png"
 			}
 		},
 		{
@@ -2235,9 +2185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/261_Pirates' Bay.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/256_Pirates' Bay.png"
 			}
 		},
 		{
@@ -2245,9 +2195,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/255_Crackling Cataract.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/250_Crackling Cataract.png"
 			}
 		},
 		{
@@ -2255,9 +2205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/263_Uncharted Strait.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/258_Uncharted Strait.png"
 			}
 		},
 		{
@@ -2265,9 +2215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "264",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/264_Unstable Vein.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/259_Unstable Vein.png"
 			}
 		},
 		{
@@ -2275,9 +2225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/265_Cloud Sea.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/260_Cloud Sea.png"
 			}
 		},
 		{
@@ -2285,9 +2235,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/266_Congregation Reef.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/261_Congregation Reef.png"
 			}
 		},
 		{
@@ -2295,9 +2245,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/267_Grand Rim Caldera.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/262_Grand Rim Caldera.png"
 			}
 		},
 		{
@@ -2305,9 +2255,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/268_Gyre Strait.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/263_Gyre Strait.png"
 			}
 		},
 		{
@@ -2315,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/269_Inktrench Crag.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/264_Inktrench Crag.png"
 			}
 		},
 		{
@@ -2325,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/270_Rot Sea.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/265_Rot Sea.png"
 			}
 		},
 		{
@@ -2335,9 +2285,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "271",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/271_Silent Shores.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/266_Silent Shores.png"
 			}
 		},
 		{
@@ -2345,9 +2295,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/272_Storm Belt.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/267_Storm Belt.png"
 			}
 		},
 		{
@@ -2355,9 +2305,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "273",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/273_Tin Isle Canyon.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/268_Tin Isle Canyon.png"
 			}
 		},
 		{
@@ -2365,9 +2315,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "274",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/274_Turtle Beach.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/269_Turtle Beach.png"
 			}
 		},
 		{
@@ -2375,9 +2325,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "276",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/276_Plains.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/272_Plains.png"
 			}
 		},
 		{
@@ -2385,9 +2335,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/TVN-files/img/271_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/275_Plains.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/275_Island.png"
 			}
 		},
 		{
@@ -2395,59 +2355,59 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/TVN-files/img/273_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/TVN-files/img/277_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/TVN-files/img/276_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/279_Island.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/279_Mountain.png"
 			}
 		},
 		{
-			"name": "Island",
+			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "278",
+			"type": "Basic Land — Mountain",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/278_Island.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/280_Mountain.png"
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "281",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/281_Swamp.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land — Forest",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/282_Swamp.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "285",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/285_Mountain.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "286",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/286_Mountain.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/282_Forest.png"
 			}
 		},
 		{
@@ -2455,19 +2415,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "287",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/287_Forest.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "289",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/289_Forest.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/284_Forest.png"
 			}
 		},
 		{
@@ -2745,9 +2695,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "277",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/277_Plains.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/270_Plains.png"
 			}
 		},
 		{
@@ -2755,9 +2705,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "280",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/280_Island.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/274_Island.png"
 			}
 		},
 		{
@@ -2765,9 +2715,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "283",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/283_Swamp.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/278_Swamp.png"
 			}
 		},
 		{
@@ -2775,9 +2725,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "284",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/284_Mountain.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/281_Mountain.png"
 			}
 		},
 		{
@@ -2785,9 +2735,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "288",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/288_Forest.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/283_Forest.png"
 			}
 		},
 		{
@@ -2795,9 +2745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "235",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/235_Surly Maintainer.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/230_Surly Maintainer.png"
 			}
 		},
 		{
@@ -2805,9 +2755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Creature — Turtle",
-			"collector_number": "231",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/231_Riding Turtle.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/226_Riding Turtle.png"
 			}
 		},
 		{
@@ -2815,9 +2765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}{G}",
 			"type": "Creature — Leech",
-			"collector_number": "218",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/218_Hungering Greatleech.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/213_Hungering Greatleech.png"
 			}
 		},
 		{
@@ -2825,9 +2775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Creature — Nightmare Crab",
-			"collector_number": "224",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/224_Memory Eater.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/219_Memory Eater.png"
 			}
 		},
 		{
@@ -2835,9 +2785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Plant Kraken",
-			"collector_number": "225",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/225_Nurturing Algaeback.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/220_Nurturing Algaeback.png"
 			}
 		},
 		{
@@ -2845,9 +2795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Turtle",
-			"collector_number": "167",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/167_Gothil's Clutchling.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/163_Gothil's Clutchling.png"
 			}
 		},
 		{
@@ -2855,9 +2805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Crocodile",
-			"collector_number": "174",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/174_Lurking Alligator.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/170_Lurking Alligator.png"
 			}
 		},
 		{
@@ -2865,9 +2815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Boar",
-			"collector_number": "177",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/177_Pathstomper Javelina.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/173_Pathstomper Javelina.png"
 			}
 		},
 		{
@@ -2875,9 +2825,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Armadillo Beast",
-			"collector_number": "182",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/182_Quaking Tunneler.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/178_Quaking Tunneler.png"
 			}
 		},
 		{
@@ -2885,9 +2835,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "187",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/187_Shallows Altisaur.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/182_Shallows Altisaur.png"
 			}
 		},
 		{
@@ -2895,9 +2845,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "188",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/188_Tin Isle Bear.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/183_Tin Isle Bear.png"
 			}
 		},
 		{
@@ -2915,9 +2865,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Artifact Creature — Whale",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/36_Steelfin Dolphin.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/35_Steelfin Dolphin.png"
 			}
 		},
 		{
@@ -2925,9 +2875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Jellyfish",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/39_Tanglegrasp Jelly.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/38_Tanglegrasp Jelly.png"
 			}
 		},
 		{
@@ -2935,19 +2885,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Trilobite Beast",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/40_Abyssal Trilobite.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/39_Abyssal Trilobite.png"
 			}
 		},
 		{
-			"name": "North Sea Whale",
+			"name": "Gelid Sea Whale",
 			"rarity": "uncommon",
 			"mana_cost": "{7}{U}{U}",
 			"type": "Creature — Whale",
-			"collector_number": "62",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/62_North Sea Whale.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/52_Gelid Sea Whale.png"
 			}
 		},
 		{
@@ -2955,9 +2905,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "64",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/64_Observant Osprey.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/62_Observant Osprey.png"
 			}
 		},
 		{
@@ -2965,19 +2915,19 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Serpent",
-			"collector_number": "72",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/72_Stormbelt Serpent.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/70_Stormbelt Serpent.png"
 			}
 		},
 		{
 			"name": "Abyssal Tempter",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Nightmare Fish",
-			"collector_number": "79",
+			"type": "Creature — Nightmare Whale",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/79_Abyssal Tempter.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/77_Abyssal Tempter.png"
 			}
 		},
 		{
@@ -2985,9 +2935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Nightmare Leviathan",
-			"collector_number": "84",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/84_Deadlights Leviathan.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/82_Deadlights Leviathan.png"
 			}
 		},
 		{
@@ -2995,9 +2945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Worm",
-			"collector_number": "110",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/110_Rot Sea Worm.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/107_Rot Sea Worm.png"
 			}
 		},
 		{
@@ -3005,9 +2955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Creature — Demon Kraken",
-			"collector_number": "117",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/117_Whirlpool Annihilator.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/114_Whirlpool Annihilator.png"
 			}
 		},
 		{
@@ -3015,9 +2965,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "118",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/118_Angered Slaghorn.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/115_Angered Slaghorn.png"
 			}
 		},
 		{
@@ -3025,9 +2975,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Fish",
-			"collector_number": "126",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/126_Crackling Eel.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/123_Crackling Eel.png"
 			}
 		},
 		{
@@ -3035,9 +2985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{R}",
 			"type": "Creature — Serpent",
-			"collector_number": "139",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/139_Ironfang Amphisbaena.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/136_Ironfang Amphisbaena.png"
 			}
 		},
 		{
@@ -3045,9 +2995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Crab",
-			"collector_number": "154",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/154_Thrashing Fiddler.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/150_Thrashing Fiddler.png"
 			}
 		},
 		{
@@ -3065,9 +3015,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "81",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/81_Clattering Boneship.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/79_Clattering Boneship.png"
 			}
 		},
 		{
@@ -3075,9 +3025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "103",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/103_Pirate's Blessing.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/100_Pirate's Blessing.png"
 			}
 		},
 		{
@@ -3085,9 +3035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Octopus Knight",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/28_Seafolk Pilgrimguard.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/27_Seafolk Pilgrimguard.png"
 			}
 		},
 		{
@@ -3105,19 +3055,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Octopus Horror",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/60_Mooneye Octopus.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/61_Mooneye Octopus.png"
 			}
 		},
 		{
 			"name": "Hookfin, Basalt Commander",
 			"rarity": "rare",
-			"mana_cost": "{5}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Shark Noble Soldier",
-			"collector_number": "137",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/137_Hookfin, Basalt Commander.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/134_Hookfin, Basalt Commander.png"
 			}
 		},
 		{
@@ -3125,9 +3075,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/252_Algal Orchard.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/247_Algal Orchard.png"
 			}
 		},
 		{
@@ -3135,9 +3085,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/257_Fertile Delta.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/252_Fertile Delta.png"
 			}
 		},
 		{
@@ -3145,9 +3095,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/259_Gold Mine.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/254_Gold Mine.png"
 			}
 		},
 		{
@@ -3155,9 +3105,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVN-files/img/260_Labor District.png"
+				"en": "https://Curio36.github.io/sets/TVN-files/img/255_Labor District.png"
 			}
 		},
 		{
@@ -3187,7 +3137,7 @@
 	2 Inkmane Hippocamp
 	2 Meticulous Planning
 	2 Mindribbon Serpent
-	2 Northern Tyrant's Challenge
+	2 Gelid Tyrant's Challenge
 	1 Spellcatcher Conch
 	2 Wunderpus Mimic
 	2 Crossbone Cove Cutter
@@ -3265,12 +3215,10 @@
 	4 Repel Titans
 	4 Sabek, the Shore Tyrant
 	4 Shining Wingfin
-	4 Runeoar Rower
-	4 Adel, the Northern Tyrant
+	4 Adel, the Gelid Tyrant
 	4 Chart a Course
 	4 Cloud Sea Snatcher
 	4 Dash on the Rocks
-	4 Dirigible Navigator
 	4 Disrupt Existence
 	4 Hippocamp Wrangler
 	4 Overwhelming Riptide
@@ -3282,7 +3230,6 @@
 	4 Grimechurner Rotboat
 	4 Inktrench's Trail
 	4 Jahan's Pets
-	4 Needlehull Corsair
 	4 Nullvice, the Deep Tyrant
 	4 Raise from the Depths
 	4 Requisitioned Raider
@@ -3296,7 +3243,6 @@
 	4 Full Tilt
 	4 Gella, the Vein Tyrant
 	4 Lovebyrd's Galleon
-	4 Lavaskipper Captain
 	4 Loose Cannon
 	4 Magmatic Gastrolith
 	4 Ready, Aim, Fire!
@@ -3312,7 +3258,6 @@
 	4 Plow Through
 	4 Primordial Coelacanth
 	4 Ramming Prow
-	4 Relentless Islehopper
 	4 Tin Isle Channeler
 	4 Zoophonic Call
 	4 Abyssal Sea-Witch
@@ -3351,7 +3296,7 @@
 	4 Pathstomper Javelina
 	4 Tanglegrasp Jelly
 	4 Abyssal Trilobite
-	4 North Sea Whale
+	4 Gelid Sea Whale
 	4 Whirlpool Annihilator
 	4 Thrashing Fiddler
 	4 Pirate's Blessing
@@ -3378,13 +3323,13 @@
 	8 Giant Remora
 	8 Fishy Rumormonger
 	8 Mercurial Skyrod
-	8 North Sea Courier
+	8 Gelid Sea Courier
 	8 Read the Starfish
 	8 Sea Witch's Wards
 	8 Seafoam Shackles
 	8 Titanic Haruspicy
 	8 Wash Overboard
-	8 Wavemaker Yacht
+	8 Stormbringer Ship
 	8 Ambitious Prototype
 	8 Devour
 	8 Fangcrest Finisher
@@ -3427,7 +3372,7 @@
 	8 To the Horizon
 	8 Cogwork Ichthyoid
 	8 Deepweb Spider
-	8 Cogwork Corsair
+	8 High Seas Harrier
 	8 Research Vessel
 	8 Uncovered Pitfall
 	8 Busy Workshop
@@ -3470,13 +3415,13 @@
 	8 Giant Remora
 	8 Fishy Rumormonger
 	8 Mercurial Skyrod
-	8 North Sea Courier
+	8 Gelid Sea Courier
 	8 Read the Starfish
 	8 Sea Witch's Wards
 	8 Seafoam Shackles
 	8 Titanic Haruspicy
 	8 Wash Overboard
-	8 Wavemaker Yacht
+	8 Stormbringer Ship
 	8 Ambitious Prototype
 	8 Devour
 	8 Fangcrest Finisher
@@ -3519,7 +3464,7 @@
 	8 To the Horizon
 	8 Cogwork Ichthyoid
 	8 Deepweb Spider
-	8 Cogwork Corsair
+	8 High Seas Harrier
 	8 Research Vessel
 	8 Uncovered Pitfall
 	8 Busy Workshop
@@ -3582,10 +3527,9 @@
 	12 Skyskimmer Glaucus
 	2 Splendor Port Guardship
 	12 Stand as One
-	6 Runeoar Rower
 	2 Deckside Gunner
 	12 Sunvine Nurturer
-	6 Adel, the Northern Tyrant
+	6 Adel, the Gelid Tyrant
 	12 Beachcombing Tiktaalik
 	12 Breaching Greatshark
 	6 Chart a Course
@@ -3593,7 +3537,6 @@
 	6 Cloud Sea Snatcher
 	2 Cynette, Cnidariamancer
 	6 Dash on the Rocks
-	6 Dirigible Navigator
 	6 Disrupt Existence
 	12 Freezing Winds
 	12 Giant Remora
@@ -3604,8 +3547,8 @@
 	12 Mercurial Skyrod
 	2 Meticulous Planning
 	2 Mindribbon Serpent
-	12 North Sea Courier
-	2 Northern Tyrant's Challenge
+	12 Gelid Sea Courier
+	2 Gelid Tyrant's Challenge
 	6 Overwhelming Riptide
 	6 Pearl Trader's Manta
 	12 Read the Starfish
@@ -3617,7 +3560,7 @@
 	6 Thirst for Power
 	12 Titanic Haruspicy
 	12 Wash Overboard
-	12 Wavemaker Yacht
+	12 Stormbringer Ship
 	2 Wunderpus Mimic
 	12 Ambitious Prototype
 	2 Crossbone Cove Cutter
@@ -3636,7 +3579,6 @@
 	12 Lamprey Swarm
 	2 Lich's Insight
 	1 Midnight Queen, Damned Vessel
-	6 Needlehull Corsair
 	12 Noxious Venting
 	6 Nullvice, the Deep Tyrant
 	12 Perilous Pickpocket
@@ -3672,7 +3614,6 @@
 	6 Lovebyrd's Galleon
 	1 Inevitable, Doom's Flagship
 	2 Lavaheart Dragon
-	6 Lavaskipper Captain
 	12 Lightning Rod Installer
 	6 Loose Cannon
 	6 Magmatic Gastrolith
@@ -3709,7 +3650,6 @@
 	6 Plow Through
 	6 Primordial Coelacanth
 	6 Ramming Prow
-	6 Relentless Islehopper
 	12 Wingbeast Hunter
 	12 Rootpath Mamba
 	12 Rustbladder Kelp
@@ -3759,7 +3699,7 @@
 	6 Cogwork Companion
 	12 Cogwork Ichthyoid
 	12 Deepweb Spider
-	12 Cogwork Corsair
+	12 High Seas Harrier
 	2 Goldvein Monstrosity
 	6 Merchant Vessel
 	6 Pirate Salvo
@@ -3804,7 +3744,7 @@
 	12 Steelfin Dolphin
 	6 Tanglegrasp Jelly
 	6 Abyssal Trilobite
-	6 North Sea Whale
+	6 Gelid Sea Whale
 	12 Observant Osprey
 	12 Stormbelt Serpent
 	12 Abyssal Tempter
@@ -3857,10 +3797,9 @@
 	6 Skyskimmer Glaucus
 	7 Splendor Port Guardship
 	6 Stand as One
-	15 Runeoar Rower
 	7 Deckside Gunner
 	6 Sunvine Nurturer
-	15 Adel, the Northern Tyrant
+	15 Adel, the Gelid Tyrant
 	6 Beachcombing Tiktaalik
 	6 Breaching Greatshark
 	15 Chart a Course
@@ -3868,7 +3807,6 @@
 	15 Cloud Sea Snatcher
 	7 Cynette, Cnidariamancer
 	15 Dash on the Rocks
-	15 Dirigible Navigator
 	15 Disrupt Existence
 	6 Freezing Winds
 	6 Giant Remora
@@ -3879,8 +3817,8 @@
 	6 Mercurial Skyrod
 	7 Meticulous Planning
 	7 Mindribbon Serpent
-	6 North Sea Courier
-	7 Northern Tyrant's Challenge
+	6 Gelid Sea Courier
+	7 Gelid Tyrant's Challenge
 	15 Overwhelming Riptide
 	15 Pearl Trader's Manta
 	6 Read the Starfish
@@ -3892,7 +3830,7 @@
 	15 Thirst for Power
 	6 Titanic Haruspicy
 	6 Wash Overboard
-	6 Wavemaker Yacht
+	6 Stormbringer Ship
 	7 Wunderpus Mimic
 	6 Ambitious Prototype
 	7 Crossbone Cove Cutter
@@ -3911,7 +3849,6 @@
 	6 Lamprey Swarm
 	7 Lich's Insight
 	4 Midnight Queen, Damned Vessel
-	15 Needlehull Corsair
 	6 Noxious Venting
 	15 Nullvice, the Deep Tyrant
 	6 Perilous Pickpocket
@@ -3947,7 +3884,6 @@
 	15 Lovebyrd's Galleon
 	4 Inevitable, Doom's Flagship
 	7 Lavaheart Dragon
-	15 Lavaskipper Captain
 	6 Lightning Rod Installer
 	15 Loose Cannon
 	15 Magmatic Gastrolith
@@ -3984,7 +3920,6 @@
 	15 Plow Through
 	15 Primordial Coelacanth
 	15 Ramming Prow
-	15 Relentless Islehopper
 	6 Wingbeast Hunter
 	6 Rootpath Mamba
 	6 Rustbladder Kelp
@@ -4034,7 +3969,7 @@
 	15 Cogwork Companion
 	6 Cogwork Ichthyoid
 	6 Deepweb Spider
-	6 Cogwork Corsair
+	6 High Seas Harrier
 	7 Goldvein Monstrosity
 	15 Merchant Vessel
 	15 Pirate Salvo
@@ -4079,7 +4014,7 @@
 	6 Steelfin Dolphin
 	15 Tanglegrasp Jelly
 	15 Abyssal Trilobite
-	15 North Sea Whale
+	15 Gelid Sea Whale
 	6 Observant Osprey
 	6 Stormbelt Serpent
 	6 Abyssal Tempter

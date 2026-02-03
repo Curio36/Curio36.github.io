@@ -1,4 +1,441 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Adel, the Gelid Tyrant added.
+Gelid Sea Courier added.
+Gelid Tyrant's Challenge added.
+Stormbringer Ship added.
+High Seas Harrier added.
+Gelid Sea Whale added.
+
+Runeoar Rower removed.
+Adel, the Northern Tyrant removed.
+Dirigible Navigator removed.
+North Sea Courier removed.
+Northern Tyrant's Challenge removed.
+Wavemaker Yacht removed.
+Needlehull Corsair removed.
+Lavaskipper Captain removed.
+Relentless Islehopper removed.
+Cogwork Corsair removed.
+North Sea Whale removed.
+
+Engine Repairs
+rules_text: Choose one—
+• Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+• Return target Vehicle card with mana value 4 or less from your graveyard to the battlefield. => Return up to two target artifact or creature card with total mana value 3 or less from your graveyard to the battlefield.
+
+Cloudscape Kraken
+rules_text: Flying, vigilance
+Other creatures you control get +1/+1.
+Salvage 3 — {2}{W}{W} [i]({2}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Salvage only as a sorcery. It isn't a creature except when crewed.)[/i] => Flying, vigilance
+Other creatures you control get +1/+1.
+Manufacture 3—{2}{W}{W} [i]({2}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i]
+
+GR-4E, Personal Guard
+rules_text: Flash
+Vigilance
+When GR-4E enters, each other permanent you control gains indestructible and hexproof until end of turn. Scry 2. => Flash
+Vigilance
+{W}, Sacrifice GR-4E: Each other permanent you control gains indestructible and hexproof until end of turn. Scry 2.
+pt: 3/3 => 3/4
+
+Mistcutter Attendant
+rules_text: Vigilance
+When this creature enters, return up to one other target nonland permanent you control to its owner's hand. If a permanent was returned this way, put a +1/+1 counter on this creature. => Vigilance
+When this creature enters, return up to one other target non-Citizen, nonland permanent you control to its owner's hand. If a permanent was returned this way, put a +1/+1 counter on this creature.
+
+Sabek, the Shore Tyrant
+rules_text: Vigilance, first strike
+Whenever Sabak attacks, you gain 2 life for each player and planeswalker you're attacking. Then if your life total is greater than your starting life total, other creatures you control get +1/+1 until end of turn. => Vigilance, first strike
+Whenever you attack, other creatures you control get +1/+1 until end of turn.
+
+Shining Wingfin
+type: Creature — Bird Fish => Creature — Fish
+
+Shore Tyrant's Challenge
+type: Instant => Sorcery
+cost: {X}{W}{W} => {X}{W}
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Exile X target artifacts and/or enchantments => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Exile X target artifacts and/or enchantments.
+
+Splendor Port Guardship
+rules_text: Whenever this Vehicle attacks, tap target creature you don't control. If this Vehicle was crewed 5 or greater this turn, tap all creatures you don't control instead.
+Crew 2 => Whenever this Vehicle attacks, tap target creature you don't control. If this Vehicle was crewed by creatures with total power 5 or greater this turn, tap all creatures you don't control instead.
+Crew 2
+
+Sunvine Nurturer
+rules_text: Vigilance
+When this creature enters, you gain 1 life and you draw a card. => Vigilance
+When this creature enters, you gain 1 life and draw a card.
+
+Beachcombing Tiktaalik
+rules_text: When this creature enters, create a Clue token. => When this creature enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Cloud Sea Bell
+rules_text: Flying
+Whenever this Vehicle attacks, surveil 2. Then if this Vehicle was crewed 4 or greater this turn, exile up to one instant or sorcery card from your graveyard and copy it. You may cast that copy. [i](You still pay its costs.)[/i]
+Crew 2 => Flying
+Whenever this Vehicle attacks, surveil 2. Then if this Vehicle was crewed by creatures with total power 4 or greater this turn, exile up to one instant or sorcery card from your graveyard and copy it. You may cast that copy. [i](You still pay its costs.)[/i]
+Crew 2
+
+Dash on the Rocks
+cost: {4}{U}{U} => {4}{U}
+rules_text: Return one or two target nonland permanents to their owner's hand.
+When Dash on the Rocks is put into your graveyard from your library, you may pay {U} and exile it. If you do, return target nonland permanent to its owner's hand. => Return one or two target nonland permanents to their owner's hand.
+Surveil 3. [i](Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Disrupt Existence
+rules_text: During your turn, this spell costs {U} less to cast.
+Counter target spell. => Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+
+Hunting Whale
+rules_text: When this creature enters, target opponent creates four 1/1 blue Shrimp creature tokens.
+Whenever a Shrimp dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters, target opponent creates three 1/1 blue Shrimp creature tokens.
+Whenever a Shrimp dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Inkmane Hippocamp
+rules_text: Flash
+This spell costs {1} less to cast for each card put into a graveyard from its owner's library this turn.
+When this creature enters, exile up to one target card in a graveyard that was put there from its owner's library this turn. If a nonland card was exiled this way, you may cast it without paying its mana cost. => Flash
+This spell costs {1} less to cast for each card put into a graveyard from its owner's library this turn.
+When this creature enters, exile up to one target nonland card in a graveyard that was put there from its owner's library this turn. Copy it. You may cast the copy without paying its mana cost.
+
+Meticulous Planning
+cost: {4}{U}{U} => {4}{U}
+
+Mindribbon Serpent
+rules_text: Mindribbon Serpent's power and toughness are each equal to twice the number of cards in your hand.
+Whenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.
+Salvage 3 — {2}{U}{U} [i]({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Salvage only as a sorcery. It isn't a creature except when crewed.)[/i] => Mindribbon Serpent's power and toughness are each equal to twice the number of cards in your hand.
+Whenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.
+Manufacture 3—{2}{U}{U} [i]({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i]
+
+Read the Starfish
+cost: {1}{U}{U} => {2}{U}
+rules_text: Choose one-
+• Counter target spell.
+• Untap each nonland permanent you control. => Choose one-
+• Draw two cards, then discard a card.
+• Untap each nonland permanent you control.
+
+Sea Witch's Wards
+rules_text: As an additional cost to cast this spell, you may embrace. [i](To embrace, tap two artifacts and/or creatures you control)[/i]
+Counter target spell unless its controller pays {2}. If you embraced as you cast this spell, counter that spell instead. => As an additional cost to cast this spell, you may embrace. [i](To embrace, tap two artifacts and/or creatures you control)[/i]
+Counter target spell unless its controller pays {2}. If you embraced as you cast this spell, counter that spell unless its controller pays {4} instead.
+
+Spellcatcher Conch
+rules_text: Flash
+When this artifact enters, exile any number of target noncreature spells.
+{2}{U}{U}, {T}, Embrace: You may play a card exiled with this artifact without paying its mana cost. Then if there are no cards exiled with it, sacrifice this artifact and draw two cards. [i](To embrace, tap two artifacts and/or creatures you control)[/i] => Flash
+When this artifact enters, exile any number of target spells.
+{1}{U}{U}, {T}, Sacrifice this artifact, Embrace: Copy target card exiled with it. You may cast that spell without paying its mana cost. [i](To embrace, tap two artifacts and/or creatures you control)[/i]
+
+Starry Night Skiff
+type: Artifact Enchantment — Vehicle => Artifact — Vehicle
+
+Wunderpus Mimic
+cost: {1}{U}{U} => {2}{U}{U}
+
+Crossbone Cove Cutter
+rules_text: Menace
+Whenever this Vehicle attacks, you draw a card and lose 1 life. If this Vehicle was crewed 5 or greater this turn, you draw three cards and lose 3 life instead.
+Crew 1 => Menace
+Whenever this Vehicle attacks, you draw a card and lose 1 life. If this Vehicle was crewed by creatures with total power 5 or greater this turn, you draw three cards and lose 3 life instead.
+Crew 1
+
+Deep Tyrant's Challenge
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Target creature gets -X/-X until end of turn. That creature's controller loses X life. If that creature would die this turn, exile it instead. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Target opponent exiles the top X cards of their library face down. You may look at those cards and you may cast spells from among them for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any type to cast it.
+
+Fleetsinker
+cost: {4}{B}{B} => {3}{B}{B}
+rules_text: When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.
+Salvage 3 — {4}{B}{B} [i]({4}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Salvage only as a sorcery. It isn't a creature except when crewed.)[/i] => When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.
+Manufacture 3—{2}{B}{B} [i]({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i]
+pt: 6/6 => 5/5
+
+Jahan, High Seas Lich
+rules_text: Menace
+Whenever one or more Vehicles or one or more Pirates you control deal combat damage to a player, you create a Treasure token. 
+{X}{B}{B}, Sacrifice another Vehicle or Pirate: Return target Vehicle or Pirate card with mana value X or less from your graveyard to the battlefield tapped. => Menace
+Whenever one or more Vehicles or one or more Pirates you control deal combat damage to a player, you create a Treasure token. 
+{X}{B}{B}, Sacrifice another Vehicle or Pirate: Return target Vehicle or creature card with mana value X or less from your graveyard to the battlefield tapped with a finality counter on it.
+
+Midnight Queen, Damned Vessel
+cost: {4}{B}{B} => {2}{B}{B}
+rules_text: Flying, menace
+Whenever Midnight Queen attacks, you may put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.
+Crew 4 => Flying, menace
+Whenever Midnight Queen attacks, you may put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.
+Crew 3
+
+Requisitioned Raider
+rules_text: Flying
+When this creature attacks, you may sacrifice another artifact or creature. If you do, draw a card. => Flying
+Whenever this creature attacks, you may sacrifice another artifact or creature. If you do, draw a card.
+
+Rot Sea Surge
+rules_text: Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to its owner's hand.” => Until end of turn, target creature gets +1/+0 and gains lifelink and “When this creature dies, return it to its owner's hand.”
+
+Shipyard Scavenger
+rules_text: Whenever an artifact you control enters and whenever you sacrifice an artifact, this creature gets +1/+0 until end of turn.
+{2}{B}, Pay 1 life: Create a Treasure token. => Whenever an artifact you control enters or you sacrifice an artifact, this creature gets +1/+0 until end of turn.
+{2}{B}, Pay 1 life: Create a Treasure token.
+
+Titan Bone Assault
+type: Instant => Sorcery
+
+Vile Gastrolith
+rules_text: When this artifact enters, each creature gets -2/-2 until end of turn.
+{4}{B}, {T}: Each opponent loses 2 life. => When this artifact enters, if it was cast, each creature gets -2/-2 until end of turn.
+{4}{B}, {T}: Each opponent loses 2 life.
+
+Basking Iguanin
+rules_text: Ward— Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Pay 2 life.)[/i]
+{R}: This creature gains menace until end of turn. => Ward—Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+{R}: This creature gains menace until end of turn.
+
+Big Score
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Charred Isles Excavator
+rules_text: Whenever this Vehicle attacks, exile the top two cards of your library, then choose one. You may play that card until the end of your next turn. If this Vehicle was crewed 6 or greater this turn, you may play that card this way without paying its mana cost.
+Crew 3 => Whenever this Vehicle attacks, exile the top two cards of your library, then choose one of them. You may play that card until the end of your next turn. If this Vehicle was crewed by creatures with total power 6 or greater this turn, you may play that card this way without paying its mana cost.
+Crew 3
+
+Clamp Down
+rules_text: Clamp Down deals 1 damage to any target. You create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card. => Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card.
+
+Dunemaker Wurm
+cost: {2}{R} => {1}{R}{R}
+rules_text: Haste
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+At the beginning of your upkeep, return this creature to its owner's hand unless there are three or more land cards in your graveyard. => Haste
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+
+Encrusted Crustacean
+rules_text: During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Eruptive Emergence
+cost: {3}{R}{R} => {2}{R}{R}
+rules_text: Choose up to one creature you control. Eruptive Emergence deals 3 damage to each other creature. => Choose up to one creature you control. Eruptive Emergence deals 3 damage to each creature not chosen this way.
+
+Inevitable, Doom's Flagship
+rules_text: Menace
+Double all damage sources you control would deal. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
+Crew 5 => Menace
+Double all damage that sources you control would deal. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
+Crew 5
+
+Lavaheart Dragon
+cost: {6}{R} => {5}{R}
+
+Magmawake Whale
+rules_text: Menace
+Whenever a creature attacks one of your opponents, it deals 1 damage to that player.
+Salvage 3 — {3}{R}{R} [i]({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Salvage only as a sorcery. It isn't a creature except when crewed.)[/i] => Menace
+Whenever a creature attacks one of your opponents, it deals 1 damage to that player.
+Manufacture 3—{3}{R}{R} [i]({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i]
+
+Tyrant's Demand
+rules_text: Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+[i]Overwhelm[/i] — If you control a permanent with mana value 5 or greater, exile the top three cards of your library instead. Until the end of your next turn, you may play those cards. => [i]Overwhelm[/i] – Exile the top two cards of your library. If you control a permanent with mana value 5 or greater, exile the top three cards instead. Until the end of your next turn, you may play those cards.
+
+Vein Tyrant's Challenge
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Create X tapped Treasure tokens. When you do, Vein Tyrant's Challenge deals damage to target creature you don't control equal to the number of artifacts you control. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Create X tapped Treasure tokens. When you do, Vein Tyrant's Challenge deals damage equal to the number of artifacts you control to target creature or planeswalker you don't control.
+
+Destructive Wake
+rules_text: Target creature you control deals damage equal to its power to each of two other target creatures. => Target creature you control deals damage equal to its power to each of up to two other target creatures.
+
+Elemental's Flourish
+rules_text: Choose target creature you control and target creature you don't control. Put a +1/+1 counter on the creature you control if there are two or more land cards in your graveyard. Then those creatures fight. [i](Each deals damage equal to its power to the other.)[/i] => Choose target creature you control and target creature you don't control. Put a +1/+1 counter on the creature you control if there are two or more land cards in your graveyard. Then those creatures fight each other. [i](Each deals damage equal to its power to the other.)[/i]
+
+Foraging Badger
+rules_text: Trample
+When this creature enters, return target permanent card and up to one target land card from your graveyard to your hand. => Trample
+When this creature enters, return up to one target permanent card and up to one target land card from your graveyard to your hand.
+
+Gilded Plating
+rules_text: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Isle-Mimic Leviathan
+rules_text: Trample
+You may play lands from your graveyard and you may play an additional land each turn.
+Salvage 3 — {2}{G}{G} [i]({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Salvage only as a sorcery. It isn't a creature except when crewed.)[/i] => Trample
+You may play lands from your graveyard and you may play an additional land each turn.
+Manufacture 3—{2}{G}{G} [i]({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i]
+
+Lineaz Eulogist
+rules_text: Deathtouch
+When this creature enters or dies, mill three cards, then you may choose a creature or land card from among the milled cards. If you chose a land card this way, put it onto the battlefield tapped. Otherwise, put it into your hand. => Deathtouch
+When this creature enters or dies, mill three cards. When you do, you may choose a creature or land card from among the milled cards. If you chose a land card this way, put it onto the battlefield tapped. Otherwise, put it into your hand.
+
+Otoro, Wild Explorer
+special_text: [i]Landfall[/i] — Whenever a land you control enters, put a loyalty counter on Otoro.
+[0]: Surveil 1, then create a Map token.
+[-1]: Surveil 3, then you may return a land card from your graveyard to your hand.
+[-5]: Create a 0/0 green Scout creature token with “This token gets +1/+1 for each land you control.” => [i]Landfall[/i] — Whenever a land you control enters, put a loyalty counter on Otoro.
+[0]: Surveil 1, then create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+[-1]: Surveil 3, then you may return a land card from your graveyard to your hand.
+[-5]: Create a 0/0 green Scout creature token with “This token gets +1/+1 for each land you control.”
+
+Tin Isle Lifetender
+rules_text: When this creature enters, create a 3/3 green Turtle creature token.
+Whenever this creature and a token you control attack together, creatures you control gain trample until end of turn. => When this creature enters, create a 3/3 green Turtle creature token.
+Whenever you attack with this creature and a creature token, creatures you control gain trample until end of turn.
+
+Tin Isle Wurmrig
+rules_text: Creatures you control can't be blocked by creature with flying.
+Whenever this Vehicle attacks, you may put a land card from your hand or graveyard onto the battlefield tapped. Then if it was crewed 6 or greater this turn, untap each land you control.
+Crew 3 => Creatures you control can't be blocked by creatures with flying.
+Whenever this Vehicle attacks, you may put a land card from your hand or graveyard onto the battlefield tapped. Then if it was crewed by creatures with total power 6 or greater this turn, untap each land you control.
+Crew 3
+
+Zoophonic Call
+cost: {2}{G} => {1}{G}
+rules_text: Search your library for a creature card with mana value 5 or greater or with X in its cost, reveal it, put it into your hand, then shuffle. You gain 3 life. => Search your library for a creature card with mana value 5 or greater or with {X} in its cost, reveal it, put it into your hand, then shuffle. You gain 3 life.
+
+Grahn, Seafolk Huntmaster
+rules_text: Vigilance, reach, trample
+Grahn enters with three +1/+1 counters on him.
+Whenever you cast a permanent spell with mana value 5 or greater or a creature you control matures, put a +1/+1 counter on each creature you control. If that spell or creature was legendary, double the number of +1/+1 counters on this creature. => Vigilance, reach, trample
+Grahn enters with three +1/+1 counters on him.
+Whenever you cast a permanent spell with mana value 5 or greater or a creature you control matures, put a +1/+1 counter on each creature you control. If that spell or creature was legendary, double the number of +1/+1 counters on Grahn.
+
+Elagid, the Endless Glutton
+type: Legendary Creature — Zombie Crocodile => Legendary Creature — Crocodile Leviathan
+
+Engines Critical
+rules_text: At the beginning of combat on your turn, put a critical counter on this enchantment. When you do, choose up to one target creature or Vehicle you control. Until end of turn, it becomes a creature in addition to its other types, gets +2/+0 for each critical counter on this enchantment, and gains trample and haste. Sacrifice that creature at the beginning of the next end step. => At the beginning of combat on your turn, put a critical counter on this enchantment. When you do, choose up to one target creature you control. It gets +2/+0 for each critical counter on this enchantment and gains trample and haste until end of turn. Sacrifice that creature at the beginning of the next end step.
+
+Eskin, Furnace Master
+rules_text: Whenever you sacrifice an artifact, add one mana of any color.
+At the beginning of your end step, if you sacrificed three or more nontoken artifacts this turn, draw three cards and Eskin deals 3 damage to each opponent and each planeswalker they control. => At the beginning of your end step, if you sacrificed three or more nontoken artifacts this turn, draw three cards and Eskin deals 3 damage to each opponent.
+
+Fangworm Fleetship
+rules_text: Menace, haste
+Sacrifice another artifact: This Vehicle becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Menace, haste
+Sacrifice another artifact: This Vehicle becomes an artifact creature until end of turn. Activate only once each turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Grandir's Trove
+cost: {3}{U}{R} => {U}{R}
+rules_text: Grandir's Trove enters with three charge counters on it.
+Whenever you draw your second or fifth card each turn, put a charge counter on Grandir's Trove.
+{T}: Add X mana in any combination of {U} and/or {R}, where X is the number of charge counters on Grandir's Trove. => Whenever you draw your second or fifth card each turn, put a charge counter on Grandir's Trove.
+{U}{U}{R}{R}, {T}, Sacrifice Grandir's Trove: It deals X damage to target player and another target player draws X cards, where X is the number of charge counters on it.
+
+Ka'bi, the Bloomhoof
+rules_text: Trample
+When Ka'bi enters, sacrifice any number of lands. Then for each land card in your graveyard, search your library and/or graveyard for a land card, put it onto the battlefield tapped, then shuffle. => Trample
+When Ka'bi enters, sacrifice any number of lands. Then for each land card in your graveyard, search your library and/or graveyard for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Malzan the Shipwright
+special_text: [+1]: Untap up to one target artifact or creature, then tap up to one target artifact or creature
+[0]: Target Vehicle you control becomes an artifact creature until your next turn.
+[-1]: Draw a card, then you may reveal it. If it's a Vehicle card, you gain 3 life.
+[-7]: Search your library for two artifact creature and/or Vehicle cards with different names, put them onto the battlefield, then shuffle. => [+1]: Untap up to one target artifact or creature, then tap up to one target artifact or creature
+[0]: Target Vehicle you control becomes an artifact creature until your next turn.
+[-1]: You gain 2 life and draw a card.
+[-7]: Search your library for two artifact creature and/or Vehicle cards with different names, put them onto the battlefield, then shuffle.
+
+Provisions Ship
+rules_text: When this Vehicle enters, create a tapped Clue token and a tapped Treasure token. [i](Clues are artifact tokens with “{2}, Sacrifice this token: Draw a card.”)[/i] 
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, create a tapped tapped Treasure token. [i](Clues are artifact tokens with “{2}, Sacrifice this token: Draw a card.”)[/i] 
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Superb Salvage
+cost: {W}{B} => {1}{W}{B}
+
+Tiz'ek's Meltdown
+cost: {X}{R}{G} => {3}{R}{G}
+rules_text: This spell can't be countered.
+Tiz'ek's Meltdown deals X damage to each creature and planeswalker. Destroy each artifact and enchantment with mana value X or less. => This spell can't be countered.
+Tiz'ek's Meltdown deals 4 damage to each creature and planeswalker. Destroy each noncreature artifact and noncreature enchantment with mana value 4 or less.
+
+Tyrant Territory
+
+Unstable Vein
+rules_text: {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Gothil's Clutchling
+rules_text: Trample, vigilance
+Whenever a creature you control with toughness greater than its power deal combat damage to a player, draw a card. => Trample, vigilance
+Whenever a creature you control with toughness greater than its power deals combat damage to a player, draw a card.
+
+Quaking Tunneler
+rules_text: When this creature enters, destroy up to one target artifact or enchantment with mana value equal to or less than this creature's power. => When this creature enters, destroy up to one target artifact or enchantment with mana value less than or equal to this creature's power.
+
+Exuberant Podcaller
+rules_text: Whenever this creature attacks, create a number of tapped and attacking 1/1 white Whale creature tokens equal to its power. => Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.
+
+Tanglegrasp Jelly
+rules_text: When this creature enters, if it's on the battlefield, exile target tapped creature you don't control.
+When this creature leaves the battlefield, return the exiled card to the battlefield unless this creature is mature. => When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.
+
+Abyssal Trilobite
+special_text: 1U — => U —
+
+Abyssal Tempter
+type: Creature — Nightmare Fish => Creature — Nightmare Whale
+
+Deadlights Leviathan
+rules_text: When this creature enters or matures, return target creature card with mana value less than this creature's power from your graveyard to the battlefield tapped. => When this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped.
+
+Rot Sea Worm
+rules_text: You may cast this spell from your graveyard for its yearling cost plus paying 2 life.
+This creature can't block. => This creature can't block.
+You may cast this spell from your graveyard using its yearling ability and an additional 2 life.
+
+Whirlpool Annihilator
+rules_text: Trample
+As an additional cost to cast this spell or mature this creature, sacrifice another creature or Vehicle.
+When this creature enters or matures, each opponent sacrifices a nontoken creature or Vehicle of their choice. => Trample
+When this creature enters or matures, each player sacrifices a creature or Vehicle of their choice.
+
+Crackling Eel
+rules_text: Whenever an opponent activates an ability that isn't a mana ability, this creature deals damage equal to its power to that player. => Whenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player.
+
+Clattering Boneship
+pt: 3/1 => 2/1
+
+Seafolk Pilgrimguard
+rules_text: Embrace: Exile target card from a graveyard. [i](To embrace, tap two artifacts and/or creatures you control)[/i] => {1}{W}, Embrace: Exile target card from an opponent's graveyard. [i](To embrace, tap two artifacts and/or creatures you control)[/i]
+
+Port Patrolship
+rules_text: This spell costs {1} less to cast for each tapped nonland permanent you control.
+During your turn, this Vehicle is an artifact creature.
+When this Vehicle enters, surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => This spell costs {1} less to cast for each tapped nonland permanent you control.
+During your turn, this Vehicle is an artifact creature.
+When this Vehicle enters, scry 1, then draw a card.
+
+Hookfin, Basalt Commander
+cost: {5}{R} => {4}{R}
+rules_text: Trample
+Whenever Hookfin enters or becomes the target of a spell, create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Creatures you control get +X/+0, where X is the number of cards you've drawn this turn. => First strike, trample, haste
+Whenever Hookfin attacks or becomes the target of a spell, create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Creatures you control get +X/+0, where X is the number of cards you've drawn this turn.
+pt: 5/5 => 3/5
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
