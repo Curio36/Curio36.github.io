@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Launch the Fleets removed.
+Oceanic Alliance removed.
+Tyrants of the Abyss removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
