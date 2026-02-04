@@ -12,7 +12,7 @@
 		<card>
 			<name>Goldseeker Cruiser</name>
 			<text>Vigilance
-Whenever another artifact enters under your control, if this Vehicle isn&apos;t a creature, it becomes an artifact creature until end of turn.
+Whenever another artifact you control enters, if this Vehicle isn&apos;t a creature, it becomes an artifact creature until end of turn.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/18_Goldseeker Cruiser.png" num="18">TVN</set>
 			<prop>
@@ -905,7 +905,7 @@ Manufacture 3—{2}{U}{U} ({2}{U}{U}: Return this card from your graveyard to th
 		</card>
 		<card>
 			<name>Gelid Sea Courier</name>
-			<text>Flash
+			<text>Flash (You may cast this spell any time you could cast an instant.)
 When this creature enters, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/51_Gelid Sea Courier.png" num="51">TVN</set>
 			<prop>
@@ -1550,7 +1550,7 @@ Whenever this creature attacks, you may sacrifice another artifact or creature. 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Robot Pirate</type>
+				<type>Artifact Creature — Pirate</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
@@ -2319,7 +2319,7 @@ Create X tapped Treasure tokens. When you do, Vein Tyrant&apos;s Challenge deals
 		<card>
 			<name>Apex Anomalocaris</name>
 			<text>Haste
-Apex Anomalocaris can&apos;t be blocked by artifact creatures or by creatures with power 2 or less.</text>
+This creature can&apos;t be blocked by artifact creatures or by creatures with power 2 or less.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/153_Apex Anomalocaris.png" num="153">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4220,7 +4220,7 @@ Overwhelm — {5}: Until end of turn, this land becomes a 4/4 Leviathan creature
 		</card>
 		<card>
 			<name>Ankertrold, the Harrower</name>
-			<text>Ankertrold enters tapped with nine stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+			<text>Ankertrold enters tapped with nine stun counters on it.
 Whenever you draw a card during an opponent&apos;s turn, create a 1/1 blue Tentacle creature token.
 Whenever a Tentacle you control dies, untap up to one target Kraken and put a stun counter on up to one target nonland permanent.</text>
 			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/TVN-files/img/2_Ankertrold, the Harrower.png" num="2">TVN</set>
@@ -4276,7 +4276,7 @@ If you would draw a card while your library has no cards in it, instead return a
 			<name>Bloodgap, Reaver Warship</name>
 			<text>Flying, trample
 When Bloodgap deals combat damage to a player, sacrifice it and create that many Treasure tokens.
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 3</text>
 			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/TVN-files/img/5_Bloodgap, Reaver Warship.png" num="5">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4313,7 +4313,7 @@ This creature enters tapped.</text>
 		<card>
 			<name>Coloeus, Blacksail Flagship</name>
 			<text>Whenever Coloeus deals combat damage to a player, you may discard your hand. If you do, draw a card for each artifact you control.
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 3</text>
 			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/TVN-files/img/7_Coloeus, Blacksail Flagship.png" num="7">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4369,7 +4369,7 @@ Whenever you discard an Island, Pirate, or Vehicle card, create a tapped Treasur
 			<name>Waveslicer, Liko&apos;s Cruiser</name>
 			<text>Haste
 Whenever Waveslicer attacks, another target legendary creature can&apos;t be blocked this turn.
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 2</text>
 			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/TVN-files/img/10_Waveslicer, Liko&apos;s Cruiser.png" num="10">TVN</set>
 			<prop>
 				<layout>normal</layout>

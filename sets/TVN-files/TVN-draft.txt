@@ -864,7 +864,7 @@
 			"name": "Requisitioned Raider",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Artifact Creature — Robot Pirate",
+			"type": "Artifact Creature — Pirate",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/103_Requisitioned Raider.png"

@@ -1,4 +1,56 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Goldseeker Cruiser
+rules_text: Vigilance
+Whenever another artifact enters under your control, if this Vehicle isn't a creature, it becomes an artifact creature until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Vigilance
+Whenever another artifact you control enters, if this Vehicle isn't a creature, it becomes an artifact creature until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Gelid Sea Courier
+rules_text: Flash
+When this creature enters, surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature enters, surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Requisitioned Raider
+type: Artifact Creature — Robot Pirate => Artifact Creature — Pirate
+
+Apex Anomalocaris
+rules_text: Haste
+Apex Anomalocaris can't be blocked by artifact creatures or by creatures with power 2 or less. => Haste
+This creature can't be blocked by artifact creatures or by creatures with power 2 or less.
+
+Ankertrold, the Harrower
+rules_text: Ankertrold enters tapped with nine stun counters on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Whenever you draw a card during an opponent's turn, create a 1/1 blue Tentacle creature token.
+Whenever a Tentacle you control dies, untap up to one target Kraken and put a stun counter on up to one target nonland permanent. => Ankertrold enters tapped with nine stun counters on it.
+Whenever you draw a card during an opponent's turn, create a 1/1 blue Tentacle creature token.
+Whenever a Tentacle you control dies, untap up to one target Kraken and put a stun counter on up to one target nonland permanent.
+
+Bloodgap, Reaver Warship
+rules_text: Flying, trample
+When Bloodgap deals combat damage to a player, sacrifice it and create that many Treasure tokens.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, trample
+When Bloodgap deals combat damage to a player, sacrifice it and create that many Treasure tokens.
+Crew 3
+
+Coloeus, Blacksail Flagship
+rules_text: Whenever Coloeus deals combat damage to a player, you may discard your hand. If you do, draw a card for each artifact you control.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever Coloeus deals combat damage to a player, you may discard your hand. If you do, draw a card for each artifact you control.
+Crew 3
+
+Waveslicer, Liko's Cruiser
+rules_text: Haste
+Whenever Waveslicer attacks, another target legendary creature can't be blocked this turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Haste
+Whenever Waveslicer attacks, another target legendary creature can't be blocked this turn.
+Crew 2
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
