@@ -1,4 +1,291 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Cloudscape Kraken
+rules_text: Flying, vigilance
+Other creatures you control get +1/+1.
+Manufacture 3—{2}{W}{W} [i]({2}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i] => Flying, vigilance
+Other creatures you control get +1/+1.
+Manufacture 3—{1}{W}{W} [i]({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i]
+
+Glorycarved Masthead
+cost: {1}{W} => {2}{W}
+pt: 2/2 => 3/3
+
+Pearlthrone Guard
+rules_text: During your turn, this creature has first strike.
+[i]Overwhelm[/i] — As long as you control a permanent with mana value 5 or greater, this creature gets +1/+0. => During your turn, this creature has first strike.
+[i]Overwhelm[/i] — As long as you control a permanent with mana value 4 or greater, this creature gets +1/+0.
+
+Shining Wingfin
+rules_text: Flying
+[i]Overwhelm[/i] — Whenever this creature attacks, put a +1/+1 counter on another target creature or Vehicle you control. Put two +1/+1 counters on that permanent instead if you control a permanent with mana value 5 or greater. => Flying
+[i]Overwhelm[/i] — Whenever this creature attacks, put a +1/+1 counter on another target creature or Vehicle you control. Put two +1/+1 counters on that permanent instead if you control a permanent with mana value 4 or greater.
+
+Shore Tyrant's Challenge
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Exile X target artifacts and/or enchantments. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+Exile X target artifacts and/or enchantments.
+
+Giant Remora
+rules_text: Defender
+[i]Overwhelm[/i] — As long as you control a permanent with mana value 5 or greater, this creature may attack as though it didn't have defender. => Defender
+[i]Overwhelm[/i] — As long as you control a permanent with mana value 4 or greater, this creature may attack as though it didn't have defender.
+
+Hippocamp Wrangler
+rules_text: Vigilance
+Whenever a permanent you control with mana value 5 or greater enters or a creature you control matures, create a 2/1 blue Horse Fish creature token named Hippocamp. => Vigilance
+Whenever another permanent you control with mana value 4 or greater enters or a creature you control matures, create a 2/1 blue Horse Fish creature token named Hippocamp.
+pt: 2/4 => 2/3
+
+Gelid Tyrant's Challenge
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Draw X cards. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+Draw X cards.
+
+Overwhelming Riptide
+rules_text: Enchant creature or Vehicle
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step.
+[i]Overwhelm[/i] — {2}{U}{U}: Shuffle enchanted permanent into its owner's library. Draw a card if you control a permanent with mana value 5 or greater. => Enchant creature or Vehicle
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step.
+[i]Overwhelm[/i] — {2}{U}{U}: Shuffle enchanted permanent into its owner's library. Draw a card if you control a permanent with mana value 4 or greater.
+
+Sea Witch's Wards
+rules_text: As an additional cost to cast this spell, you may embrace. [i](To embrace, tap two artifacts and/or creatures you control)[/i]
+Counter target spell unless its controller pays {2}. If you embraced as you cast this spell, counter that spell unless its controller pays {4} instead. => As an additional cost to cast this spell, you may embrace. If you do, this spell costs {1} less to cast. [i](To embrace, tap two artifacts and/or creatures you control)[/i]
+Counter target spell unless its controller pays {2}.
+
+Thirst for Power
+rules_text: Draw three cards. Then discard two cards unless you discard a card with mana value 5 or greater. => Draw three cards. Then discard two cards unless you discard a card with mana value 4 or greater.
+
+Titanic Haruspicy
+rules_text: Draw two cards.
+[i]Overwhelm [/i]— If you control a permanent with mana value 5 or greater, draw three cards instead. => Draw two cards.
+[i]Overwhelm [/i]— If you control a permanent with mana value 4 or greater, draw three cards instead.
+
+Wash Overboard
+rules_text: [i]Overwhelm[/i] — This spell costs {1} less to cast if you control a permanent with mana value 5 or greater.
+Target nonland permanent's owner puts it on their choice of the top or bottom of their library. => [i]Overwhelm[/i] — This spell costs {1} less to cast if you control a permanent with mana value 4 or greater.
+Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+
+Deep Tyrant's Challenge
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Target opponent exiles the top X cards of their library face down. You may look at those cards and you may cast spells from among them for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any type to cast it. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+Target opponent exiles the top X cards of their library face down. You may look at those cards and you may cast spells from among them for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any type to cast it.
+
+Deadman's Tales
+rules_text: [i]Overwhelm[/i] — Surveil 2. If you control a permanent with mana value 5 or greater, surveil 4 instead. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+You draw two cards and you lose 2 life. => [i]Overwhelm[/i] — Surveil 2. If you control a permanent with mana value 4 or greater, surveil 4 instead. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+You draw two cards and you lose 2 life.
+
+Inktrench's Trail
+rules_text: [i]Overwhelm[/i] — Choose one. If you control a permanent with mana value 5 or greater, choose two instead.
+• Each opponent sacrifices a creature.
+• Each opponent sacrifices a Vehicle.
+• Each opponent sacrifices an enchantment. => [i]Overwhelm[/i] — Choose one. If you control a permanent with mana value 4 or greater, choose two instead.
+• Each opponent sacrifices a creature.
+• Each opponent sacrifices a Vehicle.
+• Each opponent sacrifices an enchantment.
+
+Lamprey Swarm
+rules_text: Lifelink
+[i]Overwhelm — [/i]Whenever this creature attacks while you control a permanent with mana value 5 or greater, it gains deathtouch until end of turn. => Lifelink
+[i]Overwhelm — [/i]Whenever this creature attacks while you control a permanent with mana value 4 or greater, it gains deathtouch until end of turn.
+
+Big Score
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Clamp Down
+rules_text: Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card. => Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card.
+
+Crushing Charge
+rules_text: [i]Overwhelm [/i]— Choose one. If you controlled a permanent with mana value 5 or greater as you cast this spell, you may choose both instead.
+• Crushing Charge deals 4 damage to target creature or planeswalker.
+• Exile target artifact. => [i]Overwhelm [/i]— Choose one. If you controlled a permanent with mana value 4 or greater as you cast this spell, you may choose both instead.
+• Crushing Charge deals 4 damage to target creature or planeswalker.
+• Exile target artifact.
+
+Encrusted Crustacean
+rules_text: During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Powderkeg Explosion
+cost: {1}{R} => {R}
+
+Tyrant's Demand
+cost: {R}{R} => {2}{R}
+rules_text: [i]Overwhelm[/i] – Exile the top two cards of your library. If you control a permanent with mana value 5 or greater, exile the top three cards instead. Until the end of your next turn, you may play those cards. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+Vein Tyrant's Challenge
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Create X tapped Treasure tokens. When you do, Vein Tyrant's Challenge deals damage equal to the number of artifacts you control to target creature or planeswalker you don't control. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+Create X tapped Treasure tokens. When you do, Vein Tyrant's Challenge deals damage equal to the number of artifacts you control to target creature or planeswalker you don't control.
+
+Ava, Thorny Diva
+rules_text: [i]Overwhelm [/i]— Whenever Ava becomes tapped, add {G}. If you control a permanent with mana value 5 or greater, add {G}{G} instead. Until end of turn, you don't lose this mana as steps and phases end. => [i]Overwhelm [/i]— Whenever Ava becomes tapped, add {G}. If you control a permanent with mana value 4 or greater, add {G}{G} instead. Until end of turn, you don't lose this mana as steps and phases end.
+
+Coral Tyrant's Challenge
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Create X 3/3 green Dragon Fish creature tokens. You gain twice X life. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+Create X 3/3 green Dragon Fish creature tokens. You gain twice X life.
+
+Drag from the Shallows
+rules_text: This spell costs {2} less to cast if it targets a creature with mana value 5 or greater.
+Target creature you control deals damage equal to its power to target creature you don't control. If excess damage is dealt this way, you gain that much life. => This spell costs {2} less to cast if it targets a creature with mana value 4 or greater.
+Target creature you control deals damage equal to its power to target creature you don't control. If excess damage is dealt this way, you gain that much life.
+
+Gilded Plating
+rules_text: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Primordial Coelacanth
+rules_text: Vigilance
+[i]Overwhelm[/i] — At the beginning of combat on your turn, if you control a permanent with mana value 5 or greater, put a +1/+1 counter on this creature. => Vigilance
+[i]Overwhelm[/i] — At the beginning of combat on your turn, if you control a permanent with mana value 4 or greater, put a +1/+1 counter on this creature.
+
+Wingbeast Hunter
+rules_text: Reach
+[i]Overwhelm [/i]— Whenever this creature attacks while you control a permanent with mana value 5 or greater, it gets +2/+2 until end of turn. Untap it. => Reach
+[i]Overwhelm [/i]— Whenever this creature attacks while you control a permanent with mana value 4 or greater, it gets +2/+2 until end of turn. Untap it.
+
+Vibrant Siphonophore
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Whenever a permanent you control with mana value 5 or greater enters or a creature you control matures, create a token that is a copy of this creature. => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Whenever another permanent you control with mana value 4 or greater enters or a creature you control matures, create a token that is a copy of this creature.
+
+Grahn, Seafolk Huntmaster
+rules_text: Vigilance, reach, trample
+Grahn enters with three +1/+1 counters on him.
+Whenever you cast a permanent spell with mana value 5 or greater or a creature you control matures, put a +1/+1 counter on each creature you control. If that spell or creature was legendary, double the number of +1/+1 counters on Grahn. => Vigilance, reach, trample
+Grahn enters with three +1/+1 counters on him.
+Whenever you cast a permanent spell with mana value 4 or greater or a creature you control matures, put a +1/+1 counter on each creature you control. If that spell or creature was legendary, double the number of +1/+1 counters on Grahn.
+
+Grandir, the Storm-Bodied
+rules_text: Flash
+You have no maximum hand size.
+At the beginning of your end step, draw a card for each card you discarded this turn. When you do, Grandir deals damage to any target equal to the number of cards you drew this way. => Flash
+You have no maximum hand size.
+At the beginning of your end step, draw a card for each card you discarded this turn. When you do, Grandir deals damage to any target equal to the number of cards you drew this turn.
+
+Ka'bi, the Bloomhoof
+rules_text: Trample
+When Ka'bi enters, sacrifice any number of lands. Then for each land card in your graveyard, search your library and/or graveyard for a basic land card, put it onto the battlefield tapped, then shuffle. => Trample
+When Ka'bi enters, for each land card in your graveyard, search your library and/or graveyard for a land card, put it onto the battlefield tapped, then shuffle.
+
+Malzan the Shipwright
+special_text: [+1]: Untap up to one target artifact or creature, then tap up to one target artifact or creature
+[0]: Target Vehicle you control becomes an artifact creature until your next turn.
+[-1]: You gain 2 life and draw a card.
+[-7]: Search your library for two artifact creature and/or Vehicle cards with different names, put them onto the battlefield, then shuffle. => [+1]: Untap up to one target artifact or creature, then tap up to one target artifact or creature
+[+1]: Target Vehicle you control becomes an artifact creature until your next turn.
+[-1]: You gain 2 life and draw a card.
+[-7]: Search your library for two artifact creature and/or Vehicle cards with different names, put them onto the battlefield, then shuffle.
+
+Pantry Filler
+rules_text: [i]Overwhelm [/i]— At the beginning of combat on your turn, if you control a permanent with mana value 5 or greater, target creature you control gains vigilance and lifelink until end of turn.
+{T}: Add {G} or {W}. => [i]Overwhelm [/i]— At the beginning of combat on your turn, if you control a permanent with mana value 4 or greater, target creature you control gains vigilance and lifelink until end of turn.
+{T}: Add {G} or {W}.
+
+Runes of Recall
+rules_text: Mill seven cards. For each card type, return up to one card of that type from your graveyard to your hand.
+Exile Runes of Recall. => This spell can't be countered.
+Mill seven cards. For each card type, return up to one card of that type from your graveyard to your hand.
+Exile Runes of Recall.
+
+Tyrant Territory
+rules_text: Permanent spells you cast with mana value 5 or greater cost {1} less to cast.
+Mature costs you pay cost {1} less.
+Whenever a permanent you control with mana value 5 or greater enters or a creature you control matures, draw a card. => Permanent spells you cast with mana value 4 or greater cost {1} less to cast.
+Mature costs you pay cost {1} less.
+Whenever a permanent you control with mana value 4 or greater enters or a creature you control matures, draw a card.
+
+Deepsea Maw
+rules_text: {T}: Add {C}.
+[i]Overwhelm[/i] — {5}: Until end of turn, this land becomes a 4/4 Leviathan creature with trample and haste. It's still a land. This ability costs {3} less to activate if you control a permanent with mana value 5 or greater. => {T}: Add {C}.
+[i]Overwhelm[/i] — {5}: Until end of turn, this land becomes a 4/4 Leviathan creature with trample and haste. It's still a land. This ability costs {3} less to activate if you control a permanent with mana value 4 or greater.
+
+Unstable Vein
+rules_text: {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Cloud Sea
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {W} or {U}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {W} or {U}.
+
+Congregation Reef
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {R} or {W}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {R} or {W}.
+
+Grand Rim Caldera
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {B} or {R}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {B} or {R}.
+
+Gyre Strait
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {G} or {U}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {G} or {U}.
+
+Inktrench Crag
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {U} or {B}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {U} or {B}.
+
+Rot Sea
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {B} or {G}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {B} or {G}.
+
+Silent Shores
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {W} or {B}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {W} or {B}.
+
+Storm Belt
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {U} or {R}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {U} or {R}.
+
+Tin Isle Canyon
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {R} or {G}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {R} or {G}.
+
+Turtle Beach
+rules_text: [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 5 or greater.
+{T}: Add {G} or {W}. => [i]Overwhelm [/i]— This land enters tapped unless you control a permanent with mana value 4 or greater.
+{T}: Add {G} or {W}.
+
+Lurking Alligator
+rules_text: {3}{G}: Each creature you control can't be blocked by more than one creature this turn. => {2}{G}: Each creature you control can't be blocked by more than one creature this turn.
+
+Crackling Eel
+rules_text: Whenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player. => Menace
+Whenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player.
+
+Clattering Boneship
+cost: {1}{B} => {2}{B}
+rules_text: When this Vehicle enters, each player sacrifices a creature of their choice.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, target opponent sacrifices a creature of their choice.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 2/1 => 2/2
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
