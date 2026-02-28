@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Rock Mario",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -272,7 +272,7 @@
         "position": ""
     },
     {
-        "card_name": "Mega Mushroom",
+        "card_name": "Luigi Logic",
         "number": 92,
         "shape": "normal",
         "set": "SMB",
@@ -312,8 +312,8 @@
         "position": ""
     },
     {
-        "card_name": "Peewee Piranha, Temperamental",
-        "number": 94,
+        "card_name": "Mega Mushroom",
+        "number": 93,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -352,7 +352,7 @@
         "position": ""
     },
     {
-        "card_name": "Potted Uproot",
+        "card_name": "Peewee Piranha, Temperamental",
         "number": 95,
         "shape": "normal",
         "set": "SMB",
@@ -392,8 +392,8 @@
         "position": ""
     },
     {
-        "card_name": "Towering Pokey",
-        "number": 97,
+        "card_name": "Potted Uproot",
+        "number": 96,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -432,7 +432,7 @@
         "position": ""
     },
     {
-        "card_name": "Yoshi Steed",
+        "card_name": "Towering Pokey",
         "number": 98,
         "shape": "normal",
         "set": "SMB",
@@ -472,8 +472,8 @@
         "position": ""
     },
     {
-        "card_name": "3 MV Scuttlebug",
-        "number": 83,
+        "card_name": "Yoshi Steed",
+        "number": 99,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -512,8 +512,8 @@
         "position": ""
     },
     {
-        "card_name": "Goomba Stomp",
-        "number": 87,
+        "card_name": "3 MV Scuttlebug",
+        "number": 83,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -552,8 +552,8 @@
         "position": ""
     },
     {
-        "card_name": "Hungry Maw-Maw",
-        "number": 89,
+        "card_name": "Goomba Stomp",
+        "number": 87,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -592,8 +592,8 @@
         "position": ""
     },
     {
-        "card_name": "Into the Portrait",
-        "number": 90,
+        "card_name": "Hungry Maw-Maw",
+        "number": 89,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -632,8 +632,8 @@
         "position": ""
     },
     {
-        "card_name": "Patrolling Goomba",
-        "number": 93,
+        "card_name": "Into the Portrait",
+        "number": 90,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -672,8 +672,8 @@
         "position": ""
     },
     {
-        "card_name": "Yoshi Tongue",
-        "number": 99,
+        "card_name": "Patrolling Goomba",
+        "number": 94,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -712,7 +712,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Yoshi Tongue",
+        "number": 100,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Whacka Bump",
@@ -864,7 +869,7 @@
     "a->gold",
     {
         "card_name": "Galaxy's Rebirth",
-        "number": 115,
+        "number": 116,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -872,46 +877,6 @@
     },
     {
         "card_name": "Antasma, Evil Bat King",
-        "number": 100,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "King Bowser, the Mighty",
-        "number": 119,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Petey Piranha",
-        "number": 126,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Toadsworth, Old Aid",
-        "number": 133,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Merlee's Luck Spell",
-        "number": 123,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Blooper Nanny",
         "number": 101,
         "shape": "normal",
         "set": "SMB",
@@ -919,8 +884,48 @@
         "position": ""
     },
     {
+        "card_name": "King Bowser, the Mighty",
+        "number": 120,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Petey Piranha",
+        "number": 127,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toadsworth, Old Aid",
+        "number": 134,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Merlee's Luck Spell",
+        "number": 124,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blooper Nanny",
+        "number": 102,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "The Lord of Lightning",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -928,7 +933,7 @@
     },
     {
         "card_name": "Coin Rush",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -936,7 +941,7 @@
     },
     {
         "card_name": "Super Acorn",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -944,7 +949,7 @@
     },
     {
         "card_name": "Pauline, New Donk Mayor",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -952,14 +957,6 @@
     },
     {
         "card_name": "Kammy Koopa, the Brains",
-        "number": 117,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "King Bob-omb",
         "number": 118,
         "shape": "normal",
         "set": "SMB",
@@ -967,8 +964,16 @@
         "position": ""
     },
     {
+        "card_name": "King Bob-omb",
+        "number": 119,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "DK, Core Delver",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -976,7 +981,7 @@
     },
     {
         "card_name": "Toadette, Princess's Favored",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -990,7 +995,7 @@
     },
     {
         "card_name": "Bowser Jr., Punk Prince",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1010,7 +1015,7 @@
     },
     {
         "card_name": "Chargin' Chuck",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1039,7 +1044,7 @@
     },
     {
         "card_name": "Chincho Swarm",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1047,7 +1052,7 @@
     },
     {
         "card_name": "Ludwig Von Koopa, Composer",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1055,7 +1060,7 @@
     },
     {
         "card_name": "Fuzzy Time",
-        "number": 114,
+        "number": 115,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1063,7 +1068,7 @@
     },
     {
         "card_name": "MX01 Cookatiel, Kooky Cook",
-        "number": 124,
+        "number": 125,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1071,7 +1076,7 @@
     },
     {
         "card_name": "Captain Toad, Treasure Tracker",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1079,7 +1084,7 @@
     },
     {
         "card_name": "Tutankoopa, Pyramid Wizard",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1087,7 +1092,7 @@
     },
     {
         "card_name": "Torpedo Ted",
-        "number": 134,
+        "number": 135,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1095,7 +1100,7 @@
     },
     {
         "card_name": "Goomboss, Grand Pooh-bah",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1103,7 +1108,7 @@
     },
     {
         "card_name": "Lady Bow, Boo Princess",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1111,7 +1116,7 @@
     },
     {
         "card_name": "Star Road Map",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1125,7 +1130,7 @@
     },
     {
         "card_name": "Bone Piranha Plant",
-        "number": 102,
+        "number": 103,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1133,7 +1138,7 @@
     },
     {
         "card_name": "Boomerang Flower",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1150,7 +1155,7 @@
     },
     {
         "card_name": "Princess Shroob, the Younger",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1158,7 +1163,7 @@
     },
     {
         "card_name": "Daisy, Tennis Ace",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1184,7 +1189,7 @@
     },
     {
         "card_name": "Count Bleck",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1192,14 +1197,6 @@
     },
     {
         "card_name": "Fawful, Beanish Brainiac",
-        "number": 112,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Fury Bowser",
         "number": 113,
         "shape": "normal",
         "set": "SMB",
@@ -1207,8 +1204,16 @@
         "position": ""
     },
     {
+        "card_name": "Fury Bowser",
+        "number": 114,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Rosalina, Cosmic Guardian",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1216,7 +1221,7 @@
     },
     {
         "card_name": "Super Mario Bros",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1237,7 +1242,7 @@
     "a->colorless",
     {
         "card_name": "Mechawiggler, New Donk Terror",
-        "number": 137,
+        "number": 138,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1245,7 +1250,7 @@
     },
     {
         "card_name": "Huey, Paint Pal",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1261,7 +1266,7 @@
     },
     {
         "card_name": "Standard Kart",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1285,30 +1290,6 @@
     "a->land",
     {
         "card_name": "Mushroom Kingdom",
-        "number": 142,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Comet Observatory",
-        "number": 140,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bowser's Kingdom",
-        "number": 139,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Smithy's Stolen Keep",
         "number": 143,
         "shape": "normal",
         "set": "SMB",
@@ -1316,8 +1297,142 @@
         "position": ""
     },
     {
-        "card_name": "Yoshi's Island",
+        "card_name": "Comet Observatory",
+        "number": 141,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bowser's Kingdom",
+        "number": 140,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Smithy's Stolen Keep",
         "number": 144,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Yoshi's Island",
+        "number": 145,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "New Donk City Hall",
+        "number": 151,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ghost House",
+        "number": 149,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flame Pipe",
+        "number": 148,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glitz Pit",
+        "number": 150,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toad Town",
+        "number": 154,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Dry Dry Desert",
+        "number": 147,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pagoda Peak",
+        "number": 152,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vim Factory",
+        "number": 155,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spiky Palms",
+        "number": 153,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Delfino Plaza",
+        "number": 146,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1340,8 +1455,156 @@
     },
     {
         "card_name": "Maker Course",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 156,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Stages and Worlds",
+        "number": 1,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 9,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 10,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Junior's Clown Car",
+        "number": 1,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion",
+        "number": 2,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion",
+        "number": 3,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion",
+        "number": 4,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion",
+        "number": 5,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion Army",
+        "number": 6,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit Minion",
+        "number": 7,
+        "shape": "token",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Turtle Minion",
+        "number": 8,
+        "shape": "token",
         "set": "SMB",
         "rotated": false,
         "position": ""

@@ -1,4 +1,44 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Luigi Logic added.
+Delfino Plaza added.
+Dry Dry Desert added.
+Flame Pipe added.
+Ghost House added.
+Glitz Pit added.
+New Donk City Hall added.
+Pagoda Peak added.
+Spiky Palms added.
+Toad Town added.
+Vim Factory added.
+Junior's Clown Car added.
+Minion added.
+Minion added.
+Minion added.
+Minion added.
+Minion Army added.
+Spirit Minion added.
+Turtle Minion added.
+Treasure added.
+Treasure added.
+Stages and Worlds added.
+
+
+Coin Rush
+rules_text: Creatures you control have haste.
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Creatures you control have haste.
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+DK, Core Delver
+rules_text: Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn. => Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
