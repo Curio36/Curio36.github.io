@@ -246,7 +246,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 		<card>
 			<name>Fire Bro</name>
 			<text>When this creature enters, it deals 2 damage to target player or planeswalker.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/70_Fire Bro.png" num="70">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/69_Fire Bro.png" num="69">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -264,7 +264,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 			<name>Birdo, Egg Bombardier</name>
 			<text>Birdo can&apos;t be blocked except by X or more creatures, where X is two plus the number of permanents attached to her.
 Whenever Birdo deals combat damage to an opponent for the first time each turn, untap another target creature you control. There&apos;s an additional combat phase after this phase.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/61_Birdo, Egg Bombardier.png" num="61">SMB</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/60_Birdo, Egg Bombardier.png" num="60">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -281,7 +281,7 @@ Whenever Birdo deals combat damage to an opponent for the first time each turn, 
 		<card>
 			<name>Boom Boom, Henchturtle</name>
 			<text>First strike, trample, haste</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/65_Boom Boom, Henchturtle.png" num="65">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/64_Boom Boom, Henchturtle.png" num="64">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -300,7 +300,7 @@ Whenever Birdo deals combat damage to an opponent for the first time each turn, 
 			<text>Flying
 Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
 Whenever you cast an artifact, Minion, or Noble spell, Lakithunder deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/76_Lakithunder, Lakitu Boss.png" num="76">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/75_Lakithunder, Lakitu Boss.png" num="75">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -319,7 +319,7 @@ Whenever you cast an artifact, Minion, or Noble spell, Lakithunder deals 1 damag
 			<text>Enchant creature or Vehicle you control
 Enchanted permanent has menace.
 When this Aura enters and whenever enchanted permanent becomes tapped, you may discard a card. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/75_Karter&apos;s Focus.png" num="75">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/74_Karter&apos;s Focus.png" num="74">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1313,7 +1313,7 @@ Whenever one or more creatures you control deal combat damage to an opponent, th
 			<name>Crushing Thwomps</name>
 			<text>Trample
 Expendable 2 (When this creature dies, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/68_Crushing Thwomps.png" num="68">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/67_Crushing Thwomps.png" num="67">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1331,7 +1331,7 @@ Expendable 2 (When this creature dies, create a 2/2 black Minion creature token 
 			<name>Fire Piranha</name>
 			<text>Reach
 {2}{R}: This creature gets +2/+0 until end of turn. If mana from a Treasure was spent to activate this ability, create a Treasure token.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/72_Fire Piranha.png" num="72">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/71_Fire Piranha.png" num="71">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1349,7 +1349,7 @@ Expendable 2 (When this creature dies, create a 2/2 black Minion creature token 
 			<name>Monty Mole</name>
 			<text>First strike, haste
 This creature can&apos;t be blocked by creatures with flying.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/78_Monty Mole.png" num="78">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/77_Monty Mole.png" num="77">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1385,7 +1385,7 @@ This creature can&apos;t be blocked by creatures with flying.</text>
 			<name>Bob-omb</name>
 			<text>Whenever this creature attacks, put a fuse counter on it. Then you may sacrifice this creature.
 When this creature dies, it deals damage equal to the number of fuse counters on it to target opponent.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/62_Bob-omb.png" num="62">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/61_Bob-omb.png" num="61">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1403,7 +1403,7 @@ When this creature dies, it deals damage equal to the number of fuse counters on
 			<name>Bob-ombs Away!!</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Bob-ombs Away!! deals damage equal to the sacrificed creature&apos;s power divided as you choose among one or two targets.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/63_Bob-ombs Away!!.png" num="63">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/62_Bob-ombs Away!!.png" num="62">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1421,7 +1421,7 @@ Bob-ombs Away!! deals damage equal to the sacrificed creature&apos;s power divid
 			<text>Enchant creature
 Enchanted creature gets +1/+0 and has &quot;Whenever this creature becomes blocked, it deals damage equal to its power divided as you choose among the creatures blocking it.&quot;
 Stock (You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/71_Fire Flower.png" num="71">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/70_Fire Flower.png" num="70">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1439,7 +1439,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 			<text>When Goombario enters, you may discard a card. If you do, draw a card.
 Charge — {2}{R}: Goombario gets +2/+0 until end of turn.
 Multibonk — {1}{R}: Goombaria gains double strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/74_Goombario, Mario&apos;s Friend.png" num="74">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/73_Goombario, Mario&apos;s Friend.png" num="73">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1475,7 +1475,7 @@ Whenever an opponent casts a spell with one or more targets, this creature deals
 			<name>Coin Coffer</name>
 			<text>Menace
 Whenever this creature is dealt damage, create that many tapped Treasure tokens.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/67_Coin Coffer.png" num="67">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/66_Coin Coffer.png" num="66">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1493,7 +1493,7 @@ Whenever this creature is dealt damage, create that many tapped Treasure tokens.
 			<name>Bombette, Bombastic Starlet</name>
 			<text>When Bombette enters or is sacrificed, destroy up to one target artifact or nonbasic land. If a nonbasic land was destroyed this way, its controller may search their library for a basic land, put it onto the battlefield tapped, then shuffle.
 {2}{R}{R}: Sacrifice Bombette.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/64_Bombette, Bombastic Starlet.png" num="64">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/63_Bombette, Bombastic Starlet.png" num="63">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1511,7 +1511,7 @@ Whenever this creature is dealt damage, create that many tapped Treasure tokens.
 			<name>Dancer Mario</name>
 			<text>Ward—Pay 6 life.
 Whenever one or more Heroes and/or Nobles you control deal combat damage to a player, exile the top card of your library. If you exiled a land this way, put a +1/+1 counter on Dancer Mario. Otherwise, you may cast that spell without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/69_Dancer Mario.png" num="69">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/68_Dancer Mario.png" num="68">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1528,7 +1528,7 @@ Whenever one or more Heroes and/or Nobles you control deal combat damage to a pl
 		<card>
 			<name>March of the Minis</name>
 			<text>For each creature you control, create a token that&apos;s a copy of that creature except it&apos;s a 1/1 Toy artifact in addition to its other types, it has haste, and it isn&apos;t legendary. At the beginning of your next end step, sacrifice each of those tokens.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/77_March of the Minis.png" num="77">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/76_March of the Minis.png" num="76">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1544,7 +1544,7 @@ Whenever one or more Heroes and/or Nobles you control deal combat damage to a pl
 		<card>
 			<name>Bullet Bill Blaster</name>
 			<text>Whenever you attack, put a bomber counter on this artifact, then create a 1/1 red Construct Minion artifact creature token with flying and &quot;At the beginning of your end step, sacrifice this token&quot; that&apos;s tapped and attacking. Then if this artifact has three or more bomber counters on it, put two +1/+1 counters on that token.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/66_Bullet Bill Blaster.png" num="66">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/65_Bullet Bill Blaster.png" num="65">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1614,7 +1614,7 @@ Exhaust — {4}{R}, {T}: Create a token that&apos;s a copy of target artifact or
 			<name>Back Alley Rex</name>
 			<text>Haste
 When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is the number of Treasures you&apos;ve sacrificed this turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/60_Back Alley Rex.png" num="60">SMB</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/59_Back Alley Rex.png" num="59">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2504,10 +2504,10 @@ Whenever another creature you control enters, you gain 1 life.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>? Block</name>
+			<name>Question Mark Block</name>
 			<text>This artifact enters with three coin counters on it.
 {T}, Remove a coin counter from this artifact: Create a tapped Treasure token. Then if this artifact has no coin counters on it, sacrifice it and exile the top two cards of your library. You may play those cards until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/59_? Block.png" num="59">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/78_Question Mark Block.png" num="78">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2524,7 +2524,7 @@ Whenever another creature you control enters, you gain 1 life.</text>
 			<name>Firebrand Mario</name>
 			<text>When Firebrand Mario enters, create a Super token attached to him. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)
 Whenever Firebrand Mario deals combat damage to an opponent, you may sacrifice an Aura. If you do, destroy target artifact that player controls.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/73_Firebrand Mario.png" num="73">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/72_Firebrand Mario.png" num="72">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

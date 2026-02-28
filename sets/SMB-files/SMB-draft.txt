@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Turtle Minion",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/70_Fire Bro.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/69_Fire Bro.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Dinosaur Athlete",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/61_Birdo, Egg Bombardier.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/60_Birdo, Egg Bombardier.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Turtle Minion",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/65_Boom Boom, Henchturtle.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/64_Boom Boom, Henchturtle.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Turtle Minion",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/76_Lakithunder, Lakitu Boss.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/75_Lakithunder, Lakitu Boss.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/75_Karter's Focus.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/74_Karter's Focus.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Elemental Minion",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/68_Crushing Thwomps.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/67_Crushing Thwomps.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Plant Minion",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/72_Fire Piranha.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/71_Fire Piranha.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Mole Minion",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/78_Monty Mole.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/77_Monty Mole.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Construct Minion",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/62_Bob-omb.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/61_Bob-omb.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Instant",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/63_Bob-ombs Away!!.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/62_Bob-ombs Away!!.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/71_Fire Flower.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/70_Fire Flower.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Fungus Hero",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/74_Goombario, Mario's Friend.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/73_Goombario, Mario's Friend.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Frog",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/67_Coin Coffer.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/66_Coin Coffer.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Artifact Creature — Construct Hero",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/64_Bombette, Bombastic Starlet.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/63_Bombette, Bombastic Starlet.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Human Hero Performer",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/69_Dancer Mario.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/68_Dancer Mario.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/77_March of the Minis.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/76_March of the Minis.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/66_Bullet Bill Blaster.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/65_Bullet Bill Blaster.png"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}{R}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/60_Back Alley Rex.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/59_Back Alley Rex.png"
 			}
 		},
 		{
@@ -1391,13 +1391,13 @@
 			}
 		},
 		{
-			"name": "? Block",
+			"name": "Question Mark Block",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact",
-			"collector_number": "59",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/59_? Block.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/78_Question Mark Block.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/73_Firebrand Mario.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/72_Firebrand Mario.png"
 			}
 		},
 		{
@@ -1784,7 +1784,7 @@
 	4 Toadette, Princess's Favored
 	4 Tutankoopa, Pyramid Wizard
 	4 Dr. Goomba Tower
-	4 ? Block
+	4 Question Mark Block
 	4 Firebrand Mario
 	4 Raging Broozer
 	4 Luigi Logic
@@ -2012,7 +2012,7 @@
 	6 Tutankoopa, Pyramid Wizard
 	6 Dr. Goomba Tower
 	12 Viral Outbreak
-	6 ? Block
+	6 Question Mark Block
 	6 Firebrand Mario
 	12 Super Mushroom
 	1 Super Mario Bros
@@ -2168,7 +2168,7 @@
 	15 Tutankoopa, Pyramid Wizard
 	15 Dr. Goomba Tower
 	6 Viral Outbreak
-	15 ? Block
+	15 Question Mark Block
 	15 Firebrand Mario
 	6 Super Mushroom
 	4 Super Mario Bros

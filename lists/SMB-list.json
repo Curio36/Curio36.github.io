@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Back Alley Rex",
-        "number": 60,
+        "number": 59,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Birdo, Egg Bombardier",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Bombette, Bombastic Starlet",
-        "number": 64,
+        "number": 63,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Bullet Bill Blaster",
-        "number": 66,
+        "number": 65,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Dancer Mario",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "March of the Minis",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -344,8 +344,8 @@
         "position": ""
     },
     {
-        "card_name": "? Block",
-        "number": 59,
+        "card_name": "Bob-omb",
+        "number": 61,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -384,7 +384,7 @@
         "position": ""
     },
     {
-        "card_name": "Bob-omb",
+        "card_name": "Bob-ombs Away!!",
         "number": 62,
         "shape": "normal",
         "set": "SMB",
@@ -424,8 +424,8 @@
         "position": ""
     },
     {
-        "card_name": "Bob-ombs Away!!",
-        "number": 63,
+        "card_name": "Boom Boom, Henchturtle",
+        "number": 64,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -464,8 +464,8 @@
         "position": ""
     },
     {
-        "card_name": "Boom Boom, Henchturtle",
-        "number": 65,
+        "card_name": "Coin Coffer",
+        "number": 66,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -504,8 +504,8 @@
         "position": ""
     },
     {
-        "card_name": "Coin Coffer",
-        "number": 67,
+        "card_name": "Fire Flower",
+        "number": 70,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -544,8 +544,8 @@
         "position": ""
     },
     {
-        "card_name": "Fire Flower",
-        "number": 71,
+        "card_name": "Firebrand Mario",
+        "number": 72,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -584,7 +584,7 @@
         "position": ""
     },
     {
-        "card_name": "Firebrand Mario",
+        "card_name": "Goombario, Mario's Friend",
         "number": 73,
         "shape": "normal",
         "set": "SMB",
@@ -624,7 +624,7 @@
         "position": ""
     },
     {
-        "card_name": "Goombario, Mario's Friend",
+        "card_name": "Karter's Focus",
         "number": 74,
         "shape": "normal",
         "set": "SMB",
@@ -664,7 +664,7 @@
         "position": ""
     },
     {
-        "card_name": "Karter's Focus",
+        "card_name": "Lakithunder, Lakitu Boss",
         "number": 75,
         "shape": "normal",
         "set": "SMB",
@@ -704,8 +704,8 @@
         "position": ""
     },
     {
-        "card_name": "Lakithunder, Lakitu Boss",
-        "number": 76,
+        "card_name": "Question Mark Block",
+        "number": 78,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -765,7 +765,7 @@
     },
     {
         "card_name": "Crushing Thwomps",
-        "number": 68,
+        "number": 67,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -785,7 +785,7 @@
     },
     {
         "card_name": "Fire Bro",
-        "number": 70,
+        "number": 69,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -805,7 +805,7 @@
     },
     {
         "card_name": "Fire Piranha",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -825,7 +825,7 @@
     },
     {
         "card_name": "Monty Mole",
-        "number": 78,
+        "number": 77,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,

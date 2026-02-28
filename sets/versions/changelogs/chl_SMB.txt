@@ -1,4 +1,12 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Question Mark Block added.
+
+? Block removed.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Luigi Logic added.
