@@ -1,0 +1,620 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Bobbery, Salty Sea Dog",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Artifact Creature — Construct Hero",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/17_Bobbery, Salty Sea Dog.png"
+			}
+		},
+		{
+			"name": "3-Up Moon",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/1_3-Up Moon.png"
+			}
+		},
+		{
+			"name": "Reserve Box",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/6_Reserve Box.png"
+			}
+		},
+		{
+			"name": "Double Cherries",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/18_Double Cherries.png"
+			}
+		},
+		{
+			"name": "Lava Moat Blargg",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Elemental Dinosaur Minion",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/19_Lava Moat Blargg.png"
+			}
+		},
+		{
+			"name": "Captive Peach",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/31_Captive Peach.png"
+			}
+		},
+		{
+			"name": "Robot Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot Minion",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/1t_Robot Minion.png"
+			}
+		},
+		{
+			"name": "Yoshi Kid",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Dinosaur Hero",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/45_Yoshi Kid.png"
+			}
+		},
+		{
+			"name": "Kooper, Power Shell",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Turtle Warrior Hero",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/38_Kooper, Power Shell.png"
+			}
+		},
+		{
+			"name": "Watt, Baby Spark",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Elemental Hero",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/24_Watt, Baby Spark.png"
+			}
+		},
+		{
+			"name": "Lakilester, Cool Cloud Rider",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Turtle Hero",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/3_Lakilester, Cool Cloud Rider.png"
+			}
+		},
+		{
+			"name": "Turtle Egg",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Turtle Egg",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/2t_Turtle Egg.png"
+			}
+		},
+		{
+			"name": "Tippi, Helpful Pixl",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Faerie Hero",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/7_Tippi, Helpful Pixl.png"
+			}
+		},
+		{
+			"name": "Mallow, Lost Prince",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Elemental Hero Noble",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/40_Mallow, Lost Prince.png"
+			}
+		},
+		{
+			"name": "Geno, Star-Powered Puppet",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Artifact Creature — Toy Hero",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/35_Geno, Star-Powered Puppet.png"
+			}
+		},
+		{
+			"name": "Mario, Superstar",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/41_Mario, Superstar.png"
+			}
+		},
+		{
+			"name": "Luigi, Second Banana",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/39_Luigi, Second Banana.png"
+			}
+		},
+		{
+			"name": "Bowser, King Koopa",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Dragon Turtle Noble",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/29_Bowser, King Koopa.png"
+			}
+		},
+		{
+			"name": "Duck Hunt Duo",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Bird Dog Ranger",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/32_Duck Hunt Duo.png"
+			}
+		},
+		{
+			"name": "Vivian, Shadow Sister",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Shade Warlock Hero",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/44_Vivian, Shadow Sister.png"
+			}
+		},
+		{
+			"name": "Ganondorf, Evil King",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Human Noble Warlock",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/34_Ganondorf, Evil King.png"
+			}
+		},
+		{
+			"name": "The Fabled Giga Bell",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/33_The Fabled Giga Bell.png"
+			}
+		},
+		{
+			"name": "Bowser's Chance Time",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/30_Bowser's Chance Time.png"
+			}
+		},
+		{
+			"name": "The Koopalings, Mean Mob",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Turtle Minion",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/37_The Koopalings, Mean Mob.png"
+			}
+		},
+		{
+			"name": "Kamek, Chief Magikoopa",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Turtle Wizard Minion",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/36_Kamek, Chief Magikoopa.png"
+			}
+		},
+		{
+			"name": "Super Princess Peach",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/43_Super Princess Peach.png"
+			}
+		},
+		{
+			"name": "Prince Peasley, Flamboyant Bean",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Plant Noble Hero",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/42_Prince Peasley, Flamboyant Bean.png"
+			}
+		},
+		{
+			"name": "Castle Bunny",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Rabbit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/2_Castle Bunny.png"
+			}
+		},
+		{
+			"name": "Peach's Blessing",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/4_Peach's Blessing.png"
+			}
+		},
+		{
+			"name": "Princess Peach, Toadstool Ruler",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/5_Princess Peach, Toadstool Ruler.png"
+			}
+		},
+		{
+			"name": "Toad, Mushroom Steward",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Fungus Advisor",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/8_Toad, Mushroom Steward.png"
+			}
+		},
+		{
+			"name": "Circuit Statues",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct Hero Noble",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/9_Circuit Statues.png"
+			}
+		},
+		{
+			"name": "E. Gadd, Nutty Professor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/10_E. Gadd, Nutty Professor.png"
+			}
+		},
+		{
+			"name": "Luigi, Best Bro",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/11_Luigi, Best Bro.png"
+			}
+		},
+		{
+			"name": "Luigi's Determination",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/12_Luigi's Determination.png"
+			}
+		},
+		{
+			"name": "Biddybud Battalion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Minion",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/13_Biddybud Battalion.png"
+			}
+		},
+		{
+			"name": "Bowser, Monstrous King",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Dragon Turtle Noble",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/14_Bowser, Monstrous King.png"
+			}
+		},
+		{
+			"name": "Bowser's Brutality",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/15_Bowser's Brutality.png"
+			}
+		},
+		{
+			"name": "Wonder Bowser Jr.",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Dragon Turtle Noble",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/16_Wonder Bowser Jr..png"
+			}
+		},
+		{
+			"name": "Mario's Courage",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/20_Mario's Courage.png"
+			}
+		},
+		{
+			"name": "Princess Daisy, Tomboy Biker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Noble Pilot",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/21_Princess Daisy, Tomboy Biker.png"
+			}
+		},
+		{
+			"name": "Red Yoshi",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur Hero",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/22_Red Yoshi.png"
+			}
+		},
+		{
+			"name": "Super Mario",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/23_Super Mario.png"
+			}
+		},
+		{
+			"name": "Diddy Kong, Best Buddy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Monkey Hero",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/25_Diddy Kong, Best Buddy.png"
+			}
+		},
+		{
+			"name": "DK, Gorilla Great",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Ape Hero",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/26_DK, Gorilla Great.png"
+			}
+		},
+		{
+			"name": "DK's Jungle Beatdown",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/27_DK's Jungle Beatdown.png"
+			}
+		},
+		{
+			"name": "Rhino Pal",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Rhino Hero",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/28_Rhino Pal.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Bobbery, Salty Sea Dog
+	1 3-Up Moon
+	2 Reserve Box
+	2 Double Cherries
+	2 Captive Peach
+	2 Kooper, Power Shell
+	2 Watt, Baby Spark
+	2 Lakilester, Cool Cloud Rider
+	2 Mallow, Lost Prince
+	2 Geno, Star-Powered Puppet
+	1 Mario, Superstar
+	1 Luigi, Second Banana
+	1 Bowser, King Koopa
+	1 Duck Hunt Duo
+	2 Vivian, Shadow Sister
+	1 Ganondorf, Evil King
+	2 The Fabled Giga Bell
+	2 Bowser's Chance Time
+	1 The Koopalings, Mean Mob
+	1 Kamek, Chief Magikoopa
+	1 Super Princess Peach
+	2 Prince Peasley, Flamboyant Bean
+	2 Peach's Blessing
+	1 Princess Peach, Toadstool Ruler
+	1 Luigi, Best Bro
+	2 Luigi's Determination
+	1 Bowser, Monstrous King
+	2 Bowser's Brutality
+	2 Mario's Courage
+	1 Super Mario
+	1 DK, Gorilla Great
+	2 DK's Jungle Beatdown
+[uncommon(3)]
+	4 Lava Moat Blargg
+	4 Yoshi Kid
+	4 Tippi, Helpful Pixl
+	4 Toad, Mushroom Steward
+	4 E. Gadd, Nutty Professor
+	4 Wonder Bowser Jr.
+	4 Princess Daisy, Tomboy Biker
+	4 Diddy Kong, Best Buddy
+[common(6)]
+	8 Castle Bunny
+	8 Circuit Statues
+	8 Biddybud Battalion
+	8 Red Yoshi
+	8 Rhino Pal
+[common | masterpiece(1)]
+	8 Castle Bunny
+	8 Circuit Statues
+	8 Biddybud Battalion
+	8 Red Yoshi
+	8 Rhino Pal
+[foil(1)]
+	2 Bobbery, Salty Sea Dog
+	1 3-Up Moon
+	2 Reserve Box
+	2 Double Cherries
+	6 Lava Moat Blargg
+	2 Captive Peach
+	6 Yoshi Kid
+	2 Kooper, Power Shell
+	2 Watt, Baby Spark
+	2 Lakilester, Cool Cloud Rider
+	6 Tippi, Helpful Pixl
+	2 Mallow, Lost Prince
+	2 Geno, Star-Powered Puppet
+	1 Mario, Superstar
+	1 Luigi, Second Banana
+	1 Bowser, King Koopa
+	1 Duck Hunt Duo
+	2 Vivian, Shadow Sister
+	1 Ganondorf, Evil King
+	2 The Fabled Giga Bell
+	2 Bowser's Chance Time
+	1 The Koopalings, Mean Mob
+	1 Kamek, Chief Magikoopa
+	1 Super Princess Peach
+	2 Prince Peasley, Flamboyant Bean
+	12 Castle Bunny
+	2 Peach's Blessing
+	1 Princess Peach, Toadstool Ruler
+	6 Toad, Mushroom Steward
+	12 Circuit Statues
+	6 E. Gadd, Nutty Professor
+	1 Luigi, Best Bro
+	2 Luigi's Determination
+	12 Biddybud Battalion
+	1 Bowser, Monstrous King
+	2 Bowser's Brutality
+	6 Wonder Bowser Jr.
+	2 Mario's Courage
+	6 Princess Daisy, Tomboy Biker
+	12 Red Yoshi
+	1 Super Mario
+	6 Diddy Kong, Best Buddy
+	1 DK, Gorilla Great
+	2 DK's Jungle Beatdown
+	12 Rhino Pal
+[wildcard(1)]
+	7 Bobbery, Salty Sea Dog
+	4 3-Up Moon
+	7 Reserve Box
+	7 Double Cherries
+	15 Lava Moat Blargg
+	7 Captive Peach
+	15 Yoshi Kid
+	7 Kooper, Power Shell
+	7 Watt, Baby Spark
+	7 Lakilester, Cool Cloud Rider
+	15 Tippi, Helpful Pixl
+	7 Mallow, Lost Prince
+	7 Geno, Star-Powered Puppet
+	4 Mario, Superstar
+	4 Luigi, Second Banana
+	4 Bowser, King Koopa
+	4 Duck Hunt Duo
+	7 Vivian, Shadow Sister
+	4 Ganondorf, Evil King
+	7 The Fabled Giga Bell
+	7 Bowser's Chance Time
+	4 The Koopalings, Mean Mob
+	4 Kamek, Chief Magikoopa
+	4 Super Princess Peach
+	7 Prince Peasley, Flamboyant Bean
+	6 Castle Bunny
+	7 Peach's Blessing
+	4 Princess Peach, Toadstool Ruler
+	15 Toad, Mushroom Steward
+	6 Circuit Statues
+	15 E. Gadd, Nutty Professor
+	4 Luigi, Best Bro
+	7 Luigi's Determination
+	6 Biddybud Battalion
+	4 Bowser, Monstrous King
+	7 Bowser's Brutality
+	15 Wonder Bowser Jr.
+	7 Mario's Courage
+	15 Princess Daisy, Tomboy Biker
+	6 Red Yoshi
+	4 Super Mario
+	15 Diddy Kong, Best Buddy
+	4 DK, Gorilla Great
+	7 DK's Jungle Beatdown
+	6 Rhino Pal

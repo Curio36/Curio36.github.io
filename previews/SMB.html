@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/SMB-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>SMB visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/SMB-files/logo.png" />
+	<img class="preload-hidden" src="../sets/SMB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SMC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVN-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/SMB"><img src="../sets/SMB-files/icon.png">Magic the Gathering | Super Mario Brothers </a>
+	
+		<a class="set-bar inactive" href="../previews/SMC"><img src="../sets/SMC-files/icon.png">Super Mario Brothers Eternal</a>
+	
+		<a class="set-bar inactive" href="../previews/TVC"><img src="../sets/TVC-files/icon.png">Titans of Viludin Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/TVN"><img src="../sets/TVN-files/icon.png">Titans of Viludin</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/SMB-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\SMB-files\img\9_The Honey Queen.png" id="SMB_9_The Honey Queen" data-flag="@X" onclick="openSidebar('SMB_9_The Honey Queen',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\24_Cappy, Capture Companion.png" id="SMB_24_Cappy, Capture Companion" data-flag="@X" onclick="openSidebar('SMB_24_Cappy, Capture Companion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\44_King Boo.png" id="SMB_44_King Boo" data-flag="@X" onclick="openSidebar('SMB_44_King Boo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\60_Back Alley Rex.png" id="SMB_60_Back Alley Rex" data-flag="@X" onclick="openSidebar('SMB_60_Back Alley Rex',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\86_Gooigi Canister.png" id="SMB_86_Gooigi Canister" data-flag="@X" onclick="openSidebar('SMB_86_Gooigi Canister',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\7_Dr. Mario.png" id="SMB_7_Dr. Mario" data-flag="@X" onclick="openSidebar('SMB_7_Dr. Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\21_Aggressive Maw-Ray.png" id="SMB_21_Aggressive Maw-Ray" data-flag="@X" onclick="openSidebar('SMB_21_Aggressive Maw-Ray',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\58_Wario, Greedy Antihero.png" id="SMB_58_Wario, Greedy Antihero" data-flag="@X" onclick="openSidebar('SMB_58_Wario, Greedy Antihero',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\61_Birdo, Egg Bombardier.png" id="SMB_61_Birdo, Egg Bombardier" data-flag="@X" onclick="openSidebar('SMB_61_Birdo, Egg Bombardier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\96_Rock Mario.png" id="SMB_96_Rock Mario" data-flag="@X" onclick="openSidebar('SMB_96_Rock Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\8_End of Sammer's Kingdom.png" id="SMB_8_End of Sammers Kingdom" data-flag="@X" onclick="openSidebar('SMB_8_End of Sammers Kingdom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\30_Madame Flurrie, Charming.png" id="SMB_30_Madame Flurrie, Charming" data-flag="@X" onclick="openSidebar('SMB_30_Madame Flurrie, Charming',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\41_Bowser's Clown Car.png" id="SMB_41_Bowsers Clown Car" data-flag="@X" onclick="openSidebar('SMB_41_Bowsers Clown Car',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\64_Bombette, Bombastic Starlet.png" id="SMB_64_Bombette, Bombastic Starlet" data-flag="@X" onclick="openSidebar('SMB_64_Bombette, Bombastic Starlet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\84_Blue and Yellow, Elite Toads.png" id="SMB_84_Blue and Yellow, Elite Toads" data-flag="@X" onclick="openSidebar('SMB_84_Blue and Yellow, Elite Toads',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\18_Swordfighter Peach.png" id="SMB_18_Swordfighter Peach" data-flag="@X" onclick="openSidebar('SMB_18_Swordfighter Peach',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\34_Penguin Mario.png" id="SMB_34_Penguin Mario" data-flag="@X" onclick="openSidebar('SMB_34_Penguin Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\42_Cosmic Mario.png" id="SMB_42_Cosmic Mario" data-flag="@X" onclick="openSidebar('SMB_42_Cosmic Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\66_Bullet Bill Blaster.png" id="SMB_66_Bullet Bill Blaster" data-flag="@X" onclick="openSidebar('SMB_66_Bullet Bill Blaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\85_Elephant Mario.png" id="SMB_85_Elephant Mario" data-flag="@X" onclick="openSidebar('SMB_85_Elephant Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\5_Cat Mario.png" id="SMB_5_Cat Mario" data-flag="@X" onclick="openSidebar('SMB_5_Cat Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\23_Cape Mario.png" id="SMB_23_Cape Mario" data-flag="@X" onclick="openSidebar('SMB_23_Cape Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\47_Mad Piano.png" id="SMB_47_Mad Piano" data-flag="@X" onclick="openSidebar('SMB_47_Mad Piano',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\69_Dancer Mario.png" id="SMB_69_Dancer Mario" data-flag="@X" onclick="openSidebar('SMB_69_Dancer Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\88_Gutsy Galoomba.png" id="SMB_88_Gutsy Galoomba" data-flag="@X" onclick="openSidebar('SMB_88_Gutsy Galoomba',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\6_Dr. Goomba Tower.png" id="SMB_6_Dr. Goomba Tower" data-flag="@X" onclick="openSidebar('SMB_6_Dr. Goomba Tower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\25_Cheep Cheep.png" id="SMB_25_Cheep Cheep" data-flag="@X" onclick="openSidebar('SMB_25_Cheep Cheep',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\43_Dry Bones.png" id="SMB_43_Dry Bones" data-flag="@X" onclick="openSidebar('SMB_43_Dry Bones',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\77_March of the Minis.png" id="SMB_77_March of the Minis" data-flag="@X" onclick="openSidebar('SMB_77_March of the Minis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\91_Luigi, Frightened Vacuumeer.png" id="SMB_91_Luigi, Frightened Vacuumeer" data-flag="@X" onclick="openSidebar('SMB_91_Luigi, Frightened Vacuumeer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\10_Jump Up, Super Star!.png" id="SMB_10_Jump Up, Super Star!" data-flag="@X" onclick="openSidebar('SMB_10_Jump Up, Super Star!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\26_Frog Suit.png" id="SMB_26_Frog Suit" data-flag="@X" onclick="openSidebar('SMB_26_Frog Suit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\45_Kleptomaniac Condor.png" id="SMB_45_Kleptomaniac Condor" data-flag="@X" onclick="openSidebar('SMB_45_Kleptomaniac Condor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\80_Strong-Arm Chuckster.png" id="SMB_80_Strong-Arm Chuckster" data-flag="@X" onclick="openSidebar('SMB_80_Strong-Arm Chuckster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\92_Mega Mushroom.png" id="SMB_92_Mega Mushroom" data-flag="@X" onclick="openSidebar('SMB_92_Mega Mushroom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\11_Koopa Paratroopa.png" id="SMB_11_Koopa Paratroopa" data-flag="@X" onclick="openSidebar('SMB_11_Koopa Paratroopa',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\27_Goombella, Archaeology Student.png" id="SMB_27_Goombella, Archaeology Student" data-flag="@X" onclick="openSidebar('SMB_27_Goombella, Archaeology Student',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\50_Ms. Mowz, Flirty Thief.png" id="SMB_50_Ms. Mowz, Flirty Thief" data-flag="@X" onclick="openSidebar('SMB_50_Ms. Mowz, Flirty Thief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\81_Unchained Chomp.png" id="SMB_81_Unchained Chomp" data-flag="@X" onclick="openSidebar('SMB_81_Unchained Chomp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\94_Peewee Piranha, Temperamental.png" id="SMB_94_Peewee Piranha, Temperamental" data-flag="@X" onclick="openSidebar('SMB_94_Peewee Piranha, Temperamental',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\12_Koops, Timid Turtle.png" id="SMB_12_Koops, Timid Turtle" data-flag="@X" onclick="openSidebar('SMB_12_Koops, Timid Turtle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\28_Helpful Water Dragon.png" id="SMB_28_Helpful Water Dragon" data-flag="@X" onclick="openSidebar('SMB_28_Helpful Water Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\51_Poisonous Mushroom.png" id="SMB_51_Poisonous Mushroom" data-flag="@X" onclick="openSidebar('SMB_51_Poisonous Mushroom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\59_? Block.png" id="SMB_59_? Block" data-flag="@X" onclick="openSidebar('SMB_59_? Block',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\95_Potted Uproot.png" id="SMB_95_Potted Uproot" data-flag="@X" onclick="openSidebar('SMB_95_Potted Uproot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\13_Parakarry, Mailman.png" id="SMB_13_Parakarry, Mailman" data-flag="@X" onclick="openSidebar('SMB_13_Parakarry, Mailman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\29_The Ice Vellumental.png" id="SMB_29_The Ice Vellumental" data-flag="@X" onclick="openSidebar('SMB_29_The Ice Vellumental',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\52_Raging Broozer.png" id="SMB_52_Raging Broozer" data-flag="@X" onclick="openSidebar('SMB_52_Raging Broozer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\62_Bob-omb.png" id="SMB_62_Bob-omb" data-flag="@X" onclick="openSidebar('SMB_62_Bob-omb',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\97_Towering Pokey.png" id="SMB_97_Towering Pokey" data-flag="@X" onclick="openSidebar('SMB_97_Towering Pokey',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\14_Pipe Cork.png" id="SMB_14_Pipe Cork" data-flag="@X" onclick="openSidebar('SMB_14_Pipe Cork',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\31_Magic Whistle.png" id="SMB_31_Magic Whistle" data-flag="@X" onclick="openSidebar('SMB_31_Magic Whistle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\53_Skeleton Mario.png" id="SMB_53_Skeleton Mario" data-flag="@X" onclick="openSidebar('SMB_53_Skeleton Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\63_Bob-ombs Away!!.png" id="SMB_63_Bob-ombs Away!!" data-flag="@X" onclick="openSidebar('SMB_63_Bob-ombs Away!!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\98_Yoshi Steed.png" id="SMB_98_Yoshi Steed" data-flag="@X" onclick="openSidebar('SMB_98_Yoshi Steed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\15_Racetrack Lakitu.png" id="SMB_15_Racetrack Lakitu" data-flag="@X" onclick="openSidebar('SMB_15_Racetrack Lakitu',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\37_Sushie, Romantic Cheep.png" id="SMB_37_Sushie, Romantic Cheep" data-flag="@X" onclick="openSidebar('SMB_37_Sushie, Romantic Cheep',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\55_Tatanga, Mysterious Spaceman.png" id="SMB_55_Tatanga, Mysterious Spaceman" data-flag="@X" onclick="openSidebar('SMB_55_Tatanga, Mysterious Spaceman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\65_Boom Boom, Henchturtle.png" id="SMB_65_Boom Boom, Henchturtle" data-flag="@X" onclick="openSidebar('SMB_65_Boom Boom, Henchturtle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\83_3 MV Scuttlebug.png" id="SMB_83_3 MV Scuttlebug" data-flag="@X" onclick="openSidebar('SMB_83_3 MV Scuttlebug',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\16_Starlow, Guiding Voice.png" id="SMB_16_Starlow, Guiding Voice" data-flag="@X" onclick="openSidebar('SMB_16_Starlow, Guiding Voice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\39_Warp Cannons.png" id="SMB_39_Warp Cannons" data-flag="@X" onclick="openSidebar('SMB_39_Warp Cannons',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\57_Waluigi, Rude Racer.png" id="SMB_57_Waluigi, Rude Racer" data-flag="@X" onclick="openSidebar('SMB_57_Waluigi, Rude Racer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\67_Coin Coffer.png" id="SMB_67_Coin Coffer" data-flag="@X" onclick="openSidebar('SMB_67_Coin Coffer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\87_Goomba Stomp.png" id="SMB_87_Goomba Stomp" data-flag="@X" onclick="openSidebar('SMB_87_Goomba Stomp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\19_Toad House Assistant.png" id="SMB_19_Toad House Assistant" data-flag="@X" onclick="openSidebar('SMB_19_Toad House Assistant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\22_Camera Lakitu.png" id="SMB_22_Camera Lakitu" data-flag="@X" onclick="openSidebar('SMB_22_Camera Lakitu',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\40_Bowser's Big Suck.png" id="SMB_40_Bowsers Big Suck" data-flag="@X" onclick="openSidebar('SMB_40_Bowsers Big Suck',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\71_Fire Flower.png" id="SMB_71_Fire Flower" data-flag="@X" onclick="openSidebar('SMB_71_Fire Flower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\89_Hungry Maw-Maw.png" id="SMB_89_Hungry Maw-Maw" data-flag="@X" onclick="openSidebar('SMB_89_Hungry Maw-Maw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\2_2 MV Guard Broggy.png" id="SMB_2_2 MV Guard Broggy" data-flag="@X" onclick="openSidebar('SMB_2_2 MV Guard Broggy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\32_Mini Mushroom.png" id="SMB_32_Mini Mushroom" data-flag="@X" onclick="openSidebar('SMB_32_Mini Mushroom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\46_Koopa Troopa.png" id="SMB_46_Koopa Troopa" data-flag="@X" onclick="openSidebar('SMB_46_Koopa Troopa',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\73_Firebrand Mario.png" id="SMB_73_Firebrand Mario" data-flag="@X" onclick="openSidebar('SMB_73_Firebrand Mario',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\90_Into the Portrait.png" id="SMB_90_Into the Portrait" data-flag="@X" onclick="openSidebar('SMB_90_Into the Portrait',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\3_Bob-omb Buddy.png" id="SMB_3_Bob-omb Buddy" data-flag="@X" onclick="openSidebar('SMB_3_Bob-omb Buddy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\33_Nimble Ninji.png" id="SMB_33_Nimble Ninji" data-flag="@X" onclick="openSidebar('SMB_33_Nimble Ninji',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\48_Mischievous Bandits.png" id="SMB_48_Mischievous Bandits" data-flag="@X" onclick="openSidebar('SMB_48_Mischievous Bandits',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\74_Goombario, Mario's Friend.png" id="SMB_74_Goombario, Marios Friend" data-flag="@X" onclick="openSidebar('SMB_74_Goombario, Marios Friend',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\93_Patrolling Goomba.png" id="SMB_93_Patrolling Goomba" data-flag="@X" onclick="openSidebar('SMB_93_Patrolling Goomba',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\4_Captured Glydon.png" id="SMB_4_Captured Glydon" data-flag="@X" onclick="openSidebar('SMB_4_Captured Glydon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\35_Rip Van Fish.png" id="SMB_35_Rip Van Fish" data-flag="@X" onclick="openSidebar('SMB_35_Rip Van Fish',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\49_Mr. I.png" id="SMB_49_Mr. I" data-flag="@X" onclick="openSidebar('SMB_49_Mr. I',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\75_Karter's Focus.png" id="SMB_75_Karters Focus" data-flag="@X" onclick="openSidebar('SMB_75_Karters Focus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\99_Yoshi Tongue.png" id="SMB_99_Yoshi Tongue" data-flag="@X" onclick="openSidebar('SMB_99_Yoshi Tongue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\17_Super Mushroom.png" id="SMB_17_Super Mushroom" data-flag="@X" onclick="openSidebar('SMB_17_Super Mushroom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\36_Sidestepper.png" id="SMB_36_Sidestepper" data-flag="@X" onclick="openSidebar('SMB_36_Sidestepper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\54_Swoops Swarm.png" id="SMB_54_Swoops Swarm" data-flag="@X" onclick="openSidebar('SMB_54_Swoops Swarm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\76_Lakithunder, Lakitu Boss.png" id="SMB_76_Lakithunder, Lakitu Boss" data-flag="@X" onclick="openSidebar('SMB_76_Lakithunder, Lakitu Boss',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\20_Whacka Bump.png" id="SMB_20_Whacka Bump" data-flag="@X" onclick="openSidebar('SMB_20_Whacka Bump',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\38_Tattle.png" id="SMB_38_Tattle" data-flag="@X" onclick="openSidebar('SMB_38_Tattle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\56_Viral Outbreak.png" id="SMB_56_Viral Outbreak" data-flag="@X" onclick="openSidebar('SMB_56_Viral Outbreak',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\82_Woolly Sniffit.png" id="SMB_82_Woolly Sniffit" data-flag="@X" onclick="openSidebar('SMB_82_Woolly Sniffit',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\68_Crushing Thwomps.png" id="SMB_68_Crushing Thwomps" data-flag="@X" onclick="openSidebar('SMB_68_Crushing Thwomps',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\70_Fire Bro.png" id="SMB_70_Fire Bro" data-flag="@X" onclick="openSidebar('SMB_70_Fire Bro',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\72_Fire Piranha.png" id="SMB_72_Fire Piranha" data-flag="@X" onclick="openSidebar('SMB_72_Fire Piranha',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\78_Monty Mole.png" id="SMB_78_Monty Mole" data-flag="@X" onclick="openSidebar('SMB_78_Monty Mole',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\79_Shy Guy.png" id="SMB_79_Shy Guy" data-flag="@X" onclick="openSidebar('SMB_79_Shy Guy',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\115_Galaxy's Rebirth.png" id="SMB_115_Galaxys Rebirth" data-flag="@X" onclick="openSidebar('SMB_115_Galaxys Rebirth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\100_Antasma, Evil Bat King.png" id="SMB_100_Antasma, Evil Bat King" data-flag="@X" onclick="openSidebar('SMB_100_Antasma, Evil Bat King',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\119_King Bowser, the Mighty.png" id="SMB_119_King Bowser, the Mighty" data-flag="@X" onclick="openSidebar('SMB_119_King Bowser, the Mighty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\126_Petey Piranha.png" id="SMB_126_Petey Piranha" data-flag="@X" onclick="openSidebar('SMB_126_Petey Piranha',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\133_Toadsworth, Old Aid.png" id="SMB_133_Toadsworth, Old Aid" data-flag="@X" onclick="openSidebar('SMB_133_Toadsworth, Old Aid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\123_Merlee's Luck Spell.png" id="SMB_123_Merlees Luck Spell" data-flag="@X" onclick="openSidebar('SMB_123_Merlees Luck Spell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\101_Blooper Nanny.png" id="SMB_101_Blooper Nanny" data-flag="@X" onclick="openSidebar('SMB_101_Blooper Nanny',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\121_The Lord of Lightning.png" id="SMB_121_The Lord of Lightning" data-flag="@X" onclick="openSidebar('SMB_121_The Lord of Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\108_Coin Rush.png" id="SMB_108_Coin Rush" data-flag="@X" onclick="openSidebar('SMB_108_Coin Rush',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\130_Super Acorn.png" id="SMB_130_Super Acorn" data-flag="@X" onclick="openSidebar('SMB_130_Super Acorn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\125_Pauline, New Donk Mayor.png" id="SMB_125_Pauline, New Donk Mayor" data-flag="@X" onclick="openSidebar('SMB_125_Pauline, New Donk Mayor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\117_Kammy Koopa, the Brains.png" id="SMB_117_Kammy Koopa, the Brains" data-flag="@X" onclick="openSidebar('SMB_117_Kammy Koopa, the Brains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\118_King Bob-omb.png" id="SMB_118_King Bob-omb" data-flag="@X" onclick="openSidebar('SMB_118_King Bob-omb',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\111_DK, Core Delver.png" id="SMB_111_DK, Core Delver" data-flag="@X" onclick="openSidebar('SMB_111_DK, Core Delver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\132_Toadette, Princess's Favored.png" id="SMB_132_Toadette, Princesss Favored" data-flag="@X" onclick="openSidebar('SMB_132_Toadette, Princesss Favored',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\104_Bowser Jr., Punk Prince.png" id="SMB_104_Bowser Jr., Punk Prince" data-flag="@X" onclick="openSidebar('SMB_104_Bowser Jr., Punk Prince',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\106_Chargin' Chuck.png" id="SMB_106_Chargin Chuck" data-flag="@X" onclick="openSidebar('SMB_106_Chargin Chuck',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\107_Chincho Swarm.png" id="SMB_107_Chincho Swarm" data-flag="@X" onclick="openSidebar('SMB_107_Chincho Swarm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\122_Ludwig Von Koopa, Composer.png" id="SMB_122_Ludwig Von Koopa, Composer" data-flag="@X" onclick="openSidebar('SMB_122_Ludwig Von Koopa, Composer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\114_Fuzzy Time.png" id="SMB_114_Fuzzy Time" data-flag="@X" onclick="openSidebar('SMB_114_Fuzzy Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\124_MX01 Cookatiel, Kooky Cook.png" id="SMB_124_MX01 Cookatiel, Kooky Cook" data-flag="@X" onclick="openSidebar('SMB_124_MX01 Cookatiel, Kooky Cook',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\105_Captain Toad, Treasure Tracker.png" id="SMB_105_Captain Toad, Treasure Tracker" data-flag="@X" onclick="openSidebar('SMB_105_Captain Toad, Treasure Tracker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\135_Tutankoopa, Pyramid Wizard.png" id="SMB_135_Tutankoopa, Pyramid Wizard" data-flag="@X" onclick="openSidebar('SMB_135_Tutankoopa, Pyramid Wizard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\134_Torpedo Ted.png" id="SMB_134_Torpedo Ted" data-flag="@X" onclick="openSidebar('SMB_134_Torpedo Ted',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\116_Goomboss, Grand Pooh-bah.png" id="SMB_116_Goomboss, Grand Pooh-bah" data-flag="@X" onclick="openSidebar('SMB_116_Goomboss, Grand Pooh-bah',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\120_Lady Bow, Boo Princess.png" id="SMB_120_Lady Bow, Boo Princess" data-flag="@X" onclick="openSidebar('SMB_120_Lady Bow, Boo Princess',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\129_Star Road Map.png" id="SMB_129_Star Road Map" data-flag="@X" onclick="openSidebar('SMB_129_Star Road Map',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\102_Bone Piranha Plant.png" id="SMB_102_Bone Piranha Plant" data-flag="@X" onclick="openSidebar('SMB_102_Bone Piranha Plant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\103_Boomerang Flower.png" id="SMB_103_Boomerang Flower" data-flag="@X" onclick="openSidebar('SMB_103_Boomerang Flower',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\127_Princess Shroob, the Younger.png" id="SMB_127_Princess Shroob, the Younger" data-flag="@X" onclick="openSidebar('SMB_127_Princess Shroob, the Younger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\110_Daisy, Tennis Ace.png" id="SMB_110_Daisy, Tennis Ace" data-flag="@X" onclick="openSidebar('SMB_110_Daisy, Tennis Ace',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\109_Count Bleck.png" id="SMB_109_Count Bleck" data-flag="@X" onclick="openSidebar('SMB_109_Count Bleck',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\112_Fawful, Beanish Brainiac.png" id="SMB_112_Fawful, Beanish Brainiac" data-flag="@X" onclick="openSidebar('SMB_112_Fawful, Beanish Brainiac',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\113_Fury Bowser.png" id="SMB_113_Fury Bowser" data-flag="@X" onclick="openSidebar('SMB_113_Fury Bowser',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\128_Rosalina, Cosmic Guardian.png" id="SMB_128_Rosalina, Cosmic Guardian" data-flag="@X" onclick="openSidebar('SMB_128_Rosalina, Cosmic Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\131_Super Mario Bros.png" id="SMB_131_Super Mario Bros" data-flag="@X" onclick="openSidebar('SMB_131_Super Mario Bros',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\137_Mechawiggler, New Donk Terror.png" id="SMB_137_Mechawiggler, New Donk Terror" data-flag="@X" onclick="openSidebar('SMB_137_Mechawiggler, New Donk Terror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\136_Huey, Paint Pal.png" id="SMB_136_Huey, Paint Pal" data-flag="@X" onclick="openSidebar('SMB_136_Huey, Paint Pal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\1_Twinkling Luma.png" id="SMB_1_Twinkling Luma" data-flag="@X" onclick="openSidebar('SMB_1_Twinkling Luma',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\138_Standard Kart.png" id="SMB_138_Standard Kart" data-flag="@X" onclick="openSidebar('SMB_138_Standard Kart',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\142_Mushroom Kingdom.png" id="SMB_142_Mushroom Kingdom" data-flag="@X" onclick="openSidebar('SMB_142_Mushroom Kingdom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\140_Comet Observatory.png" id="SMB_140_Comet Observatory" data-flag="@X" onclick="openSidebar('SMB_140_Comet Observatory',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\139_Bowser's Kingdom.png" id="SMB_139_Bowsers Kingdom" data-flag="@X" onclick="openSidebar('SMB_139_Bowsers Kingdom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\143_Smithy's Stolen Keep.png" id="SMB_143_Smithys Stolen Keep" data-flag="@X" onclick="openSidebar('SMB_143_Smithys Stolen Keep',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\144_Yoshi's Island.png" id="SMB_144_Yoshis Island" data-flag="@X" onclick="openSidebar('SMB_144_Yoshis Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SMB-files\img\141_Maker Course.png" id="SMB_141_Maker Course" data-flag="@X" onclick="openSidebar('SMB_141_Maker Course',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="SMB_e" data-flag="@E" onclick="openSidebar('SMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="SMB_er" data-flag="@E" onclick="openSidebar('SMB_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

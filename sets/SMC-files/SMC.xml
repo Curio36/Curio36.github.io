@@ -1,0 +1,863 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SMC</name>
+			<longname>Super Mario Brothers Eternal</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-28</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Bobbery, Salty Sea Dog</name>
+			<text>Whenever a source you control deals excess noncombat damage to a creature you don&apos;t control, Bobbery deals twice that much damage to that creature&apos;s controller.
+Bomb — {3}{R}: Bobbery deals 2 damage to target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/17_Bobbery, Salty Sea Dog.png" num="17">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>3-Up Moon</name>
+			<text>Return each creature card with mana value 3 or less and up to one Hero or Noble card from your graveyard to the battlefield.
+Exile this spell.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/1_3-Up Moon.png" num="1">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reserve Box</name>
+			<text>Whenever you sacrifice an Aura, return up to one target Aura card with lesser mana value from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/6_Reserve Box.png" num="6">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Double Cherries</name>
+			<text>Enchant creature
+Enchant creature has myriad. Those tokens aren&apos;t legendary.
+Power-up (If enchanted creature would be destroyed, remove all damage from it and sacrifice this Aura instead.)</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/18_Double Cherries.png" num="18">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lava Moat Blargg</name>
+			<text>Trample
+When this creature enters, each opponent sacrifices an artifact of their choice. Then this creature deals 3 damage to each opponent, plus an additional 3 damage to each opponent who didn&apos;t sacrifice an artifact with mana value 3 or greater this way.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/19_Lava Moat Blargg.png" num="19">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Dinosaur Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captive Peach</name>
+			<text>Captive Peach enters under the control of an opponent of your choice.
+Captive Peach can&apos;t attack or block.
+Whenever a creature attacks you, untap it. It gains menace until end of turn.
+{5}, Sacrifice Captive Peach: Her owner draws a card and creates two Treasure tokens. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/31_Captive Peach.png" num="31">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Robot Minion SMC</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMC-files/img/1t_Robot Minion.png" num="1">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Robot Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Yoshi Kid</name>
+			<text>Vigilance
+Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that this creature doesn&apos;t have on it from among first strike, menace, reach, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/45_Yoshi Kid.png" num="45">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dinosaur Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kooper, Power Shell</name>
+			<text>Vigilance
+Kooper enters with a shield counter on him. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+When Kooper enters, put a shield counter on each other modified creature you control. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/38_Kooper, Power Shell.png" num="38">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watt, Baby Spark</name>
+			<text>Whenever another legendary creature you control enters, put a +1/+1 counter on Watt.
+As long as Watt has three or more counters on her, she has first strike
+As long as Watt has six or more counters on her, she has double strike.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/24_Watt, Baby Spark.png" num="24">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lakilester, Cool Cloud Rider</name>
+			<text>Flying
+Prevent all combat damage that would be dealt to other attacking creatures you control.
+At the beginning of each end step, if damage was prevented this turn, create two 1/1 red Turtle Egg creature tokens with &quot;This token can&apos;t block&quot;</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/3_Lakilester, Cool Cloud Rider.png" num="3">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turtle Egg SMC</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMC-files/img/2t_Turtle Egg.png" num="2">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Turtle Egg</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Tippi, Helpful Pixl</name>
+			<text>Flying
+Whenever Tippi or another legendary permanent you control enters, you gain 1 life and draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/7_Tippi, Helpful Pixl.png" num="7">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mallow, Lost Prince</name>
+			<text>Reach
+Whenever you sacrifice an enchantment, Mallow deals 2 damage to any target and you gain 2 life.
+{2}{R}{G}, Sacrifice an Aura with mana value 1 or greater: Discover X, where X is that Aura&apos;s mana value. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/40_Mallow, Lost Prince.png" num="40">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Hero Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Geno, Star-Powered Puppet</name>
+			<text>Haste
+Shooting Star Shot — Whenever Geno attacks for the first time each turn, creatures you control get +1/+1 until end of turn. Then if you control three or more attacking enchanted creatures, untap all attacking creatures. After this phase, there is an additional combat phase.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/35_Geno, Star-Powered Puppet.png" num="35">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Toy Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mario, Superstar</name>
+			<text>Whenever Mario attacks, create a tapped Treasure token for each Aura attached to him.
+Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/41_Mario, Superstar.png" num="41">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luigi, Second Banana</name>
+			<text>Whenever an Aura enters attached to Luigi, you may create a token that&apos;s a copy of it attached to another target legendary creature you control.
+Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/39_Luigi, Second Banana.png" num="39">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bowser, King Koopa</name>
+			<text>Trample
+Minions you control have trample and haste.
+At the beginning of combat on your turn, create a 2/1 red Robot Minion artifact creature token.
+Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/29_Bowser, King Koopa.png" num="29">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Turtle Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duck Hunt Duo</name>
+			<text>Flying
+Clay Shooting — Whenever one or more commanders you control attack, Duck Hunt Duo deals 2 damage to each defending player. Create a Treasure token for each player dealt damage this way.
+Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/32_Duck Hunt Duo.png" num="32">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Dog Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vivian, Shadow Sister</name>
+			<text>Veil — At the beginning of combat on your turn, target creature you control gets +1/+0 and gains indestructible until end of turn.
+Fiery Hex — During your turn, double all damage commanders you control would deal to your opponents and to permanents your opponents control.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/44_Vivian, Shadow Sister.png" num="44">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shade Warlock Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ganondorf, Evil King</name>
+			<text>Ward—Sacrifice a nontoken creature
+Whenever Ganondorf attacks, exile target creature card from a graveyard. If you do, create a token that&apos;s a copy of that card except it&apos;s a Spirit Minion in addition to its other types and it has flying.
+Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/34_Ganondorf, Evil King.png" num="34">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Fabled Giga Bell</name>
+			<text>Enchant legendary creature you control
+Auras you control have hexproof and indestructible.
+Enchanted creature gets +10/+10 and can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/33_The Fabled Giga Bell.png" num="33">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4GW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bowser&apos;s Chance Time</name>
+			<text>Each player rolls two six-sided dice. For each opponent, Bowser&apos;s Chance Time deals damage to that player equal to the difference between the total of their results and the total of your results. If less than 3 damage is dealt to that player this way, you create X Treasure tokens, where X is 3 minus the amount of damage dealt to that player.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/30_Bowser&apos;s Chance Time.png" num="30">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Koopalings, Mean Mob</name>
+			<text>Flying, menace
+At the beginning of your end step, each opponent who lost life this turn faces a villainous choice — That player loses 4 life and discards a card at random, or each of your other opponents loses 4 life and you draw a card.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/37_The Koopalings, Mean Mob.png" num="37">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kamek, Chief Magikoopa</name>
+			<text>Flying
+Whenever you cast a spell that shares a creature type with your commander, you surveil 1 and Kamek deals 1 damage to each opponent. If that spell is your commander, instead you surveil 3 and Kamek deals 3 damage to each opponent.
+Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/36_Kamek, Chief Magikoopa.png" num="36">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Turtle Wizard Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Super Princess Peach</name>
+			<text>As Super Princess Peach enters and at the beginning of your upkeep, choose one. Peach and each enchanted creature you control have the last chosen ability.
+• Joy — Flying
+• Rage — First strike
+• Gloom — Deathtouch
+• Calm — Lifelink</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/43_Super Princess Peach.png" num="43">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prince Peasley, Flamboyant Bean</name>
+			<text>Flying
+Untap each enchanted permanent you control during each opponent&apos;s untap step.
+Whenever you attack, for each defending player, tap target creature that player controls.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/42_Prince Peasley, Flamboyant Bean.png" num="42">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Noble Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Castle Bunny</name>
+			<text>When this creature enters, you gain 1 life and draw a card.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMC-files/img/2_Castle Bunny.png" num="2">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peach&apos;s Blessing</name>
+			<text>Whenever you attack, create a Super token attached to target attacking creature you control and scry 1. (A Super token is a colorless Aura enchantment with enchant creature and &quot;Enchanted creature gets +1/+1.&quot; To scry, look at the top card of your library. You may put that card on the bottom.)</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/4_Peach&apos;s Blessing.png" num="4">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Princess Peach, Toadstool Ruler</name>
+			<text>Enchantment spells you cast cost {1} less to cast.
+When Princess Peach enters, return target enchantment card from your graveyard to your hand.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/5_Princess Peach, Toadstool Ruler.png" num="5">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Toad, Mushroom Steward</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When Toad enters, you may return another permanent you control and all Auras attached to that permanent to their owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/8_Toad, Mushroom Steward.png" num="8">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fungus Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Circuit Statues</name>
+			<text>Defender (This creature can&apos;t attack.)
+As long as you&apos;ve drawn two or more cards this turn, this creature can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMC-files/img/9_Circuit Statues.png" num="9">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Hero Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>E. Gadd, Nutty Professor</name>
+			<text>{T}: Add {U}. Spend this mana only to cast noncreature spells.
+{2}{U}, {T}: Draw a card. Activate only if you&apos;ve cast a noncreature spell this turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/10_E. Gadd, Nutty Professor.png" num="10">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luigi, Best Bro</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+When Luigi enters, draw three cards, then discard a card.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/11_Luigi, Best Bro.png" num="11">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luigi&apos;s Determination</name>
+			<text>Return one or two target artifact, instant, and/or sorcery cards from your graveyard to your hand.
+Exile Luigi&apos;s Determination.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/12_Luigi&apos;s Determination.png" num="12">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Biddybud Battalion</name>
+			<text>Expendable 1 (When this creature dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;)
+When this creature dies, you lose 1 life and draw a card.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMC-files/img/13_Biddybud Battalion.png" num="13">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bowser, Monstrous King</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Whenever another nontoken creature you control dies, you gain 1 life and create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/14_Bowser, Monstrous King.png" num="14">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Turtle Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bowser&apos;s Brutality</name>
+			<text>Exile target creature. Its controller exiles a card from their hand and loses 2 life.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/15_Bowser&apos;s Brutality.png" num="15">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wonder Bowser Jr.</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/16_Wonder Bowser Jr..png" num="16">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Turtle Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mario&apos;s Courage</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has double strike. (That creature deals both first-strike and regular combat damage.)
+{3}{R}: Enchanted creature gets +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/20_Mario&apos;s Courage.png" num="20">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Princess Daisy, Tomboy Biker</name>
+			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever Princess Daisy becomes tapped, you may discard a card. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/21_Princess Daisy, Tomboy Biker.png" num="21">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Red Yoshi</name>
+			<text>Reach (This creature can block creatures with flying.)
+Whenever this creature attacks, it deals 1 damage to defending player.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMC-files/img/22_Red Yoshi.png" num="22">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Super Mario</name>
+			<text>During your turn, Mario has flying. (He can&apos;t be blocked except by creatures with flying or reach.)
+Whenever Mario enters or attacks, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+Treasures you control have &quot;{T}, Sacrifice this token: Add two mana of any one color.&quot;</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/23_Super Mario.png" num="23">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diddy Kong, Best Buddy</name>
+			<text>As long as you control another legendary creature, Diddy Kong has vigilance. (Attacking doesn&apos;t cause this creature to tap.)
+Landfall — Whenever a land you control enters, put a +1/+1 counter on Diddy Kong.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/25_Diddy Kong, Best Buddy.png" num="25">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Monkey Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>DK, Gorilla Great</name>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)
+Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever DK attacks, put a +1/+1 counter on him and up to one other target creature you control.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/26_DK, Gorilla Great.png" num="26">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ape Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>DK&apos;s Jungle Beatdown</name>
+			<text>Choose target creature you control and target creature you don&apos;t control. Double the number of +1/+1 counters on the creature you control, then it deals damage equal to its power to the creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/27_DK&apos;s Jungle Beatdown.png" num="27">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rhino Pal</name>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)
+Whenever another creature you control enters, this creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMC-files/img/28_Rhino Pal.png" num="28">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
