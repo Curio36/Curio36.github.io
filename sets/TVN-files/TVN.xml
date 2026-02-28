@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-16</releasedate>
+			<releasedate>2026-02-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -205,7 +205,7 @@ Whenever this creature becomes tapped, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Eradicating Wave</name>
-			<text>Choose one—
+			<text>Choose one —
 • Destroy all creatures and Vehicles.
 • Destroy all non-Vehicle artifacts and enchantments.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/14_Eradicating Wave.png" num="14">TVN</set>
@@ -371,7 +371,7 @@ Overwhelm — As long as you control a permanent with mana value 4 or greater, t
 		</card>
 		<card>
 			<name>Repel Titans</name>
-			<text>Choose one—
+			<text>Choose one —
 • Exile target artifact or enchantment.
 • Exile target creature with mana value, power, or toughness 5 or greater.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/24_Repel Titans.png" num="24">TVN</set>
@@ -978,7 +978,7 @@ Flying
 		</card>
 		<card>
 			<name>Read the Starfish</name>
-			<text>Choose one-
+			<text>Choose one —
 • Draw two cards, then discard a card.
 • Untap each nonland permanent you control.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/65_Read the Starfish.png" num="65">TVN</set>
@@ -1755,7 +1755,7 @@ Destroy target creature, planeswalker, or Vehicle.</text>
 		<card>
 			<name>Big Score</name>
 			<text>As an additional cost to cast this spell, discard a card.
-Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/117_Big Score.png" num="117">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1845,7 +1845,7 @@ Crew 3</text>
 		</card>
 		<card>
 			<name>Clamp Down</name>
-			<text>Clamp Down deals 1 damage to any target. Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+			<text>Clamp Down deals 1 damage to any target. Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 You may discard a card. If you do, draw a card.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/122_Clamp Down.png" num="122">TVN</set>
 			<prop>
@@ -1934,7 +1934,7 @@ Whenever this creature attacks, you may discard a card. If you do, draw a card.<
 		<card>
 			<name>Encrusted Crustacean</name>
 			<text>During your turn, this creature has first strike.
-When this creature dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+When this creature dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/128_Encrusted Crustacean.png" num="128">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2056,7 +2056,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Inevitable, Doom&apos;s Flagship</name>
 			<text>Menace
-Double all damage that sources you control would deal. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
+Double all damage that sources you control would deal to an opponent or a permanent an opponent controls. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
 Crew 5</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/135_Inevitable, Doom&apos;s Flagship.png" num="135">TVN</set>
 			<prop>
@@ -2456,7 +2456,7 @@ When this creature enters, return up to one target permanent card and up to one 
 		<card>
 			<name>Gilded Plating</name>
 			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (This permanent can&apos;t be the target of spells or abilities your opponents control.)
-Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/161_Gilded Plating.png" num="161">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2871,7 +2871,7 @@ As long as enchanted permanent is a creature, it gets +1/+1.</text>
 		<card>
 			<name>Vibrant Siphonophore</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
-Whenever another permanent you control with mana value 4 or greater enters or a creature you control matures, create a token that is a copy of this creature.</text>
+Whenever another nontoken permanent you control with mana value 4 or greater enters or a creature you control matures, create a token that is a copy of this creature.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/189_Vibrant Siphonophore.png" num="189">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3769,8 +3769,7 @@ When this creature enters, exile each opponent&apos;s graveyard.</text>
 		</card>
 		<card>
 			<name>Busy Workshop</name>
-			<text>When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
-{T}: Add {C}.
+			<text>{T}: Add {C}.
 {1}, {T}: Add one mana of any color.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/248_Busy Workshop.png" num="248">TVN</set>
 			<prop>
@@ -3897,7 +3896,7 @@ Overwhelm — {5}: Until end of turn, this land becomes a 4/4 Leviathan creature
 		<card>
 			<name>Unstable Vein</name>
 			<text>{T}, Pay 1 life: Add {R}.
-{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/259_Unstable Vein.png" num="259">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4990,8 +4989,8 @@ Whenever this creature attacks, untap up to one other target artifact or creatur
 				<side>front</side>
 				<type>Artifact Creature — Whale</type>
 				<maintype>Creature</maintype>
-				<manacost>4W</manacost>
-				<cmc>5</cmc>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 				<pt>3/4</pt>
@@ -5129,11 +5128,11 @@ You may cast this spell from your graveyard using its yearling ability and an ad
 				<side>front</side>
 				<type>Creature — Worm</type>
 				<maintype>Creature</maintype>
-				<manacost>3BB</manacost>
-				<cmc>5</cmc>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>6/5</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5407,7 +5406,7 @@ Creatures you control get +X/+0, where X is the number of cards you&apos;ve draw
 			<name>Labor District</name>
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
-{2}{W}{B}, Discard this card: It deals X damage to any target and you gain X life, where X is the number of creatures you control.</text>
+{2}{W}{B}, Discard this card: It deals X damage to target creature or planeswalker and you gain X life, where X is the number of creatures you control.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/255_Labor District.png" num="255">TVN</set>
 			<prop>
 				<layout>normal</layout>

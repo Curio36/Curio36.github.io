@@ -1,4 +1,88 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Eradicating Wave
+rules_text: Choose one—
+• Destroy all creatures and Vehicles.
+• Destroy all non-Vehicle artifacts and enchantments. => Choose one —
+• Destroy all creatures and Vehicles.
+• Destroy all non-Vehicle artifacts and enchantments.
+
+Repel Titans
+rules_text: Choose one—
+• Exile target artifact or enchantment.
+• Exile target creature with mana value, power, or toughness 5 or greater. => Choose one —
+• Exile target artifact or enchantment.
+• Exile target creature with mana value, power, or toughness 5 or greater.
+
+Read the Starfish
+rules_text: Choose one-
+• Draw two cards, then discard a card.
+• Untap each nonland permanent you control. => Choose one —
+• Draw two cards, then discard a card.
+• Untap each nonland permanent you control.
+
+Big Score
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Clamp Down
+rules_text: Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card. => Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card.
+
+Encrusted Crustacean
+rules_text: During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Inevitable, Doom's Flagship
+rules_text: Menace
+Double all damage that sources you control would deal. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
+Crew 5 => Menace
+Double all damage that sources you control would deal to an opponent or a permanent an opponent controls. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
+Crew 5
+
+Gilded Plating
+rules_text: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Vibrant Siphonophore
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Whenever another permanent you control with mana value 4 or greater enters or a creature you control matures, create a token that is a copy of this creature. => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Whenever another nontoken permanent you control with mana value 4 or greater enters or a creature you control matures, create a token that is a copy of this creature.
+
+Busy Workshop
+rules_text: When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+
+Unstable Vein
+rules_text: {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Steelfin Dolphin
+cost: {4}{W} => {3}{W}
+
+Rot Sea Worm
+cost: {3}{B}{B} => {2}{B}{B}
+pt: 6/5 => 5/5
+
+Labor District
+rules_text: This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}, Discard this card: It deals X damage to any target and you gain X life, where X is the number of creatures you control. => This land enters tapped.
+{T}: Add {W} or {B}.
+{2}{W}{B}, Discard this card: It deals X damage to target creature or planeswalker and you gain X life, where X is the number of creatures you control.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

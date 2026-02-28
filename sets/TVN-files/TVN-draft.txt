@@ -2863,7 +2863,7 @@
 		{
 			"name": "Steelfin Dolphin",
 			"rarity": "common",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Whale",
 			"collector_number": "35",
 			"image_uris": {
@@ -2943,7 +2943,7 @@
 		{
 			"name": "Rot Sea Worm",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Worm",
 			"collector_number": "107",
 			"image_uris": {

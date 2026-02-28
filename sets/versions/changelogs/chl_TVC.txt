@@ -1,4 +1,74 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Ku'I, Spring's Fecundity added.
+Troll Warrior added.
+Elemental added.
+Bear added.
+Insect added.
+Plant added.
+Plant Warrior added.
+Copy added.
+Pilot added.
+Angel added.
+Clown Robot added.
+Voidseed Warrior added.
+Dwarf Berserker added.
+Construct added.
+Mechtitan added.
+Vehicle added.
+Beau added.
+Salamander Warrior added.
+Elephant added.
+Voja added.
+Voja Fenstalker added.
+Voja, Friend to Elves added.
+Koma's Coil added.
+Kraken added.
+Kraken added.
+Zombie added.
+Beast added.
+Decaying Time Loop added.
+Kelpbearer's Restoration added.
+Their Name is Death added.
+Delete added.
+Voidseed Annihilator added.
+Voidseed Infiltrator added.
+Voidseed Warrior added.
+Banish to Another Universe added.
+Flowering of the White Tree added.
+What Must Be Done added.
+Desynchronization added.
+Great Hall of the Citadel added.
+Noblis, Worldsoul of Flood added.
+
+Ku'I, Spring's Fecundity (Alt art) removed.
+
+Inlet Seeker
+rules_text: Trample
+When this creature enters, it explores X times, where X is the number of permanents you control with power, toughness, or mana value 5 or higher. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Trample
+When this creature enters, it explores X times, where X is the number of other permanents you control with power, toughness, or mana value 4 or higher. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Bilchanip, Caller of Tyrants
+rules_text: Deathtouch
+Whenever a Kraken, Leviathan, Octopus, Serpent, or Whale you control enters, surveil 2 and you gain 2 life.
+{1}, {T}: Add {B}{G}{U}. Spend this mana only to cast spells with mana value 5 or greater or activate abilities of sources with mana value 5 or greater. => Deathtouch
+Whenever a Kraken, Leviathan, Octopus, Serpent, or Whale you control enters, surveil 2 and you gain 2 life.
+{1}, {T}: Add {B}{G}{U}. Spend this mana only to cast spells with mana value 4 or greater or activate abilities of sources with mana value 4 or greater.
+
+Insatiable Rampage
+rules_text: Choose one—
+• Each opponent sacrifices an artifact of their choice.
+• Each opponent sacrifices a creature of their choice.
+• Each opponent sacrifices an enchantment of their choice.
+Entwine— Sacrifice two permanents [i](Choose all if you pay the entwine cost.)[/i] => Choose one —
+• Each opponent sacrifices an artifact of their choice.
+• Each opponent sacrifices a creature of their choice.
+• Each opponent sacrifices an enchantment of their choice.
+Entwine— Sacrifice two permanents [i](Choose all if you pay the entwine cost.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
