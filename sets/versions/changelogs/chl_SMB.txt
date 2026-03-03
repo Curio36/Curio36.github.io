@@ -1,4 +1,110 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Cookatiel, Kooky Cook added.
+Guard Broggy added.
+Scuttlebug added.
+Magic Shades Moe-Eye added.
+Ashley, Young Witch added.
+Deflecting Spin added.
+Quick-Arrival Jaxi added.
+Crushing Whomp added.
+Shock added.
+Friendly Dolphin added.
+Real Funky Dude added.
+Gobblegut Gargantua added.
+Rescue Squad Chief added.
+Flowery Advice added.
+Twirling-Hair Heroine added.
+Chic Sizeshifter added.
+Kritter Kommando added.
+Cantankerous Elder added.
+Lumbering Gorilla added.
+Machine Made Replica added.
+
+MX01 Cookatiel, Kooky Cook removed.
+2 MV Guard Broggy removed.
+3 MV Scuttlebug removed.
+Crushing Thwomps removed.
+Turtle Minion removed.
+
+Tatanga, Mysterious Spaceman
+rules_text: Flying, lifelink
+Other nontoken creatures you control have expendable 1. [i](Whenever another nontoken creature you control dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i] => Flying, lifelink
+Other nontoken creatures you control have expendable 1. [i](Whenever another nontoken creature you control dies, create a 1/1 black Minion creature token with “This token can't block.” If a creature has multiple instances of expendable, each triggers separately.)[/i]
+
+Torpedo Ted
+
+Chincho Swarm
+
+Blooper Nanny
+
+Huey, Paint Pal
+
+Bone Piranha Plant
+
+Nimble Ninji
+
+Goombella, Archaeology Student
+
+Helpful Water Dragon
+type: Creature — Dragon Hero => Creature — Dinosaur Dragon Hero
+
+Dry Bones
+
+Bob-omb
+
+Patrolling Goomba
+
+Towering Pokey
+
+Twinkling Luma
+
+Viral Outbreak
+
+Super Mario Bros
+rules_text: Flash
+
+When Super Mario Bros enter, return any number of target Aura cards put into your graveyard or into exile from the battlefield this turn to the battlefield attached to them. => Flash
+Menace
+When Super Mario Bros enter, return any number of target Aura cards put into your graveyard or into exile from the battlefield this turn to the battlefield attached to them.
+
+Minion
+pt: 3/3 => */*
+
+Boomerang Flower
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has double strike.
+Power-up [i](If enchanted creature would be destroyed, remove all damage from it and sacrifice this Aura instead.)[/i] => Enchant creature
+Enchanted creature gets +1/+0 and has double strike.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Super Acorn
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has flying.
+Power-up [i](If enchanted creature would be destroyed, remove all damage from it and sacrifice this Aura instead.)[/i] => Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has flying.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Minion
+pt: */* => 3/3
+
+Shy Guy
+rules_text: Haste
+{R}, Sacrifice this creature: It deals 2 damage to any target that was dealt damage this turn. => {T}: Add {R}. Spend this mana only to cast a Minion or Noble spell or activate abilities of Minion or Noble sources.
+
+Monty Mole
+rules_text: First strike, haste
+This creature can't be blocked by creatures with flying. => Menace, haste
+This creature can't be blocked by creatures with flying.
+Expendable 1 [i](When this creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i]
+
+Mr. I
+rules_text: Menace
+Whenever this creature attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever this creature attacks or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Question Mark Block added.
