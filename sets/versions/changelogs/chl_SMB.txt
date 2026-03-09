@@ -1,4 +1,169 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Whirly Gecko added.
+Insightful Ghost added.
+Assaulting Phantamanta added.
+Polterpup's Assistance added.
+Ghost Guess added.
+Cackletta's Intrusion added.
+Grasp of the River Twygz added.
+Bowser's Fire Hazard added.
+Welcome to the Party added.
+Ecstatic Steam Gardener added.
+Beanie Swarm added.
+Baby Yoshi added.
+Porcupuffer added.
+Yoofoe Ship added.
+Thought Peek added.
+King K. Rool added.
+Power Balloon added.
+Spray Away added.
+Poochy's Hint Art added.
+Spiny Shell Crashout added.
+Radical Failure added.
+Gold Block Rush added.
+Hammer Assault added.
+Fire Vellumental's Glory added.
+Bros Ball Training added.
+Thunderhand added.
+Maker Pigeon added.
+Poplin Supporters added.
+Superstar Baby added.
+Hint Toad added.
+Bouncy Hoppo added.
+Toad Tea Time added.
+Lip Lock added.
+Matrimonial Rejection added.
+Sunnycide Egg added.
+Big Baby Yoshi added.
+Tropical Wiggler added.
+Sandmaargh added.
+Punch added.
+Piranha Plant Parade added.
+Ghost Portrificationizer added.
+Farsight Binoculars added.
+Beanbean Machine added.
+
+Tattle removed.
+Shock removed.
+
+Twinkling Luma
+
+Nimble Ninji
+
+Sidestepper
+rules_text: Vigilance
+{4}{U}, {T}: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Vigilance
+{4}{U}, {T}: Clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]
+
+Friendly Dolphin
+rules_text: Vigilance
+Whenever an enchantment you control enters, you may draw a card. If you do, discard a card. => Vigilance
+Whenever an enchantment you control enters, clear a stage [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]
+
+Mini Mushroom
+rules_text: Enchant creature
+Enchanted creature gets -10/-0 and has mana value 1. => Enchant creature
+Enchanted creature gets -10/-0 and loses all abilities. [i](This includes abilities gained by other Auras already on it. It can gain abilities from new Auras.)[/i]
+
+Goombella, Archaeology Student
+
+Kritter Kommando
+rules_text: When this creature dies, choose one —
+• Create a 2/2 black Minion creature token with “This token can't block.”
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => When this creature dies, choose one —
+• Create a 2/2 black Minion creature token with “This token can't block.”
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Cantankerous Elder
+type: Creature — Elder Ape Hero => Creature — Ape Hero
+
+Viral Outbreak
+
+Dry Bones
+
+Bob-omb
+
+Coin Coffer
+type: Artifact Creature — Frog => Artifact Creature — Frog Minion
+
+Lakithunder, Lakitu Boss
+rules_text: Flying
+Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+Whenever you cast an artifact, Minion, or Noble spell, Lakithunder deals 1 damage to each opponent. => Flying
+Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+Whenever another artifact, Minion, or Noble you control enters, Lakithunder deals 1 damage to each opponent.
+
+Boom Boom, Henchturtle
+rules_text: First strike, trample, haste => First strike, trample
+When Boom Boom dies, create two 2/2 black Minion creature tokens with “This token can't block.” Put a first strike counter on one of those tokens and a trample counter on the other.
+pt: 5/4 => 4/4
+
+Question Mark Block
+
+Patrolling Goomba
+
+Lumbering Gorilla
+rules_text: Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Towering Pokey
+
+Blooper Nanny
+
+Coin Rush
+rules_text: Creatures you control have haste.
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Creatures you control have haste.
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Chincho Swarm
+
+DK, Core Delver
+rules_text: Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn. => Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn.
+
+Bone Piranha Plant
+
+Torpedo Ted
+
+Huey, Paint Pal
+
+Super Mario Bros
+rules_text: Flash
+Menace
+When Super Mario Bros enter, return any number of target Aura cards put into your graveyard or into exile from the battlefield this turn to the battlefield attached to them. => Menace
+If a triggered ability of an enchanted creature you control or an Aura you control triggers, that ability triggers an additional time.
+
+Flowery Advice
+type: Instant => Enchantment — Aura
+cost: {2}{R} => {1}{R}
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Enchant creature you control
+When this Aura enters or leaves the battlefield, clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]
+Enchanted creature gets +1/+0 and has menace and “Whenever this creature deals combat damage to a player, create a Treasure token.”
+
+Captured Glydon
+rules_text: Flying
+Whenever this creature attacks, you may pay {2}{W}. If you do, it gains double strike until end of turn. Otherwise, it gains first strike until end of turn. => Flying
+Whenever this creature attacks, it gains first strike until end of turn. If you've draw two or more cards this turn, it gains double strike until end of turn instead. [i](A creature with double strike deals first-strike and regular combat damage.)[/i]
+
+Mr. I
+rules_text: Whenever this creature attacks or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+Whenever this creature attacks while you control another Minion or Noble, you draw a card and lose 1 life.
+pt: 2/1 => 1/2
+
+Mischievous Bandits
+rules_text: Menace
+When this creature enters, each opponent discards a card and loses 1 life. You gain 1 life. => When this creature enters, each opponent discards a card and loses 1 life. You gain 1 life.
+Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each turn.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Cookatiel, Kooky Cook added.
