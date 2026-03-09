@@ -1,0 +1,2968 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Junior's Clown Car",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact — Vehicle",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/1t_Junior's Clown Car.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/2t_Minion.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/3t_Minion.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/4t_Minion.png"
+			}
+		},
+		{
+			"name": "Minion Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion Army",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/6t_Minion Army.png"
+			}
+		},
+		{
+			"name": "Spirit Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Minion",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/7t_Spirit Minion.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/8t_Treasure.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/9t_Treasure.png"
+			}
+		},
+		{
+			"name": "Stages and Worlds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/1t_Stages and Worlds.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/5t_Minion.png"
+			}
+		},
+		{
+			"name": "Twinkling Luma",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Enchantment Creature — Star",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/1_Twinkling Luma.png"
+			}
+		},
+		{
+			"name": "The Honey Queen",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/11_The Honey Queen.png"
+			}
+		},
+		{
+			"name": "Dr. Mario",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Doctor Hero",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/7_Dr. Mario.png"
+			}
+		},
+		{
+			"name": "Swordfighter Peach",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Human Noble Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/26_Swordfighter Peach.png"
+			}
+		},
+		{
+			"name": "End of Sammer's Kingdom",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/8_End of Sammer's Kingdom.png"
+			}
+		},
+		{
+			"name": "Starlow, Guiding Voice",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Star Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/23_Starlow, Guiding Voice.png"
+			}
+		},
+		{
+			"name": "Koopa Paratroopa",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Turtle Minion",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/13_Koopa Paratroopa.png"
+			}
+		},
+		{
+			"name": "Toad House Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fungus Advisor",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/27_Toad House Assistant.png"
+			}
+		},
+		{
+			"name": "Cat Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Cat Human Hero",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/5_Cat Mario.png"
+			}
+		},
+		{
+			"name": "Dr. Goomba Tower",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fungus Minion Doctor",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/6_Dr. Goomba Tower.png"
+			}
+		},
+		{
+			"name": "Koops, Timid Turtle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Turtle Hero",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/14_Koops, Timid Turtle.png"
+			}
+		},
+		{
+			"name": "Parakarry, Mailman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Turtle Scout Hero",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/19_Parakarry, Mailman.png"
+			}
+		},
+		{
+			"name": "Racetrack Lakitu",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Turtle Advisor",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/22_Racetrack Lakitu.png"
+			}
+		},
+		{
+			"name": "Jump Up, Super Star!",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/12_Jump Up, Super Star!.png"
+			}
+		},
+		{
+			"name": "Pipe Cork",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/20_Pipe Cork.png"
+			}
+		},
+		{
+			"name": "Nimble Ninji",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Ninja Minion",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/45_Nimble Ninji.png"
+			}
+		},
+		{
+			"name": "Rip Van Fish",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fish Minion",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/51_Rip Van Fish.png"
+			}
+		},
+		{
+			"name": "Sidestepper",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Crab Minion",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/52_Sidestepper.png"
+			}
+		},
+		{
+			"name": "Camera Lakitu",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Turtle Scout",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/32_Camera Lakitu.png"
+			}
+		},
+		{
+			"name": "Chic Sizeshifter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Ape Hero",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/36_Chic Sizeshifter.png"
+			}
+		},
+		{
+			"name": "Friendly Dolphin",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Whale Hero",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/37_Friendly Dolphin.png"
+			}
+		},
+		{
+			"name": "Mini Mushroom",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/44_Mini Mushroom.png"
+			}
+		},
+		{
+			"name": "Cappy, Capture Companion",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment Creature — Spirit Hero",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/34_Cappy, Capture Companion.png"
+			}
+		},
+		{
+			"name": "Penguin Mario",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Bird Hero",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/46_Penguin Mario.png"
+			}
+		},
+		{
+			"name": "Madame Flurrie, Charming",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Elemental Hero",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/42_Madame Flurrie, Charming.png"
+			}
+		},
+		{
+			"name": "Aggressive Maw-Ray",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Fish Minion",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/31_Aggressive Maw-Ray.png"
+			}
+		},
+		{
+			"name": "Cheep Cheep",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish Minion",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/35_Cheep Cheep.png"
+			}
+		},
+		{
+			"name": "Goombella, Archaeology Student",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Fungus Scout Hero",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/39_Goombella, Archaeology Student.png"
+			}
+		},
+		{
+			"name": "The Ice Vellumental",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Artifact Creature — Elemental Minion",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/41_The Ice Vellumental.png"
+			}
+		},
+		{
+			"name": "Sushie, Romantic Cheep",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Fish Hero",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/55_Sushie, Romantic Cheep.png"
+			}
+		},
+		{
+			"name": "Cape Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/33_Cape Mario.png"
+			}
+		},
+		{
+			"name": "Helpful Water Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Dinosaur Dragon Hero",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/40_Helpful Water Dragon.png"
+			}
+		},
+		{
+			"name": "Frog Suit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/38_Frog Suit.png"
+			}
+		},
+		{
+			"name": "Magic Whistle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/43_Magic Whistle.png"
+			}
+		},
+		{
+			"name": "Warp Cannons",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/57_Warp Cannons.png"
+			}
+		},
+		{
+			"name": "Whirly Gecko",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Lizard Minion",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/87_Whirly Gecko.png"
+			}
+		},
+		{
+			"name": "Koopa Troopa",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Turtle Minion",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/72_Koopa Troopa.png"
+			}
+		},
+		{
+			"name": "Kritter Kommando",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Crocodile Minion",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/73_Kritter Kommando.png"
+			}
+		},
+		{
+			"name": "Cantankerous Elder",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Ape Hero",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/64_Cantankerous Elder.png"
+			}
+		},
+		{
+			"name": "Swoops Swarm",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Bat Minion",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/82_Swoops Swarm.png"
+			}
+		},
+		{
+			"name": "Insightful Ghost",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spirit Warlock Hero",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/69_Insightful Ghost.png"
+			}
+		},
+		{
+			"name": "Assaulting Phantamanta",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Fish Shade Minion",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/60_Assaulting Phantamanta.png"
+			}
+		},
+		{
+			"name": "Viral Outbreak",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/84_Viral Outbreak.png"
+			}
+		},
+		{
+			"name": "Polterpup's Assistance",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/79_Polterpup's Assistance.png"
+			}
+		},
+		{
+			"name": "Ghost Guess",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/67_Ghost Guess.png"
+			}
+		},
+		{
+			"name": "Cackletta's Intrusion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/63_Cackletta's Intrusion.png"
+			}
+		},
+		{
+			"name": "Bowser's Big Suck",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/61_Bowser's Big Suck.png"
+			}
+		},
+		{
+			"name": "Grasp of the River Twygz",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/68_Grasp of the River Twygz.png"
+			}
+		},
+		{
+			"name": "Wario, Greedy Antihero",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Rogue Hero",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/86_Wario, Greedy Antihero.png"
+			}
+		},
+		{
+			"name": "King Boo",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/70_King Boo.png"
+			}
+		},
+		{
+			"name": "Ashley, Young Witch",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/59_Ashley, Young Witch.png"
+			}
+		},
+		{
+			"name": "Cosmic Mario",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Shapeshifter Shade",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/65_Cosmic Mario.png"
+			}
+		},
+		{
+			"name": "Mad Piano",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Artifact Creature — Construct Minion",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/74_Mad Piano.png"
+			}
+		},
+		{
+			"name": "Bowser's Clown Car",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/62_Bowser's Clown Car.png"
+			}
+		},
+		{
+			"name": "Dry Bones",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Turtle Skeleton Minion",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/66_Dry Bones.png"
+			}
+		},
+		{
+			"name": "Skeleton Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Skeleton Hero",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/81_Skeleton Mario.png"
+			}
+		},
+		{
+			"name": "Ms. Mowz, Flirty Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Mouse Rogue Hero",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/77_Ms. Mowz, Flirty Thief.png"
+			}
+		},
+		{
+			"name": "Waluigi, Rude Racer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/85_Waluigi, Rude Racer.png"
+			}
+		},
+		{
+			"name": "Kleptomaniac Condor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Bird Minion",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/71_Kleptomaniac Condor.png"
+			}
+		},
+		{
+			"name": "Raging Broozer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit Warrior Minion",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/80_Raging Broozer.png"
+			}
+		},
+		{
+			"name": "Tatanga, Mysterious Spaceman",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Alien Noble Soldier",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/83_Tatanga, Mysterious Spaceman.png"
+			}
+		},
+		{
+			"name": "Poisonous Mushroom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/78_Poisonous Mushroom.png"
+			}
+		},
+		{
+			"name": "Monty Mole",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Mole Minion",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/114_Monty Mole.png"
+			}
+		},
+		{
+			"name": "Fire Bro",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Turtle Minion",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/101_Fire Bro.png"
+			}
+		},
+		{
+			"name": "Shy Guy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minion",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/119_Shy Guy.png"
+			}
+		},
+		{
+			"name": "Fire Piranha",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Plant Minion",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/103_Fire Piranha.png"
+			}
+		},
+		{
+			"name": "Quick-Arrival Jaxi",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Cat",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/116_Quick-Arrival Jaxi.png"
+			}
+		},
+		{
+			"name": "Rescue Squad Chief",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fungus Hero Advisor",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/118_Rescue Squad Chief.png"
+			}
+		},
+		{
+			"name": "Crushing Whomp",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Wall Minion",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/98_Crushing Whomp.png"
+			}
+		},
+		{
+			"name": "Real Funky Dude",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Ape Athlete Hero",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/117_Real Funky Dude.png"
+			}
+		},
+		{
+			"name": "Gobblegut Gargantua",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Dragon Minion",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/107_Gobblegut Gargantua.png"
+			}
+		},
+		{
+			"name": "Birdo, Egg Bombardier",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Dinosaur Athlete",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/89_Birdo, Egg Bombardier.png"
+			}
+		},
+		{
+			"name": "Back Alley Rex",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/88_Back Alley Rex.png"
+			}
+		},
+		{
+			"name": "Bombette, Bombastic Starlet",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Artifact Creature — Construct Hero",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/92_Bombette, Bombastic Starlet.png"
+			}
+		},
+		{
+			"name": "Unchained Chomp",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact Creature — Dog Minion",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/122_Unchained Chomp.png"
+			}
+		},
+		{
+			"name": "Strong-Arm Chuckster",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Plant Citizen",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/120_Strong-Arm Chuckster.png"
+			}
+		},
+		{
+			"name": "Dancer Mario",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Human Hero Performer",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/99_Dancer Mario.png"
+			}
+		},
+		{
+			"name": "Bullet Bill Blaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/96_Bullet Bill Blaster.png"
+			}
+		},
+		{
+			"name": "March of the Minis",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/113_March of the Minis.png"
+			}
+		},
+		{
+			"name": "Bob-omb",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct Minion",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/90_Bob-omb.png"
+			}
+		},
+		{
+			"name": "Woolly Sniffit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minion",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/124_Woolly Sniffit.png"
+			}
+		},
+		{
+			"name": "Firebrand Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/105_Firebrand Mario.png"
+			}
+		},
+		{
+			"name": "Goombario, Mario's Friend",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Fungus Hero",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/109_Goombario, Mario's Friend.png"
+			}
+		},
+		{
+			"name": "Coin Coffer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Frog Minion",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/97_Coin Coffer.png"
+			}
+		},
+		{
+			"name": "Lakithunder, Lakitu Boss",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Turtle Minion",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/112_Lakithunder, Lakitu Boss.png"
+			}
+		},
+		{
+			"name": "Boom Boom, Henchturtle",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Turtle Minion",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/93_Boom Boom, Henchturtle.png"
+			}
+		},
+		{
+			"name": "Deflecting Spin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/100_Deflecting Spin.png"
+			}
+		},
+		{
+			"name": "Karter's Focus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/111_Karter's Focus.png"
+			}
+		},
+		{
+			"name": "Bob-ombs Away!!",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/91_Bob-ombs Away!!.png"
+			}
+		},
+		{
+			"name": "Bowser's Fire Hazard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/94_Bowser's Fire Hazard.png"
+			}
+		},
+		{
+			"name": "Fire Flower",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/102_Fire Flower.png"
+			}
+		},
+		{
+			"name": "Question Mark Block",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/115_Question Mark Block.png"
+			}
+		},
+		{
+			"name": "Welcome to the Party",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/123_Welcome to the Party.png"
+			}
+		},
+		{
+			"name": "Patrolling Goomba",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus Minion",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/140_Patrolling Goomba.png"
+			}
+		},
+		{
+			"name": "Ecstatic Steam Gardener",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Robot Druid Hero",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/129_Ecstatic Steam Gardener.png"
+			}
+		},
+		{
+			"name": "Beanie Swarm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Minion",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/126_Beanie Swarm.png"
+			}
+		},
+		{
+			"name": "Hungry Maw-Maw",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Salamander Minion",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/134_Hungry Maw-Maw.png"
+			}
+		},
+		{
+			"name": "Scuttlebug",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spider Minion",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/147_Scuttlebug.png"
+			}
+		},
+		{
+			"name": "Lumbering Gorilla",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ape Warrior Hero",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/138_Lumbering Gorilla.png"
+			}
+		},
+		{
+			"name": "Goomba Stomp",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/132_Goomba Stomp.png"
+			}
+		},
+		{
+			"name": "Yoshi Tongue",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/152_Yoshi Tongue.png"
+			}
+		},
+		{
+			"name": "Into the Portrait",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/135_Into the Portrait.png"
+			}
+		},
+		{
+			"name": "Baby Yoshi",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dinosaur Hero",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/125_Baby Yoshi.png"
+			}
+		},
+		{
+			"name": "Gooigi Canister",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ooze Shapeshifter",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/131_Gooigi Canister.png"
+			}
+		},
+		{
+			"name": "Rock Mario",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Elemental Hero",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/145_Rock Mario.png"
+			}
+		},
+		{
+			"name": "Potted Uproot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Minion",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/143_Potted Uproot.png"
+			}
+		},
+		{
+			"name": "Towering Pokey",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Plant Minion",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/149_Towering Pokey.png"
+			}
+		},
+		{
+			"name": "Blue and Yellow, Elite Toads",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Fungus Hero",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/128_Blue and Yellow, Elite Toads.png"
+			}
+		},
+		{
+			"name": "Gutsy Galoomba",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus Minion",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/133_Gutsy Galoomba.png"
+			}
+		},
+		{
+			"name": "Luigi, Frightened Vacuumeer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/136_Luigi, Frightened Vacuumeer.png"
+			}
+		},
+		{
+			"name": "Yoshi Steed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur Mount",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/151_Yoshi Steed.png"
+			}
+		},
+		{
+			"name": "Elephant Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Elephant Hero",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/130_Elephant Mario.png"
+			}
+		},
+		{
+			"name": "Peewee Piranha, Temperamental",
+			"rarity": "uncommon",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Legendary Creature — Dinosaur Plant Minion",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/141_Peewee Piranha, Temperamental.png"
+			}
+		},
+		{
+			"name": "Luigi Logic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/137_Luigi Logic.png"
+			}
+		},
+		{
+			"name": "Mega Mushroom",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/139_Mega Mushroom.png"
+			}
+		},
+		{
+			"name": "Antasma, Evil Bat King",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Nightmare Bat Noble",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/153_Antasma, Evil Bat King.png"
+			}
+		},
+		{
+			"name": "Count Bleck",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Shade Warlock Noble",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/163_Count Bleck.png"
+			}
+		},
+		{
+			"name": "Fawful, Beanish Brainiac",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Plant Scientist Minion",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/166_Fawful, Beanish Brainiac.png"
+			}
+		},
+		{
+			"name": "Fury Bowser",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Creature — Turtle Dragon Noble",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/167_Fury Bowser.png"
+			}
+		},
+		{
+			"name": "Fuzzy Time",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/168_Fuzzy Time.png"
+			}
+		},
+		{
+			"name": "Galaxy's Rebirth",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/169_Galaxy's Rebirth.png"
+			}
+		},
+		{
+			"name": "Goomboss, Grand Pooh-bah",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Fungus Noble",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/170_Goomboss, Grand Pooh-bah.png"
+			}
+		},
+		{
+			"name": "King Bob-omb",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Artifact Creature — Construct Noble",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/172_King Bob-omb.png"
+			}
+		},
+		{
+			"name": "King Bowser, the Mighty",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Turtle Dragon Noble",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/173_King Bowser, the Mighty.png"
+			}
+		},
+		{
+			"name": "Lady Bow, Boo Princess",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Spirit Hero Noble",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/175_Lady Bow, Boo Princess.png"
+			}
+		},
+		{
+			"name": "The Lord of Lightning",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Dragon Noble",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/176_The Lord of Lightning.png"
+			}
+		},
+		{
+			"name": "Cookatiel, Kooky Cook",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Bird Minion",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/162_Cookatiel, Kooky Cook.png"
+			}
+		},
+		{
+			"name": "Petey Piranha",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{G}{G}",
+			"type": "Legendary Creature — Plant Minion",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/180_Petey Piranha.png"
+			}
+		},
+		{
+			"name": "Rosalina, Cosmic Guardian",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — God Hero Noble",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/182_Rosalina, Cosmic Guardian.png"
+			}
+		},
+		{
+			"name": "Toadsworth, Old Aid",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Fungus Advisor",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/187_Toadsworth, Old Aid.png"
+			}
+		},
+		{
+			"name": "Merlee's Luck Spell",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/178_Merlee's Luck Spell.png"
+			}
+		},
+		{
+			"name": "Blooper Nanny",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Squid Minion",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/154_Blooper Nanny.png"
+			}
+		},
+		{
+			"name": "Bowser Jr., Punk Prince",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Turtle Dragon Noble",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/157_Bowser Jr., Punk Prince.png"
+			}
+		},
+		{
+			"name": "Coin Rush",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/161_Coin Rush.png"
+			}
+		},
+		{
+			"name": "Toadette, Princess's Favored",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Fungus Advisor",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/186_Toadette, Princess's Favored.png"
+			}
+		},
+		{
+			"name": "Chincho Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Zombie Minion",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/160_Chincho Swarm.png"
+			}
+		},
+		{
+			"name": "Princess Shroob, the Younger",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Alien Noble",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/181_Princess Shroob, the Younger.png"
+			}
+		},
+		{
+			"name": "Captain Toad, Treasure Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Fungus Hero Scout",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/158_Captain Toad, Treasure Tracker.png"
+			}
+		},
+		{
+			"name": "Ludwig Von Koopa, Composer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Turtle Minion Bard",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/177_Ludwig Von Koopa, Composer.png"
+			}
+		},
+		{
+			"name": "Boomerang Flower",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/156_Boomerang Flower.png"
+			}
+		},
+		{
+			"name": "Pauline, New Donk Mayor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/179_Pauline, New Donk Mayor.png"
+			}
+		},
+		{
+			"name": "Kammy Koopa, the Brains",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}{B}",
+			"type": "Legendary Creature — Turtle Wizard Minion",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/171_Kammy Koopa, the Brains.png"
+			}
+		},
+		{
+			"name": "Chargin' Chuck",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Turtle Athlete Minion",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/159_Chargin' Chuck.png"
+			}
+		},
+		{
+			"name": "DK, Core Delver",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Ape Warrior Hero",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/165_DK, Core Delver.png"
+			}
+		},
+		{
+			"name": "Super Acorn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/184_Super Acorn.png"
+			}
+		},
+		{
+			"name": "Tutankoopa, Pyramid Wizard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Turtle Noble Wizard",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/189_Tutankoopa, Pyramid Wizard.png"
+			}
+		},
+		{
+			"name": "Bone Piranha Plant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Plant Skeleton Minion",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/155_Bone Piranha Plant.png"
+			}
+		},
+		{
+			"name": "Star Road Map",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/183_Star Road Map.png"
+			}
+		},
+		{
+			"name": "Torpedo Ted",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Construct Minion",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/188_Torpedo Ted.png"
+			}
+		},
+		{
+			"name": "Daisy, Tennis Ace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Noble Athlete",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/164_Daisy, Tennis Ace.png"
+			}
+		},
+		{
+			"name": "Standard Kart",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/196_Standard Kart.png"
+			}
+		},
+		{
+			"name": "Machine Made Replica",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Robot Minion",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/194_Machine Made Replica.png"
+			}
+		},
+		{
+			"name": "Mechawiggler, New Donk Terror",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact Creature — Insect Minion",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/195_Mechawiggler, New Donk Terror.png"
+			}
+		},
+		{
+			"name": "Huey, Paint Pal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Bard Hero",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/193_Huey, Paint Pal.png"
+			}
+		},
+		{
+			"name": "Maker Course",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/199_Maker Course.png"
+			}
+		},
+		{
+			"name": "Bowser's Kingdom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/197_Bowser's Kingdom.png"
+			}
+		},
+		{
+			"name": "Yoshi's Island",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/202_Yoshi's Island.png"
+			}
+		},
+		{
+			"name": "Smithy's Stolen Keep",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/201_Smithy's Stolen Keep.png"
+			}
+		},
+		{
+			"name": "Comet Observatory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/198_Comet Observatory.png"
+			}
+		},
+		{
+			"name": "Mushroom Kingdom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/200_Mushroom Kingdom.png"
+			}
+		},
+		{
+			"name": "Delfino Plaza",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/203_Delfino Plaza.png"
+			}
+		},
+		{
+			"name": "Dry Dry Desert",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/204_Dry Dry Desert.png"
+			}
+		},
+		{
+			"name": "Flame Pipe",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/205_Flame Pipe.png"
+			}
+		},
+		{
+			"name": "Ghost House",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/206_Ghost House.png"
+			}
+		},
+		{
+			"name": "Glitz Pit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/207_Glitz Pit.png"
+			}
+		},
+		{
+			"name": "New Donk City Hall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/208_New Donk City Hall.png"
+			}
+		},
+		{
+			"name": "Pagoda Peak",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/209_Pagoda Peak.png"
+			}
+		},
+		{
+			"name": "Spiky Palms",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/210_Spiky Palms.png"
+			}
+		},
+		{
+			"name": "Toad Town",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/211_Toad Town.png"
+			}
+		},
+		{
+			"name": "Vim Factory",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/212_Vim Factory.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/213_Swamp.png"
+			}
+		},
+		{
+			"name": "Super Mario Bros",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/185_Super Mario Bros.png"
+			}
+		},
+		{
+			"name": "Porcupuffer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Fish Minion",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/48_Porcupuffer.png"
+			}
+		},
+		{
+			"name": "Yoofoe Ship",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Alien Minion",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/58_Yoofoe Ship.png"
+			}
+		},
+		{
+			"name": "Thought Peek",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/56_Thought Peek.png"
+			}
+		},
+		{
+			"name": "King K. Rool",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Creature — Crocodile Noble",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/174_King K. Rool.png"
+			}
+		},
+		{
+			"name": "Power Balloon",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/49_Power Balloon.png"
+			}
+		},
+		{
+			"name": "Spray Away",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/54_Spray Away.png"
+			}
+		},
+		{
+			"name": "Poochy's Hint Art",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/47_Poochy's Hint Art.png"
+			}
+		},
+		{
+			"name": "Spiny Shell Crashout",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/53_Spiny Shell Crashout.png"
+			}
+		},
+		{
+			"name": "Radical Failure",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/50_Radical Failure.png"
+			}
+		},
+		{
+			"name": "Gold Block Rush",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/108_Gold Block Rush.png"
+			}
+		},
+		{
+			"name": "Hammer Assault",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/110_Hammer Assault.png"
+			}
+		},
+		{
+			"name": "Fire Vellumental's Glory",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/104_Fire Vellumental's Glory.png"
+			}
+		},
+		{
+			"name": "Bros Ball Training",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/95_Bros Ball Training.png"
+			}
+		},
+		{
+			"name": "Thunderhand",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/121_Thunderhand.png"
+			}
+		},
+		{
+			"name": "Flowery Advice",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/106_Flowery Advice.png"
+			}
+		},
+		{
+			"name": "Maker Pigeon",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird Bard Artificer",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/17_Maker Pigeon.png"
+			}
+		},
+		{
+			"name": "Guard Broggy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Dog",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/9_Guard Broggy.png"
+			}
+		},
+		{
+			"name": "Magic Shades Moe-Eye",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/16_Magic Shades Moe-Eye.png"
+			}
+		},
+		{
+			"name": "Poplin Supporters",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Plant Citizen",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/21_Poplin Supporters.png"
+			}
+		},
+		{
+			"name": "Bob-omb Buddy",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Construct Advisor",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/2_Bob-omb Buddy.png"
+			}
+		},
+		{
+			"name": "Captured Glydon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Lizard Hero",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/4_Captured Glydon.png"
+			}
+		},
+		{
+			"name": "Superstar Baby",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Hero",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/25_Superstar Baby.png"
+			}
+		},
+		{
+			"name": "Hint Toad",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Fungus Advisor",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/10_Hint Toad.png"
+			}
+		},
+		{
+			"name": "Twirling-Hair Heroine",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Ape Hero",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/29_Twirling-Hair Heroine.png"
+			}
+		},
+		{
+			"name": "Bouncy Hoppo",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Hippo",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/3_Bouncy Hoppo.png"
+			}
+		},
+		{
+			"name": "Toad Tea Time",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/28_Toad Tea Time.png"
+			}
+		},
+		{
+			"name": "Lip Lock",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/15_Lip Lock.png"
+			}
+		},
+		{
+			"name": "Super Mushroom",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/24_Super Mushroom.png"
+			}
+		},
+		{
+			"name": "Whacka Bump",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Food",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/30_Whacka Bump.png"
+			}
+		},
+		{
+			"name": "Matrimonial Rejection",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/18_Matrimonial Rejection.png"
+			}
+		},
+		{
+			"name": "Sunnycide Egg",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Fungus Egg Minion",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/148_Sunnycide Egg.png"
+			}
+		},
+		{
+			"name": "Big Baby Yoshi",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/127_Big Baby Yoshi.png"
+			}
+		},
+		{
+			"name": "Tropical Wiggler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/150_Tropical Wiggler.png"
+			}
+		},
+		{
+			"name": "Sandmaargh",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental Dinosaur Minion",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/146_Sandmaargh.png"
+			}
+		},
+		{
+			"name": "Punch",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/144_Punch.png"
+			}
+		},
+		{
+			"name": "Piranha Plant Parade",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/142_Piranha Plant Parade.png"
+			}
+		},
+		{
+			"name": "Mr. I",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Eye Minion",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/76_Mr. I.png"
+			}
+		},
+		{
+			"name": "Mischievous Bandits",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minion Rogue",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/75_Mischievous Bandits.png"
+			}
+		},
+		{
+			"name": "Ghost Portrificationizer",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/192_Ghost Portrificationizer.png"
+			}
+		},
+		{
+			"name": "Farsight Binoculars",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/191_Farsight Binoculars.png"
+			}
+		},
+		{
+			"name": "Beanbean Machine",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/190_Beanbean Machine.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 The Honey Queen
+	2 Dr. Mario
+	2 Swordfighter Peach
+	2 End of Sammer's Kingdom
+	1 Cappy, Capture Companion
+	2 Penguin Mario
+	2 Madame Flurrie, Charming
+	2 Aggressive Maw-Ray
+	1 Wario, Greedy Antihero
+	1 King Boo
+	2 Ashley, Young Witch
+	2 Cosmic Mario
+	2 Mad Piano
+	2 Bowser's Clown Car
+	1 Birdo, Egg Bombardier
+	1 Back Alley Rex
+	2 Bombette, Bombastic Starlet
+	2 Unchained Chomp
+	2 Strong-Arm Chuckster
+	2 Dancer Mario
+	2 Bullet Bill Blaster
+	2 March of the Minis
+	2 Baby Yoshi
+	2 Gooigi Canister
+	2 Rock Mario
+	2 Antasma, Evil Bat King
+	1 Count Bleck
+	1 Fawful, Beanish Brainiac
+	1 Fury Bowser
+	1 Fuzzy Time
+	1 Galaxy's Rebirth
+	2 Goomboss, Grand Pooh-bah
+	2 King Bob-omb
+	1 King Bowser, the Mighty
+	2 Lady Bow, Boo Princess
+	1 The Lord of Lightning
+	1 Cookatiel, Kooky Cook
+	2 Petey Piranha
+	1 Rosalina, Cosmic Guardian
+	2 Toadsworth, Old Aid
+	1 Mechawiggler, New Donk Terror
+	2 Bowser's Kingdom
+	2 Yoshi's Island
+	2 Smithy's Stolen Keep
+	2 Comet Observatory
+	2 Mushroom Kingdom
+	1 Super Mario Bros
+	1 King K. Rool
+[uncommon(3)]
+	4 Starlow, Guiding Voice
+	4 Koopa Paratroopa
+	4 Toad House Assistant
+	4 Cat Mario
+	4 Dr. Goomba Tower
+	4 Koops, Timid Turtle
+	4 Parakarry, Mailman
+	4 Racetrack Lakitu
+	4 Jump Up, Super Star!
+	4 Pipe Cork
+	4 Cheep Cheep
+	4 Goombella, Archaeology Student
+	4 The Ice Vellumental
+	4 Sushie, Romantic Cheep
+	4 Cape Mario
+	4 Helpful Water Dragon
+	4 Frog Suit
+	4 Magic Whistle
+	4 Warp Cannons
+	4 Dry Bones
+	4 Skeleton Mario
+	4 Ms. Mowz, Flirty Thief
+	4 Waluigi, Rude Racer
+	4 Kleptomaniac Condor
+	4 Raging Broozer
+	4 Tatanga, Mysterious Spaceman
+	4 Poisonous Mushroom
+	4 Bob-omb
+	4 Woolly Sniffit
+	4 Firebrand Mario
+	4 Goombario, Mario's Friend
+	4 Coin Coffer
+	4 Lakithunder, Lakitu Boss
+	4 Boom Boom, Henchturtle
+	4 Deflecting Spin
+	4 Karter's Focus
+	4 Bob-ombs Away!!
+	4 Bowser's Fire Hazard
+	4 Fire Flower
+	4 Question Mark Block
+	4 Welcome to the Party
+	4 Potted Uproot
+	4 Towering Pokey
+	4 Blue and Yellow, Elite Toads
+	4 Gutsy Galoomba
+	4 Luigi, Frightened Vacuumeer
+	4 Yoshi Steed
+	4 Elephant Mario
+	4 Peewee Piranha, Temperamental
+	4 Luigi Logic
+	4 Mega Mushroom
+	4 Merlee's Luck Spell
+	4 Blooper Nanny
+	4 Bowser Jr., Punk Prince
+	4 Coin Rush
+	4 Toadette, Princess's Favored
+	4 Chincho Swarm
+	4 Princess Shroob, the Younger
+	4 Captain Toad, Treasure Tracker
+	4 Ludwig Von Koopa, Composer
+	4 Boomerang Flower
+	4 Pauline, New Donk Mayor
+	4 Kammy Koopa, the Brains
+	4 Chargin' Chuck
+	4 DK, Core Delver
+	4 Super Acorn
+	4 Tutankoopa, Pyramid Wizard
+	4 Bone Piranha Plant
+	4 Star Road Map
+	4 Torpedo Ted
+	4 Daisy, Tennis Ace
+	4 Huey, Paint Pal
+[common(6)]
+	8 Twinkling Luma
+	8 Nimble Ninji
+	8 Rip Van Fish
+	8 Sidestepper
+	8 Camera Lakitu
+	8 Chic Sizeshifter
+	8 Friendly Dolphin
+	8 Mini Mushroom
+	8 Whirly Gecko
+	8 Koopa Troopa
+	8 Kritter Kommando
+	8 Cantankerous Elder
+	8 Swoops Swarm
+	8 Insightful Ghost
+	8 Assaulting Phantamanta
+	8 Viral Outbreak
+	8 Polterpup's Assistance
+	8 Ghost Guess
+	8 Cackletta's Intrusion
+	8 Bowser's Big Suck
+	8 Grasp of the River Twygz
+	8 Monty Mole
+	8 Fire Bro
+	8 Shy Guy
+	8 Fire Piranha
+	8 Quick-Arrival Jaxi
+	8 Rescue Squad Chief
+	8 Crushing Whomp
+	8 Real Funky Dude
+	8 Gobblegut Gargantua
+	8 Patrolling Goomba
+	8 Ecstatic Steam Gardener
+	8 Beanie Swarm
+	8 Hungry Maw-Maw
+	8 Scuttlebug
+	8 Lumbering Gorilla
+	8 Goomba Stomp
+	8 Yoshi Tongue
+	8 Into the Portrait
+	8 Standard Kart
+	8 Machine Made Replica
+	8 Maker Course
+	8 Delfino Plaza
+	8 Dry Dry Desert
+	8 Flame Pipe
+	8 Ghost House
+	8 Glitz Pit
+	8 New Donk City Hall
+	8 Pagoda Peak
+	8 Spiky Palms
+	8 Toad Town
+	8 Vim Factory
+	8 Porcupuffer
+	8 Yoofoe Ship
+	8 Thought Peek
+	8 Power Balloon
+	8 Spray Away
+	8 Poochy's Hint Art
+	8 Spiny Shell Crashout
+	8 Radical Failure
+	8 Gold Block Rush
+	8 Hammer Assault
+	8 Fire Vellumental's Glory
+	8 Bros Ball Training
+	8 Thunderhand
+	8 Flowery Advice
+	8 Maker Pigeon
+	8 Guard Broggy
+	8 Magic Shades Moe-Eye
+	8 Poplin Supporters
+	8 Bob-omb Buddy
+	8 Captured Glydon
+	8 Superstar Baby
+	8 Hint Toad
+	8 Twirling-Hair Heroine
+	8 Bouncy Hoppo
+	8 Toad Tea Time
+	8 Lip Lock
+	8 Super Mushroom
+	8 Whacka Bump
+	8 Matrimonial Rejection
+	8 Sunnycide Egg
+	8 Big Baby Yoshi
+	8 Tropical Wiggler
+	8 Sandmaargh
+	8 Punch
+	8 Piranha Plant Parade
+	8 Mr. I
+	8 Mischievous Bandits
+	8 Ghost Portrificationizer
+	8 Farsight Binoculars
+	8 Beanbean Machine
+[common | masterpiece(1)]
+	8 Twinkling Luma
+	8 Nimble Ninji
+	8 Rip Van Fish
+	8 Sidestepper
+	8 Camera Lakitu
+	8 Chic Sizeshifter
+	8 Friendly Dolphin
+	8 Mini Mushroom
+	8 Whirly Gecko
+	8 Koopa Troopa
+	8 Kritter Kommando
+	8 Cantankerous Elder
+	8 Swoops Swarm
+	8 Insightful Ghost
+	8 Assaulting Phantamanta
+	8 Viral Outbreak
+	8 Polterpup's Assistance
+	8 Ghost Guess
+	8 Cackletta's Intrusion
+	8 Bowser's Big Suck
+	8 Grasp of the River Twygz
+	8 Monty Mole
+	8 Fire Bro
+	8 Shy Guy
+	8 Fire Piranha
+	8 Quick-Arrival Jaxi
+	8 Rescue Squad Chief
+	8 Crushing Whomp
+	8 Real Funky Dude
+	8 Gobblegut Gargantua
+	8 Patrolling Goomba
+	8 Ecstatic Steam Gardener
+	8 Beanie Swarm
+	8 Hungry Maw-Maw
+	8 Scuttlebug
+	8 Lumbering Gorilla
+	8 Goomba Stomp
+	8 Yoshi Tongue
+	8 Into the Portrait
+	8 Standard Kart
+	8 Machine Made Replica
+	8 Maker Course
+	8 Delfino Plaza
+	8 Dry Dry Desert
+	8 Flame Pipe
+	8 Ghost House
+	8 Glitz Pit
+	8 New Donk City Hall
+	8 Pagoda Peak
+	8 Spiky Palms
+	8 Toad Town
+	8 Vim Factory
+	8 Porcupuffer
+	8 Yoofoe Ship
+	8 Thought Peek
+	8 Power Balloon
+	8 Spray Away
+	8 Poochy's Hint Art
+	8 Spiny Shell Crashout
+	8 Radical Failure
+	8 Gold Block Rush
+	8 Hammer Assault
+	8 Fire Vellumental's Glory
+	8 Bros Ball Training
+	8 Thunderhand
+	8 Flowery Advice
+	8 Maker Pigeon
+	8 Guard Broggy
+	8 Magic Shades Moe-Eye
+	8 Poplin Supporters
+	8 Bob-omb Buddy
+	8 Captured Glydon
+	8 Superstar Baby
+	8 Hint Toad
+	8 Twirling-Hair Heroine
+	8 Bouncy Hoppo
+	8 Toad Tea Time
+	8 Lip Lock
+	8 Super Mushroom
+	8 Whacka Bump
+	8 Matrimonial Rejection
+	8 Sunnycide Egg
+	8 Big Baby Yoshi
+	8 Tropical Wiggler
+	8 Sandmaargh
+	8 Punch
+	8 Piranha Plant Parade
+	8 Mr. I
+	8 Mischievous Bandits
+	8 Ghost Portrificationizer
+	8 Farsight Binoculars
+	8 Beanbean Machine
+[foil(1)]
+	12 Twinkling Luma
+	1 The Honey Queen
+	2 Dr. Mario
+	2 Swordfighter Peach
+	2 End of Sammer's Kingdom
+	6 Starlow, Guiding Voice
+	6 Koopa Paratroopa
+	6 Toad House Assistant
+	6 Cat Mario
+	6 Dr. Goomba Tower
+	6 Koops, Timid Turtle
+	6 Parakarry, Mailman
+	6 Racetrack Lakitu
+	6 Jump Up, Super Star!
+	6 Pipe Cork
+	12 Nimble Ninji
+	12 Rip Van Fish
+	12 Sidestepper
+	12 Camera Lakitu
+	12 Chic Sizeshifter
+	12 Friendly Dolphin
+	12 Mini Mushroom
+	1 Cappy, Capture Companion
+	2 Penguin Mario
+	2 Madame Flurrie, Charming
+	2 Aggressive Maw-Ray
+	6 Cheep Cheep
+	6 Goombella, Archaeology Student
+	6 The Ice Vellumental
+	6 Sushie, Romantic Cheep
+	6 Cape Mario
+	6 Helpful Water Dragon
+	6 Frog Suit
+	6 Magic Whistle
+	6 Warp Cannons
+	12 Whirly Gecko
+	12 Koopa Troopa
+	12 Kritter Kommando
+	12 Cantankerous Elder
+	12 Swoops Swarm
+	12 Insightful Ghost
+	12 Assaulting Phantamanta
+	12 Viral Outbreak
+	12 Polterpup's Assistance
+	12 Ghost Guess
+	12 Cackletta's Intrusion
+	12 Bowser's Big Suck
+	12 Grasp of the River Twygz
+	1 Wario, Greedy Antihero
+	1 King Boo
+	2 Ashley, Young Witch
+	2 Cosmic Mario
+	2 Mad Piano
+	2 Bowser's Clown Car
+	6 Dry Bones
+	6 Skeleton Mario
+	6 Ms. Mowz, Flirty Thief
+	6 Waluigi, Rude Racer
+	6 Kleptomaniac Condor
+	6 Raging Broozer
+	6 Tatanga, Mysterious Spaceman
+	6 Poisonous Mushroom
+	12 Monty Mole
+	12 Fire Bro
+	12 Shy Guy
+	12 Fire Piranha
+	12 Quick-Arrival Jaxi
+	12 Rescue Squad Chief
+	12 Crushing Whomp
+	12 Real Funky Dude
+	12 Gobblegut Gargantua
+	1 Birdo, Egg Bombardier
+	1 Back Alley Rex
+	2 Bombette, Bombastic Starlet
+	2 Unchained Chomp
+	2 Strong-Arm Chuckster
+	2 Dancer Mario
+	2 Bullet Bill Blaster
+	2 March of the Minis
+	6 Bob-omb
+	6 Woolly Sniffit
+	6 Firebrand Mario
+	6 Goombario, Mario's Friend
+	6 Coin Coffer
+	6 Lakithunder, Lakitu Boss
+	6 Boom Boom, Henchturtle
+	6 Deflecting Spin
+	6 Karter's Focus
+	6 Bob-ombs Away!!
+	6 Bowser's Fire Hazard
+	6 Fire Flower
+	6 Question Mark Block
+	6 Welcome to the Party
+	12 Patrolling Goomba
+	12 Ecstatic Steam Gardener
+	12 Beanie Swarm
+	12 Hungry Maw-Maw
+	12 Scuttlebug
+	12 Lumbering Gorilla
+	12 Goomba Stomp
+	12 Yoshi Tongue
+	12 Into the Portrait
+	2 Baby Yoshi
+	2 Gooigi Canister
+	2 Rock Mario
+	6 Potted Uproot
+	6 Towering Pokey
+	6 Blue and Yellow, Elite Toads
+	6 Gutsy Galoomba
+	6 Luigi, Frightened Vacuumeer
+	6 Yoshi Steed
+	6 Elephant Mario
+	6 Peewee Piranha, Temperamental
+	6 Luigi Logic
+	6 Mega Mushroom
+	2 Antasma, Evil Bat King
+	1 Count Bleck
+	1 Fawful, Beanish Brainiac
+	1 Fury Bowser
+	1 Fuzzy Time
+	1 Galaxy's Rebirth
+	2 Goomboss, Grand Pooh-bah
+	2 King Bob-omb
+	1 King Bowser, the Mighty
+	2 Lady Bow, Boo Princess
+	1 The Lord of Lightning
+	1 Cookatiel, Kooky Cook
+	2 Petey Piranha
+	1 Rosalina, Cosmic Guardian
+	2 Toadsworth, Old Aid
+	6 Merlee's Luck Spell
+	6 Blooper Nanny
+	6 Bowser Jr., Punk Prince
+	6 Coin Rush
+	6 Toadette, Princess's Favored
+	6 Chincho Swarm
+	6 Princess Shroob, the Younger
+	6 Captain Toad, Treasure Tracker
+	6 Ludwig Von Koopa, Composer
+	6 Boomerang Flower
+	6 Pauline, New Donk Mayor
+	6 Kammy Koopa, the Brains
+	6 Chargin' Chuck
+	6 DK, Core Delver
+	6 Super Acorn
+	6 Tutankoopa, Pyramid Wizard
+	6 Bone Piranha Plant
+	6 Star Road Map
+	6 Torpedo Ted
+	6 Daisy, Tennis Ace
+	12 Standard Kart
+	12 Machine Made Replica
+	1 Mechawiggler, New Donk Terror
+	6 Huey, Paint Pal
+	12 Maker Course
+	2 Bowser's Kingdom
+	2 Yoshi's Island
+	2 Smithy's Stolen Keep
+	2 Comet Observatory
+	2 Mushroom Kingdom
+	12 Delfino Plaza
+	12 Dry Dry Desert
+	12 Flame Pipe
+	12 Ghost House
+	12 Glitz Pit
+	12 New Donk City Hall
+	12 Pagoda Peak
+	12 Spiky Palms
+	12 Toad Town
+	12 Vim Factory
+	1 Super Mario Bros
+	12 Porcupuffer
+	12 Yoofoe Ship
+	12 Thought Peek
+	1 King K. Rool
+	12 Power Balloon
+	12 Spray Away
+	12 Poochy's Hint Art
+	12 Spiny Shell Crashout
+	12 Radical Failure
+	12 Gold Block Rush
+	12 Hammer Assault
+	12 Fire Vellumental's Glory
+	12 Bros Ball Training
+	12 Thunderhand
+	12 Flowery Advice
+	12 Maker Pigeon
+	12 Guard Broggy
+	12 Magic Shades Moe-Eye
+	12 Poplin Supporters
+	12 Bob-omb Buddy
+	12 Captured Glydon
+	12 Superstar Baby
+	12 Hint Toad
+	12 Twirling-Hair Heroine
+	12 Bouncy Hoppo
+	12 Toad Tea Time
+	12 Lip Lock
+	12 Super Mushroom
+	12 Whacka Bump
+	12 Matrimonial Rejection
+	12 Sunnycide Egg
+	12 Big Baby Yoshi
+	12 Tropical Wiggler
+	12 Sandmaargh
+	12 Punch
+	12 Piranha Plant Parade
+	12 Mr. I
+	12 Mischievous Bandits
+	12 Ghost Portrificationizer
+	12 Farsight Binoculars
+	12 Beanbean Machine
+[wildcard(1)]
+	6 Twinkling Luma
+	4 The Honey Queen
+	7 Dr. Mario
+	7 Swordfighter Peach
+	7 End of Sammer's Kingdom
+	15 Starlow, Guiding Voice
+	15 Koopa Paratroopa
+	15 Toad House Assistant
+	15 Cat Mario
+	15 Dr. Goomba Tower
+	15 Koops, Timid Turtle
+	15 Parakarry, Mailman
+	15 Racetrack Lakitu
+	15 Jump Up, Super Star!
+	15 Pipe Cork
+	6 Nimble Ninji
+	6 Rip Van Fish
+	6 Sidestepper
+	6 Camera Lakitu
+	6 Chic Sizeshifter
+	6 Friendly Dolphin
+	6 Mini Mushroom
+	4 Cappy, Capture Companion
+	7 Penguin Mario
+	7 Madame Flurrie, Charming
+	7 Aggressive Maw-Ray
+	15 Cheep Cheep
+	15 Goombella, Archaeology Student
+	15 The Ice Vellumental
+	15 Sushie, Romantic Cheep
+	15 Cape Mario
+	15 Helpful Water Dragon
+	15 Frog Suit
+	15 Magic Whistle
+	15 Warp Cannons
+	6 Whirly Gecko
+	6 Koopa Troopa
+	6 Kritter Kommando
+	6 Cantankerous Elder
+	6 Swoops Swarm
+	6 Insightful Ghost
+	6 Assaulting Phantamanta
+	6 Viral Outbreak
+	6 Polterpup's Assistance
+	6 Ghost Guess
+	6 Cackletta's Intrusion
+	6 Bowser's Big Suck
+	6 Grasp of the River Twygz
+	4 Wario, Greedy Antihero
+	4 King Boo
+	7 Ashley, Young Witch
+	7 Cosmic Mario
+	7 Mad Piano
+	7 Bowser's Clown Car
+	15 Dry Bones
+	15 Skeleton Mario
+	15 Ms. Mowz, Flirty Thief
+	15 Waluigi, Rude Racer
+	15 Kleptomaniac Condor
+	15 Raging Broozer
+	15 Tatanga, Mysterious Spaceman
+	15 Poisonous Mushroom
+	6 Monty Mole
+	6 Fire Bro
+	6 Shy Guy
+	6 Fire Piranha
+	6 Quick-Arrival Jaxi
+	6 Rescue Squad Chief
+	6 Crushing Whomp
+	6 Real Funky Dude
+	6 Gobblegut Gargantua
+	4 Birdo, Egg Bombardier
+	4 Back Alley Rex
+	7 Bombette, Bombastic Starlet
+	7 Unchained Chomp
+	7 Strong-Arm Chuckster
+	7 Dancer Mario
+	7 Bullet Bill Blaster
+	7 March of the Minis
+	15 Bob-omb
+	15 Woolly Sniffit
+	15 Firebrand Mario
+	15 Goombario, Mario's Friend
+	15 Coin Coffer
+	15 Lakithunder, Lakitu Boss
+	15 Boom Boom, Henchturtle
+	15 Deflecting Spin
+	15 Karter's Focus
+	15 Bob-ombs Away!!
+	15 Bowser's Fire Hazard
+	15 Fire Flower
+	15 Question Mark Block
+	15 Welcome to the Party
+	6 Patrolling Goomba
+	6 Ecstatic Steam Gardener
+	6 Beanie Swarm
+	6 Hungry Maw-Maw
+	6 Scuttlebug
+	6 Lumbering Gorilla
+	6 Goomba Stomp
+	6 Yoshi Tongue
+	6 Into the Portrait
+	7 Baby Yoshi
+	7 Gooigi Canister
+	7 Rock Mario
+	15 Potted Uproot
+	15 Towering Pokey
+	15 Blue and Yellow, Elite Toads
+	15 Gutsy Galoomba
+	15 Luigi, Frightened Vacuumeer
+	15 Yoshi Steed
+	15 Elephant Mario
+	15 Peewee Piranha, Temperamental
+	15 Luigi Logic
+	15 Mega Mushroom
+	7 Antasma, Evil Bat King
+	4 Count Bleck
+	4 Fawful, Beanish Brainiac
+	4 Fury Bowser
+	4 Fuzzy Time
+	4 Galaxy's Rebirth
+	7 Goomboss, Grand Pooh-bah
+	7 King Bob-omb
+	4 King Bowser, the Mighty
+	7 Lady Bow, Boo Princess
+	4 The Lord of Lightning
+	4 Cookatiel, Kooky Cook
+	7 Petey Piranha
+	4 Rosalina, Cosmic Guardian
+	7 Toadsworth, Old Aid
+	15 Merlee's Luck Spell
+	15 Blooper Nanny
+	15 Bowser Jr., Punk Prince
+	15 Coin Rush
+	15 Toadette, Princess's Favored
+	15 Chincho Swarm
+	15 Princess Shroob, the Younger
+	15 Captain Toad, Treasure Tracker
+	15 Ludwig Von Koopa, Composer
+	15 Boomerang Flower
+	15 Pauline, New Donk Mayor
+	15 Kammy Koopa, the Brains
+	15 Chargin' Chuck
+	15 DK, Core Delver
+	15 Super Acorn
+	15 Tutankoopa, Pyramid Wizard
+	15 Bone Piranha Plant
+	15 Star Road Map
+	15 Torpedo Ted
+	15 Daisy, Tennis Ace
+	6 Standard Kart
+	6 Machine Made Replica
+	4 Mechawiggler, New Donk Terror
+	15 Huey, Paint Pal
+	6 Maker Course
+	7 Bowser's Kingdom
+	7 Yoshi's Island
+	7 Smithy's Stolen Keep
+	7 Comet Observatory
+	7 Mushroom Kingdom
+	6 Delfino Plaza
+	6 Dry Dry Desert
+	6 Flame Pipe
+	6 Ghost House
+	6 Glitz Pit
+	6 New Donk City Hall
+	6 Pagoda Peak
+	6 Spiky Palms
+	6 Toad Town
+	6 Vim Factory
+	4 Super Mario Bros
+	6 Porcupuffer
+	6 Yoofoe Ship
+	6 Thought Peek
+	4 King K. Rool
+	6 Power Balloon
+	6 Spray Away
+	6 Poochy's Hint Art
+	6 Spiny Shell Crashout
+	6 Radical Failure
+	6 Gold Block Rush
+	6 Hammer Assault
+	6 Fire Vellumental's Glory
+	6 Bros Ball Training
+	6 Thunderhand
+	6 Flowery Advice
+	6 Maker Pigeon
+	6 Guard Broggy
+	6 Magic Shades Moe-Eye
+	6 Poplin Supporters
+	6 Bob-omb Buddy
+	6 Captured Glydon
+	6 Superstar Baby
+	6 Hint Toad
+	6 Twirling-Hair Heroine
+	6 Bouncy Hoppo
+	6 Toad Tea Time
+	6 Lip Lock
+	6 Super Mushroom
+	6 Whacka Bump
+	6 Matrimonial Rejection
+	6 Sunnycide Egg
+	6 Big Baby Yoshi
+	6 Tropical Wiggler
+	6 Sandmaargh
+	6 Punch
+	6 Piranha Plant Parade
+	6 Mr. I
+	6 Mischievous Bandits
+	6 Ghost Portrificationizer
+	6 Farsight Binoculars
+	6 Beanbean Machine
