@@ -1,0 +1,578 @@
+﻿[
+    {
+        "card_name": "3-Up Moon",
+        "number": 1,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Luigi, Best Bro",
+        "number": 11,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bowser, Monstrous King",
+        "number": 14,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Super Mario",
+        "number": 23,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "DK, Gorilla Great",
+        "number": 26,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Princess Peach, Toadstool Ruler",
+        "number": 5,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Luigi's Determination",
+        "number": 12,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bowser's Brutality",
+        "number": 15,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bobbery, Salty Sea Dog",
+        "number": 17,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "DK's Jungle Beatdown",
+        "number": 27,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lakilester, Cool Cloud Rider",
+        "number": 3,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "E. Gadd, Nutty Professor",
+        "number": 10,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wonder Bowser Jr.",
+        "number": 16,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Double Cherries",
+        "number": 18,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Diddy Kong, Best Buddy",
+        "number": 25,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Peach's Blessing",
+        "number": 4,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Circuit Statues",
+        "number": 9,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Biddybud Battalion",
+        "number": 13,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mario's Courage",
+        "number": 20,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rhino Pal",
+        "number": 28,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reserve Box",
+        "number": 6,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Watt, Baby Spark",
+        "number": 24,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tippi, Helpful Pixl",
+        "number": 7,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lava Moat Blargg",
+        "number": 19,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Toad, Mushroom Steward",
+        "number": 8,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Princess Daisy, Tomboy Biker",
+        "number": 21,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Castle Bunny",
+        "number": 2,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Red Yoshi",
+        "number": 22,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ganondorf, Evil King",
+        "number": 34,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bowser, King Koopa",
+        "number": 29,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Duck Hunt Duo",
+        "number": 32,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Luigi, Second Banana",
+        "number": 39,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Bowser's Chance Time",
+        "number": 30,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mallow, Lost Prince",
+        "number": 40,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Fabled Giga Bell",
+        "number": 33,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yoshi Kid",
+        "number": 45,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Prince Peasley, Flamboyant Bean",
+        "number": 42,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kamek, Chief Magikoopa",
+        "number": 36,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mario, Superstar",
+        "number": 41,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Captive Peach",
+        "number": 31,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Geno, Star-Powered Puppet",
+        "number": 35,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kooper, Power Shell",
+        "number": 38,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vivian, Shadow Sister",
+        "number": 44,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Koopalings, Mean Mob",
+        "number": 37,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Super Princess Peach",
+        "number": 43,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Robot Minion",
+        "number": 1,
+        "shape": "token",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Turtle Egg",
+        "number": 2,
+        "shape": "token",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
