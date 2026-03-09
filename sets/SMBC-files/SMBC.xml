@@ -10,10 +10,10 @@
 	</sets>
 	<cards>
 		<card>
-			<name>Junior&apos;s Clown Car SMB</name>
+			<name>Junior&apos;s Clown Car SMBC</name>
 			<text>Flying
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/1t_Junior&apos;s Clown Car.png" num="1">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/1t_Junior&apos;s Clown Car.png" num="1">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -29,9 +29,9 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<token>1</token>
 		</card>
 		<card>
-			<name>Minion SMB</name>
+			<name>Minion SMBC</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/2t_Minion.png" num="2">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/2t_Minion.png" num="2">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -47,9 +47,9 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<token>1</token>
 		</card>
 		<card>
-			<name>Minion SMB</name>
+			<name>Minion SMBC</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/3t_Minion.png" num="3">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/3t_Minion.png" num="3">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -65,9 +65,9 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<token>1</token>
 		</card>
 		<card>
-			<name>Minion SMB</name>
+			<name>Minion SMBC</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/4t_Minion.png" num="4">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/4t_Minion.png" num="4">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -83,9 +83,9 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<token>1</token>
 		</card>
 		<card>
-			<name>Minion Army SMB</name>
+			<name>Minion Army SMBC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/6t_Minion Army.png" num="6">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/6t_Minion Army.png" num="6">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -101,10 +101,10 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<token>1</token>
 		</card>
 		<card>
-			<name>Spirit Minion SMB</name>
+			<name>Spirit Minion SMBC</name>
 			<text>Flying
 This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/7t_Spirit Minion.png" num="7">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/7t_Spirit Minion.png" num="7">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,9 +120,9 @@ This token can&apos;t block.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Treasure SMB</name>
+			<name>Treasure SMBC</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/8t_Treasure.png" num="8">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/8t_Treasure.png" num="8">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -135,9 +135,9 @@ This token can&apos;t block.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Treasure SMB</name>
+			<name>Treasure SMBC</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/9t_Treasure.png" num="9">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/9t_Treasure.png" num="9">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -150,9 +150,9 @@ This token can&apos;t block.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Stages and Worlds SMB</name>
+			<name>Stages and Worlds SMBC</name>
 			<text>​</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/1t_Stages and Worlds.png" num="1">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/1t_Stages and Worlds.png" num="1">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -165,9 +165,9 @@ This token can&apos;t block.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Minion SMB</name>
+			<name>Minion SMBC</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/5t_Minion.png" num="5">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/5t_Minion.png" num="5">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -186,7 +186,7 @@ This token can&apos;t block.</text>
 			<name>Twinkling Luma</name>
 			<text>Flying
 {1}: Add one mana of any color. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/1_Twinkling Luma.png" num="1">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/1_Twinkling Luma.png" num="1">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -202,7 +202,7 @@ This token can&apos;t block.</text>
 			<name>Nimble Ninji</name>
 			<text>This creature can&apos;t be blocked.
 {6}{U}, Sacrifice this creature: Draw two cards.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/21_Nimble Ninji.png" num="21">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/21_Nimble Ninji.png" num="21">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -220,7 +220,7 @@ This token can&apos;t block.</text>
 			<name>Rip Van Fish</name>
 			<text>Defender
 As long as you control another Minion or Noble, this creature can attack as though it didn&apos;t have defender.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/26_Rip Van Fish.png" num="26">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/26_Rip Van Fish.png" num="26">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -238,7 +238,7 @@ As long as you control another Minion or Noble, this creature can attack as thou
 			<name>Sidestepper</name>
 			<text>Vigilance
 {4}{U}, {T}: Clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/27_Sidestepper.png" num="27">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/27_Sidestepper.png" num="27">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -256,7 +256,7 @@ As long as you control another Minion or Noble, this creature can attack as thou
 			<name>Camera Lakitu</name>
 			<text>Flying
 When this creature enters, look at the top three cards of your library. Put them back on top in any order, then draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/17_Camera Lakitu.png" num="17">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/17_Camera Lakitu.png" num="17">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -274,7 +274,7 @@ When this creature enters, look at the top three cards of your library. Put them
 			<name>Chic Sizeshifter</name>
 			<text>This creature can&apos;t be blocked as long as you control another attacking Hero or Noble.
 {3}{U}: This creature has base power and toughness 3/1 until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/18_Chic Sizeshifter.png" num="18">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/18_Chic Sizeshifter.png" num="18">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -292,7 +292,7 @@ When this creature enters, look at the top three cards of your library. Put them
 			<name>Friendly Dolphin</name>
 			<text>Vigilance
 Whenever an enchantment you control enters, clear a stage (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/19_Friendly Dolphin.png" num="19">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/19_Friendly Dolphin.png" num="19">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -310,7 +310,7 @@ Whenever an enchantment you control enters, clear a stage (Draw a card, then dis
 			<name>Mini Mushroom</name>
 			<text>Enchant creature
 Enchanted creature gets -10/-0 and loses all abilities. (This includes abilities gained by other Auras already on it. It can gain abilities from new Auras.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/20_Mini Mushroom.png" num="20">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/20_Mini Mushroom.png" num="20">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -327,7 +327,7 @@ Enchanted creature gets -10/-0 and loses all abilities. (This includes abilities
 			<name>Whirly Gecko</name>
 			<text>Deathtouch
 {5}{B}: Each opponent loses 2 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/46_Whirly Gecko.png" num="46">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/46_Whirly Gecko.png" num="46">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -344,7 +344,7 @@ Enchanted creature gets -10/-0 and loses all abilities. (This includes abilities
 		<card>
 			<name>Koopa Troopa</name>
 			<text>Expendable 2 (When this creature dies, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/39_Koopa Troopa.png" num="39">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/39_Koopa Troopa.png" num="39">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -363,7 +363,7 @@ Enchanted creature gets -10/-0 and loses all abilities. (This includes abilities
 			<text>When this creature dies, choose one —
 • Create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;
 • Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/40_Kritter Kommando.png" num="40">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/40_Kritter Kommando.png" num="40">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -381,7 +381,7 @@ Enchanted creature gets -10/-0 and loses all abilities. (This includes abilities
 			<name>Cantankerous Elder</name>
 			<text>When this creature enters, target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)
 {B}, Discard this card, Pay 1 life: Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/35_Cantankerous Elder.png" num="35">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/35_Cantankerous Elder.png" num="35">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -399,7 +399,7 @@ Enchanted creature gets -10/-0 and loses all abilities. (This includes abilities
 			<name>Swoops Swarm</name>
 			<text>Flying, lifelink
 When this creature enters, it deals 1 damage to any target. If that target was dealt damage this turn, this creature deals 3 damage to it instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/44_Swoops Swarm.png" num="44">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/44_Swoops Swarm.png" num="44">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -417,7 +417,7 @@ When this creature enters, it deals 1 damage to any target. If that target was d
 			<name>Insightful Ghost</name>
 			<text>Flying
 When this creature enters or dies, clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/38_Insightful Ghost.png" num="38">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/38_Insightful Ghost.png" num="38">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -435,7 +435,7 @@ When this creature enters or dies, clear a stage. (Draw a card, then discard a c
 			<name>Assaulting Phantamanta</name>
 			<text>Flash
 When this creature enters, target creature an opponent controls gets -2/-2 until end of turn. If that creature is enchanted, it gets -5/-5 until end of turn instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/32_Assaulting Phantamanta.png" num="32">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/32_Assaulting Phantamanta.png" num="32">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -452,7 +452,7 @@ When this creature enters, target creature an opponent controls gets -2/-2 until
 		<card>
 			<name>Viral Outbreak</name>
 			<text>Target creature gets -2/-2 until end of turn. Its controller loses 2 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/45_Viral Outbreak.png" num="45">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/45_Viral Outbreak.png" num="45">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -471,7 +471,7 @@ When this creature enters, target creature an opponent controls gets -2/-2 until
 Enchant creature
 Enchanted creature gets +1/+0.
 When enchanted creature dies, return it to the battlefield under its owner&apos;s control and create a Treasure token.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/43_Polterpup&apos;s Assistance.png" num="43">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/43_Polterpup&apos;s Assistance.png" num="43">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -488,7 +488,7 @@ When enchanted creature dies, return it to the battlefield under its owner&apos;
 			<name>Ghost Guess</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards, then create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/36_Ghost Guess.png" num="36">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/36_Ghost Guess.png" num="36">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -506,7 +506,7 @@ Draw two cards, then create a 1/1 black Minion creature token with &quot;This to
 			<text>Choose one —
 • Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
 • Target creature you control gets +2/+0 and gains lifelink and deathtouch until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/34_Cackletta&apos;s Intrusion.png" num="34">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/34_Cackletta&apos;s Intrusion.png" num="34">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -523,7 +523,7 @@ Draw two cards, then create a 1/1 black Minion creature token with &quot;This to
 			<name>Bowser&apos;s Big Suck</name>
 			<text>This spell costs {2} less to cast if you control a Noble.
 Exile target creature or planeswalker.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/33_Bowser&apos;s Big Suck.png" num="33">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/33_Bowser&apos;s Big Suck.png" num="33">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -540,7 +540,7 @@ Exile target creature or planeswalker.</text>
 			<name>Grasp of the River Twygz</name>
 			<text>This spell costs {1} less to cast for each creature card in your graveyard.
 Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it and each Aura attached to it instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/37_Grasp of the River Twygz.png" num="37">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/37_Grasp of the River Twygz.png" num="37">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -558,7 +558,7 @@ Target creature gets -5/-5 until end of turn. If that creature would die this tu
 			<text>Menace, haste
 This creature can&apos;t be blocked by creatures with flying.
 Expendable 1 (When this creature dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/56_Monty Mole.png" num="56">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/56_Monty Mole.png" num="56">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -575,7 +575,7 @@ Expendable 1 (When this creature dies, create a 1/1 black Minion creature token 
 		<card>
 			<name>Fire Bro</name>
 			<text>When this creature enters, it deals 2 damage to target player or planeswalker.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/49_Fire Bro.png" num="49">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/49_Fire Bro.png" num="49">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -592,7 +592,7 @@ Expendable 1 (When this creature dies, create a 1/1 black Minion creature token 
 		<card>
 			<name>Shy Guy</name>
 			<text>{T}: Add {R}. Spend this mana only to cast a Minion or Noble spell or activate abilities of Minion or Noble sources.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/60_Shy Guy.png" num="60">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/60_Shy Guy.png" num="60">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -610,7 +610,7 @@ Expendable 1 (When this creature dies, create a 1/1 black Minion creature token 
 			<name>Fire Piranha</name>
 			<text>Reach
 {2}{R}: This creature gets +2/+0 until end of turn. If mana from a Treasure was spent to activate this ability, create a Treasure token.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/50_Fire Piranha.png" num="50">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/50_Fire Piranha.png" num="50">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -628,7 +628,7 @@ Expendable 1 (When this creature dies, create a 1/1 black Minion creature token 
 			<name>Quick-Arrival Jaxi</name>
 			<text>Haste
 {T}: Another target creature gains haste until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/57_Quick-Arrival Jaxi.png" num="57">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/57_Quick-Arrival Jaxi.png" num="57">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -646,7 +646,7 @@ Expendable 1 (When this creature dies, create a 1/1 black Minion creature token 
 			<name>Rescue Squad Chief</name>
 			<text>When this creature enters, clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)
 Whenever you clear a world, target creature can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/59_Rescue Squad Chief.png" num="59">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/59_Rescue Squad Chief.png" num="59">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -664,7 +664,7 @@ Whenever you clear a world, target creature can&apos;t block this turn.</text>
 			<name>Crushing Whomp</name>
 			<text>Trample
 Expendable 2 (When this creature dies, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/48_Crushing Whomp.png" num="48">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/48_Crushing Whomp.png" num="48">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -682,7 +682,7 @@ Expendable 2 (When this creature dies, create a 2/2 black Minion creature token 
 			<name>Real Funky Dude</name>
 			<text>Menace
 When this creature enters, create a Treasure token and exile the top card of your library. You may play that card until the end of your next turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/58_Real Funky Dude.png" num="58">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/58_Real Funky Dude.png" num="58">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -700,7 +700,7 @@ When this creature enters, create a Treasure token and exile the top card of you
 			<name>Gobblegut Gargantua</name>
 			<text>Flying
 Expendable 3 (When this creature dies, create a 3/3 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/53_Gobblegut Gargantua.png" num="53">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/53_Gobblegut Gargantua.png" num="53">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -717,7 +717,7 @@ Expendable 3 (When this creature dies, create a 3/3 black Minion creature token 
 		<card>
 			<name>Patrolling Goomba</name>
 			<text>When this creature enters, put a +1/+1 counter on another target Minion or Noble you control.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/69_Patrolling Goomba.png" num="69">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/69_Patrolling Goomba.png" num="69">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -735,7 +735,7 @@ Expendable 3 (When this creature dies, create a 3/3 black Minion creature token 
 			<name>Ecstatic Steam Gardener</name>
 			<text>Vigilance
 When this creature enters, you may put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/64_Ecstatic Steam Gardener.png" num="64">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/64_Ecstatic Steam Gardener.png" num="64">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -753,7 +753,7 @@ When this creature enters, you may put a land card from your hand onto the battl
 			<name>Beanie Swarm</name>
 			<text>Expendable 1 (When this creature dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;)
 {3}{G}: Search your library for a card named Beanie Swarm, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/62_Beanie Swarm.png" num="62">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/62_Beanie Swarm.png" num="62">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -771,7 +771,7 @@ When this creature enters, you may put a land card from your hand onto the battl
 			<name>Hungry Maw-Maw</name>
 			<text>Trample
 When this creature enters, you gain 2 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/66_Hungry Maw-Maw.png" num="66">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/66_Hungry Maw-Maw.png" num="66">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -789,7 +789,7 @@ When this creature enters, you gain 2 life.</text>
 			<name>Scuttlebug</name>
 			<text>Reach
 Expendable 1 (When this creature dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/73_Scuttlebug.png" num="73">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/73_Scuttlebug.png" num="73">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -807,7 +807,7 @@ Expendable 1 (When this creature dies, create a 1/1 black Minion creature token 
 			<name>Lumbering Gorilla</name>
 			<text>Trample
 When this creature enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/68_Lumbering Gorilla.png" num="68">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/68_Lumbering Gorilla.png" num="68">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -824,7 +824,7 @@ When this creature enters, create a Treasure token. (It&apos;s an artifact with 
 		<card>
 			<name>Goomba Stomp</name>
 			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. If the creature you control is an enchantment or is enchanted, excess damage is dealt to that creature&apos;s controller instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/65_Goomba Stomp.png" num="65">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/65_Goomba Stomp.png" num="65">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -843,7 +843,7 @@ When this creature enters, create a Treasure token. (It&apos;s an artifact with 
 Enchant creature
 When this Aura enters, untap enchanted creature. Draw a card if there is another Aura attached to enchanted creature.
 Enchanted creature gets +1/+1 and has reach.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/76_Yoshi Tongue.png" num="76">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/76_Yoshi Tongue.png" num="76">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -859,7 +859,7 @@ Enchanted creature gets +1/+1 and has reach.</text>
 		<card>
 			<name>Into the Portrait</name>
 			<text>Look at the top four cards of your library. You may reveal an Aura, Hero, Noble, or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/67_Into the Portrait.png" num="67">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/67_Into the Portrait.png" num="67">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -876,7 +876,7 @@ Enchanted creature gets +1/+1 and has reach.</text>
 			<name>Standard Kart</name>
 			<text>Haste
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/81_Standard Kart.png" num="81">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/81_Standard Kart.png" num="81">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -892,7 +892,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<name>Machine Made Replica</name>
 			<text>Vigilance
 When this creature enters, you may shuffle up to two cards from your graveyard into your library.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/80_Machine Made Replica.png" num="80">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/80_Machine Made Replica.png" num="80">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -909,7 +909,7 @@ When this creature enters, you may shuffle up to two cards from your graveyard i
 			<text>This land enters tapped. As it enters, choose a color.
 {T}: Add one mana of the last color chosen.
 {1}, {T}: Choose a color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/82_Maker Course.png" num="82">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/82_Maker Course.png" num="82">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -924,7 +924,7 @@ When this creature enters, you may shuffle up to two cards from your graveyard i
 			<name>Delfino Plaza</name>
 			<text>({T}: Add {G} or {U}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/83_Delfino Plaza.png" num="83">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/83_Delfino Plaza.png" num="83">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -940,7 +940,7 @@ This land enters tapped.</text>
 			<name>Dry Dry Desert</name>
 			<text>({T}: Add {W} or {B}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/84_Dry Dry Desert.png" num="84">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/84_Dry Dry Desert.png" num="84">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -956,7 +956,7 @@ This land enters tapped.</text>
 			<name>Flame Pipe</name>
 			<text>({T}: Add {B} or {R}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/85_Flame Pipe.png" num="85">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/85_Flame Pipe.png" num="85">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -972,7 +972,7 @@ This land enters tapped.</text>
 			<name>Ghost House</name>
 			<text>({T}: Add {U} or {B}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/86_Ghost House.png" num="86">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/86_Ghost House.png" num="86">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -988,7 +988,7 @@ This land enters tapped.</text>
 			<name>Glitz Pit</name>
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/87_Glitz Pit.png" num="87">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/87_Glitz Pit.png" num="87">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1004,7 +1004,7 @@ This land enters tapped.</text>
 			<name>New Donk City Hall</name>
 			<text>({T}: Add {W} or {U}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/88_New Donk City Hall.png" num="88">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/88_New Donk City Hall.png" num="88">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1020,7 +1020,7 @@ This land enters tapped.</text>
 			<name>Pagoda Peak</name>
 			<text>({T}: Add {U} or {R}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/89_Pagoda Peak.png" num="89">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/89_Pagoda Peak.png" num="89">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1036,7 +1036,7 @@ This land enters tapped.</text>
 			<name>Spiky Palms</name>
 			<text>({T}: Add {R} or {W}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/90_Spiky Palms.png" num="90">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/90_Spiky Palms.png" num="90">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1052,7 +1052,7 @@ This land enters tapped.</text>
 			<name>Toad Town</name>
 			<text>({T}: Add {G} or {W}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/91_Toad Town.png" num="91">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/91_Toad Town.png" num="91">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1068,7 +1068,7 @@ This land enters tapped.</text>
 			<name>Vim Factory</name>
 			<text>({T}: Add {B} or {G}.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/92_Vim Factory.png" num="92">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/92_Vim Factory.png" num="92">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1084,7 +1084,7 @@ This land enters tapped.</text>
 			<name>Porcupuffer</name>
 			<text>Flash
 This creature enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/23_Porcupuffer.png" num="23">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/23_Porcupuffer.png" num="23">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1102,7 +1102,7 @@ This creature enters tapped.</text>
 			<name>Yoofoe Ship</name>
 			<text>Flying
 Expendable 2 (When this creature dies, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/31_Yoofoe Ship.png" num="31">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/31_Yoofoe Ship.png" num="31">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1120,7 +1120,7 @@ Expendable 2 (When this creature dies, create a 2/2 black Minion creature token 
 			<name>Thought Peek</name>
 			<text>Tap up to one target creature you don&apos;t control.
 Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/30_Thought Peek.png" num="30">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/30_Thought Peek.png" num="30">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1138,7 +1138,7 @@ Surveil 1, then draw a card. (To surveil 1, look at the top card of your library
 			<text>Enchant creature
 Enchanted creature gets +1/+1 and has flying.
 Stock (You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/24_Power Balloon.png" num="24">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/24_Power Balloon.png" num="24">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1156,7 +1156,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 			<text>Choose one —
 • Return target creature to its owner&apos;s hand.
 • Target creature you control gets +0/+2 and gains hexproof until end of turn. Untap it.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/29_Spray Away.png" num="29">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/29_Spray Away.png" num="29">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1172,7 +1172,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 		<card>
 			<name>Poochy&apos;s Hint Art</name>
 			<text>Draw two cards, then clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/22_Poochy&apos;s Hint Art.png" num="22">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/22_Poochy&apos;s Hint Art.png" num="22">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1188,7 +1188,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 		<card>
 			<name>Spiny Shell Crashout</name>
 			<text>Target artifact or creature&apos;s controller puts it on their choice of the top or bottom of their library. Scry 1.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/28_Spiny Shell Crashout.png" num="28">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/28_Spiny Shell Crashout.png" num="28">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1204,7 +1204,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 		<card>
 			<name>Radical Failure</name>
 			<text>Counter target spell. That spell&apos;s controller puts a stun counter on a creature they control. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/25_Radical Failure.png" num="25">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/25_Radical Failure.png" num="25">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1220,7 +1220,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 		<card>
 			<name>Gold Block Rush</name>
 			<text>Until end of turn, target creature you control gets +2/+2 and gains &quot;Whenever this creature deals combat damage to a player, create a Treasure token.&quot; (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/54_Gold Block Rush.png" num="54">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/54_Gold Block Rush.png" num="54">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1239,7 +1239,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 • Destroy target artifact.
 • Destroy target creature with defender.
 • One, two, or three target creatures can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/55_Hammer Assault.png" num="55">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/55_Hammer Assault.png" num="55">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1255,7 +1255,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 		<card>
 			<name>Fire Vellumental&apos;s Glory</name>
 			<text>Fire Vellumental&apos;s Glory deals 6 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/51_Fire Vellumental&apos;s Glory.png" num="51">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/51_Fire Vellumental&apos;s Glory.png" num="51">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1272,7 +1272,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 			<name>Bros Ball Training</name>
 			<text>When this enchantment enters, it deals 4 damage to target creature an opponent controls.
 {1}, Sacrifice this enchantment: Creatures you control gain haste until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/47_Bros Ball Training.png" num="47">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/47_Bros Ball Training.png" num="47">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1288,7 +1288,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 		<card>
 			<name>Thunderhand</name>
 			<text>Thunderhand deals 2 damage to any target. Create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/61_Thunderhand.png" num="61">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/61_Thunderhand.png" num="61">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1306,7 +1306,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 			<text>Enchant creature you control
 When this Aura enters or leaves the battlefield, clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)
 Enchanted creature gets +1/+0 and has first strike and &quot;Whenever this creature deals combat damage to a player, create a Treasure token.&quot;</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/52_Flowery Advice.png" num="52">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/52_Flowery Advice.png" num="52">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1323,7 +1323,7 @@ Enchanted creature gets +1/+0 and has first strike and &quot;Whenever this creat
 			<name>Maker Pigeon</name>
 			<text>Flying
 When this creature enters or leaves the battlefield, you gain 1 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/9_Maker Pigeon.png" num="9">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/9_Maker Pigeon.png" num="9">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1341,7 +1341,7 @@ When this creature enters or leaves the battlefield, you gain 1 life.</text>
 			<name>Guard Broggy</name>
 			<text>Vigilance
 {1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/5_Guard Broggy.png" num="5">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/5_Guard Broggy.png" num="5">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1358,7 +1358,7 @@ When this creature enters or leaves the battlefield, you gain 1 life.</text>
 		<card>
 			<name>Magic Shades Moe-Eye</name>
 			<text>Whenever this creature becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/8_Magic Shades Moe-Eye.png" num="8">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/8_Magic Shades Moe-Eye.png" num="8">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1375,7 +1375,7 @@ When this creature enters or leaves the battlefield, you gain 1 life.</text>
 		<card>
 			<name>Poplin Supporters</name>
 			<text>When this creature enters, create a Super token attached to target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/11_Poplin Supporters.png" num="11">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/11_Poplin Supporters.png" num="11">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1393,7 +1393,7 @@ When this creature enters or leaves the battlefield, you gain 1 life.</text>
 			<name>Bob-omb Buddy</name>
 			<text>Lifelink
 When this creature enters, another target creature you control gains lifelink until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/2_Bob-omb Buddy.png" num="2">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/2_Bob-omb Buddy.png" num="2">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1411,7 +1411,7 @@ When this creature enters, another target creature you control gains lifelink un
 			<name>Captured Glydon</name>
 			<text>Flying
 Whenever this creature attacks, it gains first strike until end of turn. If you&apos;ve draw two or more cards this turn, it gains double strike until end of turn instead. (A creature with double strike deals first-strike and regular combat damage.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/4_Captured Glydon.png" num="4">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/4_Captured Glydon.png" num="4">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1429,7 +1429,7 @@ Whenever this creature attacks, it gains first strike until end of turn. If you&
 			<name>Superstar Baby</name>
 			<text>During your turn, this creature has first strike.
 When this creature enters, draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/13_Superstar Baby.png" num="13">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/13_Superstar Baby.png" num="13">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1446,7 +1446,7 @@ When this creature enters, draw a card.</text>
 		<card>
 			<name>Hint Toad</name>
 			<text>When this creature enters, return target enchantment card in your graveyard or Aura card with stock you own in exile to your hand.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/6_Hint Toad.png" num="6">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/6_Hint Toad.png" num="6">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1464,7 +1464,7 @@ When this creature enters, draw a card.</text>
 			<name>Twirling-Hair Heroine</name>
 			<text>During your turn, this creature has flying.
 Whenever this creature attacks, another target attacking Hero or Noble you control gets +2/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/15_Twirling-Hair Heroine.png" num="15">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/15_Twirling-Hair Heroine.png" num="15">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1483,7 +1483,7 @@ Whenever this creature attacks, another target attacking Hero or Noble you contr
 			<text>When this creature enters, choose one —
 • Tap target creature you don&apos;t control and put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
 • Destroy target artifact or enchantment you don&apos;t control.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/3_Bouncy Hoppo.png" num="3">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/3_Bouncy Hoppo.png" num="3">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1501,7 +1501,7 @@ Whenever this creature attacks, another target attacking Hero or Noble you contr
 			<name>Toad Tea Time</name>
 			<text>Enchant creature
 As long as another player controls enchanted creature, it can&apos;t attack or block. Otherwise, enchanted creature gets +2/+2</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/14_Toad Tea Time.png" num="14">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/14_Toad Tea Time.png" num="14">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1517,7 +1517,7 @@ As long as another player controls enchanted creature, it can&apos;t attack or b
 		<card>
 			<name>Lip Lock</name>
 			<text>Lip Lock deals 4 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/7_Lip Lock.png" num="7">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/7_Lip Lock.png" num="7">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1535,7 +1535,7 @@ As long as another player controls enchanted creature, it can&apos;t attack or b
 			<text>Enchant creature
 Enchanted creature gets +1/+1 and has vigilance.
 Stock (You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/12_Super Mushroom.png" num="12">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/12_Super Mushroom.png" num="12">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1553,7 +1553,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 			<text>Flash
 When this artifact enters, target creature you control gets +1/+0 and gains first strike until end of turn.
 {2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/16_Whacka Bump.png" num="16">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/16_Whacka Bump.png" num="16">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1570,7 +1570,7 @@ When this artifact enters, target creature you control gets +1/+0 and gains firs
 			<name>Matrimonial Rejection</name>
 			<text>Exile target artifact or enchantment.
 Draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/10_Matrimonial Rejection.png" num="10">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/10_Matrimonial Rejection.png" num="10">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1587,7 +1587,7 @@ Draw a card.</text>
 			<name>Sunnycide Egg</name>
 			<text>This creature can&apos;t be blocked by more than one creature.
 When this creature dies, return up to one other non-Egg creature card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/74_Sunnycide Egg.png" num="74">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/74_Sunnycide Egg.png" num="74">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1606,7 +1606,7 @@ When this creature dies, return up to one other non-Egg creature card from your 
 			<text>This spell costs {1} less to cast if you control a Hero or Noble.
 Trample
 When this creature enters, you draw a card and create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/63_Big Baby Yoshi.png" num="63">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/63_Big Baby Yoshi.png" num="63">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1624,7 +1624,7 @@ When this creature enters, you draw a card and create a Treasure token. (It&apos
 			<name>Tropical Wiggler</name>
 			<text>Reach
 When this creature dies, clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/75_Tropical Wiggler.png" num="75">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/75_Tropical Wiggler.png" num="75">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1642,7 +1642,7 @@ When this creature dies, clear a stage. (Draw a card, then discard a card. Every
 			<name>Sandmaargh</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or token or pay {3}.
 Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/72_Sandmaargh.png" num="72">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/72_Sandmaargh.png" num="72">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1659,7 +1659,7 @@ Ward {2} (Whenever this creature becomes the target of a spell or ability an opp
 		<card>
 			<name>Punch</name>
 			<text>Put a Super token on target creature you control. When you do, it fights target creature you don&apos;t control. (A Super token is an Aura token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/71_Punch.png" num="71">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/71_Punch.png" num="71">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1675,7 +1675,7 @@ Ward {2} (Whenever this creature becomes the target of a spell or ability an opp
 		<card>
 			<name>Piranha Plant Parade</name>
 			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/70_Piranha Plant Parade.png" num="70">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/70_Piranha Plant Parade.png" num="70">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1692,7 +1692,7 @@ Ward {2} (Whenever this creature becomes the target of a spell or ability an opp
 			<name>Mr. I</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
 Whenever this creature attacks while you control another Minion or Noble, you draw a card and lose 1 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/42_Mr. I.png" num="42">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/42_Mr. I.png" num="42">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1710,7 +1710,7 @@ Whenever this creature attacks while you control another Minion or Noble, you dr
 			<name>Mischievous Bandits</name>
 			<text>When this creature enters, each opponent discards a card and loses 1 life. You gain 1 life.
 Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/41_Mischievous Bandits.png" num="41">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/41_Mischievous Bandits.png" num="41">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1728,7 +1728,7 @@ Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each 
 			<name>Ghost Portrificationizer</name>
 			<text>{1}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 {6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. If that permanent is a Spirit, exile it instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/79_Ghost Portrificationizer.png" num="79">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/79_Ghost Portrificationizer.png" num="79">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1743,7 +1743,7 @@ Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each 
 			<name>Farsight Binoculars</name>
 			<text>When this artifact enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {6}, {T}, Sacrifice this artifact: Draw two cards, then discard a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/78_Farsight Binoculars.png" num="78">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/78_Farsight Binoculars.png" num="78">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1758,7 +1758,7 @@ Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each 
 			<name>Beanbean Machine</name>
 			<text>{T}: Add one mana of any color.
 {2}, {T}: Untap another target permanent you control.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/77_Beanbean Machine.png" num="77">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMBC-files/img/77_Beanbean Machine.png" num="77">SMBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

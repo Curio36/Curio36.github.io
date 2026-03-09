@@ -18,7 +18,7 @@
             "pt": "3/3",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -36,7 +36,7 @@
             "pt": "1/1",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Doomdorm64; Nintendo",
             "notes": ""
@@ -54,7 +54,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Yook Bab-imba; Nintendo",
             "notes": ""
@@ -72,7 +72,7 @@
             "pt": "*/*",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Zootalo; Nintendo",
             "notes": ""
@@ -90,7 +90,7 @@
             "pt": "0/0",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -108,7 +108,7 @@
             "pt": "1/1",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Results May Vary; Nintendo",
             "notes": ""
@@ -126,7 +126,7 @@
             "pt": "",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Shokora; Nintendo",
             "notes": ""
@@ -144,7 +144,7 @@
             "pt": "",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "L151; Rare",
             "notes": ""
@@ -162,7 +162,7 @@
             "pt": "",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "3D Player 2010; Nintendo",
             "notes": ""
@@ -180,7 +180,7 @@
             "pt": "3/3",
             "special_text": "",
             "shape": "token",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -198,7 +198,7 @@
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": "In the Play Booster world, we want the colorless cards to be a bit stronger because they help fill out all the decks. They still shouldn't step on the toes of the colors that do what they do best, but we've upped the power level to make them generically stronger. Because many Play Booster sets will have an upgrade in the land slot some percentage of the time, the artifacts don't have to do quite as much color fixing. \"Variance buster\" means that the card can help you find lands (through things like scrying and filtering) early in the game if you're short on land. Note it's not good at finding you a particular land. In general, we're being a bit stingier on access to extra colors as we don't want to encourage players splashing the bombs they open."
@@ -216,7 +216,7 @@
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "MarioComix; Nintendo",
             "notes": "Blue creature percentages have gone up, but not as much as white, from 47% (9 out of 19) to 53% (8 out of 15). The average power has gone up from 3.39 to 3.62. For instance, there's no longer a default one-drop in blue at common and potentially multiple six-drops.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n1.5 Vigilance\n0.5 Ward N\n0.5 Defender\n0.5 Flash\n\nA year ago, we made a big change to add vigilance to blue. It's now the second-most-used keyword, mainly because making blue creatures want to attack can be difficult. Also, while this is not unique to blue, it's the most notable in blue: we're being more cautious with toughness-statted creatures, as they tend to stall out games."
@@ -234,7 +234,7 @@
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Banpresto",
             "notes": ""
@@ -252,7 +252,7 @@
             "pt": "1/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "M&SG; Nintendo",
             "notes": ""
@@ -270,7 +270,7 @@
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "L151; Nintendo",
             "notes": ""
@@ -288,7 +288,7 @@
             "pt": "1/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "L151; Rare",
             "notes": ""
@@ -306,7 +306,7 @@
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Midas Magnezone; Nintendo",
             "notes": ""
@@ -324,7 +324,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Pasta937; Nintendo",
             "notes": ""
@@ -342,7 +342,7 @@
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Zootalo; ArtePiazza",
             "notes": "Black's creature percentages have jumped from 52% (10 out of 19) to 62% (9 out of 14), and its average power has jumped from 3.25 to 3.56.\n\nKeyword Distribution (At Common)\n\n2 Flying (different powers)\n1.5 Menace\n1.25 Deathtouch\n1 Lifelink\n\nWhile black has two common fliers, they're not quite as strong as white's or blue's. That is, they're good enough to include in your deck but are less often the all-star of the common creatures. Menace has been creeping up as it plays so well. Usually, deathtouch is on one of the smaller creatures, whereas lifelink tends to be on something slightly bigger than is seen in white at common."
@@ -360,7 +360,7 @@
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "M&SG; Sora LTD",
             "notes": ""
@@ -378,7 +378,7 @@
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Arend; Nintendo",
             "notes": ""
@@ -396,7 +396,7 @@
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Illumination",
             "notes": ""
@@ -414,7 +414,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "MarioComix; Nintendo",
             "notes": ""
@@ -432,7 +432,7 @@
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Luigi-San; Nintendo",
             "notes": ""
@@ -450,7 +450,7 @@
             "pt": "5/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "L151; Nintendo",
             "notes": ""
@@ -468,7 +468,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
             "notes": "Again, we focused common spells toward answers to threats. The efficiency of black's creature removal will vary, but all are still worth playing. The discard effect has turned into a Coercion variant (i.e., you get to select what nonland card gets discarded) to help give black more answers to rares and mythic rares. The one other effect we made sure to keep is card drawing. Black must spend a secondary resource, usually life, so the card drawing isn't quite as good as blue but good enough to include in your deck.\n\nEffects that don't have space on a spell at common, like Raise Dead (returning creature cards from the graveyard to the hand), can either be made at uncommon or can be added to creature spells as an effect."
@@ -486,7 +486,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -504,7 +504,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "WildgooseSpeeder; Hudson Soft",
             "notes": ""
@@ -522,7 +522,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "RAP; AlphaDream",
             "notes": ""
@@ -540,7 +540,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "SullyPwns",
             "notes": ""
@@ -558,7 +558,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Dine2017; Intelligent Systems",
             "notes": ""
@@ -576,7 +576,7 @@
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Shokora; Nintendo",
             "notes": "Red has the second-largest increase in creature percentages at common, jumping from 53% (10 out of 19) to 64% (9 out of 14). Its power has jumped from an average of 3.15 to 3.39. Red's two biggest changes are that it no longer has a guaranteed one-drop slot and instead has a guaranteed six-drop slot.\n\nKeyword Distribution (At Common)\n\n1.5 Trample\n1.5 Menace\n1.5 Haste\n1 Reach\n0.25 First strike\n0.20 Double strike\nLike black, we've been increasing red's menace percentages because we've enjoyed how it plays. It also now has a dedicated slot for reach, as having more rares and mythic rares means more flying threats. Like white, first strike is down."
@@ -594,7 +594,7 @@
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "MaxJack200; Nintendo",
             "notes": ""
@@ -612,7 +612,7 @@
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Time Turner; Sora LTD",
             "notes": ""
@@ -630,7 +630,7 @@
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "YoYo; Nintendo",
             "notes": ""
@@ -648,7 +648,7 @@
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -666,7 +666,7 @@
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Scrooge200; Intelligent Systems",
             "notes": ""
@@ -684,7 +684,7 @@
             "pt": "4/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Sorbetti; Nintendo",
             "notes": ""
@@ -702,7 +702,7 @@
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Results May Vary; Retro Studios",
             "notes": ""
@@ -720,7 +720,7 @@
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Supermariofan67; Nintendo",
             "notes": ""
@@ -738,7 +738,7 @@
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "M&SG; Sora LTD",
             "notes": "Green has gone from having one spell, which is either a fight spell (two creatures do damage to each other) or a bite spell (your creature deals damage equal to its power to another creature) to having one of each. These spells usually also have some buffing to help your creature kill the opponent's larger rare and mythic rare creatures.\n\nAnother side effect of Play Boosters is that we have to be extra-careful with how easy we give green access to other colors in Limited, as it's much easier to just play a \"good stuff\" deck (a deck with all the best spells in each color) with all the powerful rares and mythic rares. This means we are more likely to do land fetching that gets lands off the top cards of your library rather than fetching one out of your deck. We will also be more careful with lower-rarity mana-acceleration spells to have green cards give you access to green mana rather than any color. This will still help you ramp without making it easier to splash other colors."
@@ -756,7 +756,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Trig Jegman; Nintendo",
             "notes": ""
@@ -774,7 +774,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "LadySophie17; AlphaDream",
             "notes": ""
@@ -792,7 +792,7 @@
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "",
             "notes": ""
@@ -810,7 +810,7 @@
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Sorbetti; Camelot",
             "notes": ""
@@ -828,7 +828,7 @@
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Dogleader; Rare",
             "notes": ""
@@ -846,7 +846,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Infinite8; Nintendo",
             "notes": ""
@@ -864,7 +864,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Galantis; Nintendo",
             "notes": ""
@@ -882,7 +882,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Supermariofan67; Nintendo",
             "notes": ""
@@ -900,7 +900,7 @@
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "KinokoBlast; Nintendo",
             "notes": ""
@@ -918,7 +918,7 @@
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Zootalo; ArtePiazza",
             "notes": ""
@@ -936,7 +936,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Crazyman14; Nintendo",
             "notes": ""
@@ -954,7 +954,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo101; Nintendo",
             "notes": ""
@@ -972,7 +972,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Polley001; Nintendo",
             "notes": ""
@@ -990,7 +990,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Ger; AlphaDream",
             "notes": ""
@@ -1008,7 +1008,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "TheRaoul1992; Nintendo",
             "notes": ""
@@ -1026,7 +1026,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Flame3636; Intelligent Systems",
             "notes": ""
@@ -1044,7 +1044,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Lord Bowser; Nintendo",
             "notes": ""
@@ -1062,7 +1062,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Xiahou Ba, The Nasty Warrior; Hudson Soft",
             "notes": ""
@@ -1080,7 +1080,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "7feetunder; Camelot",
             "notes": ""
@@ -1098,7 +1098,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Kingrs; Intelligent Systems",
             "notes": ""
@@ -1116,7 +1116,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Megadardery; ALphaDream",
             "notes": ""
@@ -1134,7 +1134,7 @@
             "pt": "4/5",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -1152,7 +1152,7 @@
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "L151; Nintendo",
             "notes": ""
@@ -1170,7 +1170,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Wildgoosespeeder ; Intelligent Systems",
             "notes": ""
@@ -1188,7 +1188,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Blhte; Nintendo",
             "notes": ""
@@ -1206,7 +1206,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Mario jc; Nintendo and Sora LTD",
             "notes": ""
@@ -1224,7 +1224,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -1242,7 +1242,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Illumination",
             "notes": ""
@@ -1260,7 +1260,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "MarioComix; Camelot",
             "notes": ""
@@ -1278,7 +1278,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
             "notes": ""
@@ -1296,7 +1296,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -1314,7 +1314,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "",
             "notes": ""
@@ -1332,7 +1332,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "L151; Acquire",
             "notes": ""
@@ -1350,7 +1350,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Bloober; AlphaDream",
             "notes": ""
@@ -1368,7 +1368,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Mario jc; Nintendo",
             "notes": ""
@@ -1386,7 +1386,7 @@
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "RHG1951; Nintendo",
             "notes": "Having less commons means less overall cards, both in creatures and noncreatures. White is still number one in the number of creatures, meaning it gets the most creatures by percentage of any color. While it's gone down one creature slot from Draft Boosters to Play Boosters, it's gone up in percentage. The default for Draft Boosters was 63% (12 out of 19) while the default for Play Boosters is 73% (11 out of 15).\n\nThe reason for this is that the drop in common cards means we have no room for \"unplayable commons.\" \"Unplayable common\" is defined as a card that situationally might be unplayable in a sealed deck. The card is too narrow in what it does. A good example would be what we used to call \"sideboard cards,\" such as Naturalize or Disenchant (\"Destroy target artifact or enchantment\"). It's the kind of card you usually don't start with because it often is a dead card in your hand, but you might sideboard it in if the opponent is running threats that it answers. The other major reason a card might be unplayable is power level.\n\nWe're doing three things to get rid of unplayable commons. One, the average power level will be higher (although set more for Limited play than Constructed). If you're playing a color, most monocolor creatures in that color will at least be playable in your deck. Some creatures may be more synergistic with certain draft themes, but the base creature stats will usually be something you can run. Two, we're moving some effects from common to uncommon. An example is temporary stealing (cards like Threaten) that we normally do at common in red. Three, we'll be making more use of modal effects. We can still do a Naturalize or Disenchant effect at common, but it will be paired with another effect that is generally more useful, allowing it to be standard in your deck.\n\nThe result of these changes is that the creature percentages at common are going up a bit. Creatures are just easier to make usable in more decks and inherently have a built-in win condition.\n\nThe other major effect you can see on creatures is that the average size is going up, especially in white. In Draft Boosters, white's default average power was 2.95. In Play Boosters, that goes up to 3.28. That's around a third of a power greater. This is being done to ensure that every creature is playable, as lower-powered creatures can become more situational.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n2 Vigilance\n1 Lifelink (low power)\n0.25 First strike\n0.20 Double strike\n\nThis set skeleton is set up a bit differently than the last one. Rather than call out slots for certain keyword abilities at common, the set skeleton lays out roughly how often it should appear. If an ability appears at a number below one, that means it might not always appear in every set but will average that number over multiple sets. However, first strike in white has fallen out of favor with R&D. The ability causes ground stalls, which is why we often only make it work offensively."
@@ -1404,7 +1404,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Alpha Dream",
             "notes": ""
@@ -1422,7 +1422,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -1440,7 +1440,7 @@
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "DesaMatt; Nintendo",
             "notes": ""
@@ -1458,7 +1458,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
             "notes": ""
@@ -1476,7 +1476,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Shokora; Nintendo",
             "notes": ""
@@ -1494,7 +1494,7 @@
             "pt": "3/1",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -1512,7 +1512,7 @@
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Yaronos; Nintendo",
             "notes": ""
@@ -1530,7 +1530,7 @@
             "pt": "2/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "RARE",
             "notes": ""
@@ -1548,7 +1548,7 @@
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Mario jc; Nintendo",
             "notes": ""
@@ -1566,7 +1566,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Intelligent Systems",
             "notes": ""
@@ -1584,7 +1584,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Scrooge200; Intelligent Systems",
             "notes": "Common spells must be a bit more practical. For white, which has the least spells by percentage, that means focusing mostly on removal cards. Combat tricks want to prioritize designs that save the creature (meaning you use them to functionally get rid of the opponent's creature without going down on creatures). Pacifism-style effects (Auras that keep you from attacking, blocking, and sometimes activating) are being replaced by Banishing Light-style effects (cards that exile something while they're on the battlefield). Effects that neutralize a creature without killing it need to have more \"text wiping\" because many rares have powerful noncombat abilities, often static or triggered, and the common cards need to be able to answer them. The Disenchant slot will most often be modal and will sometimes be an answer to creatures in addition to artifacts and enchantments.\n\nI also want to point out that this change forces certain effects out of spells and onto creatures. I'll use the go-wide team-pump effect (\"Creatures you control get +N/+N until end of turn.\"). Uncommon can clearly do larger pumps that help win games, but the simple +1/+1 granting will probably exist more on a creature as an \"enters the battlefield\" effect or an activated ability."
@@ -1602,7 +1602,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Time_Turner; Nintendo",
             "notes": "Replacing banishing light esque slot because of Pipe Cork"
@@ -1620,7 +1620,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Intelligent Systems",
             "notes": ""
@@ -1638,7 +1638,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Doomdorm64; Nintendo",
             "notes": ""
@@ -1656,7 +1656,7 @@
             "pt": "5/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "A gossip-loving Toad; AlphaDream",
             "notes": ""
@@ -1674,7 +1674,7 @@
             "pt": "7/6",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Pizza Master; ArtePiazza",
             "notes": ""
@@ -1692,7 +1692,7 @@
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Nintendo",
             "notes": ""
@@ -1710,7 +1710,7 @@
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Camelot",
             "notes": ""
@@ -1728,7 +1728,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Bloober; AlphaDream",
             "notes": ""
@@ -1746,7 +1746,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Rodmjorgeh; Nintendo",
             "notes": ""
@@ -1764,7 +1764,7 @@
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "YoshiFan155; Nintendo",
             "notes": ""
@@ -1782,7 +1782,7 @@
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
             "notes": ""
@@ -1800,7 +1800,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Results May Vary; Nintendo and GREZZO Co",
             "notes": "The removal is usually expensive but generally useful. We want this as yet another answer to rare and rare bombs. The rest of the common artifacts are helping you with your mana."
@@ -1818,7 +1818,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "GoombaBroadcast; Nintendo",
             "notes": ""
@@ -1836,7 +1836,7 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "SMB",
+            "set": "SMBC",
             "loyalty": "",
             "artist": "Dus T.; AlphaDream",
             "notes": ""

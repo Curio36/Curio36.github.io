@@ -7,7 +7,7 @@
 			"type": "Token Legendary Artifact — Vehicle",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/1t_Junior's Clown Car.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/1t_Junior's Clown Car.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Token Creature — Minion",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/2t_Minion.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/2t_Minion.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Token Creature — Minion",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/3t_Minion.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/3t_Minion.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Token Creature — Minion",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/4t_Minion.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/4t_Minion.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Token Creature — Minion Army",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/6t_Minion Army.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/6t_Minion Army.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Token Creature — Spirit Minion",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/7t_Spirit Minion.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/7t_Spirit Minion.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/8t_Treasure.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/8t_Treasure.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/9t_Treasure.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/9t_Treasure.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/1t_Stages and Worlds.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/1t_Stages and Worlds.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Token Creature — Minion",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/5t_Minion.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/5t_Minion.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Enchantment Creature — Star",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/1_Twinkling Luma.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/1_Twinkling Luma.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Ninja Minion",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/21_Nimble Ninji.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/21_Nimble Ninji.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Fish Minion",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/26_Rip Van Fish.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/26_Rip Van Fish.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Crab Minion",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/27_Sidestepper.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/27_Sidestepper.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Turtle Scout",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/17_Camera Lakitu.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/17_Camera Lakitu.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Ape Hero",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/18_Chic Sizeshifter.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/18_Chic Sizeshifter.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Whale Hero",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/19_Friendly Dolphin.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/19_Friendly Dolphin.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/20_Mini Mushroom.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/20_Mini Mushroom.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Creature — Lizard Minion",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/46_Whirly Gecko.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/46_Whirly Gecko.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Creature — Turtle Minion",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/39_Koopa Troopa.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/39_Koopa Troopa.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Crocodile Minion",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/40_Kritter Kommando.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/40_Kritter Kommando.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Ape Hero",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/35_Cantankerous Elder.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/35_Cantankerous Elder.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Bat Minion",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/44_Swoops Swarm.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/44_Swoops Swarm.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Creature — Spirit Warlock Hero",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/38_Insightful Ghost.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/38_Insightful Ghost.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Fish Shade Minion",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/32_Assaulting Phantamanta.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/32_Assaulting Phantamanta.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/45_Viral Outbreak.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/45_Viral Outbreak.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/43_Polterpup's Assistance.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/43_Polterpup's Assistance.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/36_Ghost Guess.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/36_Ghost Guess.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Sorcery",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/34_Cackletta's Intrusion.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/34_Cackletta's Intrusion.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/33_Bowser's Big Suck.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/33_Bowser's Big Suck.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/37_Grasp of the River Twygz.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/37_Grasp of the River Twygz.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Mole Minion",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/56_Monty Mole.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/56_Monty Mole.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Turtle Minion",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/49_Fire Bro.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/49_Fire Bro.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Creature — Minion",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/60_Shy Guy.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/60_Shy Guy.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Plant Minion",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/50_Fire Piranha.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/50_Fire Piranha.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Artifact Creature — Cat",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/57_Quick-Arrival Jaxi.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/57_Quick-Arrival Jaxi.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Fungus Hero Advisor",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/59_Rescue Squad Chief.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/59_Rescue Squad Chief.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Artifact Creature — Wall Minion",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/48_Crushing Whomp.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/48_Crushing Whomp.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Ape Athlete Hero",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/58_Real Funky Dude.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/58_Real Funky Dude.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Dragon Minion",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/53_Gobblegut Gargantua.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/53_Gobblegut Gargantua.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature — Fungus Minion",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/69_Patrolling Goomba.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/69_Patrolling Goomba.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Artifact Creature — Robot Druid Hero",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/64_Ecstatic Steam Gardener.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/64_Ecstatic Steam Gardener.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Plant Minion",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/62_Beanie Swarm.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/62_Beanie Swarm.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Salamander Minion",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/66_Hungry Maw-Maw.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/66_Hungry Maw-Maw.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature — Spider Minion",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/73_Scuttlebug.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/73_Scuttlebug.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Ape Warrior Hero",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/68_Lumbering Gorilla.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/68_Lumbering Gorilla.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/65_Goomba Stomp.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/65_Goomba Stomp.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/76_Yoshi Tongue.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/76_Yoshi Tongue.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/67_Into the Portrait.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/67_Into the Portrait.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/81_Standard Kart.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/81_Standard Kart.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Artifact Creature — Robot Minion",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/80_Machine Made Replica.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/80_Machine Made Replica.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Land",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/82_Maker Course.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/82_Maker Course.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Land — Forest Island",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/83_Delfino Plaza.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/83_Delfino Plaza.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Land — Plains Swamp",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/84_Dry Dry Desert.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/84_Dry Dry Desert.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Land — Swamp Mountain",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/85_Flame Pipe.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/85_Flame Pipe.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Land — Island Swamp",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/86_Ghost House.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/86_Ghost House.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Land — Mountain Forest",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/87_Glitz Pit.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/87_Glitz Pit.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Land — Plains Island",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/88_New Donk City Hall.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/88_New Donk City Hall.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Land — Island Mountain",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/89_Pagoda Peak.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/89_Pagoda Peak.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Land — Mountain Plains",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/90_Spiky Palms.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/90_Spiky Palms.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Land — Forest Plains",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/91_Toad Town.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/91_Toad Town.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Land — Swamp Forest",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/92_Vim Factory.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/92_Vim Factory.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature — Fish Minion",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/23_Porcupuffer.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/23_Porcupuffer.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Artifact Creature — Alien Minion",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/31_Yoofoe Ship.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/31_Yoofoe Ship.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/30_Thought Peek.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/30_Thought Peek.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/24_Power Balloon.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/24_Power Balloon.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/29_Spray Away.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/29_Spray Away.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/22_Poochy's Hint Art.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/22_Poochy's Hint Art.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/28_Spiny Shell Crashout.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/28_Spiny Shell Crashout.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/25_Radical Failure.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/25_Radical Failure.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/54_Gold Block Rush.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/54_Gold Block Rush.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Sorcery",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/55_Hammer Assault.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/55_Hammer Assault.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/51_Fire Vellumental's Glory.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/51_Fire Vellumental's Glory.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Enchantment",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/47_Bros Ball Training.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/47_Bros Ball Training.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/61_Thunderhand.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/61_Thunderhand.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/52_Flowery Advice.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/52_Flowery Advice.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Creature — Bird Bard Artificer",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/9_Maker Pigeon.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/9_Maker Pigeon.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Artifact Creature — Dog",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/5_Guard Broggy.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/5_Guard Broggy.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/8_Magic Shades Moe-Eye.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/8_Magic Shades Moe-Eye.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Creature — Plant Citizen",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/11_Poplin Supporters.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/11_Poplin Supporters.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Artifact Creature — Construct Advisor",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/2_Bob-omb Buddy.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/2_Bob-omb Buddy.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Creature — Lizard Hero",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/4_Captured Glydon.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/4_Captured Glydon.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Human Hero",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/13_Superstar Baby.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/13_Superstar Baby.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Fungus Advisor",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/6_Hint Toad.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/6_Hint Toad.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Creature — Ape Hero",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/15_Twirling-Hair Heroine.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/15_Twirling-Hair Heroine.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Creature — Hippo",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/3_Bouncy Hoppo.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/3_Bouncy Hoppo.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/14_Toad Tea Time.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/14_Toad Tea Time.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Instant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/7_Lip Lock.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/7_Lip Lock.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/12_Super Mushroom.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/12_Super Mushroom.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Artifact — Food",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/16_Whacka Bump.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/16_Whacka Bump.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Instant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/10_Matrimonial Rejection.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/10_Matrimonial Rejection.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Fungus Egg Minion",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/74_Sunnycide Egg.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/74_Sunnycide Egg.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Creature — Dinosaur",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/63_Big Baby Yoshi.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/63_Big Baby Yoshi.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/75_Tropical Wiggler.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/75_Tropical Wiggler.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Creature — Elemental Dinosaur Minion",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/72_Sandmaargh.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/72_Sandmaargh.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Sorcery",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/71_Punch.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/71_Punch.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/70_Piranha Plant Parade.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/70_Piranha Plant Parade.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Creature — Eye Minion",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/42_Mr. I.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/42_Mr. I.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Creature — Minion Rogue",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/41_Mischievous Bandits.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/41_Mischievous Bandits.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Artifact",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/79_Ghost Portrificationizer.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/79_Ghost Portrificationizer.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Artifact",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/78_Farsight Binoculars.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/78_Farsight Binoculars.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Artifact",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/77_Beanbean Machine.png"
+				"en": "https://Curio36.github.io/sets/SMBC-files/img/77_Beanbean Machine.png"
 			}
 		}
 	]
