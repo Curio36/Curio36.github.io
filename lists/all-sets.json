@@ -12,7 +12,12 @@
         },
         {
             "set_code": "SMC",
-            "set_name": "Super Mario Brothers Eternal",
+            "set_name": "Super Mario Brothers Commander",
+            "formats": ""
+        },
+        {
+            "set_code": "SME",
+            "set_name": "Super Mario Brothers Eternal Welcome Decks",
             "formats": ""
         },
         {

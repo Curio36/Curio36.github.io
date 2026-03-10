@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
-  <title>Super Mario Brothers Commander</title>
-  <link rel="icon" type="image/x-icon" href="../sets/SMC-files/icon.png">
+  <title>Super Mario Brothers Eternal Welcome Decks</title>
+  <link rel="icon" type="image/x-icon" href="../sets/SME-files/icon.png">
   <link rel="stylesheet" href="../resources/mana.css">
   <link rel="stylesheet" href="../resources/header.css">
   <link rel="stylesheet" href="../resources/card-text.css">
@@ -333,12 +333,12 @@
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="../sets/SMC-files/icon.png">
+				<img class="set-logo" src="../sets/SME-files/icon.png">
 				<div class="banner-text">
-					<div class="set-title">Super Mario Brothers Commander</div>
-					<div class="extras-container"><a href="../sets/SMC-files/SMC-draft.txt" download>Draft</a><div class="dot"> • </div>
+					<div class="set-title">Super Mario Brothers Eternal Welcome Decks</div>
+					<div class="extras-container"><a href="../sets/SME-files/SME-draft.txt" download>Draft</a><div class="dot"> • </div>
 			<a onclick="packOnePickOne()">P1P1</a><div class="dot"> • </div>
-<a href="../sets/SMC-files/SMC.xml" download>Play</a><div class="dot"> • </div>
+<a href="../sets/SME-files/SME.xml" download>Play</a><div class="dot"> • </div>
 			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
 				</div>
 			</div>
@@ -489,7 +489,7 @@
 				}
 
 
-			await fetch(rootPath + '/sets/SMC-files/SMC-draft.txt')
+			await fetch(rootPath + '/sets/SME-files/SME-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
@@ -499,7 +499,7 @@
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i].set == "SMC")
+				if (card_list_arrayified[i].set == "SME")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
@@ -1321,7 +1321,7 @@
 			let set_card_list = [];
 			for (card of card_list_arrayified)
 			{
-				if (card.set == "SMC")
+				if (card.set == "SME")
 				{
 					set_card_list.push(card);
 				}

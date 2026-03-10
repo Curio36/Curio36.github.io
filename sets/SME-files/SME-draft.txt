@@ -1,0 +1,275 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Luigi, Best Bro",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/7_Luigi, Best Bro.png"
+			}
+		},
+		{
+			"name": "Bowser, Monstrous King",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Dragon Turtle Noble",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/10_Bowser, Monstrous King.png"
+			}
+		},
+		{
+			"name": "Super Mario",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/16_Super Mario.png"
+			}
+		},
+		{
+			"name": "Princess Peach, Toadstool Ruler",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/3_Princess Peach, Toadstool Ruler.png"
+			}
+		},
+		{
+			"name": "DK, Gorilla Great",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Ape Hero",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/18_DK, Gorilla Great.png"
+			}
+		},
+		{
+			"name": "Diddy Kong, Best Buddy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Monkey Hero",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/17_Diddy Kong, Best Buddy.png"
+			}
+		},
+		{
+			"name": "Wonder Bowser Jr.",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Dragon Turtle Noble",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/12_Wonder Bowser Jr..png"
+			}
+		},
+		{
+			"name": "Toad, Mushroom Steward",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Fungus Advisor",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/4_Toad, Mushroom Steward.png"
+			}
+		},
+		{
+			"name": "E. Gadd, Nutty Professor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/6_E. Gadd, Nutty Professor.png"
+			}
+		},
+		{
+			"name": "Princess Daisy, Tomboy Biker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Noble Pilot",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/14_Princess Daisy, Tomboy Biker.png"
+			}
+		},
+		{
+			"name": "Castle Bunny",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Rabbit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/1_Castle Bunny.png"
+			}
+		},
+		{
+			"name": "Circuit Statues",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct Hero Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/5_Circuit Statues.png"
+			}
+		},
+		{
+			"name": "Biddybud Battalion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Minion",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/9_Biddybud Battalion.png"
+			}
+		},
+		{
+			"name": "Red Yoshi",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur Hero",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/15_Red Yoshi.png"
+			}
+		},
+		{
+			"name": "Rhino Pal",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Rhino Hero",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/20_Rhino Pal.png"
+			}
+		},
+		{
+			"name": "Mario's Courage",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/13_Mario's Courage.png"
+			}
+		},
+		{
+			"name": "DK's Jungle Beatdown",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/19_DK's Jungle Beatdown.png"
+			}
+		},
+		{
+			"name": "Bowser's Brutality",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/11_Bowser's Brutality.png"
+			}
+		},
+		{
+			"name": "Luigi's Determination",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/8_Luigi's Determination.png"
+			}
+		},
+		{
+			"name": "Peach's Blessing",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SME-files/img/2_Peach's Blessing.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Luigi, Best Bro
+	1 Bowser, Monstrous King
+	1 Super Mario
+	1 Princess Peach, Toadstool Ruler
+	1 DK, Gorilla Great
+	2 Mario's Courage
+	2 DK's Jungle Beatdown
+	2 Bowser's Brutality
+	2 Luigi's Determination
+	2 Peach's Blessing
+[uncommon(3)]
+	4 Diddy Kong, Best Buddy
+	4 Wonder Bowser Jr.
+	4 Toad, Mushroom Steward
+	4 E. Gadd, Nutty Professor
+	4 Princess Daisy, Tomboy Biker
+[common(6)]
+	8 Castle Bunny
+	8 Circuit Statues
+	8 Biddybud Battalion
+	8 Red Yoshi
+	8 Rhino Pal
+[common | masterpiece(1)]
+	8 Castle Bunny
+	8 Circuit Statues
+	8 Biddybud Battalion
+	8 Red Yoshi
+	8 Rhino Pal
+[foil(1)]
+	1 Luigi, Best Bro
+	1 Bowser, Monstrous King
+	1 Super Mario
+	1 Princess Peach, Toadstool Ruler
+	1 DK, Gorilla Great
+	6 Diddy Kong, Best Buddy
+	6 Wonder Bowser Jr.
+	6 Toad, Mushroom Steward
+	6 E. Gadd, Nutty Professor
+	6 Princess Daisy, Tomboy Biker
+	12 Castle Bunny
+	12 Circuit Statues
+	12 Biddybud Battalion
+	12 Red Yoshi
+	12 Rhino Pal
+	2 Mario's Courage
+	2 DK's Jungle Beatdown
+	2 Bowser's Brutality
+	2 Luigi's Determination
+	2 Peach's Blessing
+[wildcard(1)]
+	4 Luigi, Best Bro
+	4 Bowser, Monstrous King
+	4 Super Mario
+	4 Princess Peach, Toadstool Ruler
+	4 DK, Gorilla Great
+	15 Diddy Kong, Best Buddy
+	15 Wonder Bowser Jr.
+	15 Toad, Mushroom Steward
+	15 E. Gadd, Nutty Professor
+	15 Princess Daisy, Tomboy Biker
+	6 Castle Bunny
+	6 Circuit Statues
+	6 Biddybud Battalion
+	6 Red Yoshi
+	6 Rhino Pal
+	7 Mario's Courage
+	7 DK's Jungle Beatdown
+	7 Bowser's Brutality
+	7 Luigi's Determination
+	7 Peach's Blessing
