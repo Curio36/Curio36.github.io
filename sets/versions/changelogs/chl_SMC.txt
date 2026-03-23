@@ -1,4 +1,67 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Stella, Sparkle Sprite added.
+Friendly Footrace added.
+Hammer Suit added.
+Peachette, Super Crowned added.
+Revolving Fire added.
+Madame Broode, Wedding Manager added.
+Daisy, Sport Superstar added.
+Hungry Luma added.
+Alternate Costumes added.
+Blast Off! added.
+Dreamy Giant Form added.
+Wonder Smackerel added.
+Spike added.
+Topmaniac, Battlerock King added.
+Tokotoko Speedster added.
+Kamek's Toadies added.
+Big Urchin added.
+Lord Crump, X-Naut Second added.
+Jr. Troopa, Recurring Boss added.
+Spoiled Rotten, Eggplant Brat added.
+Captain Syrup, Black Sugar Bandit added.
+Lord Fredrik, the Snowmad King added.
+
+
+Call the Theets
+rules_text: Flash
+Enchant creature
+When this aura enters, create X 1/1 white Performer creature tokens.
+Enchanted creature gets +1/+1 for each creature you control. => Flash
+Enchant creature
+When this Aura enters, create X 1/1 white Performer creature tokens.
+Enchanted creature gets +1/+1 for each creature you control.
+
+Gold Skin
+rules_text: Enchant creature or Vehicle
+Enchanted creature gets +2/+2 and has ward {3} and “Whenever this creature deals combat damage to a player, create that many Treasure tokens.” => Enchant creature or Vehicle
+Enchanted creature gets +2/+2 and has ward {2} and “Whenever this creature deals combat damage to a player, create that many Treasure tokens.”
+
+Starshroom
+cost: {1}{G}{W} => {2}{G}{W}
+rules_text: Flying, lifelink
+Starshroom's power is equal to the number of creatures you control.
+When this Vehicle enters, create a 1/1 green and white Fungus Hero Creature token with Vigilance.
+Crew 2 => Flying, lifelink
+Starshroom gets +1/+0 for each other creature and/or enchantment you control.
+When this Vehicle enters, create a 1/1 green and white Fungus Hero Creature token with Vigilance and a 1/1 colorless Star enchantment creature token with flying.
+Crew 2
+pt: */3 => 1/4
+
+Bowser, King Koopa
+cost: {3}{B}{R} => {4}{B}{R}
+rules_text: Trample
+Minions you control have trample and haste.
+At the beginning of combat on your turn, create a 2/1 red Robot Minion artifact creature token.
+Partner—Cross Villains [i](You can have two commanders if both have this ability.)[/i] => Trample
+Minions and other Nobles you control have trample and haste.
+At the beginning of combat on your turn, create a 2/1 red Robot Minion artifact creature token.
+Partner—Cross Villains [i](You can have two commanders if both have this ability.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
