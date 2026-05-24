@@ -1,8 +1,13 @@
 ﻿{
     "sets": [
         {
+            "set_code": "ERG",
+            "set_name": "Erganon: Nature\u2019s Rage",
+            "formats": ""
+        },
+        {
             "set_code": "SMB",
-            "set_name": "Magic the Gathering | Super Mario Brothers ",
+            "set_name": "Super Mario Brothers",
             "formats": ""
         },
         {
