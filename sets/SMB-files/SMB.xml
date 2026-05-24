@@ -3990,7 +3990,7 @@ Whenever The Lord of Lightning attacks, defending player discards a card and sac
 		<card>
 			<name>Back Alley Rex</name>
 			<text>Haste
-When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is number of treasures you control plus the number of treasures you&apos;ve sacrificed this turn.</text>
+When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is number of Treasures you control plus the number of Treasures you&apos;ve sacrificed this turn.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/91_Back Alley Rex.png" num="91">SMB</set>
 			<prop>
 				<layout>normal</layout>

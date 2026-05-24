@@ -1,4 +1,15 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Back Alley Rex
+rules_text: Haste
+When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is number of treasures you control plus the number of treasures you've sacrificed this turn. => Haste
+When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is number of Treasures you control plus the number of Treasures you've sacrificed this turn.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

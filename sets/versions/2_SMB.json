@@ -4063,7 +4063,7 @@
             "number": 91,
             "color_identity": "R",
             "cost": "{5}{R}{R}{R}",
-            "rules_text": "Haste\nWhen this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is number of treasures you control plus the number of treasures you've sacrificed this turn.",
+            "rules_text": "Haste\nWhen this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is number of Treasures you control plus the number of Treasures you've sacrificed this turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
