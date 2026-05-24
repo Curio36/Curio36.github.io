@@ -1,4 +1,144 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Cookatiel, Kooky Cook added.
+King K. Rool added.
+
+MX01 Cookatiel, Kooky Cook removed.
+MX02 King K. Rool removed.
+
+Koopa Troopa
+rules_text: Expendable 2 [i](Whenever this creature dies, create a 2/2 black Minion creature token with “This token can't block”. Then put this creature's counters on that token.)[/i] => Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i]
+
+Kritter Kommando
+rules_text: When this creature dies, choose one —
+• Create a 2/2 black Minion creature token with “This token can't block.”
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When this creature dies, choose one —
+• Create a 2/2 black Minion creature token with “This token can't block.”
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Beanie Swarm
+rules_text: Expendable 1 [i](Whenever this creature dies, create a 1/1 black Minion creature token with “This token can't block”. Then put this creature's counters on that token.)[/i]
+{3}{G}: Search your library for a card named Beanie Swarm, put it onto the battlefield tapped, then shuffle. => Expendable 1 [i](When this creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i]
+{3}{G}: Search your library for a card named Beanie Swarm, put it onto the battlefield tapped, then shuffle.
+
+Scuttlebug
+rules_text: Reach
+Expendable 1 [i](Whenever this creature dies, create a 1/1 black Minion creature token with “This token can't block”. Then put this creature's counters on that token.)[/i] => Reach
+Expendable 1 [i](When this creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i]
+
+Lumbering Gorilla
+rules_text: Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Big Baby Yoshi
+rules_text: This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Monty Mole
+rules_text: Menace, haste
+This creature can't be blocked by creatures with flying.
+Expendable 1 [i](Whenever this creature dies, create a 1/1 black Minion creature token with “This token can't block”. Then put this creature's counters on that token.)[/i] => Menace, haste
+This creature can't be blocked by creatures with flying.
+Expendable 1 [i](When this creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i]
+
+Crushing Whomp
+rules_text: Trample
+Expendable 2 [i](Whenever this creature dies, create a 2/2 black Minion creature token with “This token can't block”. Then put this creature's counters on that token.)[/i] => Trample
+Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i]
+
+Gobblegut Gargantua
+rules_text: Flying
+Expendable 3 [i](Whenever this creature dies, create a 3/3 black Minion creature token with “This token can't block”. Then put this creature's counters on that token.)[/i] => Flying
+Expendable 3 [i](When this creature dies, create a 3/3 black Minion creature token with “This token can't block.”)[/i]
+
+Gold Block Dash
+rules_text: Until end of turn, target creature you control gets +2/+2 and gains “Whenever this creature deals combat damage to a player, create a Treasure token.” [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Until end of turn, target creature you control gets +2/+2 and gains “Whenever this creature deals combat damage to a player, create a Treasure token.” [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Yoofoe Ship
+rules_text: Flying
+Expendable 2 [i](Whenever this creature dies, create a 2/2 black Minion creature token with “This token can't block”. Then put this creature's counters on that token.)[/i] => Flying
+Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i]
+
+Power Balloon
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+Stock => Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Super Mushroom
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+Stock => Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Poisonous Mushroom
+rules_text: Enchant creature
+Enchanted creature gets +2/+0 and has deathtouch.
+Stock => Enchant creature
+Enchanted creature gets +2/+0 and has deathtouch.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Mega Mushroom
+rules_text: Enchant creature
+Enchanted creature gets +4/+4 and has trample.
+Stock => Enchant creature
+Enchanted creature gets +4/+4 and has trample.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Blooper Nanny
+rules_text: Expendable 1 [i](Whenever this creature dies, create a 1/1 black Minion creature token with “This token can't block”. Then put this creature's counters on that token.)[/i]
+Whenever you cast a noncreature spell, create a 1/1 black Minion creature token with “This token can't block.” => Expendable 1 [i](When this creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i]
+Whenever you cast a noncreature spell, create a 1/1 black Minion creature token with “This token can't block.”
+
+Coin Rush
+rules_text: Creatures you control have haste.
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Creatures you control have haste.
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Boomerang Flower
+rules_text: Enchant creature
+Enchanted creature gets +1/+0 and has double strike.
+Stock => Enchant creature
+Enchanted creature gets +1/+0 and has double strike.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+DK, Core Delver
+rules_text: Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn. => Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn.
+
+Super Acorn
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has flying.
+Stock => Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has flying.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Fire Flower
+rules_text: Enchant creature
+Enchanted creature gets +1/+0 and has “Whenever this creature becomes blocked, it deals damage equal to its power divided as you choose among the creatures blocking it.”
+Stock => Enchant creature
+Enchanted creature gets +1/+0 and has “Whenever this creature becomes blocked, it deals damage equal to its power divided as you choose among the creatures blocking it.”
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Frog Suit
+rules_text: Enchant creature
+Enchanted creature is a Frog in addition to its other types and can't be blocked.
+Stock => Enchant creature
+Enchanted creature is a Frog in addition to its other types and can't be blocked.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

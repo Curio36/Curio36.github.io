@@ -1339,7 +1339,7 @@
     "a->gold",
     {
         "card_name": "Galaxy's Rebirth",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1355,7 +1355,7 @@
     },
     {
         "card_name": "King Bowser, the Mighty",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1379,7 +1379,7 @@
     },
     {
         "card_name": "Merlee's Luck Spell",
-        "number": 178,
+        "number": 180,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1395,7 +1395,7 @@
     },
     {
         "card_name": "The Lord of Lightning",
-        "number": 176,
+        "number": 178,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1427,14 +1427,6 @@
     },
     {
         "card_name": "Kammy Koopa, the Brains",
-        "number": 172,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "King Bob-omb",
         "number": 173,
         "shape": "normal",
         "set": "SMB",
@@ -1442,8 +1434,16 @@
         "position": ""
     },
     {
+        "card_name": "King Bob-omb",
+        "number": 174,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "DK, Core Delver",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1522,23 +1522,23 @@
     },
     {
         "card_name": "Ludwig Von Koopa, Composer",
-        "number": 177,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "MX02 King K. Rool",
-        "number": 180,
-        "shape": "normal",
-        "set": "SMB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "MX01 Cookatiel, Kooky Cook",
         "number": 179,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "King K. Rool",
+        "number": 176,
+        "shape": "normal",
+        "set": "SMB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cookatiel, Kooky Cook",
+        "number": 165,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1570,7 +1570,7 @@
     },
     {
         "card_name": "Goomboss, Grand Pooh-bah",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1578,7 +1578,7 @@
     },
     {
         "card_name": "Lady Bow, Boo Princess",
-        "number": 175,
+        "number": 177,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1633,7 +1633,7 @@
     },
     {
         "card_name": "Daisy, Tennis Ace",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1659,7 +1659,7 @@
     },
     {
         "card_name": "Count Bleck",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1667,7 +1667,7 @@
     },
     {
         "card_name": "Fawful, Beanish Brainiac",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1675,7 +1675,7 @@
     },
     {
         "card_name": "Fury Bowser",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,

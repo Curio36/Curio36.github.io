@@ -1245,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "178",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/178_Merlee's Luck Spell.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/180_Merlee's Luck Spell.png"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Turtle Minion Bard",
-			"collector_number": "177",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/177_Ludwig Von Koopa, Composer.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/179_Ludwig Von Koopa, Composer.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}{B}",
 			"type": "Legendary Creature — Turtle Wizard Minion",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/172_Kammy Koopa, the Brains.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/173_Kammy Koopa, the Brains.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Ape Warrior Hero",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/167_DK, Core Delver.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/168_DK, Core Delver.png"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Noble Athlete",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/166_Daisy, Tennis Ace.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/167_Daisy, Tennis Ace.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Fungus Noble",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/171_Goomboss, Grand Pooh-bah.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/172_Goomboss, Grand Pooh-bah.png"
 			}
 		},
 		{
@@ -1795,9 +1795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Artifact Creature — Construct Noble",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/173_King Bob-omb.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/174_King Bob-omb.png"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Spirit Hero Noble",
-			"collector_number": "175",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/175_Lady Bow, Boo Princess.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/177_Lady Bow, Boo Princess.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Shade Warlock Noble",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/165_Count Bleck.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/166_Count Bleck.png"
 			}
 		},
 		{
@@ -2105,9 +2105,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Plant Scientist Minion",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/168_Fawful, Beanish Brainiac.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/169_Fawful, Beanish Brainiac.png"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{R}{G}",
 			"type": "Legendary Creature — Turtle Dragon Noble",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/169_Fury Bowser.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/170_Fury Bowser.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/170_Galaxy's Rebirth.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/171_Galaxy's Rebirth.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Turtle Dragon Noble",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/174_King Bowser, the Mighty.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/175_King Bowser, the Mighty.png"
 			}
 		},
 		{
@@ -2201,23 +2201,23 @@
 			}
 		},
 		{
-			"name": "MX01 Cookatiel, Kooky Cook",
+			"name": "Cookatiel, Kooky Cook",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Bird Minion",
-			"collector_number": "179",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/179_MX01 Cookatiel, Kooky Cook.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/165_Cookatiel, Kooky Cook.png"
 			}
 		},
 		{
-			"name": "MX02 King K. Rool",
+			"name": "King K. Rool",
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{G}",
 			"type": "Legendary Creature — Crocodile Noble",
-			"collector_number": "180",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/180_MX02 King K. Rool.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/176_King K. Rool.png"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{B}{B}{R}{R}",
 			"type": "Legendary Creature — Dragon Noble",
-			"collector_number": "176",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/176_The Lord of Lightning.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/178_The Lord of Lightning.png"
 			}
 		},
 		{
@@ -2306,8 +2306,8 @@
 	1 Birdo, Egg Bombardier
 	1 Cappy, Capture Companion
 	1 The Honey Queen
-	1 MX01 Cookatiel, Kooky Cook
-	1 MX02 King K. Rool
+	1 Cookatiel, Kooky Cook
+	1 King K. Rool
 	1 Rosalina, Cosmic Guardian
 	1 Super Mario Bros
 	1 The Lord of Lightning
@@ -2783,8 +2783,8 @@
 	1 Birdo, Egg Bombardier
 	1 Cappy, Capture Companion
 	1 The Honey Queen
-	1 MX01 Cookatiel, Kooky Cook
-	1 MX02 King K. Rool
+	1 Cookatiel, Kooky Cook
+	1 King K. Rool
 	1 Rosalina, Cosmic Guardian
 	1 Super Mario Bros
 	1 The Lord of Lightning
@@ -2999,8 +2999,8 @@
 	4 Birdo, Egg Bombardier
 	4 Cappy, Capture Companion
 	4 The Honey Queen
-	4 MX01 Cookatiel, Kooky Cook
-	4 MX02 King K. Rool
+	4 Cookatiel, Kooky Cook
+	4 King K. Rool
 	4 Rosalina, Cosmic Guardian
 	4 Super Mario Bros
 	4 The Lord of Lightning
