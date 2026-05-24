@@ -3854,24 +3854,6 @@ Whenever Birdo deals combat damage to an opponent for the first time each turn, 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Back Alley Rex</name>
-			<text>Haste
-When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is the number of Treasures you&apos;ve sacrificed this turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/91_Back Alley Rex.png" num="91">SMB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Dinosaur</type>
-				<maintype>Creature</maintype>
-				<manacost>5RRR</manacost>
-				<cmc>8</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Cappy, Capture Companion</name>
 			<text>Bestow {5}{U}{U} (If you cast this card for his bestow cost, he&apos;s an Aura spell with enchant creature. He becomes a creature again if he&apos;s not attached.)
 You control enchanted creature.
@@ -4002,6 +3984,24 @@ Whenever The Lord of Lightning attacks, defending player discards a card and sac
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Back Alley Rex</name>
+			<text>Haste
+When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is number of treasures you control plus the number of treasures you&apos;ve sacrificed this turn.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/91_Back Alley Rex.png" num="91">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5RRR</manacost>
+				<cmc>8</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

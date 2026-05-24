@@ -2181,16 +2181,6 @@
 			}
 		},
 		{
-			"name": "Back Alley Rex",
-			"rarity": "mythic",
-			"mana_cost": "{5}{R}{R}{R}",
-			"type": "Creature — Dinosaur",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/91_Back Alley Rex.png"
-			}
-		},
-		{
 			"name": "Cappy, Capture Companion",
 			"rarity": "mythic",
 			"mana_cost": "{U}",
@@ -2259,6 +2249,16 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMB-files/img/176_The Lord of Lightning.png"
 			}
+		},
+		{
+			"name": "Back Alley Rex",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/91_Back Alley Rex.png"
+			}
 		}
 	]
 
@@ -2304,7 +2304,6 @@
 	1 King Boo
 	1 Mechawiggler, New Donk Terror
 	1 Birdo, Egg Bombardier
-	1 Back Alley Rex
 	1 Cappy, Capture Companion
 	1 The Honey Queen
 	1 MX01 Cookatiel, Kooky Cook
@@ -2312,6 +2311,7 @@
 	1 Rosalina, Cosmic Guardian
 	1 Super Mario Bros
 	1 The Lord of Lightning
+	1 Back Alley Rex
 [uncommon(3)]
 	4 Huey, Paint Pal
 	4 Slippery Banana Peel
@@ -2781,7 +2781,6 @@
 	1 King Boo
 	1 Mechawiggler, New Donk Terror
 	1 Birdo, Egg Bombardier
-	1 Back Alley Rex
 	1 Cappy, Capture Companion
 	1 The Honey Queen
 	1 MX01 Cookatiel, Kooky Cook
@@ -2789,6 +2788,7 @@
 	1 Rosalina, Cosmic Guardian
 	1 Super Mario Bros
 	1 The Lord of Lightning
+	1 Back Alley Rex
 [wildcard(1)]
 	6 Delfino Plaza
 	6 Dry Dry Desert
@@ -2997,7 +2997,6 @@
 	4 King Boo
 	4 Mechawiggler, New Donk Terror
 	4 Birdo, Egg Bombardier
-	4 Back Alley Rex
 	4 Cappy, Capture Companion
 	4 The Honey Queen
 	4 MX01 Cookatiel, Kooky Cook
@@ -3005,3 +3004,4 @@
 	4 Rosalina, Cosmic Guardian
 	4 Super Mario Bros
 	4 The Lord of Lightning
+	4 Back Alley Rex
