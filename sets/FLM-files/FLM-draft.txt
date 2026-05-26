@@ -1,0 +1,873 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Plot Hole",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/5_Plot Hole.png"
+			}
+		},
+		{
+			"name": "Heartwarming Romance",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Class",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/3_Heartwarming Romance.png"
+			}
+		},
+		{
+			"name": "Ensemble Cast",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Performer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/1_Ensemble Cast.png"
+			}
+		},
+		{
+			"name": "Executive Meddling",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/2_Executive Meddling.png"
+			}
+		},
+		{
+			"name": "Leading Lady",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Performer",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/4_Leading Lady.png"
+			}
+		},
+		{
+			"name": "Fade to Black",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/7_Fade to Black.png"
+			}
+		},
+		{
+			"name": "Cold Open",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/6_Cold Open.png"
+			}
+		},
+		{
+			"name": "Gripping Noir",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Class",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/8_Gripping Noir.png"
+			}
+		},
+		{
+			"name": "Break a Leg",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/10_Break a Leg.png"
+			}
+		},
+		{
+			"name": "Sequel Hook",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/12_Sequel Hook.png"
+			}
+		},
+		{
+			"name": "Tasteless Gorefest",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Class",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/13_Tasteless Gorefest.png"
+			}
+		},
+		{
+			"name": "Post-Credit Scene",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/11_Post-Credit Scene.png"
+			}
+		},
+		{
+			"name": "Smashing Success",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/16_Smashing Success.png"
+			}
+		},
+		{
+			"name": "Action Blockbuster",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Class",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/14_Action Blockbuster.png"
+			}
+		},
+		{
+			"name": "Soundtrack Composer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Djinn Bard",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/17_Soundtrack Composer.png"
+			}
+		},
+		{
+			"name": "Heart of the Peaks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/15_Heart of the Peaks.png"
+			}
+		},
+		{
+			"name": "Training Montage",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/19_Training Montage.png"
+			}
+		},
+		{
+			"name": "Simic Cinematographer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Elf Octopus Advisor",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/38_Simic Cinematographer.png"
+			}
+		},
+		{
+			"name": "Silverwood Clapboard",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/50_Silverwood Clapboard.png"
+			}
+		},
+		{
+			"name": "Intrepid Camerabot",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Robot Scout",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/32_Intrepid Camerabot.png"
+			}
+		},
+		{
+			"name": "Instigator Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/31_Instigator Dragon.png"
+			}
+		},
+		{
+			"name": "On-Set Menagerie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/33_On-Set Menagerie.png"
+			}
+		},
+		{
+			"name": "Trained Varmint",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Varmint Performer",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/39_Trained Varmint.png"
+			}
+		},
+		{
+			"name": "Get the Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/29_Get the Shot.png"
+			}
+		},
+		{
+			"name": "Blood Bag Innovator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Imp Artificer",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/20_Blood Bag Innovator.png"
+			}
+		},
+		{
+			"name": "Combat Choreographer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Warrior Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/23_Combat Choreographer.png"
+			}
+		},
+		{
+			"name": "Only Mostly Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{B}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/34_Only Mostly Dead.png"
+			}
+		},
+		{
+			"name": "Gruelling Conditions",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/30_Gruelling Conditions.png"
+			}
+		},
+		{
+			"name": "See the World",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/36_See the World.png"
+			}
+		},
+		{
+			"name": "Endless Haunting",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/26_Endless Haunting.png"
+			}
+		},
+		{
+			"name": "Director of Photomancy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/24_Director of Photomancy.png"
+			}
+		},
+		{
+			"name": "G.E.I.S.T. Organizer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit Bard Advisor",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/28_G.E.I.S.T. Organizer.png"
+			}
+		},
+		{
+			"name": "Overproductive Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Homunculus Artificer",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/35_Overproductive Assistant.png"
+			}
+		},
+		{
+			"name": "Budget Balancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/21_Budget Balancer.png"
+			}
+		},
+		{
+			"name": "Casting Call",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/22_Casting Call.png"
+			}
+		},
+		{
+			"name": "Shock Twist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/37_Shock Twist.png"
+			}
+		},
+		{
+			"name": "Down and Dirty Director",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Insect Advisor",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/25_Down and Dirty Director.png"
+			}
+		},
+		{
+			"name": "Freelance Scriptwriter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/27_Freelance Scriptwriter.png"
+			}
+		},
+		{
+			"name": "Creature Feature",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Class",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/18_Creature Feature.png"
+			}
+		},
+		{
+			"name": "Previsualization",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/9_Previsualization.png"
+			}
+		},
+		{
+			"name": "Agorakh, Demanding Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Legendary Creature — Devil Performer",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/40_Agorakh, Demanding Costar.png"
+			}
+		},
+		{
+			"name": "Breakneck, Martial Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/W}",
+			"type": "Legendary Creature — Goblin Performer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/41_Breakneck, Martial Costar.png"
+			}
+		},
+		{
+			"name": "Cord, Exuberant Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Legendary Creature — Otter Performer",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/42_Cord, Exuberant Costar.png"
+			}
+		},
+		{
+			"name": "Derist, Reoccuring Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Legendary Creature — Spirit Performer",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/43_Derist, Reoccuring Costar.png"
+			}
+		},
+		{
+			"name": "Ellik, Egotistical Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{B/G}",
+			"type": "Legendary Creature — Elf Performer",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/44_Ellik, Egotistical Costar.png"
+			}
+		},
+		{
+			"name": "Firdi, Icy Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W/U}{W/U}",
+			"type": "Legendary Creature — Elemental Performer",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/45_Firdi, Icy Costar.png"
+			}
+		},
+		{
+			"name": "Gnasher, Wildborn Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/G}{R/G}",
+			"type": "Legendary Creature — Dinosaur Performer",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/46_Gnasher, Wildborn Costar.png"
+			}
+		},
+		{
+			"name": "Miche, Adaptable Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Legendary Creature — Merfolk Performer",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/47_Miche, Adaptable Costar.png"
+			}
+		},
+		{
+			"name": "Verat, Unnerving Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U/B}",
+			"type": "Legendary Creature — Vampire Performer",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/48_Verat, Unnerving Costar.png"
+			}
+		},
+		{
+			"name": "Yumeko, Graceful Costar",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G/W}{G/W}",
+			"type": "Legendary Creature — Human Performer",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/49_Yumeko, Graceful Costar.png"
+			}
+		},
+		{
+			"name": "Bretagard Village",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/51_Bretagard Village.png"
+			}
+		},
+		{
+			"name": "Hunting Territory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/52_Hunting Territory.png"
+			}
+		},
+		{
+			"name": "Shady Dojo",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/53_Shady Dojo.png"
+			}
+		},
+		{
+			"name": "Skyclave Vantage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/54_Skyclave Vantage.png"
+			}
+		},
+		{
+			"name": "Yawgmoth's Altar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/55_Yawgmoth's Altar.png"
+			}
+		},
+		{
+			"name": "Aurora Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/56_Aurora Expanse.png"
+			}
+		},
+		{
+			"name": "Elegant Garden",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/57_Elegant Garden.png"
+			}
+		},
+		{
+			"name": "Haunted Interior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/58_Haunted Interior.png"
+			}
+		},
+		{
+			"name": "Highfalutin Tavern",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/59_Highfalutin Tavern.png"
+			}
+		},
+		{
+			"name": "Jungle Base",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/60_Jungle Base.png"
+			}
+		},
+		{
+			"name": "Lively Ballroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/61_Lively Ballroom.png"
+			}
+		},
+		{
+			"name": "Local Bazaar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/62_Local Bazaar.png"
+			}
+		},
+		{
+			"name": "Reclaimed Lab",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/63_Reclaimed Lab.png"
+			}
+		},
+		{
+			"name": "Scientific Retreat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/64_Scientific Retreat.png"
+			}
+		},
+		{
+			"name": "Stark Graveyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/65_Stark Graveyard.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Heartwarming Romance
+	2 Ensemble Cast
+	2 Executive Meddling
+	2 Gripping Noir
+	2 Tasteless Gorefest
+	2 Action Blockbuster
+	2 Training Montage
+	2 Creature Feature
+	2 Bretagard Village
+	2 Hunting Territory
+	2 Shady Dojo
+	2 Skyclave Vantage
+	2 Yawgmoth's Altar
+[uncommon(3)]
+	4 Leading Lady
+	4 Post-Credit Scene
+	4 Soundtrack Composer
+	4 Heart of the Peaks
+	4 Simic Cinematographer
+	4 Intrepid Camerabot
+	4 Instigator Dragon
+	4 On-Set Menagerie
+	4 Trained Varmint
+	4 Get the Shot
+	4 Blood Bag Innovator
+	4 Combat Choreographer
+	4 Only Mostly Dead
+	4 Gruelling Conditions
+	4 See the World
+	4 Endless Haunting
+	4 Director of Photomancy
+	4 G.E.I.S.T. Organizer
+	4 Overproductive Assistant
+	4 Budget Balancer
+	4 Casting Call
+	4 Shock Twist
+	4 Down and Dirty Director
+	4 Freelance Scriptwriter
+	4 Agorakh, Demanding Costar
+	4 Breakneck, Martial Costar
+	4 Cord, Exuberant Costar
+	4 Derist, Reoccuring Costar
+	4 Ellik, Egotistical Costar
+	4 Firdi, Icy Costar
+	4 Gnasher, Wildborn Costar
+	4 Miche, Adaptable Costar
+	4 Verat, Unnerving Costar
+	4 Yumeko, Graceful Costar
+[common(6)]
+	8 Plot Hole
+	8 Fade to Black
+	8 Cold Open
+	8 Break a Leg
+	8 Sequel Hook
+	8 Smashing Success
+	8 Silverwood Clapboard
+	8 Previsualization
+	8 Aurora Expanse
+	8 Elegant Garden
+	8 Haunted Interior
+	8 Highfalutin Tavern
+	8 Jungle Base
+	8 Lively Ballroom
+	8 Local Bazaar
+	8 Reclaimed Lab
+	8 Scientific Retreat
+	8 Stark Graveyard
+[common | masterpiece(1)]
+	8 Plot Hole
+	8 Fade to Black
+	8 Cold Open
+	8 Break a Leg
+	8 Sequel Hook
+	8 Smashing Success
+	8 Silverwood Clapboard
+	8 Previsualization
+	8 Aurora Expanse
+	8 Elegant Garden
+	8 Haunted Interior
+	8 Highfalutin Tavern
+	8 Jungle Base
+	8 Lively Ballroom
+	8 Local Bazaar
+	8 Reclaimed Lab
+	8 Scientific Retreat
+	8 Stark Graveyard
+[foil(1)]
+	12 Plot Hole
+	2 Heartwarming Romance
+	2 Ensemble Cast
+	2 Executive Meddling
+	6 Leading Lady
+	12 Fade to Black
+	12 Cold Open
+	2 Gripping Noir
+	12 Break a Leg
+	12 Sequel Hook
+	2 Tasteless Gorefest
+	6 Post-Credit Scene
+	12 Smashing Success
+	2 Action Blockbuster
+	6 Soundtrack Composer
+	6 Heart of the Peaks
+	2 Training Montage
+	6 Simic Cinematographer
+	12 Silverwood Clapboard
+	6 Intrepid Camerabot
+	6 Instigator Dragon
+	6 On-Set Menagerie
+	6 Trained Varmint
+	6 Get the Shot
+	6 Blood Bag Innovator
+	6 Combat Choreographer
+	6 Only Mostly Dead
+	6 Gruelling Conditions
+	6 See the World
+	6 Endless Haunting
+	6 Director of Photomancy
+	6 G.E.I.S.T. Organizer
+	6 Overproductive Assistant
+	6 Budget Balancer
+	6 Casting Call
+	6 Shock Twist
+	6 Down and Dirty Director
+	6 Freelance Scriptwriter
+	2 Creature Feature
+	12 Previsualization
+	6 Agorakh, Demanding Costar
+	6 Breakneck, Martial Costar
+	6 Cord, Exuberant Costar
+	6 Derist, Reoccuring Costar
+	6 Ellik, Egotistical Costar
+	6 Firdi, Icy Costar
+	6 Gnasher, Wildborn Costar
+	6 Miche, Adaptable Costar
+	6 Verat, Unnerving Costar
+	6 Yumeko, Graceful Costar
+	2 Bretagard Village
+	2 Hunting Territory
+	2 Shady Dojo
+	2 Skyclave Vantage
+	2 Yawgmoth's Altar
+	12 Aurora Expanse
+	12 Elegant Garden
+	12 Haunted Interior
+	12 Highfalutin Tavern
+	12 Jungle Base
+	12 Lively Ballroom
+	12 Local Bazaar
+	12 Reclaimed Lab
+	12 Scientific Retreat
+	12 Stark Graveyard
+[wildcard(1)]
+	6 Plot Hole
+	7 Heartwarming Romance
+	7 Ensemble Cast
+	7 Executive Meddling
+	15 Leading Lady
+	6 Fade to Black
+	6 Cold Open
+	7 Gripping Noir
+	6 Break a Leg
+	6 Sequel Hook
+	7 Tasteless Gorefest
+	15 Post-Credit Scene
+	6 Smashing Success
+	7 Action Blockbuster
+	15 Soundtrack Composer
+	15 Heart of the Peaks
+	7 Training Montage
+	15 Simic Cinematographer
+	6 Silverwood Clapboard
+	15 Intrepid Camerabot
+	15 Instigator Dragon
+	15 On-Set Menagerie
+	15 Trained Varmint
+	15 Get the Shot
+	15 Blood Bag Innovator
+	15 Combat Choreographer
+	15 Only Mostly Dead
+	15 Gruelling Conditions
+	15 See the World
+	15 Endless Haunting
+	15 Director of Photomancy
+	15 G.E.I.S.T. Organizer
+	15 Overproductive Assistant
+	15 Budget Balancer
+	15 Casting Call
+	15 Shock Twist
+	15 Down and Dirty Director
+	15 Freelance Scriptwriter
+	7 Creature Feature
+	6 Previsualization
+	15 Agorakh, Demanding Costar
+	15 Breakneck, Martial Costar
+	15 Cord, Exuberant Costar
+	15 Derist, Reoccuring Costar
+	15 Ellik, Egotistical Costar
+	15 Firdi, Icy Costar
+	15 Gnasher, Wildborn Costar
+	15 Miche, Adaptable Costar
+	15 Verat, Unnerving Costar
+	15 Yumeko, Graceful Costar
+	7 Bretagard Village
+	7 Hunting Territory
+	7 Shady Dojo
+	7 Skyclave Vantage
+	7 Yawgmoth's Altar
+	6 Aurora Expanse
+	6 Elegant Garden
+	6 Haunted Interior
+	6 Highfalutin Tavern
+	6 Jungle Base
+	6 Lively Ballroom
+	6 Local Bazaar
+	6 Reclaimed Lab
+	6 Scientific Retreat
+	6 Stark Graveyard

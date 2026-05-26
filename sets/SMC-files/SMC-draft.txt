@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Dinosaur Hero",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/56_Yoshi Kid.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/57_Yoshi Kid.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Turtle Warrior Hero",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/44_Kooper, Power Shell.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/43_Kooper, Power Shell.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Elemental Hero Noble",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/48_Mallow, Lost Prince.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/47_Mallow, Lost Prince.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Artifact Creature — Toy Hero",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/39_Geno, Star-Powered Puppet.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/38_Geno, Star-Powered Puppet.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/49_Mario, Superstar.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/48_Mario, Superstar.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/46_Luigi, Second Banana.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/45_Luigi, Second Banana.png"
 			}
 		},
 		{
@@ -175,19 +175,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Shade Warlock Hero",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/55_Vivian, Shadow Sister.png"
-			}
-		},
-		{
-			"name": "Ganondorf, Evil King",
-			"rarity": "mythic",
-			"mana_cost": "{4}{U}{B}",
-			"type": "Legendary Creature — Human Noble Warlock",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/38_Ganondorf, Evil King.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/56_Vivian, Shadow Sister.png"
 			}
 		},
 		{
@@ -215,9 +205,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Turtle Minion",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/43_The Koopalings, Mean Mob.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/42_The Koopalings, Mean Mob.png"
 			}
 		},
 		{
@@ -225,9 +215,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Turtle Wizard Minion",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/42_Kamek, Chief Magikoopa.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/41_Kamek, Chief Magikoopa.png"
 			}
 		},
 		{
@@ -235,9 +225,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/53_Super Princess Peach.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/54_Super Princess Peach.png"
 			}
 		},
 		{
@@ -245,9 +235,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Plant Noble Hero",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/51_Prince Peasley, Flamboyant Bean.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/52_Prince Peasley, Flamboyant Bean.png"
 			}
 		},
 		{
@@ -335,9 +325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/40_Gold Skin.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/39_Gold Skin.png"
 			}
 		},
 		{
@@ -365,9 +355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/41_Hammer Suit.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/40_Hammer Suit.png"
 			}
 		},
 		{
@@ -375,9 +365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Fungus Hero",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/50_Peachette, Super Crowned.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/51_Peachette, Super Crowned.png"
 			}
 		},
 		{
@@ -385,9 +375,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/52_Starshroom.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/53_Starshroom.png"
 			}
 		},
 		{
@@ -405,9 +395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Rabbit Advisor Noble",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/47_Madame Broode, Wedding Manager.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/46_Madame Broode, Wedding Manager.png"
 			}
 		},
 		{
@@ -485,9 +475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Artifact Creature — Construct Noble",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/54_Topmaniac, Battlerock King.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/55_Topmaniac, Battlerock King.png"
 			}
 		},
 		{
@@ -525,9 +515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Alien Minion",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/45_Lord Crump, X-Naut Second.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/44_Lord Crump, X-Naut Second.png"
 			}
 		},
 		{
@@ -579,6 +569,26 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMC-files/img/8_Lord Fredrik, the Snowmad King.png"
 			}
+		},
+		{
+			"name": "Marx, Star Jester",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Clown Villain",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/49_Marx, Star Jester.png"
+			}
+		},
+		{
+			"name": "Marx, Star Jester",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Clown Villain",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/50_Marx, Star Jester.png"
+			}
 		}
 	]
 
@@ -598,7 +608,6 @@
 	1 Luigi, Second Banana
 	1 Duck Hunt Duo
 	2 Vivian, Shadow Sister
-	1 Ganondorf, Evil King
 	2 The Fabled Giga Bell
 	2 Bowser's Chance Time
 	1 The Koopalings, Mean Mob
@@ -638,6 +647,8 @@
 	2 Spoiled Rotten, Eggplant Brat
 	2 Captain Syrup, Black Sugar Bandit
 	2 Lord Fredrik, the Snowmad King
+	1 Marx, Star Jester
+	1 Marx, Star Jester
 [uncommon(3)]
 	4 Yoshi Kid
 [common(6)]
@@ -659,7 +670,6 @@
 	1 Luigi, Second Banana
 	1 Duck Hunt Duo
 	2 Vivian, Shadow Sister
-	1 Ganondorf, Evil King
 	2 The Fabled Giga Bell
 	2 Bowser's Chance Time
 	1 The Koopalings, Mean Mob
@@ -699,6 +709,8 @@
 	2 Spoiled Rotten, Eggplant Brat
 	2 Captain Syrup, Black Sugar Bandit
 	2 Lord Fredrik, the Snowmad King
+	1 Marx, Star Jester
+	1 Marx, Star Jester
 [wildcard(1)]
 	7 Bobbery, Salty Sea Dog
 	7 3-Up Moon
@@ -716,7 +728,6 @@
 	4 Luigi, Second Banana
 	4 Duck Hunt Duo
 	7 Vivian, Shadow Sister
-	4 Ganondorf, Evil King
 	7 The Fabled Giga Bell
 	7 Bowser's Chance Time
 	4 The Koopalings, Mean Mob
@@ -756,3 +767,5 @@
 	7 Spoiled Rotten, Eggplant Brat
 	7 Captain Syrup, Black Sugar Bandit
 	7 Lord Fredrik, the Snowmad King
+	4 Marx, Star Jester
+	4 Marx, Star Jester

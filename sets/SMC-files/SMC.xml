@@ -5,7 +5,7 @@
 			<name>SMC</name>
 			<longname>Super Mario Brothers Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-23</releasedate>
+			<releasedate>2026-05-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -122,7 +122,7 @@ Whenever a creature attacks you, untap it. It gains menace until end of turn.
 			<name>Yoshi Kid</name>
 			<text>Vigilance
 Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that this creature doesn&apos;t have on it from among first strike, menace, reach, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/56_Yoshi Kid.png" num="56">SMC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMC-files/img/57_Yoshi Kid.png" num="57">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -141,7 +141,7 @@ Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that th
 			<text>Vigilance
 Kooper enters with a shield counter on him. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 When Kooper enters, put a shield counter on each other modified creature you control. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/44_Kooper, Power Shell.png" num="44">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/43_Kooper, Power Shell.png" num="43">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -234,7 +234,7 @@ Whenever Tippi or another legendary permanent you control enters, you gain 1 lif
 			<text>Reach
 Whenever you sacrifice an enchantment, Mallow deals 2 damage to any target and you gain 2 life.
 {2}{R}{G}, Sacrifice an Aura with mana value 1 or greater: Discover X, where X is that Aura&apos;s mana value. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/48_Mallow, Lost Prince.png" num="48">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/47_Mallow, Lost Prince.png" num="47">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -252,7 +252,7 @@ Whenever you sacrifice an enchantment, Mallow deals 2 damage to any target and y
 			<name>Geno, Star-Powered Puppet</name>
 			<text>Haste
 Shooting Star Shot — Whenever Geno attacks for the first time each turn, creatures you control get +1/+1 until end of turn. Then if you control three or more attacking enchanted creatures, untap all attacking creatures. After this phase, there is an additional combat phase.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/39_Geno, Star-Powered Puppet.png" num="39">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/38_Geno, Star-Powered Puppet.png" num="38">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -270,7 +270,7 @@ Shooting Star Shot — Whenever Geno attacks for the first time each turn, creat
 			<name>Mario, Superstar</name>
 			<text>Whenever Mario attacks, create a tapped Treasure token for each Aura attached to him.
 Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/49_Mario, Superstar.png" num="49">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/48_Mario, Superstar.png" num="48">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -288,7 +288,7 @@ Partner—Cross Heroes (You can have two commanders if both have this ability.)<
 			<name>Luigi, Second Banana</name>
 			<text>Whenever an Aura enters attached to Luigi, you may create a token that&apos;s a copy of it attached to another target legendary creature you control.
 Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/46_Luigi, Second Banana.png" num="46">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/45_Luigi, Second Banana.png" num="45">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -325,7 +325,7 @@ Partner—Cross Heroes (You can have two commanders if both have this ability.)<
 			<name>Vivian, Shadow Sister</name>
 			<text>Veil — At the beginning of combat on your turn, target creature you control gets +1/+0 and gains indestructible until end of turn.
 Fiery Hex — During your turn, double all damage commanders you control would deal to your opponents and to permanents your opponents control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/55_Vivian, Shadow Sister.png" num="55">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/56_Vivian, Shadow Sister.png" num="56">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -336,25 +336,6 @@ Fiery Hex — During your turn, double all damage commanders you control would d
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 				<pt>2/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Ganondorf, Evil King</name>
-			<text>Ward—Sacrifice a nontoken creature
-Whenever Ganondorf attacks, exile target creature card from a graveyard. If you do, create a token that&apos;s a copy of that card except it&apos;s a Spirit Minion in addition to its other types and it has flying.
-Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/38_Ganondorf, Evil King.png" num="38">SMC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Noble Warlock</type>
-				<maintype>Creature</maintype>
-				<manacost>4UB</manacost>
-				<cmc>6</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -396,7 +377,7 @@ Enchanted creature gets +10/+10 and can&apos;t be blocked by creatures with powe
 			<name>The Koopalings, Mean Mob</name>
 			<text>Flying, menace
 At the beginning of your end step, each opponent who lost life this turn faces a villainous choice — That player loses 4 life and discards a card at random, or each of your other opponents loses 4 life and you draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/43_The Koopalings, Mean Mob.png" num="43">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/42_The Koopalings, Mean Mob.png" num="42">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -415,7 +396,7 @@ At the beginning of your end step, each opponent who lost life this turn faces a
 			<text>Flying
 Whenever you cast a spell that shares a creature type with your commander, you surveil 1 and Kamek deals 1 damage to each opponent. If that spell is your commander, instead you surveil 3 and Kamek deals 3 damage to each opponent.
 Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/42_Kamek, Chief Magikoopa.png" num="42">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/41_Kamek, Chief Magikoopa.png" num="41">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -436,7 +417,7 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 • Rage — First strike
 • Gloom — Deathtouch
 • Calm — Lifelink</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/53_Super Princess Peach.png" num="53">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/54_Super Princess Peach.png" num="54">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -455,7 +436,7 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 			<text>Flying
 Untap each enchanted permanent you control during each opponent&apos;s untap step.
 Whenever you attack, for each defending player, tap target creature that player controls.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/51_Prince Peasley, Flamboyant Bean.png" num="51">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/52_Prince Peasley, Flamboyant Bean.png" num="52">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -622,7 +603,7 @@ Whenever DK &amp; Diddy attacks, double each other attacking creature&apos;s pow
 			<name>Gold Skin</name>
 			<text>Enchant creature or Vehicle
 Enchanted creature gets +2/+2 and has ward {2} and &quot;Whenever this creature deals combat damage to a player, create that many Treasure tokens.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/40_Gold Skin.png" num="40">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/39_Gold Skin.png" num="39">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -676,7 +657,7 @@ Creatures that entered this turn and that aren&apos;t attacking you get +1/+0 an
 			<text>This spell costs {X} less to cast, where X is its target&apos;s power.
 Enchant creature
 Enchanted creature has base power 6 and has trample and lifelink.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/41_Hammer Suit.png" num="41">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/40_Hammer Suit.png" num="40">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -693,7 +674,7 @@ Enchanted creature has base power 6 and has trample and lifelink.</text>
 			<name>Peachette, Super Crowned</name>
 			<text>Flying
 At the beginning of your end step, return target Aura card from your graveyard to your hand if you attacked with a commander this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/50_Peachette, Super Crowned.png" num="50">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/51_Peachette, Super Crowned.png" num="51">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -713,7 +694,7 @@ At the beginning of your end step, return target Aura card from your graveyard t
 Starshroom gets +1/+0 for each other creature and/or enchantment you control.
 When this Vehicle enters, create a 1/1 green and white Fungus Hero Creature token with Vigilance and a 1/1 colorless Star enchantment creature token with flying.
 Crew 2</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/52_Starshroom.png" num="52">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/53_Starshroom.png" num="53">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -747,7 +728,7 @@ Crew 2</text>
 			<name>Madame Broode, Wedding Manager</name>
 			<text>Protection from Dogs
 When Madame Broode enters, target opponent creates Chompikins, a legendary 6/6 Dog Minion artifact creature token with &quot;Whenever you lose life, each opponent who controls a Noble gains that much life&quot; and &quot;Whenever you discard one or more cards, each opponent who controls a Noble draws that many cards.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/47_Madame Broode, Wedding Manager.png" num="47">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/46_Madame Broode, Wedding Manager.png" num="46">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -835,7 +816,7 @@ Flashback {X}{R}{R} (You may cast this card from your graveyard for its flashbac
 			<name>Dreamy Giant Form</name>
 			<text>Enchant creature
 Enchanted creature gets +3/+3 and is a Giant in addition to its other types.
-Whenever an enchanted creature or an enchantment creature you control deals combat damage to a player, draw a card.</text>
+Whenever an enchanted creature or enchantment creature you control deals combat damage to a player, draw a card.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/22_Dreamy Giant Form.png" num="22">SMC</set>
 			<prop>
 				<layout>normal</layout>
@@ -888,7 +869,7 @@ When this creature enters, if it was cast for its offering cost, return each oth
 			<name>Topmaniac, Battlerock King</name>
 			<text>Haste
 Whenever a creature you control with haste attacks, Topmaniac deals 1 damage to target player or planeswalker. If you were dealt damage this way, put a +1/+1 counter on Topmaniac.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/54_Topmaniac, Battlerock King.png" num="54">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/55_Topmaniac, Battlerock King.png" num="55">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -962,7 +943,7 @@ When this creature enters, you can sacrifice another creature you control. If yo
 			<name>Lord Crump, X-Naut Second</name>
 			<text>Noble and Minion spells you cast cost {1} less to cast.
 For each creature you control with expendable, increase its expendable value by 1. (For example, if that creature has expendable 1, it becomes expendable 2 and you create a 2/2 Minion when it dies. If a creature has multiple instances of expendable, increase each one separately.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/45_Lord Crump, X-Naut Second.png" num="45">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/44_Lord Crump, X-Naut Second.png" num="44">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -979,7 +960,7 @@ For each creature you control with expendable, increase its expendable value by 
 		<card>
 			<name>Bowser, King Koopa</name>
 			<text>Trample
-Minions and other Nobles you control have trample and haste.
+Other Minions, Nobles, and Villains you control have trample and haste.
 At the beginning of combat on your turn, create a 2/1 red Robot Minion artifact creature token.
 Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/29_Bowser, King Koopa.png" num="29">SMC</set>
@@ -1068,6 +1049,44 @@ Whenever Lord Fredrik attacks, draw a card for each tapped nonland permanent def
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marx, Star Jester</name>
+			<text>Flying, lifelink
+Whenever Marx deals combat damage to a player, exile that many cards from the top of that player&apos;s library. You may cast a spell from among them without paying its mana cost.
+Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/49_Marx, Star Jester.png" num="49">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Clown Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marx, Star Jester</name>
+			<text>Flying, lifelink
+Whenever Marx deals combat damage to a player, exile that many cards from the top of that player&apos;s library. You may cast a spell from among them without paying its mana cost.
+Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/50_Marx, Star Jester.png" num="50">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Clown Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

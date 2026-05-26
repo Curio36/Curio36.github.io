@@ -1,4 +1,47 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Sorbetti, Freeze Flake Fiend added.
+Rainbow Road added.
+Sparkling Ego added.
+The Sand Bird added.
+Motley Bossblob added.
+Paper Princess Peach added.
+Smithy, Factory Tyrant added.
+Dealer Luigi added.
+
+
+Luigi, Frightened Vacuumeer
+rules_text: Vigilance
+When Luigi enters, for each player, choose up to one target permanent card in that player's graveyard. Return a card in your graveyard chose this way to your hand, then exile all other cards chosen this way. => Vigilance
+When Luigi enters, for each player, choose up to one target permanent card in that player's graveyard. Return a card in your graveyard chosen this way to your hand, then exile all other cards chosen this way.
+
+King Bob-omb
+rules_text: Deathtouch
+Ward—Pay life equal to King Bob-omb's power.
+Whenever a source you control deals noncombat damage to a permanent, that permanent's controller sacrifices it. => Whenever a source you control deals excess noncombat damage to a creature you don't control, put that many +1/+1 counters on King Bob-omb.
+When King Bob-omb dies, for each opponent, draw three cards unless that player has King Bob-omb deal damage equal to his power to them.
+
+Lady Bow, Boo Princess
+cost: {3}{R}{W} => {2}{R}{W}
+rules_text: Double strike
+[i]Outta Sight [/i]— Whenever Lady Bow deals combat damage to a player, exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control. => Flying, double strike
+[i]Outta Sight [/i]— Whenever Lady Bow deals combat damage to a player, exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control.
+
+The Lord of Lightning
+rules_text: This spell costs {X} less to cast, where X is the greatest power among creatures you don't control.
+Flying, first strike, haste
+Whenever The Lord of Lightning attacks, defending player discards a card and sacrifices a creature. => This spell costs {X} less to cast, where X is the greatest power among creatures you don't control.
+Flying, first strike, haste
+Whenever The Lord of Lightning attacks, defending player discards a card and sacrifices a creature of their choice.
+
+Back Alley Rex
+rules_text: Haste
+When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is number of Treasures you control plus the number of Treasures you've sacrificed this turn. => Haste
+When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is the number of Treasures you control plus the number of Treasures you've sacrificed this turn.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Cookatiel, Kooky Cook added.

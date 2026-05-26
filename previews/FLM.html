@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/FLM-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>FLM visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/FLM-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ERG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/FLM-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SMB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SMBC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SMC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SME-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVN-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/FLM"><img src="../sets/FLM-files/icon.png">Silverwood Film Festival</a>
+	
+		<a class="set-bar inactive" href="../previews/ERG"><img src="../sets/ERG-files/icon.png">Ergamon: Nature’s Rage</a>
+	
+		<a class="set-bar inactive" href="../previews/SMB"><img src="../sets/SMB-files/icon.png">Super Mario Brothers</a>
+	
+		<a class="set-bar inactive" href="../previews/SMBC"><img src="../sets/SMBC-files/icon.png">Super Mario Brothers Commons</a>
+	
+		<a class="set-bar inactive" href="../previews/SMC"><img src="../sets/SMC-files/icon.png">Super Mario Brothers Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/SME"><img src="../sets/SME-files/icon.png">Super Mario Brothers Eternal Welcome Decks</a>
+	
+		<a class="set-bar inactive" href="../previews/TVC"><img src="../sets/TVC-files/icon.png">Titans of Viludin Commander</a>
+	
+		<a class="set-bar inactive" href="../previews/TVN"><img src="../sets/TVN-files/icon.png">Titans of Viludin</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/FLM-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\FLM-files\img\1_Ensemble Cast.png" id="FLM_1_Ensemble Cast" data-flag="@X" onclick="openSidebar('FLM_1_Ensemble Cast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\8_Gripping Noir.png" id="FLM_8_Gripping Noir" data-flag="@X" onclick="openSidebar('FLM_8_Gripping Noir',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\13_Tasteless Gorefest.png" id="FLM_13_Tasteless Gorefest" data-flag="@X" onclick="openSidebar('FLM_13_Tasteless Gorefest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\14_Action Blockbuster.png" id="FLM_14_Action Blockbuster" data-flag="@X" onclick="openSidebar('FLM_14_Action Blockbuster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\18_Creature Feature.png" id="FLM_18_Creature Feature" data-flag="@X" onclick="openSidebar('FLM_18_Creature Feature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\2_Executive Meddling.png" id="FLM_2_Executive Meddling" data-flag="@X" onclick="openSidebar('FLM_2_Executive Meddling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\6_Cold Open.png" id="FLM_6_Cold Open" data-flag="@X" onclick="openSidebar('FLM_6_Cold Open',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\11_Post-Credit Scene.png" id="FLM_11_Post-Credit Scene" data-flag="@X" onclick="openSidebar('FLM_11_Post-Credit Scene',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\15_Heart of the Peaks.png" id="FLM_15_Heart of the Peaks" data-flag="@X" onclick="openSidebar('FLM_15_Heart of the Peaks',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\19_Training Montage.png" id="FLM_19_Training Montage" data-flag="@X" onclick="openSidebar('FLM_19_Training Montage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\3_Heartwarming Romance.png" id="FLM_3_Heartwarming Romance" data-flag="@X" onclick="openSidebar('FLM_3_Heartwarming Romance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\7_Fade to Black.png" id="FLM_7_Fade to Black" data-flag="@X" onclick="openSidebar('FLM_7_Fade to Black',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\10_Break a Leg.png" id="FLM_10_Break a Leg" data-flag="@X" onclick="openSidebar('FLM_10_Break a Leg',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\17_Soundtrack Composer.png" id="FLM_17_Soundtrack Composer" data-flag="@X" onclick="openSidebar('FLM_17_Soundtrack Composer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\4_Leading Lady.png" id="FLM_4_Leading Lady" data-flag="@X" onclick="openSidebar('FLM_4_Leading Lady',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\9_Previsualization.png" id="FLM_9_Previsualization" data-flag="@X" onclick="openSidebar('FLM_9_Previsualization',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\12_Sequel Hook.png" id="FLM_12_Sequel Hook" data-flag="@X" onclick="openSidebar('FLM_12_Sequel Hook',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\16_Smashing Success.png" id="FLM_16_Smashing Success" data-flag="@X" onclick="openSidebar('FLM_16_Smashing Success',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\5_Plot Hole.png" id="FLM_5_Plot Hole" data-flag="@X" onclick="openSidebar('FLM_5_Plot Hole',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\23_Combat Choreographer.png" id="FLM_23_Combat Choreographer" data-flag="@X" onclick="openSidebar('FLM_23_Combat Choreographer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\32_Intrepid Camerabot.png" id="FLM_32_Intrepid Camerabot" data-flag="@X" onclick="openSidebar('FLM_32_Intrepid Camerabot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\20_Blood Bag Innovator.png" id="FLM_20_Blood Bag Innovator" data-flag="@X" onclick="openSidebar('FLM_20_Blood Bag Innovator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\31_Instigator Dragon.png" id="FLM_31_Instigator Dragon" data-flag="@X" onclick="openSidebar('FLM_31_Instigator Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\27_Freelance Scriptwriter.png" id="FLM_27_Freelance Scriptwriter" data-flag="@X" onclick="openSidebar('FLM_27_Freelance Scriptwriter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\24_Director of Photomancy.png" id="FLM_24_Director of Photomancy" data-flag="@X" onclick="openSidebar('FLM_24_Director of Photomancy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\34_Only Mostly Dead.png" id="FLM_34_Only Mostly Dead" data-flag="@X" onclick="openSidebar('FLM_34_Only Mostly Dead',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\30_Gruelling Conditions.png" id="FLM_30_Gruelling Conditions" data-flag="@X" onclick="openSidebar('FLM_30_Gruelling Conditions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\33_On-Set Menagerie.png" id="FLM_33_On-Set Menagerie" data-flag="@X" onclick="openSidebar('FLM_33_On-Set Menagerie',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\36_See the World.png" id="FLM_36_See the World" data-flag="@X" onclick="openSidebar('FLM_36_See the World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\45_Firdi, Icy Costar.png" id="FLM_45_Firdi, Icy Costar" data-flag="@X" onclick="openSidebar('FLM_45_Firdi, Icy Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\48_Verat, Unnerving Costar.png" id="FLM_48_Verat, Unnerving Costar" data-flag="@X" onclick="openSidebar('FLM_48_Verat, Unnerving Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\40_Agorakh, Demanding Costar.png" id="FLM_40_Agorakh, Demanding Costar" data-flag="@X" onclick="openSidebar('FLM_40_Agorakh, Demanding Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\46_Gnasher, Wildborn Costar.png" id="FLM_46_Gnasher, Wildborn Costar" data-flag="@X" onclick="openSidebar('FLM_46_Gnasher, Wildborn Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\49_Yumeko, Graceful Costar.png" id="FLM_49_Yumeko, Graceful Costar" data-flag="@X" onclick="openSidebar('FLM_49_Yumeko, Graceful Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\26_Endless Haunting.png" id="FLM_26_Endless Haunting" data-flag="@X" onclick="openSidebar('FLM_26_Endless Haunting',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\35_Overproductive Assistant.png" id="FLM_35_Overproductive Assistant" data-flag="@X" onclick="openSidebar('FLM_35_Overproductive Assistant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\25_Down and Dirty Director.png" id="FLM_25_Down and Dirty Director" data-flag="@X" onclick="openSidebar('FLM_25_Down and Dirty Director',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\21_Budget Balancer.png" id="FLM_21_Budget Balancer" data-flag="@X" onclick="openSidebar('FLM_21_Budget Balancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\29_Get the Shot.png" id="FLM_29_Get the Shot" data-flag="@X" onclick="openSidebar('FLM_29_Get the Shot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\28_G.E.I.S.T. Organizer.png" id="FLM_28_G.E.I.S.T. Organizer" data-flag="@X" onclick="openSidebar('FLM_28_G.E.I.S.T. Organizer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\37_Shock Twist.png" id="FLM_37_Shock Twist" data-flag="@X" onclick="openSidebar('FLM_37_Shock Twist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\39_Trained Varmint.png" id="FLM_39_Trained Varmint" data-flag="@X" onclick="openSidebar('FLM_39_Trained Varmint',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\22_Casting Call.png" id="FLM_22_Casting Call" data-flag="@X" onclick="openSidebar('FLM_22_Casting Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\38_Simic Cinematographer.png" id="FLM_38_Simic Cinematographer" data-flag="@X" onclick="openSidebar('FLM_38_Simic Cinematographer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\43_Derist, Reoccuring Costar.png" id="FLM_43_Derist, Reoccuring Costar" data-flag="@X" onclick="openSidebar('FLM_43_Derist, Reoccuring Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\42_Cord, Exuberant Costar.png" id="FLM_42_Cord, Exuberant Costar" data-flag="@X" onclick="openSidebar('FLM_42_Cord, Exuberant Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\44_Ellik, Egotistical Costar.png" id="FLM_44_Ellik, Egotistical Costar" data-flag="@X" onclick="openSidebar('FLM_44_Ellik, Egotistical Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\41_Breakneck, Martial Costar.png" id="FLM_41_Breakneck, Martial Costar" data-flag="@X" onclick="openSidebar('FLM_41_Breakneck, Martial Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\47_Miche, Adaptable Costar.png" id="FLM_47_Miche, Adaptable Costar" data-flag="@X" onclick="openSidebar('FLM_47_Miche, Adaptable Costar',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\50_Silverwood Clapboard.png" id="FLM_50_Silverwood Clapboard" data-flag="@X" onclick="openSidebar('FLM_50_Silverwood Clapboard',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="FLM_e" data-flag="@E" onclick="openSidebar('FLM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\54_Skyclave Vantage.png" id="FLM_54_Skyclave Vantage" data-flag="@X" onclick="openSidebar('FLM_54_Skyclave Vantage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\53_Shady Dojo.png" id="FLM_53_Shady Dojo" data-flag="@X" onclick="openSidebar('FLM_53_Shady Dojo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\55_Yawgmoth's Altar.png" id="FLM_55_Yawgmoths Altar" data-flag="@X" onclick="openSidebar('FLM_55_Yawgmoths Altar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\52_Hunting Territory.png" id="FLM_52_Hunting Territory" data-flag="@X" onclick="openSidebar('FLM_52_Hunting Territory',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\51_Bretagard Village.png" id="FLM_51_Bretagard Village" data-flag="@X" onclick="openSidebar('FLM_51_Bretagard Village',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\62_Local Bazaar.png" id="FLM_62_Local Bazaar" data-flag="@X" onclick="openSidebar('FLM_62_Local Bazaar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\58_Haunted Interior.png" id="FLM_58_Haunted Interior" data-flag="@X" onclick="openSidebar('FLM_58_Haunted Interior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\61_Lively Ballroom.png" id="FLM_61_Lively Ballroom" data-flag="@X" onclick="openSidebar('FLM_61_Lively Ballroom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\60_Jungle Base.png" id="FLM_60_Jungle Base" data-flag="@X" onclick="openSidebar('FLM_60_Jungle Base',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\57_Elegant Garden.png" id="FLM_57_Elegant Garden" data-flag="@X" onclick="openSidebar('FLM_57_Elegant Garden',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\65_Stark Graveyard.png" id="FLM_65_Stark Graveyard" data-flag="@X" onclick="openSidebar('FLM_65_Stark Graveyard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\64_Scientific Retreat.png" id="FLM_64_Scientific Retreat" data-flag="@X" onclick="openSidebar('FLM_64_Scientific Retreat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\63_Reclaimed Lab.png" id="FLM_63_Reclaimed Lab" data-flag="@X" onclick="openSidebar('FLM_63_Reclaimed Lab',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\59_Highfalutin Tavern.png" id="FLM_59_Highfalutin Tavern" data-flag="@X" onclick="openSidebar('FLM_59_Highfalutin Tavern',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\FLM-files\img\56_Aurora Expanse.png" id="FLM_56_Aurora Expanse" data-flag="@X" onclick="openSidebar('FLM_56_Aurora Expanse',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="FLM_er" data-flag="@E" onclick="openSidebar('FLM_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>
