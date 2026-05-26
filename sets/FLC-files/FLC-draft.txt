@@ -1,0 +1,322 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Deyinak Silverwood, Director",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/12_Deyinak Silverwood, Director.png"
+			}
+		},
+		{
+			"name": "Portia, Top Bill Actress",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Creature — Bird Performer",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/16_Portia, Top Bill Actress.png"
+			}
+		},
+		{
+			"name": "Undercity Expedition",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/21_Undercity Expedition.png"
+			}
+		},
+		{
+			"name": "Tragedies on Rose Street",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/20_Tragedies on Rose Street.png"
+			}
+		},
+		{
+			"name": "An Adventure With Friends",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/11_An Adventure With Friends.png"
+			}
+		},
+		{
+			"name": "Be Kind, Rewind",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/1_Be Kind, Rewind.png"
+			}
+		},
+		{
+			"name": "D'Zzik, Underworld Distributor",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Insect Advisor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/14_D'Zzik, Underworld Distributor.png"
+			}
+		},
+		{
+			"name": "Dotty Ablis, Beloved Actress",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Performer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/2_Dotty Ablis, Beloved Actress.png"
+			}
+		},
+		{
+			"name": "Dila Fauch, Traditionalist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Legendary Creature — Wolf Bard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/13_Dila Fauch, Traditionalist.png"
+			}
+		},
+		{
+			"name": "Reba, Dancing Bear",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Bear Performer",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/17_Reba, Dancing Bear.png"
+			}
+		},
+		{
+			"name": "Toki, Script Archivist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/4_Toki, Script Archivist.png"
+			}
+		},
+		{
+			"name": "Powerful Soliloquy",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/8_Powerful Soliloquy.png"
+			}
+		},
+		{
+			"name": "Eludha A Bonder's Story",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/15_Eludha A Bonder's Story.png"
+			}
+		},
+		{
+			"name": "A Rubblebelt Romance",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/18_A Rubblebelt Romance.png"
+			}
+		},
+		{
+			"name": "The Voughts, Legacy Act",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Elf Performer",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/22_The Voughts, Legacy Act.png"
+			}
+		},
+		{
+			"name": "Set Teardown",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/9_Set Teardown.png"
+			}
+		},
+		{
+			"name": "Union Meeting",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/10_Union Meeting.png"
+			}
+		},
+		{
+			"name": "Domesticated Shipbreaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Kraken Performer",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/3_Domesticated Shipbreaker.png"
+			}
+		},
+		{
+			"name": "Harsh Director",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Advisor Warlock",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/5_Harsh Director.png"
+			}
+		},
+		{
+			"name": "Luxurious Geode",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/24_Luxurious Geode.png"
+			}
+		},
+		{
+			"name": "Glittering Geode",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/23_Glittering Geode.png"
+			}
+		},
+		{
+			"name": "Negatives Cutter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Djinn Advisor",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/7_Negatives Cutter.png"
+			}
+		},
+		{
+			"name": "Returned Thespian",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Zombie Performer",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/6_Returned Thespian.png"
+			}
+		},
+		{
+			"name": "Samara's Gallery",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLC-files/img/19_Samara's Gallery.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Deyinak Silverwood, Director
+	1 Portia, Top Bill Actress
+	2 Undercity Expedition
+	2 Tragedies on Rose Street
+	2 An Adventure With Friends
+	2 Be Kind, Rewind
+	2 D'Zzik, Underworld Distributor
+	2 Dotty Ablis, Beloved Actress
+	1 Dila Fauch, Traditionalist
+	2 Reba, Dancing Bear
+	2 Toki, Script Archivist
+	2 Powerful Soliloquy
+	2 Eludha A Bonder's Story
+	2 A Rubblebelt Romance
+	1 The Voughts, Legacy Act
+	2 Set Teardown
+	2 Union Meeting
+	2 Domesticated Shipbreaker
+	2 Harsh Director
+	2 Luxurious Geode
+	2 Glittering Geode
+	2 Negatives Cutter
+	2 Returned Thespian
+	2 Samara's Gallery
+[uncommon(3)]
+[common(6)]
+[common | masterpiece(1)]
+[foil(1)]
+	1 Deyinak Silverwood, Director
+	1 Portia, Top Bill Actress
+	2 Undercity Expedition
+	2 Tragedies on Rose Street
+	2 An Adventure With Friends
+	2 Be Kind, Rewind
+	2 D'Zzik, Underworld Distributor
+	2 Dotty Ablis, Beloved Actress
+	1 Dila Fauch, Traditionalist
+	2 Reba, Dancing Bear
+	2 Toki, Script Archivist
+	2 Powerful Soliloquy
+	2 Eludha A Bonder's Story
+	2 A Rubblebelt Romance
+	1 The Voughts, Legacy Act
+	2 Set Teardown
+	2 Union Meeting
+	2 Domesticated Shipbreaker
+	2 Harsh Director
+	2 Luxurious Geode
+	2 Glittering Geode
+	2 Negatives Cutter
+	2 Returned Thespian
+	2 Samara's Gallery
+[wildcard(1)]
+	4 Deyinak Silverwood, Director
+	4 Portia, Top Bill Actress
+	7 Undercity Expedition
+	7 Tragedies on Rose Street
+	7 An Adventure With Friends
+	7 Be Kind, Rewind
+	7 D'Zzik, Underworld Distributor
+	7 Dotty Ablis, Beloved Actress
+	4 Dila Fauch, Traditionalist
+	7 Reba, Dancing Bear
+	7 Toki, Script Archivist
+	7 Powerful Soliloquy
+	7 Eludha A Bonder's Story
+	7 A Rubblebelt Romance
+	4 The Voughts, Legacy Act
+	7 Set Teardown
+	7 Union Meeting
+	7 Domesticated Shipbreaker
+	7 Harsh Director
+	7 Luxurious Geode
+	7 Glittering Geode
+	7 Negatives Cutter
+	7 Returned Thespian
+	7 Samara's Gallery

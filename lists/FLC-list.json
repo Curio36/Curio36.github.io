@@ -1,0 +1,313 @@
+﻿[
+    {
+        "card_name": "Be Kind, Rewind",
+        "number": 1,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Domesticated Shipbreaker",
+        "number": 3,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Harsh Director",
+        "number": 5,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Negatives Cutter",
+        "number": 7,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Set Teardown",
+        "number": 9,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dotty Ablis, Beloved Actress",
+        "number": 2,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Toki, Script Archivist",
+        "number": 4,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Returned Thespian",
+        "number": 6,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Powerful Soliloquy",
+        "number": 8,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Union Meeting",
+        "number": 10,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reba, Dancing Bear",
+        "number": 17,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "An Adventure With Friends",
+        "number": 11,
+        "shape": "saga",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "A Rubblebelt Romance",
+        "number": 18,
+        "shape": "saga",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Tragedies on Rose Street",
+        "number": 20,
+        "shape": "saga",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Samara's Gallery",
+        "number": 19,
+        "shape": "saga",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "D'Zzik, Underworld Distributor",
+        "number": 14,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Eludha A Bonder's Story",
+        "number": 15,
+        "shape": "saga",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Undercity Expedition",
+        "number": 21,
+        "shape": "saga",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Deyinak Silverwood, Director",
+        "number": 12,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dila Fauch, Traditionalist",
+        "number": 13,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Portia, Top Bill Actress",
+        "number": 16,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Voughts, Legacy Act",
+        "number": 22,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Glittering Geode",
+        "number": 23,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Luxurious Geode",
+        "number": 24,
+        "shape": "normal",
+        "set": "FLC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
