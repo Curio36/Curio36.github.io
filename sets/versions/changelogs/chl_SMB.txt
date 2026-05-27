@@ -1,4 +1,18 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Fabled Passage added.
+Monstro Town added.
+RoboBrood, Moon Mech added.
+Dark Vortex added.
+Dark Star's Invigoration added.
+Corrupted Giga Bell added.
+Admiring the Mushrooms added.
+The Majesty of Space added.
+
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Mega Mechakoopa added.
