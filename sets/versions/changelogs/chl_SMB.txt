@@ -1,4 +1,72 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Capture Companion added.
+Belome, Long-Tongued Demon added.
+Kong Elder added.
+Whistletop Train added.
+Clash of Light and Dark added.
+Geno Whirl added.
+Gold Leaf added.
+Friendly Pachyderm Mount added.
+Culex 3D added.
+Moo Moo Meadows Cows added.
+1-Up added.
+
+Cappy, Capture Companion removed.
+Cookatiel, Kooky Cook removed.
+
+The Honey Queen
+rules_text: Flying, vigilance, lifelink
+Other Insects you control get +1/+1 and have lifelink
+At the beginning of your end step, create a tapped 1/1 white Insect creature token with flying for each token you created this turn. => Flying, vigilance, lifelink
+Other Insects you control get +1/+1 and have lifelink.
+At the beginning of your end step, create a tapped 1/1 white Insect creature token with flying for each token you created this turn.
+
+Big Baby Yoshi
+rules_text: This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Lumbering Gorilla
+rules_text: Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+DK, Core Delver
+rules_text: Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn. => Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn.
+
+Parakarry, Mailman
+cost: {3}{W} => {4}{W}
+rules_text: Flying
+Whenever Parakarry attacks, another target attacking creature and up to one other attacking legendary creature gain flying until end of turn. => Flying
+Parakarry enters with a shield counter on him. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever Parakarry attacks, another target attacking creature and up to one other attacking legendary creature gain flying until end of turn.
+pt: 3/3 => 3/4
+
+Swordfighter Peach
+rules_text: When Swordfighter Peach enters, you may put an Equipment card from your hand or graveyard onto the battlefield.
+Equipment you control have equip {0}. => When Swordfighter Peach enters, you may put an Aur or Equipment card from your hand or graveyard onto the battlefield.
+Equipment you control have equip {0}.
+
+The Sand Bird
+rules_text: Flying, vigilance, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => Flying, vigilance, ward {2}
+Whenever you attack with two or more creatures, clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]
+Whenever you clear a level, return target nonland permanent with mana value 4 or less from your graveyard to the battlefield.
+
+Cat Mario
+rules_text: Vigilance
+Whenever Cat Mario attacks, create a 1/1 white Cat Hero creature token with vigilance that's attacking. If Cat Mario is enchanted, that token gets +1/+0 until end of turn. => First strike
+Whenever Cat Mario attacks, create a 1/1 white Cat Hero creature token with vigilance that's attacking. If Cat Mario is enchanted, that token gets +1/+0 until end of turn.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Sorbetti, Freeze Flake Fiend added.
