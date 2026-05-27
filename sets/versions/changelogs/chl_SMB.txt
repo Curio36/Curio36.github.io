@@ -1,4 +1,54 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Toxic Spew added.
+Garlic Breath added.
+Queen Jaydes's Blessing added.
+Bone Rattler added.
+Courier's Pets added.
+Tiki Doom added.
+Find the Giant Seed added.
+Monkey Business added.
+Roll Call added.
+Top Secret Area added.
+Invasive Overgrowth added.
+
+
+Lumbering Gorilla
+rules_text: Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Big Baby Yoshi
+rules_text: This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+DK, Core Delver
+rules_text: Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn. => Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn.
+
+Towering Pokey
+rules_text: Reach
+This creature enters with twice X counters on it.
+If damage would be dealt to this creature while it has two or more +1/+1 counters on it, prevent that damage and remove two +1/+1 counters from this creature. => Reach
+This creature enters with twice X counters on it.
+This creature has expendable X, where X is its power. [i](When this creature dies, create a X/X black Minion creature token with “This token can't block.”)[/i]
+
+Yoshi Steed
+type: Creature — Dinosaur Mount => Creature — Dinosaur Hero
+rules_text: Whenever this creature attacks while saddled, target creature defending player controls blocks it this turn if able.
+Saddle 2 [i](Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i] => When this creature enters, clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]
+Whenever you clear a world, you gain 3 life.
+pt: 5/5 => 4/4
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Moo Moo Meadows Cow added.
