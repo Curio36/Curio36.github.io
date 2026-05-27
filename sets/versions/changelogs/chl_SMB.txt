@@ -1,4 +1,58 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Moo Moo Meadows Cow added.
+Tanuki Shopkeepers added.
+Cruise the Bean Stalk added.
+Biddybuggy added.
+Pirate King's Meditation added.
+I Spyglass added.
+Witch's Brew added.
+Shadow Clone Koopa added.
+Missing Letter! added.
+Ride the Eelevator added.
+Smelt Anew added.
+
+Moo Moo Meadows Cows removed.
+
+Smithy, Factory Tyrant
+rules_text: This spell costs {1} less to cast for each different name among artifacts you control and artifact cards in your graveyard.
+When Smithy enters, you may put an artifact card from your hand or graveyard onto the battlefield with a finality counter on it. That artifact becomes a 3/3 Minion creature in addition to its other types and gains haste. => This spell costs {1} less to cast for each differently named artifact you control and artifact card in your graveyard.
+When Smithy enters, you may put an artifact card from your hand or graveyard onto the battlefield. If that card entered from your graveyard, it enters with a finality counter on it. That artifact is a 3/3 Minion creature in addition to its other types and gains haste.
+
+Paper Princess Peach
+cost: {W}{U} => {1}{W}{U}
+
+Jump Up, Super Star!
+rules_text: Choose one —
+• Target creature you control gets +2/+2 and gains flying until end of turn.
+• Return target Aura card with mana value 3 or less from your graveyard to the battlefield attached to target creature. => Choose one —
+• Target creature you control gets +2/+2 and gains flying until end of turn.
+• Return target Aura card with mana value 3 or less from your graveyard to the battlefield attached to target creature.
+• Destroy target creature with power 4 or greater.
+
+Monty Mole
+
+Luigi, Frightened Vacuumeer
+rules_text: Vigilance
+When Luigi enters, for each player, choose up to one target permanent card in that player's graveyard. Return a card in your graveyard chosen this way to your hand, then exile all other cards chosen this way. => Vigilance
+When Luigi enters, for each player, choose up to one target permanent card in that player's graveyard. Return a card in your graveyard chose this way to your hand, then exile all other cards chosen this way.
+
+Lady Bow, Boo Princess
+cost: {2}{R}{W} => {3}{R}{W}
+rules_text: Flying, double strike
+[i]Outta Sight [/i]— Whenever Lady Bow deals combat damage to a player, exile up to one other target nonland permanent you control, then return it to the battlefield under its owner's control. => Flying, double strike, menace
+[i]Outta Sight [/i]— Whenever Lady Bow deals combat damage to a player, exile up to one other target nonland permanent you control, then return it to the battlefield under your control.
+
+Viral Outbreak
+
+Sushie, Romantic Cheep
+rules_text: Flash
+When Sushie enters, each opponent returns a creature they control to its owner's hand. You may return another creature you control to its owner's hand. => When Sushie enters, each opponent returns a creature they control to its owner's hand. 
+Whenever you draw your second card each turn, you may return another creature you control to its owner's hand.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Capture Companion added.
