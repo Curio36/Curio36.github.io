@@ -1,4 +1,29 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Mega Mechakoopa added.
+Pipe Frame Kart added.
+Rosalina's Storybook added.
+Mario Circuit added.
+Get the Shine Sprites! added.
+Bowser Tug o' War added.
+E. Gadd, Ghost Researcher added.
+Funky Dorrie Aqua-Trikes added.
+The Boss's Approach added.
+
+Sorbetti, Freeze Flake Fiend removed.
+
+Madame Flurrie, Charming
+cost: {4}{U}{U} => {3}{U}{U}
+rules_text: Flying, vigilance
+[i]Gale Force[/i] — When Madame Flurrie enters, for each Hero and/or Noble you control, return target nonland permanent you don't control to its owner's hand. => Flying, vigilance
+[i]Gale Force[/i] — When Madame Flurrie enters, for each Hero and/or Noble you control, exile target nonland permanent you don't control. Return those permanents to the battlefield under their owner's control at the beginning of their owner's next end step.
+
+Punch
+rules_text: Put a Super token on target creature you control. When you do, it fights target creature you don't control. [i](A Super token is an Aura token with enchant creature and “Enchanted creature gets +1/+1.)[/i] => Create a Super token attached to target creature you control. When you do, it fights target creature you don't control. [i](A Super token is an Aura token with enchant creature and “Enchanted creature gets +1/+1.)[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Toxic Spew added.
