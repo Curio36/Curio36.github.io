@@ -893,7 +893,7 @@
 		{
 			"name": "Paper Princess Peach",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
+			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "226",
 			"image_uris": {
