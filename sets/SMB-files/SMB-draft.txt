@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Fish Minion",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/64_Porcupuffer.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/63_Porcupuffer.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/66_Radical Failure.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/65_Radical Failure.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/63_Poochy's Hint Art.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/62_Poochy's Hint Art.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/72_Spiny Shell Crashout.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/71_Spiny Shell Crashout.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/73_Spray Away.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/72_Spray Away.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Ninja Minion",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/60_Nimble Ninji.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/59_Nimble Ninji.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Fish Minion",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/68_Rip Van Fish.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/67_Rip Van Fish.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Crab Minion",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/70_Sidestepper.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/69_Sidestepper.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Bird Hero",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/61_Penguin Mario.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/60_Penguin Mario.png"
 			}
 		},
 		{
@@ -2335,9 +2335,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/65_Power Balloon.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/64_Power Balloon.png"
 			}
 		},
 		{
@@ -2395,9 +2395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/62_Pirate King's Meditation.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/61_Pirate King's Meditation.png"
 			}
 		},
 		{
@@ -2465,9 +2465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Turtle Ninja Minion",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/69_Shadow Clone Koopa.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/68_Shadow Clone Koopa.png"
 			}
 		},
 		{
@@ -2481,13 +2481,13 @@
 			}
 		},
 		{
-			"name": "Missing Letter!",
+			"name": "Stolen Name",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/59_Missing Letter!.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/73_Stolen Name.png"
 			}
 		},
 		{
@@ -2495,9 +2495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/67_Ride the Eelevator.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/66_Ride the Eelevator.png"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/71_Smelt Anew.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/70_Smelt Anew.png"
 			}
 		},
 		{
@@ -3124,7 +3124,7 @@
 	4 Witch's Brew
 	4 Shadow Clone Koopa
 	4 Sushie, Romantic Cheep
-	4 Missing Letter!
+	4 Stolen Name
 	4 Ride the Eelevator
 	4 Smelt Anew
 	4 Toxic Spew
@@ -3561,7 +3561,7 @@
 	6 Witch's Brew
 	6 Shadow Clone Koopa
 	6 Sushie, Romantic Cheep
-	6 Missing Letter!
+	6 Stolen Name
 	6 Ride the Eelevator
 	6 Smelt Anew
 	6 Toxic Spew
@@ -3831,7 +3831,7 @@
 	15 Witch's Brew
 	15 Shadow Clone Koopa
 	15 Sushie, Romantic Cheep
-	15 Missing Letter!
+	15 Stolen Name
 	15 Ride the Eelevator
 	15 Smelt Anew
 	15 Toxic Spew

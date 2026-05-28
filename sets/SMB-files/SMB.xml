@@ -437,7 +437,7 @@ Whenever an enchantment you control enters, clear a stage (Draw a card, then dis
 			<name>Porcupuffer</name>
 			<text>Flash
 This creature enters tapped.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/64_Porcupuffer.png" num="64">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/63_Porcupuffer.png" num="63">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -472,7 +472,7 @@ Expendable 2 (When this creature dies, create a 2/2 black Minion creature token 
 		<card>
 			<name>Radical Failure</name>
 			<text>Counter target spell. That spell&apos;s controller puts a stun counter on a creature they control. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/66_Radical Failure.png" num="66">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/65_Radical Failure.png" num="65">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -488,7 +488,7 @@ Expendable 2 (When this creature dies, create a 2/2 black Minion creature token 
 		<card>
 			<name>Poochy&apos;s Hint Art</name>
 			<text>Draw two cards, then clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/63_Poochy&apos;s Hint Art.png" num="63">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/62_Poochy&apos;s Hint Art.png" num="62">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -521,7 +521,7 @@ Enchanted creature gets -10/-0 and loses all abilities. (This includes abilities
 		<card>
 			<name>Spiny Shell Crashout</name>
 			<text>Target artifact or creature&apos;s controller puts it on their choice of the top or bottom of their library. Scry 1.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/72_Spiny Shell Crashout.png" num="72">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/71_Spiny Shell Crashout.png" num="71">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -539,7 +539,7 @@ Enchanted creature gets -10/-0 and loses all abilities. (This includes abilities
 			<text>Choose one —
 • Return target creature to its owner&apos;s hand.
 • Target creature you control gets +0/+2 and gains hexproof until end of turn. Untap it.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/73_Spray Away.png" num="73">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/72_Spray Away.png" num="72">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2081,7 +2081,7 @@ At the beginning of your end step, create a tapped 1/1 white Insect creature tok
 			<name>Nimble Ninji</name>
 			<text>This creature can&apos;t be blocked.
 {6}{U}, Sacrifice this creature: Draw two cards.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/60_Nimble Ninji.png" num="60">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/59_Nimble Ninji.png" num="59">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2099,7 +2099,7 @@ At the beginning of your end step, create a tapped 1/1 white Insect creature tok
 			<name>Rip Van Fish</name>
 			<text>Defender
 As long as you control another Minion or Noble, this creature can attack as though it didn&apos;t have defender.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/68_Rip Van Fish.png" num="68">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/67_Rip Van Fish.png" num="67">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2117,7 +2117,7 @@ As long as you control another Minion or Noble, this creature can attack as thou
 			<name>Sidestepper</name>
 			<text>Vigilance
 {4}{U}, {T}: Clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/70_Sidestepper.png" num="70">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/69_Sidestepper.png" num="69">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2264,7 +2264,7 @@ When this creature enters, you and creatures you control gain hexproof until end
 			<name>Penguin Mario</name>
 			<text>Whenever one or more creatures your opponents control become tapped, if they aren&apos;t being declared as attackers, put a stun counter on each of those creatures.
 {2}{U}, Remove three stun counters from among permanents you don&apos;t control: Draw two cards.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/61_Penguin Mario.png" num="61">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/60_Penguin Mario.png" num="60">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4134,7 +4134,7 @@ Whenever this creature attacks, it gains first strike until end of turn. If you&
 			<text>Enchant creature
 Enchanted creature gets +1/+1 and has flying.
 Stock (You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/65_Power Balloon.png" num="65">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/64_Power Balloon.png" num="64">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4241,7 +4241,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<name>Pirate King&apos;s Meditation</name>
 			<text>Shuffle your hand and graveyard into your library, then draw seven cards. You have no maximum hand size for the rest of the game.
 Exile Pirate King&apos;s Meditation.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/62_Pirate King&apos;s Meditation.png" num="62">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/61_Pirate King&apos;s Meditation.png" num="61">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4352,7 +4352,7 @@ Exile target creature with mana value 2 or less. If this spell was kicked, exile
 			<name>Shadow Clone Koopa</name>
 			<text>Whenever you draw your second card each turn, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;
 Tap two untapped Minions you control: Target creature can&apos;t be blocked this turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/69_Shadow Clone Koopa.png" num="69">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/68_Shadow Clone Koopa.png" num="68">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4385,10 +4385,10 @@ Whenever you draw your second card each turn, you may return another creature yo
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Missing Letter!</name>
-			<text>Until end of turn, target creature loses all abilities and becomes a Shade with base power and toughness 0/2.
+			<name>Stolen Name</name>
+			<text>Until end of turn, target creature loses all abilities and becomes a Shade with no name and base power and toughness 0/2. (It loses all other creature types.)
 Scry 2.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/59_Missing Letter!.png" num="59">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/73_Stolen Name.png" num="73">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4404,7 +4404,7 @@ Scry 2.</text>
 		<card>
 			<name>Ride the Eelevator</name>
 			<text>Exile target creature you control and all permanents attached to that creature. At the beginning of the next end step, return that creature to the battlefield, then return each other card exiled this way to the battlefield attached to that creature.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/67_Ride the Eelevator.png" num="67">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/66_Ride the Eelevator.png" num="66">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4422,7 +4422,7 @@ Scry 2.</text>
 			<text>Choose one—
 • Return target artifact card from your graveyard to your hand.
 • Until end of turn, target artifact or creature you control becomes a 4/4 Construct Minion artifact creature with expendable 2. (When that creature dies, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/71_Smelt Anew.png" num="71">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/70_Smelt Anew.png" num="70">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

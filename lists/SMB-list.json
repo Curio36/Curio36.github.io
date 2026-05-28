@@ -289,7 +289,7 @@
     },
     {
         "card_name": "Penguin Mario",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -329,7 +329,7 @@
     },
     {
         "card_name": "Pirate King's Meditation",
-        "number": 62,
+        "number": 61,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -688,8 +688,8 @@
         "position": ""
     },
     {
-        "card_name": "Missing Letter!",
-        "number": 59,
+        "card_name": "Ride the Eelevator",
+        "number": 66,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -728,8 +728,8 @@
         "position": ""
     },
     {
-        "card_name": "Ride the Eelevator",
-        "number": 67,
+        "card_name": "Shadow Clone Koopa",
+        "number": 68,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -768,8 +768,8 @@
         "position": ""
     },
     {
-        "card_name": "Shadow Clone Koopa",
-        "number": 69,
+        "card_name": "Smelt Anew",
+        "number": 70,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -808,8 +808,8 @@
         "position": ""
     },
     {
-        "card_name": "Smelt Anew",
-        "number": 71,
+        "card_name": "Stolen Name",
+        "number": 73,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1089,7 +1089,7 @@
     },
     {
         "card_name": "Nimble Ninji",
-        "number": 60,
+        "number": 59,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1129,7 +1129,7 @@
     },
     {
         "card_name": "Poochy's Hint Art",
-        "number": 63,
+        "number": 62,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1169,7 +1169,7 @@
     },
     {
         "card_name": "Porcupuffer",
-        "number": 64,
+        "number": 63,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1209,7 +1209,7 @@
     },
     {
         "card_name": "Power Balloon",
-        "number": 65,
+        "number": 64,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1249,7 +1249,7 @@
     },
     {
         "card_name": "Radical Failure",
-        "number": 66,
+        "number": 65,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1289,7 +1289,7 @@
     },
     {
         "card_name": "Rip Van Fish",
-        "number": 68,
+        "number": 67,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1329,7 +1329,7 @@
     },
     {
         "card_name": "Sidestepper",
-        "number": 70,
+        "number": 69,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1369,7 +1369,7 @@
     },
     {
         "card_name": "Spiny Shell Crashout",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1409,7 +1409,7 @@
     },
     {
         "card_name": "Spray Away",
-        "number": 73,
+        "number": 72,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
