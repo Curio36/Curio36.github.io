@@ -1,4 +1,62 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Maker Pigeon
+
+Lip Lock
+
+Whirly Gecko
+
+Fire Vellumental's Glory
+
+Hungry Maw-Maw
+
+Welcome to the Party
+
+Bone Piranha Plant
+
+Nimble Ninji
+
+Goombella, Archaeology Student
+
+Dry Bones
+
+Bob-omb
+
+Patrolling Goomba
+
+Luigi, Frightened Vacuumeer
+
+Twinkling Luma
+
+Bone Rattler
+
+Towering Pokey
+
+Courier's Pets
+
+Find the Giant Seed
+
+Pipe Frame Kart
+
+Rosalina's Storybook
+
+Get the Shine Sprites!
+
+Funky Dorrie Aqua-Trikes
+
+The Boss's Approach
+
+Fabled Passage
+
+Corrupted Giga Bell
+
+Admiring the Mushrooms
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

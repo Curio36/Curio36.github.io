@@ -2676,7 +2676,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "RHG1951; Nintendo",
-            "notes": "Having less commons means less overall cards, both in creatures and noncreatures. White is still number one in the number of creatures, meaning it gets the most creatures by percentage of any color. While it's gone down one creature slot from Draft Boosters to Play Boosters, it's gone up in percentage. The default for Draft Boosters was 63% (12 out of 19) while the default for Play Boosters is 73% (11 out of 15).\n\nThe reason for this is that the drop in common cards means we have no room for \"unplayable commons.\" \"Unplayable common\" is defined as a card that situationally might be unplayable in a sealed deck. The card is too narrow in what it does. A good example would be what we used to call \"sideboard cards,\" such as Naturalize or Disenchant (\"Destroy target artifact or enchantment\"). It's the kind of card you usually don't start with because it often is a dead card in your hand, but you might sideboard it in if the opponent is running threats that it answers. The other major reason a card might be unplayable is power level.\n\nWe're doing three things to get rid of unplayable commons. One, the average power level will be higher (although set more for Limited play than Constructed). If you're playing a color, most monocolor creatures in that color will at least be playable in your deck. Some creatures may be more synergistic with certain draft themes, but the base creature stats will usually be something you can run. Two, we're moving some effects from common to uncommon. An example is temporary stealing (cards like Threaten) that we normally do at common in red. Three, we'll be making more use of modal effects. We can still do a Naturalize or Disenchant effect at common, but it will be paired with another effect that is generally more useful, allowing it to be standard in your deck.\n\nThe result of these changes is that the creature percentages at common are going up a bit. Creatures are just easier to make usable in more decks and inherently have a built-in win condition.\n\nThe other major effect you can see on creatures is that the average size is going up, especially in white. In Draft Boosters, white's default average power was 2.95. In Play Boosters, that goes up to 3.28. That's around a third of a power greater. This is being done to ensure that every creature is playable, as lower-powered creatures can become more situational.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n2 Vigilance\n1 Lifelink (low power)\n0.25 First strike\n0.20 Double strike\n\nThis set skeleton is set up a bit differently than the last one. Rather than call out slots for certain keyword abilities at common, the set skeleton lays out roughly how often it should appear. If an ability appears at a number below one, that means it might not always appear in every set but will average that number over multiple sets. However, first strike in white has fallen out of favor with R&D. The ability causes ground stalls, which is why we often only make it work offensively.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2847,7 +2847,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Scrooge200; Intelligent Systems",
-            "notes": "Common spells must be a bit more practical. For white, which has the least spells by percentage, that means focusing mostly on removal cards. Combat tricks want to prioritize designs that save the creature (meaning you use them to functionally get rid of the opponent's creature without going down on creatures). Pacifism-style effects (Auras that keep you from attacking, blocking, and sometimes activating) are being replaced by Banishing Light-style effects (cards that exile something while they're on the battlefield). Effects that neutralize a creature without killing it need to have more \"text wiping\" because many rares have powerful noncombat abilities, often static or triggered, and the common cards need to be able to answer them. The Disenchant slot will most often be modal and will sometimes be an answer to creatures in addition to artifacts and enchantments.\n\nI also want to point out that this change forces certain effects out of spells and onto creatures. I'll use the go-wide team-pump effect (\"Creatures you control get +N/+N until end of turn.\"). Uncommon can clearly do larger pumps that help win games, but the simple +1/+1 granting will probably exist more on a creature as an \"enters the battlefield\" effect or an activated ability.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3322,7 +3322,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Zootalo; ArtePiazza",
-            "notes": "Black's creature percentages have jumped from 52% (10 out of 19) to 62% (9 out of 14), and its average power has jumped from 3.25 to 3.56.\n\nKeyword Distribution (At Common)\n\n2 Flying (different powers)\n1.5 Menace\n1.25 Deathtouch\n1 Lifelink\n\nWhile black has two common fliers, they're not quite as strong as white's or blue's. That is, they're good enough to include in your deck but are less often the all-star of the common creatures. Menace has been creeping up as it plays so well. Usually, deathtouch is on one of the smaller creatures, whereas lifelink tends to be on something slightly bigger than is seen in white at common.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3815,7 +3815,7 @@
             "shape": "normal",
             "set": "SMB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Intelligent Systems",
             "notes": "",
             "image_type": "png"
         },
@@ -3967,7 +3967,7 @@
             "shape": "normal",
             "set": "SMB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nintendo",
             "notes": "",
             "image_type": "png"
         },
@@ -4519,7 +4519,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "If you're wondering why there's 14 uncommons and not 15 like it says in Nuts & Bolts #16, that's because the article is wrong on the number of uncommons in black and red. https://www.tumblr.com/markrosewater/745307427137896448/in-nuts-bolts-16-play-boosters-you-say-black",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4538,7 +4538,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Cloudwalker; Nintendo",
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4861,7 +4861,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "MarioComix; Nintendo",
-            "notes": "Blue creature percentages have gone up, but not as much as white, from 47% (9 out of 19) to 53% (8 out of 15). The average power has gone up from 3.39 to 3.62. For instance, there's no longer a default one-drop in blue at common and potentially multiple six-drops.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n1.5 Vigilance\n0.5 Ward N\n0.5 Defender\n0.5 Flash\n\nA year ago, we made a big change to add vigilance to blue. It's now the second-most-used keyword, mainly because making blue creatures want to attack can be difficult. Also, while this is not unique to blue, it's the most notable in blue: we're being more cautious with toughness-statted creatures, as they tend to stall out games.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4956,7 +4956,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Fawfulthegreat64; Intelligent Systems",
-            "notes": "Blue is the one color where creature percentages have gone down at uncommon from 53% (7 out of 13) to 46% (6.5 out of 14).\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5146,7 +5146,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "KinokoBlast; Nintendo",
-            "notes": "While creature percentages go up in white uncommon and down in blue uncommon, they stay at mostly the same percentage in black.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5393,7 +5393,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "2257; Nintendo",
-            "notes": "Like black, red's uncommon creature percentages have basically stayed the same.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5697,7 +5697,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "M&SG; Sora LTD",
-            "notes": "Green has gone from having one spell, which is either a fight spell (two creatures do damage to each other) or a bite spell (your creature deals damage equal to its power to another creature) to having one of each. These spells usually also have some buffing to help your creature kill the opponent's larger rare and mythic rare creatures.\n\nAnother side effect of Play Boosters is that we have to be extra-careful with how easy we give green access to other colors in Limited, as it's much easier to just play a \"good stuff\" deck (a deck with all the best spells in each color) with all the powerful rares and mythic rares. This means we are more likely to do land fetching that gets lands off the top cards of your library rather than fetching one out of your deck. We will also be more careful with lower-rarity mana-acceleration spells to have green cards give you access to green mana rather than any color. This will still help you ramp without making it easier to splash other colors.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5715,7 +5715,7 @@
             "shape": "normal",
             "set": "SMB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nintendo",
             "notes": "",
             "image_type": "png"
         },
@@ -5830,7 +5830,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "In the Play Booster world, we want the colorless cards to be a bit stronger because they help fill out all the decks. They still shouldn't step on the toes of the colors that do what they do best, but we've upped the power level to make them generically stronger. Because many Play Booster sets will have an upgrade in the land slot some percentage of the time, the artifacts don't have to do quite as much color fixing. \"Variance buster\" means that the card can help you find lands (through things like scrying and filtering) early in the game if you're short on land. Note it's not good at finding you a particular land. In general, we're being a bit stingier on access to extra colors as we don't want to encourage players splashing the bombs they open.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7464,7 +7464,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "PhGuy12; Nintendo",
-            "notes": "If you're wondering why there's 14 uncommons and not 15 like it says in Nuts & Bolts #16, that's because the article is wrong on the number of uncommons in black and red. https://www.tumblr.com/markrosewater/745307427137896448/in-nuts-bolts-16-play-boosters-you-say-black",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7483,7 +7483,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
-            "notes": "Green uncommon creature percentage have gone up slightly from 62% (8 out of 13) to 64% (9 out of 14), making it the only color, along with white, to go up in percentage.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it.",
+            "notes": "This is technically a Pokeynut and not a Pokey",
             "image_type": "png"
         },
         {
@@ -7521,7 +7521,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Pierce Ng; Intelligent Systems",
-            "notes": "Green uncommon creature percentage have gone up slightly from 62% (8 out of 13) to 64% (9 out of 14), making it the only color, along with white, to go up in percentage.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7558,7 +7558,7 @@
             "shape": "normal",
             "set": "SMB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nintendo",
             "notes": "",
             "image_type": "png"
         },
@@ -7672,7 +7672,7 @@
             "shape": "normal",
             "set": "SMB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nintendo",
             "notes": "",
             "image_type": "png"
         },
@@ -7691,7 +7691,7 @@
             "shape": "normal",
             "set": "SMB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nintendo",
             "notes": "",
             "image_type": "png"
         },
@@ -7730,7 +7730,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7806,7 +7806,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "ZGamerGuys; Nintendo",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7844,7 +7844,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Super-Yoshi; Nintendo",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7862,7 +7862,7 @@
             "shape": "normal",
             "set": "SMB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nintendo",
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]",
             "image_type": "png"
         },
@@ -7958,7 +7958,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Shokora; Nintendo",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7977,7 +7977,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Illumination",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]",
+            "notes": "",
             "image_type": "png"
         },
         {
