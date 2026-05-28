@@ -1,4 +1,53 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Cat Hero added.
+Insect added.
+Super added.
+Copy added.
+Food added.
+Construct Minion added.
+Cannon added.
+Citizen added.
+Alien Minion added.
+Star added.
+Fungus Citizen added.
+Dog Minion added.
+
+
+Kong Elder
+rules_text: Vigilance
+Kong Elder can't attack or block unless you control four other nontoken creatures.
+Whenever you cast a creature spell, surveil 1. The first time you put a land card into your graveyard this way each turn, put it onto the battlefield tapped. => Vigilance
+Kong Elder can't attack or block unless you control four or more other nontoken creatures.
+Whenever you cast a creature spell, surveil 1. The first time you put a land card into your graveyard this way each turn, put it onto the battlefield tapped.
+
+Swordfighter Peach
+rules_text: When Swordfighter Peach enters, you may put an Aur or Equipment card from your hand or graveyard onto the battlefield.
+Equipment you control have equip {0}. => When Swordfighter Peach enters, you may put an Aura or Equipment card from your hand or graveyard onto the battlefield.
+Equipment you control have equip {0}.
+
+Coin Coffer
+rules_text: Menace
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. => Menace
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Goomboss, Grand Pooh-bah
+rules_text: Trample
+Whenever Goomboss is dealt damage, create that many 1/1 green Fungus Minion creature tokens.
+Whenever a Minion you control dies, put a number of +1/+1 counters on Goomboss equal to that creature's power. => Trample
+Whenever Goomboss is dealt damage, create that many 1/1 black Minion creature tokens with “This token can't block.”
+Whenever a Minion you control dies, put a number of +1/+1 counters on Goomboss equal to that creature's power.
+
+Corrupted Giga Bell
+rules_text: Enchant creature you control
+Enchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature attacks, defending player sacrifices a nonland permanent of their choice. If they don't sacrifice a nontoken permanent this way, you draw a card. => Enchant creature you control
+Enchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature attacks, defending player sacrifices a nonland permanent of their choice. If they didn't sacrifice a nontoken permanent this way, you draw a card.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 King K. Rool added.

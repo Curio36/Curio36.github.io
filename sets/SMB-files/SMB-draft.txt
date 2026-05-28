@@ -1131,16 +1131,6 @@
 			}
 		},
 		{
-			"name": "Mushroom Kingdom",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "256",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/256_Mushroom Kingdom.png"
-			}
-		},
-		{
 			"name": "Dr. Mario",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
@@ -2215,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact — Vehicle",
-			"collector_number": "1",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/1t_Junior's Clown Car.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/9t_Junior's Clown Car.png"
 			}
 		},
 		{
@@ -2225,9 +2215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Minion",
-			"collector_number": "2",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/2t_Minion.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/10t_Minion.png"
 			}
 		},
 		{
@@ -2235,9 +2225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Minion",
-			"collector_number": "3",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/3t_Minion.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/11t_Minion.png"
 			}
 		},
 		{
@@ -2245,9 +2235,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Minion",
-			"collector_number": "4",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/4t_Minion.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/12t_Minion.png"
 			}
 		},
 		{
@@ -2255,9 +2245,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Minion Army",
-			"collector_number": "6",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/6t_Minion Army.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/14t_Minion Army.png"
 			}
 		},
 		{
@@ -2265,9 +2255,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit Minion",
-			"collector_number": "7",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/7t_Spirit Minion.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/15t_Spirit Minion.png"
 			}
 		},
 		{
@@ -2275,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "8",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/8t_Treasure.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/20t_Treasure.png"
 			}
 		},
 		{
@@ -2285,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "9",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/9t_Treasure.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/21t_Treasure.png"
 			}
 		},
 		{
@@ -2305,9 +2295,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Minion",
-			"collector_number": "5",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/5t_Minion.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/13t_Minion.png"
 			}
 		},
 		{
@@ -2839,6 +2829,136 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMB-files/img/223_The Majesty of Space.png"
 			}
+		},
+		{
+			"name": "Mushroom Kingdom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/256_Mushroom Kingdom.png"
+			}
+		},
+		{
+			"name": "Cat Hero",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cat Hero",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/4t_Cat Hero.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/7t_Insect.png"
+			}
+		},
+		{
+			"name": "Super",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/3t_Super.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/1t_Copy.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/19t_Food.png"
+			}
+		},
+		{
+			"name": "Construct Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct Minion",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/16t_Construct Minion.png"
+			}
+		},
+		{
+			"name": "Cannon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/18t_Cannon.png"
+			}
+		},
+		{
+			"name": "Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Citizen",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/5t_Citizen.png"
+			}
+		},
+		{
+			"name": "Alien Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Alien Minion",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/8t_Alien Minion.png"
+			}
+		},
+		{
+			"name": "Star",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Star",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/2t_Star.png"
+			}
+		},
+		{
+			"name": "Fungus Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fungus Citizen",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/6t_Fungus Citizen.png"
+			}
+		},
+		{
+			"name": "Dog Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Dog Minion",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/17t_Dog Minion.png"
+			}
 		}
 	]
 
@@ -2862,7 +2982,6 @@
 	2 Paper Princess Peach
 	2 Culex 3D
 	2 Rainbow Road
-	2 Mushroom Kingdom
 	2 Dr. Mario
 	2 Swordfighter Peach
 	2 End of Sammer's Kingdom
@@ -2924,6 +3043,7 @@
 	2 Corrupted Giga Bell
 	2 Admiring the Mushrooms
 	2 The Majesty of Space
+	2 Mushroom Kingdom
 [uncommon(3)]
 	4 Koopa Paratroopa
 	4 Tanuki Shopkeepers
@@ -3321,7 +3441,6 @@
 	6 Pipe Cork
 	6 Parakarry, Mailman
 	6 Racetrack Lakitu
-	2 Mushroom Kingdom
 	2 Dr. Mario
 	2 Swordfighter Peach
 	2 End of Sammer's Kingdom
@@ -3477,6 +3596,7 @@
 	2 Corrupted Giga Bell
 	2 Admiring the Mushrooms
 	2 The Majesty of Space
+	2 Mushroom Kingdom
 [wildcard(1)]
 	4 Clash of Light and Dark
 	4 King K. Rool
@@ -3591,7 +3711,6 @@
 	15 Pipe Cork
 	15 Parakarry, Mailman
 	15 Racetrack Lakitu
-	7 Mushroom Kingdom
 	7 Dr. Mario
 	7 Swordfighter Peach
 	7 End of Sammer's Kingdom
@@ -3747,3 +3866,4 @@
 	7 Corrupted Giga Bell
 	7 Admiring the Mushrooms
 	7 The Majesty of Space
+	7 Mushroom Kingdom

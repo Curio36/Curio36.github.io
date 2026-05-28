@@ -1406,7 +1406,7 @@ When this creature enters, you draw a card and create a Treasure token. (It&apos
 		<card>
 			<name>Kong Elder</name>
 			<text>Vigilance
-Kong Elder can&apos;t attack or block unless you control four other nontoken creatures.
+Kong Elder can&apos;t attack or block unless you control four or more other nontoken creatures.
 Whenever you cast a creature spell, surveil 1. The first time you put a land card into your graveyard this way each turn, put it onto the battlefield tapped.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/170_Kong Elder.png" num="170">SMB</set>
 			<prop>
@@ -2005,23 +2005,6 @@ When this creature enters, return target creature you control to its owner&apos;
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Mushroom Kingdom</name>
-			<text>This land enters tapped unless you control a legendary creature.
-{T}: Add {W}.
-Exhaust — {4}{W}, {T}: Exile target Aura card from your graveyard, then create a token that&apos;s a copy of it. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/256_Mushroom Kingdom.png" num="256">SMB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
 			<name>Dr. Mario</name>
 			<text>Lifelink
 When Dr. Mario enters, you may choose one —
@@ -2043,7 +2026,7 @@ When Dr. Mario enters, you may choose one —
 		</card>
 		<card>
 			<name>Swordfighter Peach</name>
-			<text>When Swordfighter Peach enters, you may put an Aur or Equipment card from your hand or graveyard onto the battlefield.
+			<text>When Swordfighter Peach enters, you may put an Aura or Equipment card from your hand or graveyard onto the battlefield.
 Equipment you control have equip {0}.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/33_Swordfighter Peach.png" num="33">SMB</set>
 			<prop>
@@ -2697,7 +2680,7 @@ Whenever an opponent casts a spell with one or more targets, this creature deals
 		<card>
 			<name>Coin Coffer</name>
 			<text>Menace
-Whenever this creature is dealt damage, create that many tapped Treasure tokens.</text>
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/126_Coin Coffer.png" num="126">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3406,7 +3389,7 @@ When Fury Bowser enters, each opponent sacrifices a creature with the greatest m
 		<card>
 			<name>Goomboss, Grand Pooh-bah</name>
 			<text>Trample
-Whenever Goomboss is dealt damage, create that many 1/1 green Fungus Minion creature tokens.
+Whenever Goomboss is dealt damage, create that many 1/1 black Minion creature tokens with &quot;This token can&apos;t block.&quot;
 Whenever a Minion you control dies, put a number of +1/+1 counters on Goomboss equal to that creature&apos;s power.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/215_Goomboss, Grand Pooh-bah.png" num="215">SMB</set>
 			<prop>
@@ -3923,7 +3906,7 @@ This land enters tapped.</text>
 			<name>Junior&apos;s Clown Car SMB</name>
 			<text>Flying
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/1t_Junior&apos;s Clown Car.png" num="1">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/9t_Junior&apos;s Clown Car.png" num="9">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3941,7 +3924,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Minion SMB</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/2t_Minion.png" num="2">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/10t_Minion.png" num="10">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3959,7 +3942,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Minion SMB</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/3t_Minion.png" num="3">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/11t_Minion.png" num="11">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3977,7 +3960,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Minion SMB</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/4t_Minion.png" num="4">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/12t_Minion.png" num="12">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3995,7 +3978,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Minion Army SMB</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/6t_Minion Army.png" num="6">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/14t_Minion Army.png" num="14">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4014,7 +3997,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Spirit Minion SMB</name>
 			<text>Flying
 This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/7t_Spirit Minion.png" num="7">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/15t_Spirit Minion.png" num="15">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4032,7 +4015,7 @@ This token can&apos;t block.</text>
 		<card>
 			<name>Treasure SMB</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/8t_Treasure.png" num="8">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/20t_Treasure.png" num="20">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4047,7 +4030,7 @@ This token can&apos;t block.</text>
 		<card>
 			<name>Treasure SMB</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/9t_Treasure.png" num="9">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/21t_Treasure.png" num="21">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4077,7 +4060,7 @@ This token can&apos;t block.</text>
 		<card>
 			<name>Minion SMB</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/5t_Minion.png" num="5">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/13t_Minion.png" num="13">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4946,7 +4929,7 @@ Whenever RoboBrood deals combat damage to a player, create that many 1/1 black M
 			<name>Corrupted Giga Bell</name>
 			<text>Enchant creature you control
 Enchanted creature gets +2/+2 and has trample.
-Whenever enchanted creature attacks, defending player sacrifices a nonland permanent of their choice. If they don&apos;t sacrifice a nontoken permanent this way, you draw a card.</text>
+Whenever enchanted creature attacks, defending player sacrifices a nonland permanent of their choice. If they didn&apos;t sacrifice a nontoken permanent this way, you draw a card.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/203_Corrupted Giga Bell.png" num="203">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4994,6 +4977,227 @@ If you control fewer lands than the opponent who controls the most lands, create
 				<coloridentity>WUG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mushroom Kingdom</name>
+			<text>This land enters tapped unless you control a legendary creature.
+{T}: Add {W}.
+Exhaust — {4}{W}, {T}: Exile target Aura card from your graveyard, then create a token that&apos;s a copy of it. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/256_Mushroom Kingdom.png" num="256">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cat Hero SMB</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/4t_Cat Hero.png" num="4">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Hero</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect SMB</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/7t_Insect.png" num="7">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Super SMB</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/3t_Super.png" num="3">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy SMB</name>
+			<text>(This token can be used to represent a token that&apos;s a copy of a permanent.)</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/1t_Copy.png" num="1">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Food SMB</name>
+			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/19t_Food.png" num="19">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Construct Minion SMB</name>
+			<text>Flying
+At the beginning of your end step, sacrifice this token.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/16t_Construct Minion.png" num="16">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cannon SMB</name>
+			<text>{T}: This token deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/18t_Cannon.png" num="18">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Citizen SMB</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/5t_Citizen.png" num="5">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Alien Minion SMB</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/8t_Alien Minion.png" num="8">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Alien Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Star SMB</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/2t_Star.png" num="2">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment Creature — Star</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fungus Citizen SMB</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/6t_Fungus Citizen.png" num="6">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fungus Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dog Minion SMB</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/17t_Dog Minion.png" num="17">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Dog Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
