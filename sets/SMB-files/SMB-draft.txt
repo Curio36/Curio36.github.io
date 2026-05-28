@@ -1933,7 +1933,7 @@
 		{
 			"name": "Lady Bow, Boo Princess",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}{W}",
+			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Spirit Hero Noble",
 			"collector_number": "220",
 			"image_uris": {

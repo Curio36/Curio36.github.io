@@ -3443,7 +3443,7 @@ When King Bob-omb dies, for each opponent, draw three cards unless that player h
 		</card>
 		<card>
 			<name>Lady Bow, Boo Princess</name>
-			<text>Flying, double strike, menace
+			<text>Flying, double strike
 Outta Sight — Whenever Lady Bow deals combat damage to a player, exile up to one other target nonland permanent you control, then return it to the battlefield under your control.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/220_Lady Bow, Boo Princess.png" num="220">SMB</set>
 			<prop>
@@ -3451,8 +3451,8 @@ Outta Sight — Whenever Lady Bow deals combat damage to a player, exile up to o
 				<side>front</side>
 				<type>Legendary Creature — Spirit Hero Noble</type>
 				<maintype>Creature</maintype>
-				<manacost>3RW</manacost>
-				<cmc>5</cmc>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 				<pt>2/4</pt>

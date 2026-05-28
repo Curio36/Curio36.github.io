@@ -1,4 +1,16 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Lady Bow, Boo Princess
+cost: {3}{R}{W} => {2}{R}{W}
+rules_text: Flying, double strike, menace
+[i]Outta Sight [/i]— Whenever Lady Bow deals combat damage to a player, exile up to one other target nonland permanent you control, then return it to the battlefield under your control. => Flying, double strike
+[i]Outta Sight [/i]— Whenever Lady Bow deals combat damage to a player, exile up to one other target nonland permanent you control, then return it to the battlefield under your control.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Stolen Name added.
