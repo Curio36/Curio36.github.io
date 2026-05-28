@@ -1,4 +1,94 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Gold Leaf
+rules_text: Whenever an enchanted creature you control dies, return that creature to the battlefield tapped, then return all but one Aura that was attached to it to the battlefield attached to it. => Whenever an enchanted creature you control dies, return that creature to the battlefield tapped. Then if that creature had two or more Auras attached to it, return one of those Auras from your graveyard to the battlefield attached to that creature.
+
+Tatanga, Mysterious Spaceman
+rules_text: Flying, lifelink
+Other nontoken creatures you control have expendable 1. [i](Whenever another nontoken creature you control dies, create a 1/1 black Minion creature token with “This token can't block.” If a creature has multiple instances of expendable, each triggers separately.)[/i] => Flying, lifelink
+Other nontoken creatures you control have expendable 1. [i](When that creature you control dies, create a 1/1 black Minion creature token with “This token can't block.” If a creature has multiple instances of expendable, each triggers separately.)[/i]
+
+Birdo, Egg Bombardier
+rules_text: Birdo can't be blocked except by X or more creatures, where X is two plus the number of permanents attached to her.
+Whenever Birdo deals combat damage to an opponent for the first time each turn, untap another target creature you control. There's an additional combat phase after this phase. => Menace
+Whenever Birdo deals combat damage to an opponent for the first time each turn, untap another target creature you control. There's an additional combat phase after this phase.
+
+Torpedo Ted
+
+Chincho Swarm
+
+Blooper Nanny
+
+Machine Made Replica
+
+Ghost Portrificationizer
+
+Huey, Paint Pal
+
+Culex 3D
+rules_text: Flying
+When Culex 3D enters, you draw X cards and each player loses X life, where X is the number of enchantments you control.
+Whenever Culex deals combat damage to a player, you may sacrifice a white enchantment, a blue enchantment, a red enchantment, and a green enchantment. If you do, that player loses the game. => Flying
+When Culex 3D enters, you draw X cards and each player loses X life, where X is the number of enchantments you control.
+Whenever Culex deals combat damage to a player, you may sacrifice a white enchantment, a blue enchantment, a black enchantment, a red enchantment, and a green enchantment. If you do, that player loses the game.
+
+Rainbow Road
+
+Aggressive Maw-Ray
+pt: 5/5 => 6/6
+
+The Lord of Lightning
+rules_text: This spell costs {X} less to cast, where X is the greatest power among creatures you don't control.
+Flying, first strike, haste
+Whenever The Lord of Lightning attacks, defending player discards a card and sacrifices a creature of their choice. => This spell costs {X} less to cast, where X is the greatest power among creatures you don't control.
+Flying, haste
+Whenever The Lord of Lightning attacks, defending player loses 3 life and discards a card.
+
+Baby Yoshi
+rules_text: {1}{G}: Exile up to two target permanent cards from a single graveyard. If a card was exiled this way, put a +1/+1 counter on this creature.
+{2}{G}{G}: Double the number of +1/+1 counters on this creature. => {1}{G}: Exile one or two target permanent cards from a single graveyard. Put a +1/+1 counter on this creature.
+{2}{G}{G}: Double the number of +1/+1 counters on this creature.
+
+Garlic Breath
+rules_text: Each opponent discards two cards. Create a Super token attached to up to one target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and “Enchanted creature gets +1/+1.)[/i] => Target opponent discards two cards. Create a Super token attached to up to one target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and “Enchanted creature gets +1/+1.)[/i]
+
+Courier's Pets
+rules_text: {T}: Add one mana of any color.
+{2}{G}, Sacrifice this creature: Destroy target noncreature artifact or noncreature enchantment. Clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i] => {T}: Add one mana of any color.
+{2}{G}, Sacrifice this creature: Destroy up to one target noncreature artifact or noncreature enchantment. Clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]
+
+Fabled Passage
+
+Monstro Town
+
+RoboBrood, Moon Mech
+
+Dark Vortex
+rules_text: Choose one—
+• Exile target creature.
+• Exile target spell.
+• Exile two target cards from the same graveyard. => Choose one—
+• Exile target creature.
+• Exile target spell.
+• Exile target player's graveyard.
+
+Dark Star's Invigoration
+rules_text: Search target opponent's library for a nonland card and exile it. You may cast the exiled card without paying its mana cost. If that spell has mana value 4 or less, copy it. You may choose new targets for the copy. Then that player shuffles. => Target opponent reveals card from the top of their library until they reveal a nonland card, they exile that card, then they shuffle. You may cast the exiled card without paying its mana cost. If you cast a spell with mana value 3 or less, copy it. You may choose new targets for the copy.
+
+Corrupted Giga Bell
+rules_text: Enchant creature you control
+Enchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature attacks, defending player sacrifices a nonland permanent of their choice. If they didn't sacrifice a nontoken permanent this way, you draw a card. => Enchant creature you control
+Enchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature attacks, draw a card unless defending player sacrifices a nonland permanent of their choice.
+
+The Majesty of Space
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

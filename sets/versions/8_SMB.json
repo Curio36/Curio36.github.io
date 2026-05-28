@@ -283,7 +283,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Whenever an enchanted creature you control dies, return that creature to the battlefield tapped, then return all but one Aura that was attached to it to the battlefield attached to it.",
+            "rules_text": "Whenever an enchanted creature you control dies, return that creature to the battlefield tapped. Then if that creature had two or more Auras attached to it, return one of those Auras from your graveyard to the battlefield attached to that creature.",
             "flavor_text": "[i]Also known as an invincibility leaf, Mario is nigh unstoppable with this power-up.[/i]",
             "pt": "",
             "special_text": "",
@@ -877,7 +877,7 @@
             "number": 106,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Flying, lifelink\nOther nontoken creatures you control have expendable 1. [i](Whenever another nontoken creature you control dies, create a 1/1 black Minion creature token with \u201cThis token can't block.\u201d If a creature has multiple instances of expendable, each triggers separately.)[/i]",
+            "rules_text": "Flying, lifelink\nOther nontoken creatures you control have expendable 1. [i](When that creature you control dies, create a 1/1 black Minion creature token with \u201cThis token can't block.\u201d If a creature has multiple instances of expendable, each triggers separately.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -1147,7 +1147,7 @@
             "number": 117,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Birdo can't be blocked except by X or more creatures, where X is two plus the number of permanents attached to her.\nWhenever Birdo deals combat damage to an opponent for the first time each turn, untap another target creature you control. There's an additional combat phase after this phase.",
+            "rules_text": "Menace\nWhenever Birdo deals combat damage to an opponent for the first time each turn, untap another target creature you control. There's an additional combat phase after this phase.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1641,7 +1641,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "Chincho Swarm",
@@ -1659,7 +1659,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "BlackYoshi; Nintendo",
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "Blooper Nanny",
@@ -1677,7 +1677,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo; Universal",
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "Machine Made Replica",
@@ -1694,7 +1694,7 @@
             "shape": "normal",
             "set": "SMB",
             "loyalty": "",
-            "artist": "Zootalo; ArtePiazza",
+            "artist": "JaidynReiman Plays; ArtePiazza",
             "notes": ""
         },
         {
@@ -1713,7 +1713,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Results May Vary; Nintendo and GREZZO Co",
-            "notes": "The removal is usually expensive but generally useful. We want this as yet another answer to rare and rare bombs. The rest of the common artifacts are helping you with your mana."
+            "notes": ""
         },
         {
             "card_name": "Beanbean Machine",
@@ -1767,7 +1767,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Scrooge200; Intelligent Systems",
-            "notes": "Play Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
+            "notes": ""
         },
         {
             "card_name": "Slippery Banana Peel",
@@ -1831,7 +1831,7 @@
             "number": 205,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{B}{R}{G}",
-            "rules_text": "Flying\nWhen Culex 3D enters, you draw X cards and each player loses X life, where X is the number of enchantments you control.\nWhenever Culex deals combat damage to a player, you may sacrifice a white enchantment, a blue enchantment, a red enchantment, and a green enchantment. If you do, that player loses the game.",
+            "rules_text": "Flying\nWhen Culex 3D enters, you draw X cards and each player loses X life, where X is the number of enchantments you control.\nWhenever Culex deals combat damage to a player, you may sacrifice a white enchantment, a blue enchantment, a black enchantment, a red enchantment, and a green enchantment. If you do, that player loses the game.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -1839,7 +1839,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "YTSunny; ArtePiazza",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": ""
         },
         {
             "card_name": "Rainbow Road",
@@ -1857,7 +1857,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Anonymous; Nintendo",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": ""
         },
         {
             "card_name": "Bob-omb Buddy",
@@ -2319,7 +2319,7 @@
             "cost": "{5}{U}{U}",
             "rules_text": "Flash\nWhenever this creature enters or attacks, clear a stage, then put a +1/+1 on it for each card you've drawn this turn. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "5/5",
+            "pt": "6/6",
             "special_text": "",
             "shape": "normal",
             "set": "SMB",
@@ -3505,7 +3505,7 @@
             "number": 221,
             "color_identity": "BR",
             "cost": "{6}{B}{B}{R}{R}",
-            "rules_text": "This spell costs {X} less to cast, where X is the greatest power among creatures you don't control.\nFlying, first strike, haste\nWhenever The Lord of Lightning attacks, defending player discards a card and sacrifices a creature of their choice.",
+            "rules_text": "This spell costs {X} less to cast, where X is the greatest power among creatures you don't control.\nFlying, haste\nWhenever The Lord of Lightning attacks, defending player loses 3 life and discards a card.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -3703,7 +3703,7 @@
             "number": 154,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "{1}{G}: Exile up to two target permanent cards from a single graveyard. If a card was exiled this way, put a +1/+1 counter on this creature.\n{2}{G}{G}: Double the number of +1/+1 counters on this creature.",
+            "rules_text": "{1}{G}: Exile one or two target permanent cards from a single graveyard. Put a +1/+1 counter on this creature.\n{2}{G}{G}: Double the number of +1/+1 counters on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4549,7 +4549,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Each opponent discards two cards. Create a Super token attached to up to one target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]",
+            "rules_text": "Target opponent discards two cards. Create a Super token attached to up to one target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4639,7 +4639,7 @@
             "number": 158,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "{T}: Add one mana of any color.\n{2}{G}, Sacrifice this creature: Destroy target noncreature artifact or noncreature enchantment. Clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]",
+            "rules_text": "{T}: Add one mana of any color.\n{2}{G}, Sacrifice this creature: Destroy up to one target noncreature artifact or noncreature enchantment. Clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4971,7 +4971,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": ""
         },
         {
             "card_name": "Monstro Town",
@@ -4989,7 +4989,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "RHG1951; SquareSoft",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": ""
         },
         {
             "card_name": "RoboBrood, Moon Mech",
@@ -5007,7 +5007,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Boss Fight Database; Nintendo",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": ""
         },
         {
             "card_name": "Dark Vortex",
@@ -5017,7 +5017,7 @@
             "number": 208,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "Choose one\u2014\n\u2022 Exile target creature.\n\u2022 Exile target spell.\n\u2022 Exile two target cards from the same graveyard.",
+            "rules_text": "Choose one\u2014\n\u2022 Exile target creature.\n\u2022 Exile target spell.\n\u2022 Exile target player's graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5025,7 +5025,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "BossBattleChannel; Intelligent Systems",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": ""
         },
         {
             "card_name": "Dark Star's Invigoration",
@@ -5035,7 +5035,7 @@
             "number": 207,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
-            "rules_text": "Search target opponent's library for a nonland card and exile it. You may cast the exiled card without paying its mana cost. If that spell has mana value 4 or less, copy it. You may choose new targets for the copy. Then that player shuffles.",
+            "rules_text": "Target opponent reveals card from the top of their library until they reveal a nonland card, they exile that card, then they shuffle. You may cast the exiled card without paying its mana cost. If you cast a spell with mana value 3 or less, copy it. You may choose new targets for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5043,7 +5043,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "L151; AlphaDream",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": ""
         },
         {
             "card_name": "Corrupted Giga Bell",
@@ -5053,7 +5053,7 @@
             "number": 203,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
-            "rules_text": "Enchant creature you control\nEnchanted creature gets +2/+2 and has trample.\nWhenever enchanted creature attacks, defending player sacrifices a nonland permanent of their choice. If they didn't sacrifice a nontoken permanent this way, you draw a card.",
+            "rules_text": "Enchant creature you control\nEnchanted creature gets +2/+2 and has trample.\nWhenever enchanted creature attacks, draw a card unless defending player sacrifices a nonland permanent of their choice.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5097,7 +5097,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Camelot, Nintendo",
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
+            "notes": ""
         },
         {
             "card_name": "Mushroom Kingdom",

@@ -273,7 +273,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		</card>
 		<card>
 			<name>Gold Leaf</name>
-			<text>Whenever an enchanted creature you control dies, return that creature to the battlefield tapped, then return all but one Aura that was attached to it to the battlefield attached to it.</text>
+			<text>Whenever an enchanted creature you control dies, return that creature to the battlefield tapped. Then if that creature had two or more Auras attached to it, return one of those Auras from your graveyard to the battlefield attached to that creature.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/12_Gold Leaf.png" num="12">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -859,7 +859,7 @@ Target creature gets -5/-5 until end of turn. If that creature would die this tu
 		<card>
 			<name>Tatanga, Mysterious Spaceman</name>
 			<text>Flying, lifelink
-Other nontoken creatures you control have expendable 1. (Whenever another nontoken creature you control dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot; If a creature has multiple instances of expendable, each triggers separately.)</text>
+Other nontoken creatures you control have expendable 1. (When that creature you control dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot; If a creature has multiple instances of expendable, each triggers separately.)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/106_Tatanga, Mysterious Spaceman.png" num="106">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1121,7 +1121,7 @@ Enchanted creature gets +1/+0 and has menace and &quot;Whenever this creature de
 		</card>
 		<card>
 			<name>Birdo, Egg Bombardier</name>
-			<text>Birdo can&apos;t be blocked except by X or more creatures, where X is two plus the number of permanents attached to her.
+			<text>Menace
 Whenever Birdo deals combat damage to an opponent for the first time each turn, untap another target creature you control. There&apos;s an additional combat phase after this phase.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/117_Birdo, Egg Bombardier.png" num="117">SMB</set>
 			<prop>
@@ -1789,7 +1789,7 @@ Whenever another creature you control dies, target opponent loses 1 life. If thi
 			<name>Culex 3D</name>
 			<text>Flying
 When Culex 3D enters, you draw X cards and each player loses X life, where X is the number of enchantments you control.
-Whenever Culex deals combat damage to a player, you may sacrifice a white enchantment, a blue enchantment, a red enchantment, and a green enchantment. If you do, that player loses the game.</text>
+Whenever Culex deals combat damage to a player, you may sacrifice a white enchantment, a blue enchantment, a black enchantment, a red enchantment, and a green enchantment. If you do, that player loses the game.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/205_Culex 3D.png" num="205">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2292,7 +2292,7 @@ Whenever this creature enters or attacks, clear a stage, then put a +1/+1 on it 
 				<cmc>7</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>5/5</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3462,8 +3462,8 @@ Outta Sight — Whenever Lady Bow deals combat damage to a player, exile up to o
 		<card>
 			<name>The Lord of Lightning</name>
 			<text>This spell costs {X} less to cast, where X is the greatest power among creatures you don&apos;t control.
-Flying, first strike, haste
-Whenever The Lord of Lightning attacks, defending player discards a card and sacrifices a creature of their choice.</text>
+Flying, haste
+Whenever The Lord of Lightning attacks, defending player loses 3 life and discards a card.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/221_The Lord of Lightning.png" num="221">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3656,7 +3656,7 @@ Whenever Firebrand Mario deals combat damage to an opponent, you may sacrifice a
 		</card>
 		<card>
 			<name>Baby Yoshi</name>
-			<text>{1}{G}: Exile up to two target permanent cards from a single graveyard. If a card was exiled this way, put a +1/+1 counter on this creature.
+			<text>{1}{G}: Exile one or two target permanent cards from a single graveyard. Put a +1/+1 counter on this creature.
 {2}{G}{G}: Double the number of +1/+1 counters on this creature.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/154_Baby Yoshi.png" num="154">SMB</set>
 			<prop>
@@ -4453,7 +4453,7 @@ Scry 2.</text>
 		</card>
 		<card>
 			<name>Garlic Breath</name>
-			<text>Each opponent discards two cards. Create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
+			<text>Target opponent discards two cards. Create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/88_Garlic Breath.png" num="88">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4544,7 +4544,7 @@ Whenever you clear a world, you gain 3 life.</text>
 		<card>
 			<name>Courier&apos;s Pets</name>
 			<text>{T}: Add one mana of any color.
-{2}{G}, Sacrifice this creature: Destroy target noncreature artifact or noncreature enchantment. Clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
+{2}{G}, Sacrifice this creature: Destroy up to one target noncreature artifact or noncreature enchantment. Clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/158_Courier&apos;s Pets.png" num="158">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4895,7 +4895,7 @@ Whenever RoboBrood deals combat damage to a player, create that many 1/1 black M
 			<text>Choose one—
 • Exile target creature.
 • Exile target spell.
-• Exile two target cards from the same graveyard.</text>
+• Exile target player&apos;s graveyard.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/208_Dark Vortex.png" num="208">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4911,7 +4911,7 @@ Whenever RoboBrood deals combat damage to a player, create that many 1/1 black M
 		</card>
 		<card>
 			<name>Dark Star&apos;s Invigoration</name>
-			<text>Search target opponent&apos;s library for a nonland card and exile it. You may cast the exiled card without paying its mana cost. If that spell has mana value 4 or less, copy it. You may choose new targets for the copy. Then that player shuffles.</text>
+			<text>Target opponent reveals card from the top of their library until they reveal a nonland card, they exile that card, then they shuffle. You may cast the exiled card without paying its mana cost. If you cast a spell with mana value 3 or less, copy it. You may choose new targets for the copy.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/207_Dark Star&apos;s Invigoration.png" num="207">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4929,7 +4929,7 @@ Whenever RoboBrood deals combat damage to a player, create that many 1/1 black M
 			<name>Corrupted Giga Bell</name>
 			<text>Enchant creature you control
 Enchanted creature gets +2/+2 and has trample.
-Whenever enchanted creature attacks, defending player sacrifices a nonland permanent of their choice. If they didn&apos;t sacrifice a nontoken permanent this way, you draw a card.</text>
+Whenever enchanted creature attacks, draw a card unless defending player sacrifices a nonland permanent of their choice.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/203_Corrupted Giga Bell.png" num="203">SMB</set>
 			<prop>
 				<layout>normal</layout>
