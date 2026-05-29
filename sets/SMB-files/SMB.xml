@@ -5,7 +5,7 @@
 			<name>SMB</name>
 			<longname>Magic the Gathering | Super Mario Brothers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-28</releasedate>
+			<releasedate>2026-05-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -288,11 +288,11 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>The Sand Bird</name>
+			<name>Sand Bird</name>
 			<text>Flying, vigilance, ward {2}
 Whenever you attack with two or more creatures, clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)
-Whenever you clear a level, return target nonland permanent with mana value 4 or less from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/28_The Sand Bird.png" num="28">SMB</set>
+Whenever you clear a world, return target nonland permanent with mana value 4 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/28_Sand Bird.png" num="28">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

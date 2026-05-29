@@ -2927,14 +2927,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "The Sand Bird",
+            "card_name": "Sand Bird",
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2013 Elemental Bird",
             "number": 28,
             "color_identity": "W",
             "cost": "{5}{W}",
-            "rules_text": "Flying, vigilance, ward {2}\nWhenever you attack with two or more creatures, clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]\nWhenever you clear a level, return target nonland permanent with mana value 4 or less from your graveyard to the battlefield.",
+            "rules_text": "Flying, vigilance, ward {2}\nWhenever you attack with two or more creatures, clear a stage. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]\nWhenever you clear a world, return target nonland permanent with mana value 4 or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",

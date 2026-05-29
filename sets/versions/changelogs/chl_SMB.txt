@@ -1,4 +1,12 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Sand Bird added.
+
+The Sand Bird removed.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

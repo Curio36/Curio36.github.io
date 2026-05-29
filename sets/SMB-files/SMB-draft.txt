@@ -161,13 +161,13 @@
 			}
 		},
 		{
-			"name": "The Sand Bird",
+			"name": "Sand Bird",
 			"rarity": "rare",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Elemental Bird",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/28_The Sand Bird.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/28_Sand Bird.png"
 			}
 		},
 		{
@@ -2968,7 +2968,7 @@
 	1 Whistletop Train
 	2 Geno Whirl
 	2 Gold Leaf
-	2 The Sand Bird
+	2 Sand Bird
 	2 Moo Moo Meadows Cow
 	1 Capture Companion
 	1 Belome, Long-Tongued Demon
@@ -3344,7 +3344,7 @@
 	1 Whistletop Train
 	2 Geno Whirl
 	2 Gold Leaf
-	2 The Sand Bird
+	2 Sand Bird
 	2 Moo Moo Meadows Cow
 	6 Koopa Paratroopa
 	6 Tanuki Shopkeepers
@@ -3614,7 +3614,7 @@
 	4 Whistletop Train
 	7 Geno Whirl
 	7 Gold Leaf
-	7 The Sand Bird
+	7 Sand Bird
 	7 Moo Moo Meadows Cow
 	15 Koopa Paratroopa
 	15 Tanuki Shopkeepers
