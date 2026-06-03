@@ -1,4 +1,25 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Shore Tyrant added.
+Gelid Tyrant added.
+Deep Tyrant added.
+Vein Tyrant added.
+Coral Tyrant added.
+
+Sabek, the Shore Tyrant removed.
+Adel, the Gelid Tyrant removed.
+Nullvice, the Deep Tyrant removed.
+Gella, the Vein Tyrant removed.
+Goz, the Coral Tyrant removed.
+
+Gilded Plating
+rules_text: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

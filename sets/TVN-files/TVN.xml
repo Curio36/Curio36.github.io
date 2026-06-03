@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-27</releasedate>
+			<releasedate>2026-06-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -388,14 +388,14 @@ Overwhelm — As long as you control a permanent with mana value 4 or greater, t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Sabek, the Shore Tyrant</name>
-			<text>Vigilance, first strike
-Whenever you attack, other creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/26_Sabek, the Shore Tyrant.png" num="26">TVN</set>
+			<name>Shore Tyrant</name>
+			<text>First strike
+Whenever this creature attacks, other creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/29_Shore Tyrant.png" num="29">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Serpent</type>
+				<type>Creature — Serpent</type>
 				<maintype>Creature</maintype>
 				<manacost>4WW</manacost>
 				<cmc>6</cmc>
@@ -424,7 +424,7 @@ Whenever you attack, other creatures you control get +1/+1 until end of turn.</t
 		<card>
 			<name>Seafolk Sentinel</name>
 			<text>Embrace: Put a +1/+1 counter on this creature. Activate only as a sorcery. (To embrace, tap two artifacts and/or creatures you control)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/28_Seafolk Sentinel.png" num="28">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/27_Seafolk Sentinel.png" num="27">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -442,7 +442,7 @@ Whenever you attack, other creatures you control get +1/+1 until end of turn.</t
 			<name>Shining Wingfin</name>
 			<text>Flying
 Overwhelm — Whenever this creature attacks, put a +1/+1 counter on another target creature or Vehicle you control. Put two +1/+1 counters on that permanent instead if you control another permanent with mana value 4 or greater.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/29_Shining Wingfin.png" num="29">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/28_Shining Wingfin.png" num="28">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -582,27 +582,27 @@ When this creature enters, you gain 1 life and draw a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Adel, the Gelid Tyrant</name>
-			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
-Whenever you tap two or more creatures, surveil 1, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/40_Adel, the Gelid Tyrant.png" num="40">TVN</set>
+			<name>Gelid Tyrant</name>
+			<text>Vigilance
+Whenever you attack with two or more creatures, surveil 1, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/52_Gelid Tyrant.png" num="52">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Elemental Leviathan</type>
+				<type>Creature — Elemental Leviathan</type>
 				<maintype>Creature</maintype>
 				<manacost>3UU</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Beachcombing Tiktaalik</name>
 			<text>When this creature enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/41_Beachcombing Tiktaalik.png" num="41">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/40_Beachcombing Tiktaalik.png" num="40">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -620,7 +620,7 @@ Whenever you tap two or more creatures, surveil 1, then draw a card.</text>
 			<name>Breaching Greatshark</name>
 			<text>During your turn, this creature has flying.
 During turns other than yours, this creature has ward {2}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/42_Breaching Greatshark.png" num="42">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/41_Breaching Greatshark.png" num="41">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -637,7 +637,7 @@ During turns other than yours, this creature has ward {2}. (Whenever this creatu
 		<card>
 			<name>Chart a Course</name>
 			<text>Draw two cards. Then discard a card unless you attacked this turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/43_Chart a Course.png" num="43">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/42_Chart a Course.png" num="42">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -655,7 +655,7 @@ During turns other than yours, this creature has ward {2}. (Whenever this creatu
 			<text>Flying
 Whenever this Vehicle attacks, surveil 2. Then if this Vehicle was crewed by creatures with total power 4 or greater this turn, exile up to one instant or sorcery card from your graveyard and copy it. You may cast that copy. (You still pay its costs.)
 Crew 2</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/44_Cloud Sea Bell.png" num="44">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/43_Cloud Sea Bell.png" num="43">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -674,7 +674,7 @@ Crew 2</text>
 			<text>Flying
 This creature can block only creatures with flying.
 When you draw your second card each turn, create a 1/1 blue Bird Pirate creature token with flying and &quot;This token can block only creatures with flying.&quot;</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/45_Cloud Sea Snatcher.png" num="45">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/44_Cloud Sea Snatcher.png" num="44">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -693,7 +693,7 @@ When you draw your second card each turn, create a 1/1 blue Bird Pirate creature
 			<text>Flying, vigilance
 Whenever Cynette enters or attacks, create a 1/1 blue Jellyfish creature token with flying.
 {5}{U}, {T}: Draw two cards. This ability costs {1} less to activate for each creature with flying you attacked with this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/46_Cynette, Cnidariamancer.png" num="46">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/45_Cynette, Cnidariamancer.png" num="45">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -711,7 +711,7 @@ Whenever Cynette enters or attacks, create a 1/1 blue Jellyfish creature token w
 			<name>Dash on the Rocks</name>
 			<text>Return one or two target nonland permanents to their owner&apos;s hand.
 Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/47_Dash on the Rocks.png" num="47">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/46_Dash on the Rocks.png" num="46">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -727,7 +727,7 @@ Surveil 3. (Look at the top three cards of your library, then put any number of 
 		<card>
 			<name>Disrupt Existence</name>
 			<text>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/48_Disrupt Existence.png" num="48">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/47_Disrupt Existence.png" num="47">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -744,7 +744,7 @@ Surveil 3. (Look at the top three cards of your library, then put any number of 
 			<name>Freezing Winds</name>
 			<text>Target creature gets -3/-0 until end of turn. Then if that creature&apos;s power is 0 or less, tap it and put two stun counters on it.
 Draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/50_Freezing Winds.png" num="50">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/49_Freezing Winds.png" num="49">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -779,7 +779,7 @@ Overwhelm — As long as you control a permanent with mana value 4 or greater, t
 			<name>Fishy Rumormonger</name>
 			<text>Vigilance
 {2}, {T}: Create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/49_Fishy Rumormonger.png" num="49">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/48_Fishy Rumormonger.png" num="48">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -907,7 +907,7 @@ Manufacture 3—{2}{U}{U} ({2}{U}{U}: Return this card from your graveyard to th
 			<name>Gelid Sea Courier</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 When this creature enters, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/51_Gelid Sea Courier.png" num="51">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/50_Gelid Sea Courier.png" num="50">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1227,7 +1227,7 @@ Crew 1</text>
 			<name>Deep Tyrant&apos;s Challenge</name>
 			<text>Overwhelm — This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
 Target opponent exiles the top X cards of their library face down. You may look at those cards and you may cast spells from among them for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any type to cast it.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/84_Deep Tyrant&apos;s Challenge.png" num="84">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/85_Deep Tyrant&apos;s Challenge.png" num="85">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1243,7 +1243,7 @@ Target opponent exiles the top X cards of their library face down. You may look 
 		<card>
 			<name>Devour</name>
 			<text>Exile target creature, planeswalker, or Vehicle. Its controller loses 2 life and you gain 2 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/85_Devour.png" num="85">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/86_Devour.png" num="86">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1261,7 +1261,7 @@ Target opponent exiles the top X cards of their library face down. You may look 
 			<text>Equipped creature gets +1/+0 and has deathtouch and &quot;Whenever this creature attacks, mill two cards.&quot;
 Whenever a Vehicle you control becomes crewed during your main phase, you may attach this Equipment to it.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/86_Dredging Arm.png" num="86">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/87_Dredging Arm.png" num="87">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1278,7 +1278,7 @@ Equip {2}</text>
 			<name>Fangcrest Finisher</name>
 			<text>Flying
 Whenever this creature attacks, if an artifact or another Pirate entered under your control this turn, it gets +2/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/87_Fangcrest Finisher.png" num="87">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/88_Fangcrest Finisher.png" num="88">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1296,7 +1296,7 @@ Whenever this creature attacks, if an artifact or another Pirate entered under y
 			<name>Grimechurner Rotboat</name>
 			<text>{1}{B}, Sacrifice an artifact or creature: Draw a card.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/89_Grimechurner Rotboat.png" num="89">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/90_Grimechurner Rotboat.png" num="90">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1332,7 +1332,7 @@ You draw two cards and you lose 2 life.</text>
 			<text>Deathtouch
 Whenever this creature enters or attacks, another target creature you control gains deathtouch until end of turn.
 Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/90_Inktrench Stinger.png" num="90">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/91_Inktrench Stinger.png" num="91">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1352,7 +1352,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 • Each opponent sacrifices a creature.
 • Each opponent sacrifices a Vehicle.
 • Each opponent sacrifices an enchantment.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/91_Inktrench&apos;s Trail.png" num="91">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/92_Inktrench&apos;s Trail.png" num="92">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1369,7 +1369,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 			<name>Fleetsinker</name>
 			<text>When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.
 Manufacture 3—{2}{B}{B} ({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn&apos;t a creature except when crewed.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/88_Fleetsinker.png" num="88">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/89_Fleetsinker.png" num="89">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1388,7 +1388,7 @@ Manufacture 3—{2}{B}{B} ({2}{B}{B}: Return this card from your graveyard to th
 			<text>Menace
 Whenever one or more Vehicles or one or more Pirates you control deal combat damage to a player, you create a Treasure token. 
 {X}{B}{B}, Sacrifice another Vehicle or Pirate: Return target Vehicle or creature card with mana value X or less from your graveyard to the battlefield tapped with a finality counter on it.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/92_Jahan, High Seas Lich.png" num="92">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/93_Jahan, High Seas Lich.png" num="93">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1407,7 +1407,7 @@ Whenever one or more Vehicles or one or more Pirates you control deal combat dam
 			<text>Flying
 When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {3}{B}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/93_Jahan&apos;s Pets.png" num="93">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/94_Jahan&apos;s Pets.png" num="94">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1425,7 +1425,7 @@ When this creature enters, surveil 1. (Look at the top card of your library. You
 			<name>Lamprey Swarm</name>
 			<text>Lifelink
 Overwhelm — Whenever this creature attacks while you control a permanent with mana value 4 or greater, it gains deathtouch until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/94_Lamprey Swarm.png" num="94">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/95_Lamprey Swarm.png" num="95">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1442,7 +1442,7 @@ Overwhelm — Whenever this creature attacks while you control a permanent with 
 		<card>
 			<name>Lich&apos;s Insight</name>
 			<text>If you would draw one or more cards, instead look at twice that many cards from the top of your library, then put that many cards from among them into your hand and the rest into your graveyard.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/95_Lich&apos;s Insight.png" num="95">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/96_Lich&apos;s Insight.png" num="96">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1460,7 +1460,7 @@ Overwhelm — Whenever this creature attacks while you control a permanent with 
 			<text>Flying, menace
 Whenever Midnight Queen attacks, you may put target creature card from defending player&apos;s graveyard onto the battlefield under your control tapped and attacking.
 Crew 3</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/96_Midnight Queen, Damned Vessel.png" num="96">TVN</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/97_Midnight Queen, Damned Vessel.png" num="97">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1477,7 +1477,7 @@ Crew 3</text>
 		<card>
 			<name>Noxious Venting</name>
 			<text>Target creature gets -2/-2 until end of turn. If an artifact you controlled left the battlefield this turn, that creature gets -4/-4 until end of turn instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/97_Noxious Venting.png" num="97">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/98_Noxious Venting.png" num="98">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1491,15 +1491,15 @@ Crew 3</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Nullvice, the Deep Tyrant</name>
+			<name>Deep Tyrant</name>
 			<text>Lifelink
-You may look at an additional two cards each time you surveil.
+You may look at an additional card each time you surveil.
 Sacrifice two other nonland permanents: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/98_Nullvice, the Deep Tyrant.png" num="98">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/84_Deep Tyrant.png" num="84">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Nightmare Crab</type>
+				<type>Creature — Nightmare Crab</type>
 				<maintype>Creature</maintype>
 				<manacost>4BB</manacost>
 				<cmc>6</cmc>
@@ -2016,15 +2016,15 @@ If you chose a Vehicle you controlled as you cast this spell, it becomes an arti
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Gella, the Vein Tyrant</name>
+			<name>Vein Tyrant</name>
 			<text>Haste
-Ward—Pay 3 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
-Whenever Gella attacks, create two Treasure tokens.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/133_Gella, the Vein Tyrant.png" num="133">TVN</set>
+Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+Whenever this creature attacks, create two tapped Treasure tokens.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/151_Vein Tyrant.png" num="151">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Elemental Salamander</type>
+				<type>Creature — Elemental Salamander</type>
 				<maintype>Creature</maintype>
 				<manacost>4RR</manacost>
 				<cmc>6</cmc>
@@ -2039,7 +2039,7 @@ Whenever Gella attacks, create two Treasure tokens.</text>
 			<text>Menace
 When this Vehicle enters, you may pay {2}. If you do, create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater&quot;
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/140_Lovebyrd&apos;s Galleon.png" num="140">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/139_Lovebyrd&apos;s Galleon.png" num="139">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2058,7 +2058,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<text>Menace
 Double all damage that sources you control would deal to an opponent or a permanent an opponent controls. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
 Crew 5</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/135_Inevitable, Doom&apos;s Flagship.png" num="135">TVN</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/134_Inevitable, Doom&apos;s Flagship.png" num="134">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2077,7 +2077,7 @@ Crew 5</text>
 			<text>This spell costs {1} less to cast for each land card in your graveyard.
 Flying, menace, haste
 {1}{R}: Until end of turn, each creature you control that&apos;s an Elemental and/or a Dragon gets +1/+0.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/137_Lavaheart Dragon.png" num="137">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/136_Lavaheart Dragon.png" num="136">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2094,7 +2094,7 @@ Flying, menace, haste
 		<card>
 			<name>Lightning Rod Installer</name>
 			<text>Whenever another artifact you control enters, you may discard a card. If you do, draw a card. Do this only once each turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/138_Lightning Rod Installer.png" num="138">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/137_Lightning Rod Installer.png" num="137">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2113,7 +2113,7 @@ Flying, menace, haste
 			<text>Equipped creature gets +4/+0 
 Whenever a Vehicle you control becomes crewed during your main phase, you may attach this Equipment to it.
 Equip {3}</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/139_Loose Cannon.png" num="139">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/138_Loose Cannon.png" num="138">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2130,7 +2130,7 @@ Equip {3}</text>
 			<name>Magmatic Gastrolith</name>
 			<text>When this artifact enters, gain control of another target artifact or creature until end of turn. Untap that permanent. It gains haste until end of turn. If that permanent is a Vehicle, it becomes an artifact creature until end of turn.
 {1}{R}, Sacrifice this artifact: Target Vehicle you control becomes an artifact creature and gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/141_Magmatic Gastrolith.png" num="141">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/140_Magmatic Gastrolith.png" num="140">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2148,7 +2148,7 @@ Equip {3}</text>
 			<text>Menace
 Whenever a creature attacks one of your opponents, it deals 1 damage to that player.
 Manufacture 3—{3}{R}{R} ({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn&apos;t a creature except when crewed.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/142_Magmawake Whale.png" num="142">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/141_Magmawake Whale.png" num="141">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2166,7 +2166,7 @@ Manufacture 3—{3}{R}{R} ({3}{R}{R}: Return this card from your graveyard to th
 			<name>Overloaded Cannonship</name>
 			<text>When this Vehicle enters, it deals 6 damage to target creature you don&apos;t control.
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/143_Overloaded Cannonship.png" num="143">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/142_Overloaded Cannonship.png" num="142">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2184,7 +2184,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<name>Ready, Aim, Fire!</name>
 			<text>Whenever a Vehicle you control attacks, it deals 2 damage to the player or permanent it&apos;s attacking.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/145_Ready, Aim, Fire!.png" num="145">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/144_Ready, Aim, Fire!.png" num="144">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2201,7 +2201,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Roaming Dunkleosteus</name>
 			<text>First strike
 During your turn, double all damage this creature would deal.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/146_Roaming Dunkleosteus.png" num="146">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/145_Roaming Dunkleosteus.png" num="145">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2220,7 +2220,7 @@ During your turn, double all damage this creature would deal.</text>
 			<text>Reach
 {T}: This creature deals 1 damage to each opponent.
 Whenever you draw your second card each turn, untap this creature.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/148_Seasoned Cannoneer.png" num="148">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/147_Seasoned Cannoneer.png" num="147">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2237,7 +2237,7 @@ Whenever you draw your second card each turn, untap this creature.</text>
 		<card>
 			<name>Scorching Fox</name>
 			<text>As long as you&apos;ve drawn two or more cards this turn, this creature has first strike.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/147_Scorching Fox.png" num="147">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/146_Scorching Fox.png" num="146">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2254,7 +2254,7 @@ Whenever you draw your second card each turn, untap this creature.</text>
 		<card>
 			<name>Stormward Shanties</name>
 			<text>Whenever you cast your second spell each turn, copy it. You may choose new targets for the copy. If it&apos;s a permanent spell, the copy gains haste and &quot;At the beginning of the end step, sacrifice this permanent.&quot; (A copy of a permanent spell becomes a token.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/149_Stormward Shanties.png" num="149">TVN</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/148_Stormward Shanties.png" num="148">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2270,7 +2270,7 @@ Whenever you draw your second card each turn, untap this creature.</text>
 		<card>
 			<name>Powderkeg Explosion</name>
 			<text>Powderkeg Explosion deals 2 damage to any target. If a creature or planeswalker dealt damage this way would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/144_Powderkeg Explosion.png" num="144">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/143_Powderkeg Explosion.png" num="143">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2287,7 +2287,7 @@ Whenever you draw your second card each turn, untap this creature.</text>
 			<name>Tyrant&apos;s Demand</name>
 			<text>Overwhelm — This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
 Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/151_Tyrant&apos;s Demand.png" num="151">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/150_Tyrant&apos;s Demand.png" num="150">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2356,7 +2356,7 @@ This creature can&apos;t be blocked by artifact creatures or by creatures with p
 			<name>Coral Tyrant&apos;s Challenge</name>
 			<text>Overwhelm — This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
 Create X 3/3 green Dragon Fish creature tokens. You gain twice X life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/155_Coral Tyrant&apos;s Challenge.png" num="155">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/156_Coral Tyrant&apos;s Challenge.png" num="156">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2372,7 +2372,7 @@ Create X 3/3 green Dragon Fish creature tokens. You gain twice X life.</text>
 		<card>
 			<name>Destructive Wake</name>
 			<text>Target creature you control deals damage equal to its power to each of up to two other target creatures.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/156_Destructive Wake.png" num="156">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/157_Destructive Wake.png" num="157">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2389,7 +2389,7 @@ Create X 3/3 green Dragon Fish creature tokens. You gain twice X life.</text>
 			<name>Drag from the Shallows</name>
 			<text>This spell costs {2} less to cast if it targets a creature with mana value 4 or greater.
 Target creature you control deals damage equal to its power to target creature you don&apos;t control. If excess damage is dealt this way, you gain that much life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/157_Drag from the Shallows.png" num="157">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/158_Drag from the Shallows.png" num="158">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2405,7 +2405,7 @@ Target creature you control deals damage equal to its power to target creature y
 		<card>
 			<name>Dryad Navigator</name>
 			<text>When this creature enters, put a +1/+1 counter on target creature or Vehicle you control.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/158_Dryad Navigator.png" num="158">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/159_Dryad Navigator.png" num="159">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2422,7 +2422,7 @@ Target creature you control deals damage equal to its power to target creature y
 		<card>
 			<name>Elemental&apos;s Flourish</name>
 			<text>Choose target creature you control and target creature you don&apos;t control. Put a +1/+1 counter on the creature you control if there are two or more land cards in your graveyard. Then those creatures fight each other. (Each deals damage equal to its power to the other.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/159_Elemental&apos;s Flourish.png" num="159">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/160_Elemental&apos;s Flourish.png" num="160">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2439,7 +2439,7 @@ Target creature you control deals damage equal to its power to target creature y
 			<name>Foraging Badger</name>
 			<text>Trample
 When this creature enters, return up to one target permanent card and up to one target land card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/160_Foraging Badger.png" num="160">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/161_Foraging Badger.png" num="161">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2456,8 +2456,8 @@ When this creature enters, return up to one target permanent card and up to one 
 		<card>
 			<name>Gilded Plating</name>
 			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (This permanent can&apos;t be the target of spells or abilities your opponents control.)
-Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/161_Gilded Plating.png" num="161">TVN</set>
+Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/162_Gilded Plating.png" num="162">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2473,7 +2473,7 @@ Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, S
 		<card>
 			<name>Give In to Instinct</name>
 			<text>Target creature you control gets +2/+2 and gains trample until end of turn. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/162_Give In to Instinct.png" num="162">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/163_Give In to Instinct.png" num="163">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2487,22 +2487,20 @@ Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, S
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Goz, the Coral Tyrant</name>
-			<text>This spell can&apos;t be countered.
-Hexproof from instants and from sorceries
-You may have Goz assign its combat damage as though it weren&apos;t blocked.
+			<name>Coral Tyrant</name>
+			<text>Trample, hexproof from instants and from sorceries
 Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/164_Goz, the Coral Tyrant.png" num="164">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/155_Coral Tyrant.png" num="155">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Dragon Fish</type>
+				<type>Creature — Dragon Fish</type>
 				<maintype>Creature</maintype>
 				<manacost>6GG</manacost>
 				<cmc>8</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>8/7</pt>
+				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4860,7 +4858,7 @@ Other creatures you control with yearling get +1/+0 and have ward {1}. (Even if 
 			<name>Gothil&apos;s Clutchling</name>
 			<text>Trample, vigilance
 Whenever a creature you control with toughness greater than its power deals combat damage to a player, draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/163_Gothil&apos;s Clutchling.png" num="163">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/164_Gothil&apos;s Clutchling.png" num="164">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5035,7 +5033,7 @@ When this creature enters or dies, surveil X, where X is its power.</text>
 		<card>
 			<name>Gelid Sea Whale</name>
 			<text>When this creature enters, tap up to X target creatures, where X is its power. Put a stun counter on each of those creatures.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/52_Gelid Sea Whale.png" num="52">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/51_Gelid Sea Whale.png" num="51">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5193,7 +5191,7 @@ Whenever an opponent activates a nonmana ability, this creature deals damage equ
 			<name>Ironfang Amphisbaena</name>
 			<text>Trample
 Whenever this creature attacks, create an X/X red Serpent creature token with trample that is tapped and attacking, where X is this creature&apos;s power. Sacrifice that token at end of combat.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/136_Ironfang Amphisbaena.png" num="136">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/135_Ironfang Amphisbaena.png" num="135">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5211,7 +5209,7 @@ Whenever this creature attacks, create an X/X red Serpent creature token with tr
 			<name>Thrashing Fiddler</name>
 			<text>Double strike
 As long as you&apos;ve sacrificed an artifact this turn, this creature gets +1/+0 and has trample.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/150_Thrashing Fiddler.png" num="150">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/149_Thrashing Fiddler.png" num="149">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5281,7 +5279,7 @@ When enchanted permanent dies, draw a card and create a Treasure token.</text>
 		<card>
 			<name>Seafolk Pilgrimguard</name>
 			<text>{1}{W}, Embrace: Exile target card from an opponent&apos;s graveyard. (To embrace, tap two artifacts and/or creatures you control)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/27_Seafolk Pilgrimguard.png" num="27">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/26_Seafolk Pilgrimguard.png" num="26">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5337,7 +5335,7 @@ Whenever another creature you control deals combat damage to a player, draw a ca
 			<text>First strike, trample, haste
 Whenever Hookfin attacks or becomes the target of a spell, create two Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 Creatures you control get +X/+0, where X is the number of cards you&apos;ve drawn this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/134_Hookfin, Basalt Commander.png" num="134">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/133_Hookfin, Basalt Commander.png" num="133">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
