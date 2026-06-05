@@ -192,8 +192,8 @@
         "position": ""
     },
     {
-        "card_name": "Super Cyclone Bros.",
-        "number": 36,
+        "card_name": "Star Festival",
+        "number": 35,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -232,7 +232,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Super Cyclone Bros.",
+        "number": 36,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -781,39 +786,6 @@
     },
     {
         "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    "a->land",
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Star Festival",
-        "number": 35,
-        "shape": "normal",
-        "set": "SMC",
-        "rotated": false,
-        "position": ""
     },
     {
         "card_name": "er"

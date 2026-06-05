@@ -384,7 +384,7 @@
 			"name": "Star Festival",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Enchantment — Land",
+			"type": "Enchantment — Aura",
 			"collector_number": "35",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMC-files/img/35_Star Festival.png"

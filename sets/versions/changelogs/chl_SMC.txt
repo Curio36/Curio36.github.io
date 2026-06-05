@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Star Festival
+type: Enchantment — Land => Enchantment — Aura
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

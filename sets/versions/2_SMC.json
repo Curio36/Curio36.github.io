@@ -691,9 +691,9 @@
         },
         {
             "card_name": "Star Festival",
-            "color": "",
+            "color": "G",
             "rarity": "rare",
-            "type": "Enchantment \u2014 Land",
+            "type": "Enchantment \u2014 Aura",
             "number": 35,
             "color_identity": "G",
             "cost": "{1}{G}{G}",

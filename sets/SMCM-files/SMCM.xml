@@ -500,13 +500,14 @@ Whenever enchanted land is tapped for mana, add one mana of the chosen color.</t
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Land</type>
+				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1GG</manacost>
 				<cmc>3</cmc>
+				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>0</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Super Cyclone Bros.</name>
