@@ -1,0 +1,613 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Ba-Boom Brothers",
+        "number": 1,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Burning Bridges",
+        "number": 7,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "General Guy, Toy Box Terror",
+        "number": 13,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gooper Blooper",
+        "number": 2,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jr. Troopa, Recurring Boss",
+        "number": 8,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "King Whomp",
+        "number": 14,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kamek's Library",
+        "number": 3,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "King Hisstocrat",
+        "number": 9,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lava Moat Blargg",
+        "number": 15,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kamek's Toadies",
+        "number": 4,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reznor, Dino-Rhino Wheel",
+        "number": 10,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spike",
+        "number": 16,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lord Fredrik, the Snowmad King",
+        "number": 5,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Shadow Queen",
+        "number": 11,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tokotoko Speedster",
+        "number": 17,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wonder Smackerel",
+        "number": 6,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spoiled Rotten, Eggplant Brat",
+        "number": 12,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wonder Rush",
+        "number": 18,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Marx, Star Jester",
+        "number": 33,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bowser, King Koopa",
+        "number": 21,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Big Urchin",
+        "number": 19,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bowser Jr., Terrible Tyke",
+        "number": 20,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "King Boo, Haunted Hotelier",
+        "number": 28,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bowser's Chance Time",
+        "number": 22,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lord Crump, X-Naut Second",
+        "number": 30,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dry Bowser",
+        "number": 26,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Madame Grape",
+        "number": 32,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Madame Broode, Wedding Manager",
+        "number": 31,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shadow Mario",
+        "number": 34,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Topmaniac, Battlerock King",
+        "number": 35,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kamek, Chief Magikoopa",
+        "number": 27,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Bowser's Muscle Car",
+        "number": 23,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cackletta, Beanbean Witch",
+        "number": 24,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Captain Syrup, Black Sugar Bandit",
+        "number": 25,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Volcano Wario's Deflection",
+        "number": 36,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wingo, Thieving Roc",
+        "number": 37,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Koopalings, Mean Mob",
+        "number": 29,
+        "shape": "normal",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Stages and Worlds",
+        "number": 1,
+        "shape": "token",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chompikins",
+        "number": 6,
+        "shape": "token",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 7,
+        "shape": "token",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion",
+        "number": 1,
+        "shape": "token",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion",
+        "number": 2,
+        "shape": "token",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion",
+        "number": 3,
+        "shape": "token",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Minion",
+        "number": 4,
+        "shape": "token",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Robot Minion",
+        "number": 5,
+        "shape": "token",
+        "set": "SMCB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,0 +1,571 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Lava Moat Blargg",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Elemental Dinosaur Minion",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/15_Lava Moat Blargg.png"
+			}
+		},
+		{
+			"name": "Robot Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot Minion",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/5t_Robot Minion.png"
+			}
+		},
+		{
+			"name": "Bowser's Chance Time",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/22_Bowser's Chance Time.png"
+			}
+		},
+		{
+			"name": "The Koopalings, Mean Mob",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Turtle Minion",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/29_The Koopalings, Mean Mob.png"
+			}
+		},
+		{
+			"name": "Kamek, Chief Magikoopa",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Turtle Wizard Minion",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/27_Kamek, Chief Magikoopa.png"
+			}
+		},
+		{
+			"name": "Madame Broode, Wedding Manager",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Rabbit Advisor Noble",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/31_Madame Broode, Wedding Manager.png"
+			}
+		},
+		{
+			"name": "Spike",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Turtle Minion",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/16_Spike.png"
+			}
+		},
+		{
+			"name": "Wonder Smackerel",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Fish Minion",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/6_Wonder Smackerel.png"
+			}
+		},
+		{
+			"name": "Big Urchin",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Urchin Minion",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/19_Big Urchin.png"
+			}
+		},
+		{
+			"name": "Topmaniac, Battlerock King",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Artifact Creature — Construct Noble",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/35_Topmaniac, Battlerock King.png"
+			}
+		},
+		{
+			"name": "Tokotoko Speedster",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Minion",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/17_Tokotoko Speedster.png"
+			}
+		},
+		{
+			"name": "Kamek's Toadies",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Turtle Wizard Minion",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/4_Kamek's Toadies.png"
+			}
+		},
+		{
+			"name": "Lord Crump, X-Naut Second",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Alien Minion",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/30_Lord Crump, X-Naut Second.png"
+			}
+		},
+		{
+			"name": "Lord Fredrik, the Snowmad King",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Walrus Pirate Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/5_Lord Fredrik, the Snowmad King.png"
+			}
+		},
+		{
+			"name": "Spoiled Rotten, Eggplant Brat",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Plant Minion",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/12_Spoiled Rotten, Eggplant Brat.png"
+			}
+		},
+		{
+			"name": "Jr. Troopa, Recurring Boss",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Turtle Minion",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/8_Jr. Troopa, Recurring Boss.png"
+			}
+		},
+		{
+			"name": "Captain Syrup, Black Sugar Bandit",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/25_Captain Syrup, Black Sugar Bandit.png"
+			}
+		},
+		{
+			"name": "Marx, Star Jester",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Clown Villain",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/33_Marx, Star Jester.png"
+			}
+		},
+		{
+			"name": "Bowser, King Koopa",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Turtle Dragon Noble",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/21_Bowser, King Koopa.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/1t_Minion.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/2t_Minion.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/3t_Minion.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/4t_Minion.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/7t_Treasure.png"
+			}
+		},
+		{
+			"name": "Stages and Worlds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/1t_Stages and Worlds.png"
+			}
+		},
+		{
+			"name": "General Guy, Toy Box Terror",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Minion Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/13_General Guy, Toy Box Terror.png"
+			}
+		},
+		{
+			"name": "Cackletta, Beanbean Witch",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Plant Warlock Villain",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/24_Cackletta, Beanbean Witch.png"
+			}
+		},
+		{
+			"name": "Reznor, Dino-Rhino Wheel",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Dinosaur Rhino Minion",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/10_Reznor, Dino-Rhino Wheel.png"
+			}
+		},
+		{
+			"name": "King Whomp",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Artifact Creature — Wall Noble",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/14_King Whomp.png"
+			}
+		},
+		{
+			"name": "Shadow Mario",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Ooze Minion",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/34_Shadow Mario.png"
+			}
+		},
+		{
+			"name": "Wingo, Thieving Roc",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Bird Villain",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/37_Wingo, Thieving Roc.png"
+			}
+		},
+		{
+			"name": "King Boo, Haunted Hotelier",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Spirit Minion",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/28_King Boo, Haunted Hotelier.png"
+			}
+		},
+		{
+			"name": "Bowser Jr., Terrible Tyke",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Turtle Dragon Noble",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/20_Bowser Jr., Terrible Tyke.png"
+			}
+		},
+		{
+			"name": "Dry Bowser",
+			"rarity": "rare",
+			"mana_cost": "{9}{B}{R}",
+			"type": "Legendary Creature — Turtle Dragon Skeleton Noble",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/26_Dry Bowser.png"
+			}
+		},
+		{
+			"name": "Bowser's Muscle Car",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/23_Bowser's Muscle Car.png"
+			}
+		},
+		{
+			"name": "Volcano Wario's Deflection",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/36_Volcano Wario's Deflection.png"
+			}
+		},
+		{
+			"name": "Madame Grape",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Shade Warlock Villain",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/32_Madame Grape.png"
+			}
+		},
+		{
+			"name": "Gooper Blooper",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Squid Minion",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/2_Gooper Blooper.png"
+			}
+		},
+		{
+			"name": "Kamek's Library",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/3_Kamek's Library.png"
+			}
+		},
+		{
+			"name": "The Ba-Boom Brothers",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Monkey Ninja Minion",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/1_The Ba-Boom Brothers.png"
+			}
+		},
+		{
+			"name": "The Shadow Queen",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Elder Demon Noble",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/11_The Shadow Queen.png"
+			}
+		},
+		{
+			"name": "King Hisstocrat",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Snake Noble",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/9_King Hisstocrat.png"
+			}
+		},
+		{
+			"name": "Burning Bridges",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/7_Burning Bridges.png"
+			}
+		},
+		{
+			"name": "Wonder Rush",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/18_Wonder Rush.png"
+			}
+		},
+		{
+			"name": "Chompikins",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Artifact Creature — Dog Minion",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/6t_Chompikins.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Lava Moat Blargg
+	2 Bowser's Chance Time
+	1 The Koopalings, Mean Mob
+	1 Kamek, Chief Magikoopa
+	2 Madame Broode, Wedding Manager
+	2 Spike
+	2 Wonder Smackerel
+	2 Big Urchin
+	2 Topmaniac, Battlerock King
+	2 Tokotoko Speedster
+	2 Kamek's Toadies
+	2 Lord Crump, X-Naut Second
+	2 Lord Fredrik, the Snowmad King
+	2 Spoiled Rotten, Eggplant Brat
+	2 Jr. Troopa, Recurring Boss
+	2 Captain Syrup, Black Sugar Bandit
+	1 Marx, Star Jester
+	1 Bowser, King Koopa
+	2 General Guy, Toy Box Terror
+	2 Cackletta, Beanbean Witch
+	2 Reznor, Dino-Rhino Wheel
+	2 King Whomp
+	2 Shadow Mario
+	2 Wingo, Thieving Roc
+	2 King Boo, Haunted Hotelier
+	2 Bowser Jr., Terrible Tyke
+	2 Dry Bowser
+	2 Bowser's Muscle Car
+	2 Volcano Wario's Deflection
+	2 Madame Grape
+	2 Gooper Blooper
+	2 Kamek's Library
+	2 The Ba-Boom Brothers
+	2 The Shadow Queen
+	2 King Hisstocrat
+	2 Burning Bridges
+	2 Wonder Rush
+[uncommon(3)]
+[common(6)]
+[common | masterpiece(1)]
+[foil(1)]
+	2 Lava Moat Blargg
+	2 Bowser's Chance Time
+	1 The Koopalings, Mean Mob
+	1 Kamek, Chief Magikoopa
+	2 Madame Broode, Wedding Manager
+	2 Spike
+	2 Wonder Smackerel
+	2 Big Urchin
+	2 Topmaniac, Battlerock King
+	2 Tokotoko Speedster
+	2 Kamek's Toadies
+	2 Lord Crump, X-Naut Second
+	2 Lord Fredrik, the Snowmad King
+	2 Spoiled Rotten, Eggplant Brat
+	2 Jr. Troopa, Recurring Boss
+	2 Captain Syrup, Black Sugar Bandit
+	1 Marx, Star Jester
+	1 Bowser, King Koopa
+	2 General Guy, Toy Box Terror
+	2 Cackletta, Beanbean Witch
+	2 Reznor, Dino-Rhino Wheel
+	2 King Whomp
+	2 Shadow Mario
+	2 Wingo, Thieving Roc
+	2 King Boo, Haunted Hotelier
+	2 Bowser Jr., Terrible Tyke
+	2 Dry Bowser
+	2 Bowser's Muscle Car
+	2 Volcano Wario's Deflection
+	2 Madame Grape
+	2 Gooper Blooper
+	2 Kamek's Library
+	2 The Ba-Boom Brothers
+	2 The Shadow Queen
+	2 King Hisstocrat
+	2 Burning Bridges
+	2 Wonder Rush
+[wildcard(1)]
+	7 Lava Moat Blargg
+	7 Bowser's Chance Time
+	4 The Koopalings, Mean Mob
+	4 Kamek, Chief Magikoopa
+	7 Madame Broode, Wedding Manager
+	7 Spike
+	7 Wonder Smackerel
+	7 Big Urchin
+	7 Topmaniac, Battlerock King
+	7 Tokotoko Speedster
+	7 Kamek's Toadies
+	7 Lord Crump, X-Naut Second
+	7 Lord Fredrik, the Snowmad King
+	7 Spoiled Rotten, Eggplant Brat
+	7 Jr. Troopa, Recurring Boss
+	7 Captain Syrup, Black Sugar Bandit
+	4 Marx, Star Jester
+	4 Bowser, King Koopa
+	7 General Guy, Toy Box Terror
+	7 Cackletta, Beanbean Witch
+	7 Reznor, Dino-Rhino Wheel
+	7 King Whomp
+	7 Shadow Mario
+	7 Wingo, Thieving Roc
+	7 King Boo, Haunted Hotelier
+	7 Bowser Jr., Terrible Tyke
+	7 Dry Bowser
+	7 Bowser's Muscle Car
+	7 Volcano Wario's Deflection
+	7 Madame Grape
+	7 Gooper Blooper
+	7 Kamek's Library
+	7 The Ba-Boom Brothers
+	7 The Shadow Queen
+	7 King Hisstocrat
+	7 Burning Bridges
+	7 Wonder Rush
