@@ -1500,24 +1500,6 @@
             "notes": ""
         },
         {
-            "card_name": "King Boo, Haunted Hotelier",
-            "color": "UB",
-            "rarity": "rare",
-            "type": "Legendary Creature \u2014 Spirit Minion",
-            "number": 55,
-            "color_identity": "UB",
-            "cost": "{2}{U}{B}",
-            "rules_text": "Flying, deathtouch\nWhenever King Boo attacks, you and defending player each reveal the top card of your library. You lose life equal to the lowest mana value among cards revealed this way, then defending player loses life equal to the greatest mana value among those cards. You each put the card you revealed into your hand.",
-            "flavor_text": "[i][/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SMC",
-            "loyalty": "",
-            "artist": "Next Level Games",
-            "notes": ""
-        },
-        {
             "card_name": "King Hisstocrat",
             "color": "B",
             "rarity": "rare",
@@ -1606,7 +1588,25 @@
             "loyalty": "",
             "artist": "TomZhao; Intelligent Systems",
             "notes": ""
+        },
+        {
+            "card_name": "King Boo, Haunted Hotelier",
+            "color": "UB",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Spirit Noble",
+            "number": 55,
+            "color_identity": "UB",
+            "cost": "{2}{U}{B}",
+            "rules_text": "Flying, deathtouch\nWhenever King Boo attacks, you and defending player each reveal the top card of your library. You lose life equal to the lowest mana value among those cards and defending player loses life equal to the greatest mana value among them. Then you each draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/4",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SMC",
+            "loyalty": "",
+            "artist": "Next Level Games",
+            "notes": ""
         }
     ],
-    "version": 2
+    "version": 1
 }

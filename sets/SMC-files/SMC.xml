@@ -1505,24 +1505,6 @@ When this creature enters, if it was cast for its offering cost, return each oth
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>King Boo, Haunted Hotelier</name>
-			<text>Flying, deathtouch
-Whenever King Boo attacks, you and defending player each reveal the top card of your library. You lose life equal to the lowest mana value among cards revealed this way, then defending player loses life equal to the greatest mana value among those cards. You each put the card you revealed into your hand.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/55_King Boo, Haunted Hotelier.png" num="55">SMC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Spirit Minion</type>
-				<maintype>Creature</maintype>
-				<manacost>2UB</manacost>
-				<cmc>4</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>King Hisstocrat</name>
 			<text>Menace, deathtouch
 Whenever one or more tokens you control deal combat damage to a player, that player gets two poison counters. If King Hisstocrat dealt damage to that player this turn, they get four poison counters instead. (A player with ten or more poison counters loses the game.)</text>
@@ -1613,6 +1595,24 @@ You may choose new targets for target spell or ability with only one target. Thi
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>King Boo, Haunted Hotelier</name>
+			<text>Flying, deathtouch
+Whenever King Boo attacks, you and defending player each reveal the top card of your library. You lose life equal to the lowest mana value among those cards and defending player loses life equal to the greatest mana value among them. Then you each draw a card.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/55_King Boo, Haunted Hotelier.png" num="55">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

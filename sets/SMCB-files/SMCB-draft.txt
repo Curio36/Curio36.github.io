@@ -314,7 +314,7 @@
 			"name": "King Boo, Haunted Hotelier",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Creature — Spirit Minion",
+			"type": "Legendary Creature — Spirit Noble",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMCB-files/img/28_King Boo, Haunted Hotelier.png"

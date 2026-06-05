@@ -831,16 +831,6 @@
 			}
 		},
 		{
-			"name": "King Boo, Haunted Hotelier",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Creature — Spirit Minion",
-			"collector_number": "55",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/55_King Boo, Haunted Hotelier.png"
-			}
-		},
-		{
 			"name": "King Hisstocrat",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
@@ -888,6 +878,16 @@
 			"collector_number": "72",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMC-files/img/72_Volcano Wario's Deflection.png"
+			}
+		},
+		{
+			"name": "King Boo, Haunted Hotelier",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/55_King Boo, Haunted Hotelier.png"
 			}
 		}
 	]
@@ -960,12 +960,12 @@
 	2 The Ba-Boom Brothers
 	2 Wonder Smackerel
 	2 Kamek's Library
-	2 King Boo, Haunted Hotelier
 	2 King Hisstocrat
 	2 Wingo, Thieving Roc
 	2 Madame Grape
 	2 Bowser's Muscle Car V2
 	2 Volcano Wario's Deflection
+	2 King Boo, Haunted Hotelier
 [uncommon(3)]
 	4 Lava Moat Blargg
 [common(6)]
@@ -1039,12 +1039,12 @@
 	2 The Ba-Boom Brothers
 	2 Wonder Smackerel
 	2 Kamek's Library
-	2 King Boo, Haunted Hotelier
 	2 King Hisstocrat
 	2 Wingo, Thieving Roc
 	2 Madame Grape
 	2 Bowser's Muscle Car V2
 	2 Volcano Wario's Deflection
+	2 King Boo, Haunted Hotelier
 [wildcard(1)]
 	7 Lord Fredrik, the Snowmad King
 	7 Jr. Troopa, Recurring Boss
@@ -1114,9 +1114,9 @@
 	7 The Ba-Boom Brothers
 	7 Wonder Smackerel
 	7 Kamek's Library
-	7 King Boo, Haunted Hotelier
 	7 King Hisstocrat
 	7 Wingo, Thieving Roc
 	7 Madame Grape
 	7 Bowser's Muscle Car V2
 	7 Volcano Wario's Deflection
+	7 King Boo, Haunted Hotelier
