@@ -1,4 +1,80 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Lumbering Gorilla
+rules_text: Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Big Baby Yoshi
+rules_text: This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Coin Coffer
+rules_text: Menace
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Menace
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+DK, Core Delver
+rules_text: Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn. => Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn.
+
+
+VERSION 2 CHANGELOG
+====================
+
+
+
+Lumbering Gorilla
+rules_text: Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Trample
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Big Baby Yoshi
+rules_text: This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => This spell costs {1} less to cast if you control a Hero or Noble.
+Trample
+When this creature enters, you draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Coin Coffer
+rules_text: Menace
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Menace
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Coin Rush
+rules_text: Creatures you control have haste.
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Creatures you control have haste.
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+DK, Core Delver
+rules_text: Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn. => Trample
+When DK enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever DK attacks, if you've sacrificed a token this turn, he gets +2/+2 until end of turn.
+
+Crushing Whomp
+rules_text: Trample
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i] => Trample
+Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i]
+
+Top Secret Area
+rules_text: Enchanted creatures you control have vigilance.
+Whenever a nontoken creature you control enters, create a Super token attached to that creature. Draw a card if that creature has power 4 or greater. [i](A Super token is an Aura token with enchant creature and “Enchanted creature gets +1/+1.”)[/i] => Enchanted creatures you control have vigilance.
+Whenever a nontoken creature you control enters, draw a card and create a Super token attached to that creature. [i](A Super token is an Aura token with enchant creature and “Enchanted creature gets +1/+1.”)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
