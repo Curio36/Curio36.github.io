@@ -2725,7 +2725,7 @@
             "number": 26,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this creature enters, create a Super token attached to target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]",
+            "rules_text": "When this creature enters, create a Super token attached to target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2942,7 +2942,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Coincollector; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -2961,7 +2961,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Killer Moth; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -3075,7 +3075,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Midas Magnezone; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -3151,7 +3151,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -3303,7 +3303,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "SWFlash; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -3398,7 +3398,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Luigi-San; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -3664,7 +3664,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Scrooge200; Intelligent Systems",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -3713,7 +3713,7 @@
             "number": 150,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Thunderhand deals 2 damage to any target. Create a Super token attached to up to one target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]",
+            "rules_text": "Thunderhand deals 2 damage to any target. Create a Super token attached to up to one target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.\u201d)[/i]",
             "flavor_text": "[i]The power of the Thunderhand allows Luigi to zap enemies, setting them up for Mario to burn to a crisp.[/i]",
             "pt": "",
             "special_text": "",
@@ -3759,7 +3759,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Mario jc; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -4025,7 +4025,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -4101,7 +4101,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Rodmjorgeh; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -4310,7 +4310,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Shokora; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -4899,7 +4899,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "M&SG; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -4975,7 +4975,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -5062,7 +5062,7 @@
             "number": 40,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "Flash\nWhenever this creature enters or attacks, clear a stage, then put a +1/+1 on it for each card you've drawn this turn. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]",
+            "rules_text": "Flash\nWhenever this creature enters or attacks, clear a stage, then put a +1/+1 counter on it for each card you've drawn this turn. [i](Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -5070,7 +5070,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Results May Vary; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -5184,7 +5184,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "NintenU; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -5222,7 +5222,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Supermariofan67; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Car;1",
             "image_type": "png"
         },
         {
@@ -5298,25 +5298,6 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Crushing Whomp",
-            "color": "R",
-            "rarity": "common",
-            "type": "Artifact Creature \u2013 Wall Minion",
-            "number": 127,
-            "color_identity": "R",
-            "cost": "{3}{R}",
-            "rules_text": "Trample\nExpendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with \u201cThis token can't block.\u201d)[/i]",
-            "flavor_text": "[i]A towering rock wall that loves to topple onto its foes. Unfortunately, this reveals a weak point on his back.[/i]",
-            "pt": "4/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SMB",
-            "loyalty": "",
-            "artist": "Sorbetti; Nintendo",
             "notes": "",
             "image_type": "png"
         },
@@ -5925,7 +5906,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Frogger929; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -5955,7 +5936,7 @@
             "number": 202,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Creatures you control have haste.\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Creatures you control have haste.\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6115,7 +6096,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "3D Player 2010; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -6506,7 +6487,7 @@
             "number": 134,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When Firebrand Mario enters, create a Super token attached to him. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]\nWhenever Firebrand Mario deals combat damage to an opponent, you may sacrifice an Aura. If you do, destroy target artifact that player controls.",
+            "rules_text": "When Firebrand Mario enters, create a Super token attached to him. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.\u201d)[/i]\nWhenever Firebrand Mario deals combat damage to an opponent, you may sacrifice an Aura. If you do, destroy target artifact that player controls.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -6818,7 +6799,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "",
+            "notes": "!tokentag Car",
             "image_type": "png"
         },
         {
@@ -6970,7 +6951,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "3D Player 2010; Nintendo",
-            "notes": "",
+            "notes": "!tokentag Stage",
             "image_type": "png"
         },
         {
@@ -7133,7 +7114,7 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Return target creature card from your graveyard to the battlefield, then return target Aura card from your graveyard to the battlefield attached to that creature. [i](If that Aura can't enchant that creature, it remains in the graveyard.)[/i]",
+            "rules_text": "Return target creature card from your graveyard to the battlefield, then return up to one target Aura card from your graveyard to the battlefield attached to that creature. [i](If that Aura can't enchant that creature, it remains in the graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7266,7 +7247,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "When this enchantment enters, create a Super token attached to target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]\nWhenever you attack, look at the top X cards of your library, where X is the number of permanents attached to creatures you control. Put one of those cards into your hand, then put the rest on the bottom of your library in a random order.",
+            "rules_text": "When this enchantment enters, create a Super token attached to target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.\u201d)[/i]\nWhenever you attack, look at the top X cards of your library, where X is the number of permanents attached to creatures you control. Put one of those cards into your hand, then put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7418,7 +7399,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Target opponent discards two cards. Create a Super token attached to up to one target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]",
+            "rules_text": "Target opponent discards two cards. Create a Super token attached to up to one target creature you control. [i](It's a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7502,7 +7483,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -7521,7 +7502,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Pierce Ng; Intelligent Systems",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -7597,26 +7578,7 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Mario; ND Cube",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Top Secret Area",
-            "color": "G",
-            "rarity": "rare",
-            "type": "Enchantment",
-            "number": 187,
-            "color_identity": "G",
-            "cost": "{2}{G}{G}",
-            "rules_text": "Enchanted creatures you control have vigilance.\nWhenever a nontoken creature you control enters, draw a card and create a Super token attached to that creature. [i](A Super token is an Aura token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SMB",
-            "loyalty": "",
-            "artist": "RAP; Nintendo",
-            "notes": "",
+            "notes": "!addtoken Stage;1",
             "image_type": "png"
         },
         {
@@ -7722,7 +7684,7 @@
             "number": 163,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Whenever one or more creatures you control deal combat damage to a player, create X Treasure tokens, where X is the greatest power among those creatures.",
+            "rules_text": "Whenever one or more creatures you control deal combat damage to a player, create X Treasure tokens, where X is the greatest power among those creatures. [i](They're artifacts with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7817,7 +7779,7 @@
             "number": 180,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Create a Super token attached to target creature you control. When you do, it fights target creature you don't control. [i](A Super token is an Aura token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]",
+            "rules_text": "Create a Super token attached to target creature you control. When you do, it fights target creature you don't control. [i](A Super token is an Aura token with enchant creature and \u201cEnchanted creature gets +1/+1.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7836,7 +7798,7 @@
             "number": 81,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Create a Super token attached to a creature you control, then destroy each creature with lesser power than that creature. [i](A Super token is a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.)[/i]",
+            "rules_text": "Create a Super token attached to a creature you control, then destroy each creature with lesser power than that creature. [i](A Super token is a colorless Aura enchantment token with enchant creature and \u201cEnchanted creature gets +1/+1.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8243,6 +8205,44 @@
             "set": "SMB",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
+            "notes": "",
+            "image_type": "png"
+        },
+        {
+            "card_name": "Crushing Whomp",
+            "color": "R",
+            "rarity": "common",
+            "type": "Artifact Creature \u2013 Wall Minion",
+            "number": 127,
+            "color_identity": "R",
+            "cost": "{3}{R}",
+            "rules_text": "Trample\nWhenever this creature attacks, you may discard a card. If you do, draw a card.\nExpendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with \u201cThis token can't block.\u201d)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "4/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SMB",
+            "loyalty": "",
+            "artist": "Sorbetti; Nintendo",
+            "notes": "",
+            "image_type": "png"
+        },
+        {
+            "card_name": "Top Secret Area",
+            "color": "G",
+            "rarity": "rare",
+            "type": "Enchantment",
+            "number": 187,
+            "color_identity": "G",
+            "cost": "{2}{G}{G}",
+            "rules_text": "Enchanted creatures you control have vigilance.\nWhenever a nontoken creature you control enters, create a Super token attached to that creature. Draw a card if that creature has power 4 or greater. [i](A Super token is an Aura token with enchant creature and \u201cEnchanted creature gets +1/+1.\u201d)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SMB",
+            "loyalty": "",
+            "artist": "RAP; Nintendo",
             "notes": "",
             "image_type": "png"
         },

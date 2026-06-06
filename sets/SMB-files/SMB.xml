@@ -5,7 +5,7 @@
 			<name>SMB</name>
 			<longname>Magic the Gathering | Super Mario Brothers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-29</releasedate>
+			<releasedate>2026-06-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -99,7 +99,7 @@ When this creature enters or leaves the battlefield, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Poplin Supporters</name>
-			<text>When this creature enters, create a Super token attached to target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
+			<text>When this creature enters, create a Super token attached to target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/26_Poplin Supporters.png" num="26">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1019,7 +1019,7 @@ Expendable 3 (When this creature dies, create a 3/3 black Minion creature token 
 		</card>
 		<card>
 			<name>Thunderhand</name>
-			<text>Thunderhand deals 2 damage to any target. Create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
+			<text>Thunderhand deals 2 damage to any target. Create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/150_Thunderhand.png" num="150">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2281,7 +2281,7 @@ When this creature enters, you and creatures you control gain hexproof until end
 		<card>
 			<name>Aggressive Maw-Ray</name>
 			<text>Flash
-Whenever this creature enters or attacks, clear a stage, then put a +1/+1 on it for each card you&apos;ve drawn this turn. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
+Whenever this creature enters or attacks, clear a stage, then put a +1/+1 counter on it for each card you&apos;ve drawn this turn. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/40_Aggressive Maw-Ray.png" num="40">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2512,24 +2512,6 @@ Whenever one or more creatures you control deal combat damage to an opponent, th
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>4/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Crushing Whomp</name>
-			<text>Trample
-Expendable 2 (When this creature dies, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/127_Crushing Whomp.png" num="127">SMB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Wall Minion</type>
-				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3117,7 +3099,7 @@ Other Minions and Nobles you control get +1/+0.</text>
 		<card>
 			<name>Coin Rush</name>
 			<text>Creatures you control have haste.
-Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/202_Coin Rush.png" num="202">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3638,7 +3620,7 @@ Whenever another creature you control enters, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Firebrand Mario</name>
-			<text>When Firebrand Mario enters, create a Super token attached to him. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)
+			<text>When Firebrand Mario enters, create a Super token attached to him. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)
 Whenever Firebrand Mario deals combat damage to an opponent, you may sacrifice an Aura. If you do, destroy target artifact that player controls.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/134_Firebrand Mario.png" num="134">SMB</set>
 			<prop>
@@ -4204,7 +4186,7 @@ Other attacking Minions you control get +1/+0 and have menace.</text>
 		</card>
 		<card>
 			<name>1-Up</name>
-			<text>Return target creature card from your graveyard to the battlefield, then return target Aura card from your graveyard to the battlefield attached to that creature. (If that Aura can&apos;t enchant that creature, it remains in the graveyard.)</text>
+			<text>Return target creature card from your graveyard to the battlefield, then return up to one target Aura card from your graveyard to the battlefield attached to that creature. (If that Aura can&apos;t enchant that creature, it remains in the graveyard.)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/2_1-Up.png" num="2">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4316,7 +4298,7 @@ Exile Pirate King&apos;s Meditation.</text>
 		</card>
 		<card>
 			<name>I Spyglass</name>
-			<text>When this enchantment enters, create a Super token attached to target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)
+			<text>When this enchantment enters, create a Super token attached to target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)
 Whenever you attack, look at the top X cards of your library, where X is the number of permanents attached to creatures you control. Put one of those cards into your hand, then put the rest on the bottom of your library in a random order.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/54_I Spyglass.png" num="54">SMB</set>
 			<prop>
@@ -4453,7 +4435,7 @@ Scry 2.</text>
 		</card>
 		<card>
 			<name>Garlic Breath</name>
-			<text>Target opponent discards two cards. Create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
+			<text>Target opponent discards two cards. Create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/88_Garlic Breath.png" num="88">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4631,23 +4613,6 @@ Return up to two permanent cards from your graveyard to your hand.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Top Secret Area</name>
-			<text>Enchanted creatures you control have vigilance.
-Whenever a nontoken creature you control enters, draw a card and create a Super token attached to that creature. (A Super token is an Aura token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/187_Top Secret Area.png" num="187">SMB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Invasive Overgrowth</name>
 			<text>When this enchantment enters, each opponent sacrifices a creature with flying of their choice.
 You may play land cards from your graveyard.</text>
@@ -4727,7 +4692,7 @@ Tap an untapped creature you control: This Vehicle becomes an artifact creature 
 		</card>
 		<card>
 			<name>Get the Shine Sprites!</name>
-			<text>Whenever one or more creatures you control deal combat damage to a player, create X Treasure tokens, where X is the greatest power among those creatures.</text>
+			<text>Whenever one or more creatures you control deal combat damage to a player, create X Treasure tokens, where X is the greatest power among those creatures. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/163_Get the Shine Sprites!.png" num="163">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4814,7 +4779,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>Punch</name>
-			<text>Create a Super token attached to target creature you control. When you do, it fights target creature you don&apos;t control. (A Super token is an Aura token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
+			<text>Create a Super token attached to target creature you control. When you do, it fights target creature you don&apos;t control. (A Super token is an Aura token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/180_Punch.png" num="180">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4830,7 +4795,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>The Boss&apos;s Approach</name>
-			<text>Create a Super token attached to a creature you control, then destroy each creature with lesser power than that creature. (A Super token is a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.)</text>
+			<text>Create a Super token attached to a creature you control, then destroy each creature with lesser power than that creature. (A Super token is a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/81_The Boss&apos;s Approach.png" num="81">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5198,6 +5163,42 @@ At the beginning of your end step, sacrifice this token.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Crushing Whomp</name>
+			<text>Trample
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+Expendable 2 (When this creature dies, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/127_Crushing Whomp.png" num="127">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wall Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Top Secret Area</name>
+			<text>Enchanted creatures you control have vigilance.
+Whenever a nontoken creature you control enters, create a Super token attached to that creature. Draw a card if that creature has power 4 or greater. (A Super token is an Aura token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/187_Top Secret Area.png" num="187">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

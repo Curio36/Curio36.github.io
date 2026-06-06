@@ -1411,16 +1411,6 @@
 			}
 		},
 		{
-			"name": "Crushing Whomp",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Artifact Creature — Wall Minion",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/127_Crushing Whomp.png"
-			}
-		},
-		{
 			"name": "Fire Piranha",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
@@ -2621,16 +2611,6 @@
 			}
 		},
 		{
-			"name": "Top Secret Area",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Enchantment",
-			"collector_number": "187",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/187_Top Secret Area.png"
-			}
-		},
-		{
 			"name": "Invasive Overgrowth",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
@@ -2959,6 +2939,26 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMB-files/img/17t_Dog Minion.png"
 			}
+		},
+		{
+			"name": "Crushing Whomp",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Wall Minion",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/127_Crushing Whomp.png"
+			}
+		},
+		{
+			"name": "Top Secret Area",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/187_Top Secret Area.png"
+			}
 		}
 	]
 
@@ -3027,7 +3027,6 @@
 	2 Pirate King's Meditation
 	2 I Spyglass
 	2 Towering Pokey
-	2 Top Secret Area
 	2 Invasive Overgrowth
 	2 Get the Shine Sprites!
 	2 Bowser Tug o' War
@@ -3044,6 +3043,7 @@
 	2 Admiring the Mushrooms
 	2 The Majesty of Space
 	2 Mushroom Kingdom
+	2 Top Secret Area
 [uncommon(3)]
 	4 Koopa Paratroopa
 	4 Tanuki Shopkeepers
@@ -3208,7 +3208,6 @@
 	8 Thought Peek
 	8 Koopa Troopa
 	8 Swoops Swarm
-	8 Crushing Whomp
 	8 Fire Piranha
 	8 Monty Mole
 	8 Shy Guy
@@ -3234,6 +3233,7 @@
 	8 Captured Glydon
 	8 Power Balloon
 	8 Punch
+	8 Crushing Whomp
 [common | masterpiece(1)]
 	8 Maker Pigeon
 	8 Guard Broggy
@@ -3301,7 +3301,6 @@
 	8 Thought Peek
 	8 Koopa Troopa
 	8 Swoops Swarm
-	8 Crushing Whomp
 	8 Fire Piranha
 	8 Monty Mole
 	8 Shy Guy
@@ -3327,6 +3326,7 @@
 	8 Captured Glydon
 	8 Power Balloon
 	8 Punch
+	8 Crushing Whomp
 [foil(1)]
 	1 Clash of Light and Dark
 	1 King K. Rool
@@ -3469,7 +3469,6 @@
 	2 Mad Piano
 	1 King Boo
 	1 Wario, Greedy Antihero
-	12 Crushing Whomp
 	12 Fire Piranha
 	12 Monty Mole
 	12 Shy Guy
@@ -3575,7 +3574,6 @@
 	6 Find the Giant Seed
 	6 Monkey Business
 	6 Roll Call
-	2 Top Secret Area
 	2 Invasive Overgrowth
 	6 Mega Mechakoopa
 	6 Pipe Frame Kart
@@ -3597,6 +3595,8 @@
 	2 Admiring the Mushrooms
 	2 The Majesty of Space
 	2 Mushroom Kingdom
+	12 Crushing Whomp
+	2 Top Secret Area
 [wildcard(1)]
 	4 Clash of Light and Dark
 	4 King K. Rool
@@ -3739,7 +3739,6 @@
 	7 Mad Piano
 	4 King Boo
 	4 Wario, Greedy Antihero
-	6 Crushing Whomp
 	6 Fire Piranha
 	6 Monty Mole
 	6 Shy Guy
@@ -3845,7 +3844,6 @@
 	15 Find the Giant Seed
 	15 Monkey Business
 	15 Roll Call
-	7 Top Secret Area
 	7 Invasive Overgrowth
 	15 Mega Mechakoopa
 	15 Pipe Frame Kart
@@ -3867,3 +3865,5 @@
 	7 Admiring the Mushrooms
 	7 The Majesty of Space
 	7 Mushroom Kingdom
+	6 Crushing Whomp
+	7 Top Secret Area
