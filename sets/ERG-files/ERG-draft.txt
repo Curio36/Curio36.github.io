@@ -5,9 +5,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Planeswalker — Vivien",
-			"collector_number": "25",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/25_Vivien, Wildheart Defender.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/31_Vivien, Wildheart Defender.png"
 			}
 		},
 		{
@@ -15,79 +15,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Planeswalker — Karlos",
-			"collector_number": "34",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/34_Karlos, Spark Surveyor.png"
-			}
-		},
-		{
-			"name": "Feeding Time",
-			"rarity": "mythic",
-			"mana_cost": "{5}{B}{G}",
-			"type": "Sorcery",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/29_Feeding Time.png"
-			}
-		},
-		{
-			"name": "Luminous Wings, Nesttender",
-			"rarity": "rare",
-			"mana_cost": "{7}{W}{W}",
-			"type": "Legendary Creature — Elder Bird",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/1_Luminous Wings, Nesttender.png"
-			}
-		},
-		{
-			"name": "Basking Gargantua, Drifter",
-			"rarity": "rare",
-			"mana_cost": "{4}{U}{U}",
-			"type": "Legendary Creature — Elder Shark",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/4_Basking Gargantua, Drifter.png"
-			}
-		},
-		{
-			"name": "Brood Parasite",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Creature — Bird",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/8_Brood Parasite.png"
-			}
-		},
-		{
-			"name": "Sanguine Hunger, Bloodspiller",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Legendary Creature — Elder Leech",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/10_Sanguine Hunger, Bloodspiller.png"
-			}
-		},
-		{
-			"name": "Sun Mane, Pridemaster",
-			"rarity": "rare",
-			"mana_cost": "{5}{R}{R}",
-			"type": "Legendary Creature — Elder Cat",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/17_Sun Mane, Pridemaster.png"
-			}
-		},
-		{
-			"name": "Creeping Ivydian",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Plant Snake",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/19_Creeping Ivydian.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/42_Karlos, Spark Surveyor.png"
 			}
 		},
 		{
@@ -95,39 +25,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Rat Beast",
-			"collector_number": "20",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/20_Fecund Colony Mother.png"
-			}
-		},
-		{
-			"name": "Immense Tusks, Herdcaller",
-			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Legendary Creature — Elder Elephant",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/21_Immense Tusks, Herdcaller.png"
-			}
-		},
-		{
-			"name": "Grist, the Endless Hunger",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{G}",
-			"type": "Legendary Creature — Insect",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/30_Grist, the Endless Hunger.png"
-			}
-		},
-		{
-			"name": "Trace of Martial Wisdom",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/3_Trace of Martial Wisdom.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/24_Fecund Colony Mother.png"
 			}
 		},
 		{
@@ -135,19 +35,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/6_Trace of Forbidden Knowledge.png"
-			}
-		},
-		{
-			"name": "Mortician Beetle",
-			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Creature — Insect",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/9_Mortician Beetle.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/8_Trace of Forbidden Knowledge.png"
 			}
 		},
 		{
@@ -155,9 +45,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "12",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/12_Trace of Living Death.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/14_Trace of Living Death.png"
 			}
 		},
 		{
@@ -165,9 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental Rabbit",
-			"collector_number": "14",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/14_Impulsive Jackrabbit.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/16_Impulsive Jackrabbit.png"
 			}
 		},
 		{
@@ -175,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Porcupine",
-			"collector_number": "16",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/16_Manaquill Porcupine.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/18_Manaquill Porcupine.png"
 			}
 		},
 		{
@@ -185,39 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Dinosaur Bird",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/13_Hungry Wingclaw.png"
-			}
-		},
-		{
-			"name": "Jagged Ridge Boar",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
-			"type": "Creature — Elemental Boar",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/15_Jagged Ridge Boar.png"
-			}
-		},
-		{
-			"name": "Trace of Unerring Force",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Enchantment",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/18_Trace of Unerring Force.png"
-			}
-		},
-		{
-			"name": "Taunting Baboon",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Monkey",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/23_Taunting Baboon.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/15_Hungry Wingclaw.png"
 			}
 		},
 		{
@@ -225,9 +85,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "24",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/24_Trace of Endless Growth.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/29_Trace of Endless Growth.png"
 			}
 		},
 		{
@@ -235,9 +95,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Creature — Wurm",
-			"collector_number": "39",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/39_Valley Maker Wurm.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/48_Valley Maker Wurm.png"
 			}
 		},
 		{
@@ -245,29 +105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "32",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/32_Igneous Omen.png"
-			}
-		},
-		{
-			"name": "Invigorating Winds",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Enchantment",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/33_Invigorating Winds.png"
-			}
-		},
-		{
-			"name": "Deadbog Gator",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{G}",
-			"type": "Creature — Zombie Crocodile",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/27_Deadbog Gator.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/40_Igneous Omen.png"
 			}
 		},
 		{
@@ -275,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/37_Scavengers' Feast.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/45_Scavengers' Feast.png"
 			}
 		},
 		{
@@ -285,9 +125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Wolf Bird",
-			"collector_number": "31",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/31_Hunter Duo.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/39_Hunter Duo.png"
 			}
 		},
 		{
@@ -295,9 +135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "36",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/36_Pack Attack.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/44_Pack Attack.png"
 			}
 		},
 		{
@@ -305,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/28_Devour the Soul.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/35_Devour the Soul.png"
 			}
 		},
 		{
@@ -315,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Hyena",
-			"collector_number": "35",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/35_Opportunistic Scavengers.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/43_Opportunistic Scavengers.png"
 			}
 		},
 		{
@@ -325,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}",
 			"type": "Creature — Beast",
-			"collector_number": "49",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/49_Wildfire Tusker.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/63_Wildfire Tusker.png"
 			}
 		},
 		{
@@ -335,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W/U}{W/U}",
 			"type": "Creature — Drake",
-			"collector_number": "48",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/48_Skyskimmer Drake.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/60_Skyskimmer Drake.png"
 			}
 		},
 		{
@@ -345,9 +185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B/G}",
 			"type": "Creature — Fungus Insect",
-			"collector_number": "44",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/44_Fungal Roach.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/54_Fungal Roach.png"
 			}
 		},
 		{
@@ -355,19 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/W}",
 			"type": "Creature — Elemental Mouse",
-			"collector_number": "42",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/42_Crackling Jerboa.png"
-			}
-		},
-		{
-			"name": "Shadow-Eye Raven",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U/B}",
-			"type": "Creature — Bird Specter",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/47_Shadow-Eye Raven.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/52_Crackling Jerboa.png"
 			}
 		},
 		{
@@ -375,19 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/7_Wrong Step.png"
-			}
-		},
-		{
-			"name": "Sink Into Tar",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/11_Sink Into Tar.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/9_Wrong Step.png"
 			}
 		},
 		{
@@ -395,19 +215,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Planeswalker — Brigan",
-			"collector_number": "26",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/26_Brigan, Beast Trafficker.png"
-			}
-		},
-		{
-			"name": "Cloud Dancer Gryff",
-			"rarity": "common",
-			"mana_cost": "{2}{W/U}",
-			"type": "Creature — Hippogriff",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/40_Cloud Dancer Gryff.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/32_Brigan, Beast Trafficker.png"
 			}
 		},
 		{
@@ -415,19 +225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/22_Survey the Terrain.png"
-			}
-		},
-		{
-			"name": "Scurrying Glittermouse",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Creature — Mouse",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/2_Scurrying Glittermouse.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/27_Survey the Terrain.png"
 			}
 		},
 		{
@@ -435,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B/G}",
 			"type": "Creature — Spider",
-			"collector_number": "43",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/43_Feref Boughs Widow.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/53_Feref Boughs Widow.png"
 			}
 		},
 		{
@@ -445,19 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Creature — Cat",
-			"collector_number": "41",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/41_Coordinated Lioness.png"
-			}
-		},
-		{
-			"name": "Inkcloud Drifter",
-			"rarity": "common",
-			"mana_cost": "{2}{U/B}",
-			"type": "Creature — Squid",
-			"collector_number": "46",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/46_Inkcloud Drifter.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/51_Coordinated Lioness.png"
 			}
 		},
 		{
@@ -465,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R/G}",
 			"type": "Creature — Insect",
-			"collector_number": "45",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/45_Geoderoller Scarab.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/55_Geoderoller Scarab.png"
 			}
 		},
 		{
@@ -475,9 +265,69 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "38",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/38_Twisting Eye Peacock.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/47_Twisting Eye Peacock.png"
+			}
+		},
+		{
+			"name": "Divebomb",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/1_Divebomb.png"
+			}
+		},
+		{
+			"name": "Gola Plains Ram",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Sheep",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/2_Gola Plains Ram.png"
+			}
+		},
+		{
+			"name": "Luminous Wings, Nesttender",
+			"rarity": "rare",
+			"mana_cost": "{7}{W}{W}",
+			"type": "Legendary Creature — Bird Avatar",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/3_Luminous Wings, Nesttender.png"
+			}
+		},
+		{
+			"name": "Scurrying Glittermouse",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Mouse",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/4_Scurrying Glittermouse.png"
+			}
+		},
+		{
+			"name": "Trace of Martial Wisdom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/5_Trace of Martial Wisdom.png"
+			}
+		},
+		{
+			"name": "Basking Gargantua, Drifter",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Shark Avatar",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/6_Basking Gargantua, Drifter.png"
 			}
 		},
 		{
@@ -485,9 +335,299 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Octopus",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/5_Hypnotic Octopus.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/7_Hypnotic Octopus.png"
+			}
+		},
+		{
+			"name": "Brood Parasite",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/10_Brood Parasite.png"
+			}
+		},
+		{
+			"name": "Mortician Beetle",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/11_Mortician Beetle.png"
+			}
+		},
+		{
+			"name": "Sanguine Hunger, Bloodspiller",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Leech Avatar",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/12_Sanguine Hunger, Bloodspiller.png"
+			}
+		},
+		{
+			"name": "Sink Into Tar",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/13_Sink Into Tar.png"
+			}
+		},
+		{
+			"name": "Jagged Ridge Boar",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental Boar",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/17_Jagged Ridge Boar.png"
+			}
+		},
+		{
+			"name": "Sun Mane, Pridemaster",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Cat Avatar",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/19_Sun Mane, Pridemaster.png"
+			}
+		},
+		{
+			"name": "Trace of Unerring Force",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/20_Trace of Unerring Force.png"
+			}
+		},
+		{
+			"name": "Blooming Elk",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Elk",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/21_Blooming Elk.png"
+			}
+		},
+		{
+			"name": "Brigan's Shipment",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/22_Brigan's Shipment.png"
+			}
+		},
+		{
+			"name": "Creeping Ivydian",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Plant Snake",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/23_Creeping Ivydian.png"
+			}
+		},
+		{
+			"name": "Immense Tusks, Herdcaller",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Elephant Avatar",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/25_Immense Tusks, Herdcaller.png"
+			}
+		},
+		{
+			"name": "Shifting Territory",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/26_Shifting Territory.png"
+			}
+		},
+		{
+			"name": "Taunting Baboon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Monkey",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/28_Taunting Baboon.png"
+			}
+		},
+		{
+			"name": "Truga Scythecat",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/30_Truga Scythecat.png"
+			}
+		},
+		{
+			"name": "Caged Corpsegorger",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Horror Beast",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/33_Caged Corpsegorger.png"
+			}
+		},
+		{
+			"name": "Deadbog Gator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Zombie Crocodile",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/34_Deadbog Gator.png"
+			}
+		},
+		{
+			"name": "Feeding Time",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/36_Feeding Time.png"
+			}
+		},
+		{
+			"name": "Glisten Tail, Hunting Mutate",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Scorpion Mutant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/37_Glisten Tail, Hunting Mutate.png"
+			}
+		},
+		{
+			"name": "Grist, the Endless Hunger",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/38_Grist, the Endless Hunger.png"
+			}
+		},
+		{
+			"name": "Invigorating Winds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/41_Invigorating Winds.png"
+			}
+		},
+		{
+			"name": "Skydancer, Graceful Predator",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Griffin",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/46_Skydancer, Graceful Predator.png"
+			}
+		},
+		{
+			"name": "Clattering Scavenger",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Creature — Skeleton Raccoon",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/49_Clattering Scavenger.png"
+			}
+		},
+		{
+			"name": "Cloud Dancer Gryff",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Hippogriff",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/50_Cloud Dancer Gryff.png"
+			}
+		},
+		{
+			"name": "Huntscarred Alpha",
+			"rarity": "rare",
+			"mana_cost": "{3}{R/W}{R/W}",
+			"type": "Creature — Wolf",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/56_Huntscarred Alpha.png"
+			}
+		},
+		{
+			"name": "Mindleech Swarm",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Illusion Leech",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/57_Mindleech Swarm.png"
+			}
+		},
+		{
+			"name": "Mistborne Griffin",
+			"rarity": "rare",
+			"mana_cost": "{3}{W/U}{W/U}",
+			"type": "Creature — Griffin",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/58_Mistborne Griffin.png"
+			}
+		},
+		{
+			"name": "Shadow-Eye Raven",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U/B}",
+			"type": "Creature — Bird Specter",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/59_Shadow-Eye Raven.png"
+			}
+		},
+		{
+			"name": "Stalking Poacher",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/61_Stalking Poacher.png"
+			}
+		},
+		{
+			"name": "Territorial Silverback",
+			"rarity": "rare",
+			"mana_cost": "{3}{R/G}{R/G}",
+			"type": "Creature — Ape",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/62_Territorial Silverback.png"
 			}
 		}
 	]
@@ -495,34 +635,39 @@
 [rare(1)]
 	1 Vivien, Wildheart Defender
 	1 Karlos, Spark Surveyor
-	1 Feeding Time
+	2 Fecund Colony Mother
+	1 Brigan, Beast Trafficker
+	2 Gola Plains Ram
 	2 Luminous Wings, Nesttender
 	2 Basking Gargantua, Drifter
+	1 Hypnotic Octopus
 	2 Brood Parasite
 	2 Sanguine Hunger, Bloodspiller
 	2 Sun Mane, Pridemaster
+	2 Blooming Elk
+	2 Brigan's Shipment
 	2 Creeping Ivydian
-	2 Fecund Colony Mother
 	2 Immense Tusks, Herdcaller
+	2 Shifting Territory
+	2 Caged Corpsegorger
+	1 Feeding Time
+	2 Glisten Tail, Hunting Mutate
 	2 Grist, the Endless Hunger
-	1 Brigan, Beast Trafficker
-	1 Hypnotic Octopus
+	2 Skydancer, Graceful Predator
+	2 Clattering Scavenger
+	2 Huntscarred Alpha
+	2 Mindleech Swarm
+	2 Mistborne Griffin
+	2 Territorial Silverback
 [uncommon(3)]
-	4 Trace of Martial Wisdom
 	4 Trace of Forbidden Knowledge
-	4 Mortician Beetle
 	4 Trace of Living Death
 	4 Impulsive Jackrabbit
 	4 Manaquill Porcupine
 	4 Hungry Wingclaw
-	4 Jagged Ridge Boar
-	4 Trace of Unerring Force
-	4 Taunting Baboon
 	4 Trace of Endless Growth
 	4 Valley Maker Wurm
 	4 Igneous Omen
-	4 Invigorating Winds
-	4 Deadbog Gator
 	4 Scavengers' Feast
 	4 Hunter Duo
 	4 Pack Attack
@@ -532,55 +677,49 @@
 	4 Skyskimmer Drake
 	4 Fungal Roach
 	4 Crackling Jerboa
-	4 Shadow-Eye Raven
 	4 Survey the Terrain
 	4 Twisting Eye Peacock
+	4 Trace of Martial Wisdom
+	4 Mortician Beetle
+	4 Jagged Ridge Boar
+	4 Trace of Unerring Force
+	4 Taunting Baboon
+	4 Truga Scythecat
+	4 Deadbog Gator
+	4 Invigorating Winds
+	4 Shadow-Eye Raven
 [common(6)]
 	8 Wrong Step
-	8 Sink Into Tar
-	8 Cloud Dancer Gryff
-	8 Scurrying Glittermouse
 	8 Feref Boughs Widow
 	8 Coordinated Lioness
-	8 Inkcloud Drifter
 	8 Geoderoller Scarab
+	8 Divebomb
+	8 Scurrying Glittermouse
+	8 Sink Into Tar
+	8 Cloud Dancer Gryff
+	8 Stalking Poacher
 [common | masterpiece(1)]
 	8 Wrong Step
-	8 Sink Into Tar
-	8 Cloud Dancer Gryff
-	8 Scurrying Glittermouse
 	8 Feref Boughs Widow
 	8 Coordinated Lioness
-	8 Inkcloud Drifter
 	8 Geoderoller Scarab
+	8 Divebomb
+	8 Scurrying Glittermouse
+	8 Sink Into Tar
+	8 Cloud Dancer Gryff
+	8 Stalking Poacher
 [foil(1)]
 	1 Vivien, Wildheart Defender
 	1 Karlos, Spark Surveyor
-	1 Feeding Time
-	2 Luminous Wings, Nesttender
-	2 Basking Gargantua, Drifter
-	2 Brood Parasite
-	2 Sanguine Hunger, Bloodspiller
-	2 Sun Mane, Pridemaster
-	2 Creeping Ivydian
 	2 Fecund Colony Mother
-	2 Immense Tusks, Herdcaller
-	2 Grist, the Endless Hunger
-	6 Trace of Martial Wisdom
 	6 Trace of Forbidden Knowledge
-	6 Mortician Beetle
 	6 Trace of Living Death
 	6 Impulsive Jackrabbit
 	6 Manaquill Porcupine
 	6 Hungry Wingclaw
-	6 Jagged Ridge Boar
-	6 Trace of Unerring Force
-	6 Taunting Baboon
 	6 Trace of Endless Growth
 	6 Valley Maker Wurm
 	6 Igneous Omen
-	6 Invigorating Winds
-	6 Deadbog Gator
 	6 Scavengers' Feast
 	6 Hunter Duo
 	6 Pack Attack
@@ -590,47 +729,61 @@
 	6 Skyskimmer Drake
 	6 Fungal Roach
 	6 Crackling Jerboa
-	6 Shadow-Eye Raven
 	12 Wrong Step
-	12 Sink Into Tar
 	1 Brigan, Beast Trafficker
-	12 Cloud Dancer Gryff
 	6 Survey the Terrain
-	12 Scurrying Glittermouse
 	12 Feref Boughs Widow
 	12 Coordinated Lioness
-	12 Inkcloud Drifter
 	12 Geoderoller Scarab
 	6 Twisting Eye Peacock
+	12 Divebomb
+	2 Gola Plains Ram
+	2 Luminous Wings, Nesttender
+	12 Scurrying Glittermouse
+	6 Trace of Martial Wisdom
+	2 Basking Gargantua, Drifter
 	1 Hypnotic Octopus
+	2 Brood Parasite
+	6 Mortician Beetle
+	2 Sanguine Hunger, Bloodspiller
+	12 Sink Into Tar
+	6 Jagged Ridge Boar
+	2 Sun Mane, Pridemaster
+	6 Trace of Unerring Force
+	2 Blooming Elk
+	2 Brigan's Shipment
+	2 Creeping Ivydian
+	2 Immense Tusks, Herdcaller
+	2 Shifting Territory
+	6 Taunting Baboon
+	6 Truga Scythecat
+	2 Caged Corpsegorger
+	6 Deadbog Gator
+	1 Feeding Time
+	2 Glisten Tail, Hunting Mutate
+	2 Grist, the Endless Hunger
+	6 Invigorating Winds
+	2 Skydancer, Graceful Predator
+	2 Clattering Scavenger
+	12 Cloud Dancer Gryff
+	2 Huntscarred Alpha
+	2 Mindleech Swarm
+	2 Mistborne Griffin
+	6 Shadow-Eye Raven
+	12 Stalking Poacher
+	2 Territorial Silverback
 [wildcard(1)]
 	4 Vivien, Wildheart Defender
 	4 Karlos, Spark Surveyor
-	4 Feeding Time
-	7 Luminous Wings, Nesttender
-	7 Basking Gargantua, Drifter
-	7 Brood Parasite
-	7 Sanguine Hunger, Bloodspiller
-	7 Sun Mane, Pridemaster
-	7 Creeping Ivydian
 	7 Fecund Colony Mother
-	7 Immense Tusks, Herdcaller
-	7 Grist, the Endless Hunger
-	15 Trace of Martial Wisdom
 	15 Trace of Forbidden Knowledge
-	15 Mortician Beetle
 	15 Trace of Living Death
 	15 Impulsive Jackrabbit
 	15 Manaquill Porcupine
 	15 Hungry Wingclaw
-	15 Jagged Ridge Boar
-	15 Trace of Unerring Force
-	15 Taunting Baboon
 	15 Trace of Endless Growth
 	15 Valley Maker Wurm
 	15 Igneous Omen
-	15 Invigorating Winds
-	15 Deadbog Gator
 	15 Scavengers' Feast
 	15 Hunter Duo
 	15 Pack Attack
@@ -640,16 +793,46 @@
 	15 Skyskimmer Drake
 	15 Fungal Roach
 	15 Crackling Jerboa
-	15 Shadow-Eye Raven
 	6 Wrong Step
-	6 Sink Into Tar
 	4 Brigan, Beast Trafficker
-	6 Cloud Dancer Gryff
 	15 Survey the Terrain
-	6 Scurrying Glittermouse
 	6 Feref Boughs Widow
 	6 Coordinated Lioness
-	6 Inkcloud Drifter
 	6 Geoderoller Scarab
 	15 Twisting Eye Peacock
+	6 Divebomb
+	7 Gola Plains Ram
+	7 Luminous Wings, Nesttender
+	6 Scurrying Glittermouse
+	15 Trace of Martial Wisdom
+	7 Basking Gargantua, Drifter
 	4 Hypnotic Octopus
+	7 Brood Parasite
+	15 Mortician Beetle
+	7 Sanguine Hunger, Bloodspiller
+	6 Sink Into Tar
+	15 Jagged Ridge Boar
+	7 Sun Mane, Pridemaster
+	15 Trace of Unerring Force
+	7 Blooming Elk
+	7 Brigan's Shipment
+	7 Creeping Ivydian
+	7 Immense Tusks, Herdcaller
+	7 Shifting Territory
+	15 Taunting Baboon
+	15 Truga Scythecat
+	7 Caged Corpsegorger
+	15 Deadbog Gator
+	4 Feeding Time
+	7 Glisten Tail, Hunting Mutate
+	7 Grist, the Endless Hunger
+	15 Invigorating Winds
+	7 Skydancer, Graceful Predator
+	7 Clattering Scavenger
+	6 Cloud Dancer Gryff
+	7 Huntscarred Alpha
+	7 Mindleech Swarm
+	7 Mistborne Griffin
+	15 Shadow-Eye Raven
+	6 Stalking Poacher
+	7 Territorial Silverback
