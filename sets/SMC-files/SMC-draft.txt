@@ -91,16 +91,6 @@
 			}
 		},
 		{
-			"name": "Captain Syrup, Black Sugar Bandit",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "44",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/44_Captain Syrup, Black Sugar Bandit.png"
-			}
-		},
-		{
 			"name": "Kamek, Chief Magikoopa",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
@@ -125,9 +115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Rabbit Advisor Noble",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/60_Madame Broode, Wedding Manager.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/61_Madame Broode, Wedding Manager.png"
 			}
 		},
 		{
@@ -135,19 +125,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Clown Villain",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/64_Marx, Star Jester.png"
-			}
-		},
-		{
-			"name": "Topmaniac, Battlerock King",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Artifact Creature — Construct Noble",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/70_Topmaniac, Battlerock King.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/65_Marx, Star Jester.png"
 			}
 		},
 		{
@@ -415,9 +395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/45_Captive Peach.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/44_Captive Peach.png"
 			}
 		},
 		{
@@ -425,9 +405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{G}",
 			"type": "Legendary Creature — Ape Monkey Hero",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/46_DK & Diddy.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/45_DK & Diddy.png"
 			}
 		},
 		{
@@ -435,9 +415,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Bird Dog Ranger",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/48_Duck Hunt Duo.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/47_Duck Hunt Duo.png"
 			}
 		},
 		{
@@ -505,9 +485,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/59_Luigi, Second Banana.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/60_Luigi, Second Banana.png"
 			}
 		},
 		{
@@ -515,9 +495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Elemental Hero Noble",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/62_Mallow, Lost Prince.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/63_Mallow, Lost Prince.png"
 			}
 		},
 		{
@@ -525,9 +505,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/63_Mario, Superstar.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/64_Mario, Superstar.png"
 			}
 		},
 		{
@@ -535,9 +515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Fungus Hero",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/65_Peachette, Super Crowned.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/66_Peachette, Super Crowned.png"
 			}
 		},
 		{
@@ -545,9 +525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Plant Noble Hero",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/66_Prince Peasley, Flamboyant Bean.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/67_Prince Peasley, Flamboyant Bean.png"
 			}
 		},
 		{
@@ -555,9 +535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/68_Starshroom.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/69_Starshroom.png"
 			}
 		},
 		{
@@ -565,9 +545,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/69_Super Princess Peach.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/70_Super Princess Peach.png"
 			}
 		},
 		{
@@ -745,9 +725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{9}{B}{R}",
 			"type": "Legendary Creature — Turtle Dragon Skeleton Noble",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/47_Dry Bowser.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/46_Dry Bowser.png"
 			}
 		},
 		{
@@ -765,9 +745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Ooze Minion",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/67_Shadow Mario.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/68_Shadow Mario.png"
 			}
 		},
 		{
@@ -855,9 +835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Shade Warlock Villain",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/61_Madame Grape.png"
+				"en": "https://Curio36.github.io/sets/SMC-files/img/62_Madame Grape.png"
 			}
 		},
 		{
@@ -889,6 +869,26 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMC-files/img/55_King Boo, Haunted Hotelier.png"
 			}
+		},
+		{
+			"name": "The Lord of Lightning",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Dragon Noble",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/59_The Lord of Lightning.png"
+			}
+		},
+		{
+			"name": "Elite Magikoopa",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Turtle Wizard Minion",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/48_Elite Magikoopa.png"
+			}
 		}
 	]
 
@@ -901,12 +901,10 @@
 	2 Big Urchin
 	1 Bowser, King Koopa
 	2 Bowser's Chance Time
-	2 Captain Syrup, Black Sugar Bandit
 	1 Kamek, Chief Magikoopa
 	1 The Koopalings, Mean Mob
 	2 Madame Broode, Wedding Manager
 	1 Marx, Star Jester
-	2 Topmaniac, Battlerock King
 	2 3-Up Moon
 	2 Alternate Costumes
 	2 Lakilester, Cool Cloud Rider
@@ -966,6 +964,8 @@
 	2 Bowser's Muscle Car V2
 	2 Volcano Wario's Deflection
 	2 King Boo, Haunted Hotelier
+	2 The Lord of Lightning
+	2 Elite Magikoopa
 [uncommon(3)]
 	4 Lava Moat Blargg
 [common(6)]
@@ -980,12 +980,10 @@
 	2 Big Urchin
 	1 Bowser, King Koopa
 	2 Bowser's Chance Time
-	2 Captain Syrup, Black Sugar Bandit
 	1 Kamek, Chief Magikoopa
 	1 The Koopalings, Mean Mob
 	2 Madame Broode, Wedding Manager
 	1 Marx, Star Jester
-	2 Topmaniac, Battlerock King
 	2 3-Up Moon
 	2 Alternate Costumes
 	2 Lakilester, Cool Cloud Rider
@@ -1045,6 +1043,8 @@
 	2 Bowser's Muscle Car V2
 	2 Volcano Wario's Deflection
 	2 King Boo, Haunted Hotelier
+	2 The Lord of Lightning
+	2 Elite Magikoopa
 [wildcard(1)]
 	7 Lord Fredrik, the Snowmad King
 	7 Jr. Troopa, Recurring Boss
@@ -1055,12 +1055,10 @@
 	7 Big Urchin
 	4 Bowser, King Koopa
 	7 Bowser's Chance Time
-	7 Captain Syrup, Black Sugar Bandit
 	4 Kamek, Chief Magikoopa
 	4 The Koopalings, Mean Mob
 	7 Madame Broode, Wedding Manager
 	4 Marx, Star Jester
-	7 Topmaniac, Battlerock King
 	7 3-Up Moon
 	7 Alternate Costumes
 	7 Lakilester, Cool Cloud Rider
@@ -1120,3 +1118,5 @@
 	7 Bowser's Muscle Car V2
 	7 Volcano Wario's Deflection
 	7 King Boo, Haunted Hotelier
+	7 The Lord of Lightning
+	7 Elite Magikoopa

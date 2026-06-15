@@ -377,7 +377,7 @@
     },
     {
         "card_name": "Marx, Star Jester",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Duck Hunt Duo",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -401,7 +401,7 @@
     },
     {
         "card_name": "Luigi, Second Banana",
-        "number": 59,
+        "number": 60,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -428,7 +428,7 @@
     },
     {
         "card_name": "DK & Diddy",
-        "number": 46,
+        "number": 45,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -490,7 +490,7 @@
     },
     {
         "card_name": "Dry Bowser",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -506,41 +506,6 @@
     },
     {
         "card_name": "Peachette, Super Crowned",
-        "number": 65,
-        "shape": "normal",
-        "set": "SMC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Madame Grape",
-        "number": 61,
-        "shape": "normal",
-        "set": "SMC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Madame Broode, Wedding Manager",
-        "number": 60,
-        "shape": "normal",
-        "set": "SMC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mallow, Lost Prince",
-        "number": 62,
-        "shape": "normal",
-        "set": "SMC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Prince Peasley, Flamboyant Bean",
         "number": 66,
         "shape": "normal",
         "set": "SMC",
@@ -551,7 +516,31 @@
         "card_name": "e"
     },
     {
-        "card_name": "Shadow Mario",
+        "card_name": "Madame Grape",
+        "number": 62,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Lord of Lightning",
+        "number": 59,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mallow, Lost Prince",
+        "number": 63,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Prince Peasley, Flamboyant Bean",
         "number": 67,
         "shape": "normal",
         "set": "SMC",
@@ -559,8 +548,19 @@
         "position": ""
     },
     {
-        "card_name": "Topmaniac, Battlerock King",
-        "number": 70,
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shadow Mario",
+        "number": 68,
+        "shape": "normal",
+        "set": "SMC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Madame Broode, Wedding Manager",
+        "number": 61,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -576,7 +576,7 @@
     },
     {
         "card_name": "Starshroom",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -613,7 +613,7 @@
     },
     {
         "card_name": "Mario, Superstar",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -638,7 +638,7 @@
     },
     {
         "card_name": "Captive Peach",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -676,8 +676,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Captain Syrup, Black Sugar Bandit",
-        "number": 44,
+        "card_name": "Elite Magikoopa",
+        "number": 48,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,
@@ -772,7 +772,7 @@
     },
     {
         "card_name": "Super Princess Peach",
-        "number": 69,
+        "number": 70,
         "shape": "normal",
         "set": "SMC",
         "rotated": false,

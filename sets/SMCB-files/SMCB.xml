@@ -5,7 +5,7 @@
 			<name>SMCB</name>
 			<longname>Bowser&apos;s Baddies Commander Precon</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-05</releasedate>
+			<releasedate>2026-06-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -102,7 +102,7 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 			<name>Madame Broode, Wedding Manager</name>
 			<text>Protection from Dogs
 When Madame Broode enters, target opponent creates Chompikins, a legendary 6/6 Dog Minion artifact creature token with &quot;Whenever you lose life, each opponent who controls a Noble gains that much life&quot; and &quot;Whenever you discard one or more cards, each opponent who controls a Noble draws that many cards.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/31_Madame Broode, Wedding Manager.png" num="31">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/32_Madame Broode, Wedding Manager.png" num="32">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -168,24 +168,6 @@ When this creature enters, you may sacrifice another creature you control. If yo
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Topmaniac, Battlerock King</name>
-			<text>Haste
-Whenever a creature you control with haste attacks, Topmaniac deals 1 damage to target player or planeswalker. If you were dealt damage this way, put a +1/+1 counter on Topmaniac.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/35_Topmaniac, Battlerock King.png" num="35">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Creature — Construct Noble</type>
-				<maintype>Creature</maintype>
-				<manacost>3BR</manacost>
-				<cmc>5</cmc>
-				<colors>BR</colors>
-				<coloridentity>BR</coloridentity>
-				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -301,30 +283,11 @@ Whenever Jr. Troopa or another legendary creature dies, clear a stage. (When you
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Captain Syrup, Black Sugar Bandit</name>
-			<text>First strike
-Whenever you or a spell or permanent you control becomes the target of a spell or ability an opponent controls, create a Treasure token.
-Sacrifice five Treasures: Gain control of target artifact. Untap it.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/25_Captain Syrup, Black Sugar Bandit.png" num="25">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Pirate</type>
-				<maintype>Creature</maintype>
-				<manacost>2UR</manacost>
-				<cmc>4</cmc>
-				<colors>UR</colors>
-				<coloridentity>UR</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Marx, Star Jester</name>
 			<text>Flying, lifelink
 Whenever Marx deals combat damage to a player, exile that many cards from the top of that player&apos;s library. You may cast a spell from among them without paying its mana cost.
 Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/33_Marx, Star Jester.png" num="33">SMCB</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/34_Marx, Star Jester.png" num="34">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -535,7 +498,7 @@ Topple — When King Whomp enters, he deals damage to each opponent equal to twi
 		<card>
 			<name>Shadow Mario</name>
 			<text>You may have Shadow Mario enter as a copy of any creature on the battlefield, except it&apos;s an Ooze Minion in addition to its other types, it isn&apos;t legendary, and it has expendable 3. (When this creature dies, create a 3/3 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/34_Shadow Mario.png" num="34">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/35_Shadow Mario.png" num="35">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -609,7 +572,7 @@ Goaded creatures get +1/+0 and have first strike and &quot;This creature can&apo
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Trample, haste
 Whenever Dry Bowser attacks, mill three cards. You may play one of those cards this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/26_Dry Bowser.png" num="26">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/25_Dry Bowser.png" num="25">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -664,7 +627,7 @@ You may choose new targets for target spell or ability with only one target. Thi
 			<text>Flying, lifelink
 Sour Grapes — Whenever you gain life, you may pay twice that much life. If you do, draw a card for each 1 life you gained.
 The Ultimate Tragedy — Whenever a player loses the game, put four +1/+1 counters on Madame Grape.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/32_Madame Grape.png" num="32">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/33_Madame Grape.png" num="33">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -680,7 +643,7 @@ The Ultimate Tragedy — Whenever a player loses the game, put four +1/+1 counte
 		</card>
 		<card>
 			<name>Gooper Blooper</name>
-			<text>When this creature enters, tap target creature or artifact you don&apos;t control and put two stun counters on it.
+			<text>When this creature enters, tap target artifact or creature you don&apos;t control and put two stun counters on it.
 Encore {6}{U}{U} ({6}{U}{U}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/2_Gooper Blooper.png" num="2">SMCB</set>
 			<prop>
@@ -817,6 +780,43 @@ Whenever you discard one or more cards, each opponent who controls a Noble draws
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>The Lord of Lightning</name>
+			<text>This spell costs {X} less to cast, where X is the greatest power among creatures you don&apos;t control.
+Flying, haste
+Whenever The Lord of Lightning attacks, defending player loses 3 life and discards a card.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/31_The Lord of Lightning.png" num="31">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>6BBRR</manacost>
+				<cmc>10</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elite Magikoopa</name>
+			<text>Vigilance
+If an ability of another Minion, Noble, or Villain you control triggers, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/26_Elite Magikoopa.png" num="26">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Wizard Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

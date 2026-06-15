@@ -1,4 +1,122 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Walbrick Shieldmate added.
+Wonder Dragon added.
+Captain Syrup, Black Sugar Bandit added.
+
+Rip Van Fish removed.
+Galaxy's Rebirth removed.
+The Lord of Lightning removed.
+
+Whistletop Train
+cost: {2}{W}{W}{W} => {3}{W}{W}
+
+Capture Companion
+
+Ashley, Young Witch
+rules_text: Whenever an opponent discards their first card each turn, you may pay 1 life. If you do, draw a card.
+{1}{B}, {T}, Sacrifice another creature: Target opponent discards a card and loses 2 life. Activate only as a sorcery. => Whenever an opponent discards their first card during each of your turns, you may pay 1 life. If you do, draw a card.
+{1}{B}, {T}, Sacrifice another creature: Target opponent discards a card and loses 2 life. Activate only as a sorcery.
+
+Bowser's Fire Hazard
+rules_text: Bowser's Fire Hazard deals 2 damage to each creature except for Minions and Nobles you control. => Bowser's Fire Hazard deals 2 damage to each creature except for Minions and Nobles.
+
+Kong Elder
+rules_text: Vigilance
+Kong Elder can't attack or block unless you control four or more other nontoken creatures.
+Whenever you cast a creature spell, surveil 1. The first time you put a land card into your graveyard this way each turn, put it onto the battlefield tapped. => Vigilance
+Kong Elder can't attack or block unless you control three or more other creatures.
+Whenever you cast a creature spell, surveil 1. The first time you put a land card into your graveyard this way each turn, put it onto the battlefield tapped.
+
+Swordfighter Peach
+rules_text: When Swordfighter Peach enters, you may put an Aura or Equipment card from your hand or graveyard onto the battlefield.
+Equipment you control have equip {0}. => First strike
+When Swordfighter Peach enters, you may put an Aura or Equipment card from your hand or graveyard onto the battlefield.
+Equipment you control have equip {1}.
+
+Goombella, Archaeology Student
+
+Koopa Troopa
+rules_text: Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i] => This creature enters tapped.
+Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i]
+
+Monty Mole
+rules_text: Menace, haste
+This creature can't be blocked by creatures with flying.
+Expendable 1 [i](When this creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i] => Haste
+This creature can't be blocked by creatures with flying.
+Expendable 1 [i](When this creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i]
+
+Fire Flower
+cost: {2}{R} => {1}{R}
+rules_text: Enchant creature
+Enchanted creature gets +1/+0 and has “Whenever this creature becomes blocked, it deals damage equal to its power divided as you choose among the creatures blocking it.”
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i] => Enchant creature
+Enchanted creature gets +2/+0 and has first strike.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+Dancer Mario
+cost: {4}{R}{R} => {3}{R}{R}
+rules_text: Ward—Pay 6 life.
+Whenever one or more Heroes and/or Nobles you control deal combat damage to a player, exile the top card of your library. If you exiled a land this way, put a +1/+1 counter on Dancer Mario. Otherwise, you may cast that spell without paying its mana cost. => Ward—Pay 5 life.
+Whenever one or more Heroes and/or Nobles you control deal combat damage to a player, exile the top card of your library. You may play those cards until your next combat.
+pt: 6/6 => 5/5
+
+Unchained Chomp
+pt: 5/4 => 4/3
+
+Toadette, Princess's Favored
+
+Tiki Doom
+
+Invasive Overgrowth
+rules_text: When this enchantment enters, each opponent sacrifices a creature with flying of their choice.
+You may play land cards from your graveyard. => When this enchantment enters, each opponent sacrifices a creature with flying of their choice.
+You may play lands from your graveyard.
+
+E. Gadd, Ghost Researcher
+rules_text: When E. Gadd enters, another target creature or Vehicle you control gains “Whenever this creature deals combat damage to a player, draw a card” for as long as you control E. Gadd.
+{2}{U}, {T}: Target creature can't be blocked this turn. Scry 2. => When E. Gadd enters, another target creature or Vehicle you control gains “Whenever this creature deals combat damage to a player, draw a card” for as long as you control E. Gadd.
+{2}{U}, {T}: Target creature can't be blocked this turn. Scry 2.
+{1}{U}, Discard a card: Return E. Gadd to his owner's hand.
+
+Funky Dorrie Aqua-Trikes
+cost: {2}{U} => {U}{U}
+
+Dark Vortex
+rules_text: Choose one—
+• Exile target creature.
+• Exile target spell.
+• Exile target player's graveyard. => Choose one—
+• Exile target creature.
+• Exile target spell.
+• Exile target player's graveyard. Draw a card.
+
+Crushing Whomp
+rules_text: Trample
+Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i] => Trample
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i]
+
+The Honey Queen
+cost: {3}{W}{W}{W} => {3}{W}
+rules_text: Flying, vigilance, lifelink
+Other Insects you control get +1/+1 and have lifelink.
+At the beginning of your end step, create a tapped 1/1 white Insect creature token with flying for each token you created this turn. => Flying, lifelink
+Other Insects you control get +1/+0 and have lifelink.
+If one or more tokens would be created under your control, those tokens plus that many 1/1 white Insect creature tokens with flying are created instead.
+pt: 4/6 => 3/3
+
+Wario, Greedy Antihero
+cost: {3}{B}{B} => {B}{B}
+rules_text: Deathtouch
+Whenever one or more creatures you control deal combat damage to an opponent, that player exiles the top card of their library. If a land card is exiled this way, that player loses 2 life. Otherwise, that player may pay life equal to the exiled card's mana value. If they don't, you create a number of Treasure tokens equal to that card's mana value. => Deathtouch
+Whenever Wario deals combat damage to a player, that player exiles the top card of their library. If a land card is exiled this way, create a Treasure token. Otherwise, during any turn you attacked with a Hero, you may cast that card.
+pt: 4/5 => 2/2
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

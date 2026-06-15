@@ -55,9 +55,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Rabbit Advisor Noble",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMCB-files/img/31_Madame Broode, Wedding Manager.png"
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/32_Madame Broode, Wedding Manager.png"
 			}
 		},
 		{
@@ -88,16 +88,6 @@
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMCB-files/img/19_Big Urchin.png"
-			}
-		},
-		{
-			"name": "Topmaniac, Battlerock King",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Artifact Creature — Construct Noble",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMCB-files/img/35_Topmaniac, Battlerock King.png"
 			}
 		},
 		{
@@ -161,23 +151,13 @@
 			}
 		},
 		{
-			"name": "Captain Syrup, Black Sugar Bandit",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMCB-files/img/25_Captain Syrup, Black Sugar Bandit.png"
-			}
-		},
-		{
 			"name": "Marx, Star Jester",
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Clown Villain",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMCB-files/img/33_Marx, Star Jester.png"
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/34_Marx, Star Jester.png"
 			}
 		},
 		{
@@ -295,9 +275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Ooze Minion",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMCB-files/img/34_Shadow Mario.png"
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/35_Shadow Mario.png"
 			}
 		},
 		{
@@ -335,9 +315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{9}{B}{R}",
 			"type": "Legendary Creature — Turtle Dragon Skeleton Noble",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMCB-files/img/26_Dry Bowser.png"
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/25_Dry Bowser.png"
 			}
 		},
 		{
@@ -365,9 +345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Shade Warlock Villain",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMCB-files/img/32_Madame Grape.png"
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/33_Madame Grape.png"
 			}
 		},
 		{
@@ -449,6 +429,26 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMCB-files/img/6t_Chompikins.png"
 			}
+		},
+		{
+			"name": "The Lord of Lightning",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Dragon Noble",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/31_The Lord of Lightning.png"
+			}
+		},
+		{
+			"name": "Elite Magikoopa",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Turtle Wizard Minion",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMCB-files/img/26_Elite Magikoopa.png"
+			}
 		}
 	]
 
@@ -461,14 +461,12 @@
 	2 Spike
 	2 Wonder Smackerel
 	2 Big Urchin
-	2 Topmaniac, Battlerock King
 	2 Tokotoko Speedster
 	2 Kamek's Toadies
 	2 Lord Crump, X-Naut Second
 	2 Lord Fredrik, the Snowmad King
 	2 Spoiled Rotten, Eggplant Brat
 	2 Jr. Troopa, Recurring Boss
-	2 Captain Syrup, Black Sugar Bandit
 	1 Marx, Star Jester
 	1 Bowser, King Koopa
 	2 General Guy, Toy Box Terror
@@ -490,6 +488,8 @@
 	2 King Hisstocrat
 	2 Burning Bridges
 	2 Wonder Rush
+	2 The Lord of Lightning
+	2 Elite Magikoopa
 [uncommon(3)]
 [common(6)]
 [common | masterpiece(1)]
@@ -502,14 +502,12 @@
 	2 Spike
 	2 Wonder Smackerel
 	2 Big Urchin
-	2 Topmaniac, Battlerock King
 	2 Tokotoko Speedster
 	2 Kamek's Toadies
 	2 Lord Crump, X-Naut Second
 	2 Lord Fredrik, the Snowmad King
 	2 Spoiled Rotten, Eggplant Brat
 	2 Jr. Troopa, Recurring Boss
-	2 Captain Syrup, Black Sugar Bandit
 	1 Marx, Star Jester
 	1 Bowser, King Koopa
 	2 General Guy, Toy Box Terror
@@ -531,6 +529,8 @@
 	2 King Hisstocrat
 	2 Burning Bridges
 	2 Wonder Rush
+	2 The Lord of Lightning
+	2 Elite Magikoopa
 [wildcard(1)]
 	7 Lava Moat Blargg
 	7 Bowser's Chance Time
@@ -540,14 +540,12 @@
 	7 Spike
 	7 Wonder Smackerel
 	7 Big Urchin
-	7 Topmaniac, Battlerock King
 	7 Tokotoko Speedster
 	7 Kamek's Toadies
 	7 Lord Crump, X-Naut Second
 	7 Lord Fredrik, the Snowmad King
 	7 Spoiled Rotten, Eggplant Brat
 	7 Jr. Troopa, Recurring Boss
-	7 Captain Syrup, Black Sugar Bandit
 	4 Marx, Star Jester
 	4 Bowser, King Koopa
 	7 General Guy, Toy Box Terror
@@ -569,3 +567,5 @@
 	7 King Hisstocrat
 	7 Burning Bridges
 	7 Wonder Rush
+	7 The Lord of Lightning
+	7 Elite Magikoopa

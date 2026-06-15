@@ -197,7 +197,7 @@
     },
     {
         "card_name": "Marx, Star Jester",
-        "number": 33,
+        "number": 34,
         "shape": "normal",
         "set": "SMCB",
         "rotated": false,
@@ -280,7 +280,7 @@
     },
     {
         "card_name": "Dry Bowser",
-        "number": 26,
+        "number": 25,
         "shape": "normal",
         "set": "SMCB",
         "rotated": false,
@@ -297,14 +297,14 @@
     },
     {
         "card_name": "Madame Grape",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "SMCB",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Madame Broode, Wedding Manager",
+        "card_name": "The Lord of Lightning",
         "number": 31,
         "shape": "normal",
         "set": "SMCB",
@@ -322,15 +322,15 @@
     },
     {
         "card_name": "Shadow Mario",
-        "number": 34,
+        "number": 35,
         "shape": "normal",
         "set": "SMCB",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Topmaniac, Battlerock King",
-        "number": 35,
+        "card_name": "Madame Broode, Wedding Manager",
+        "number": 32,
         "shape": "normal",
         "set": "SMCB",
         "rotated": false,
@@ -421,8 +421,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Captain Syrup, Black Sugar Bandit",
-        "number": 25,
+        "card_name": "Elite Magikoopa",
+        "number": 26,
         "shape": "normal",
         "set": "SMCB",
         "rotated": false,

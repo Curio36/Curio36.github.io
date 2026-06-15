@@ -5,7 +5,7 @@
 			<name>SMC</name>
 			<longname>Super Mario Brothers Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-05</releasedate>
+			<releasedate>2026-06-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -174,25 +174,6 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Captain Syrup, Black Sugar Bandit</name>
-			<text>First strike
-Whenever you or a spell or permanent you control becomes the target of a spell or ability an opponent controls, create a Treasure token.
-Sacrifice five Treasures: Gain control of target artifact. Untap it.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/44_Captain Syrup, Black Sugar Bandit.png" num="44">SMC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Pirate</type>
-				<maintype>Creature</maintype>
-				<manacost>2UR</manacost>
-				<cmc>4</cmc>
-				<colors>UR</colors>
-				<coloridentity>UR</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Kamek, Chief Magikoopa</name>
 			<text>Flying
 Whenever you cast a spell that shares a creature type with your commander, you surveil 1 and Kamek deals 1 damage to each opponent. If that spell is your commander, instead you surveil 3 and Kamek deals 3 damage to each opponent.
@@ -233,7 +214,7 @@ At the beginning of your end step, each opponent who lost life this turn faces a
 			<name>Madame Broode, Wedding Manager</name>
 			<text>Protection from Dogs
 When Madame Broode enters, target opponent creates Chompikins, a legendary 6/6 Dog Minion artifact creature token with &quot;Whenever you lose life, each opponent who controls a Noble gains that much life&quot; and &quot;Whenever you discard one or more cards, each opponent who controls a Noble draws that many cards.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/60_Madame Broode, Wedding Manager.png" num="60">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/61_Madame Broode, Wedding Manager.png" num="61">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -252,7 +233,7 @@ When Madame Broode enters, target opponent creates Chompikins, a legendary 6/6 D
 			<text>Flying, lifelink
 Whenever Marx deals combat damage to a player, exile that many cards from the top of that player&apos;s library. You may cast a spell from among them without paying its mana cost.
 Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/64_Marx, Star Jester.png" num="64">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/65_Marx, Star Jester.png" num="65">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -263,24 +244,6 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>4/7</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Topmaniac, Battlerock King</name>
-			<text>Haste
-Whenever a creature you control with haste attacks, Topmaniac deals 1 damage to target player or planeswalker. If you were dealt damage this way, put a +1/+1 counter on Topmaniac.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/70_Topmaniac, Battlerock King.png" num="70">SMC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Creature — Construct Noble</type>
-				<maintype>Creature</maintype>
-				<manacost>3BR</manacost>
-				<cmc>5</cmc>
-				<colors>BR</colors>
-				<coloridentity>BR</coloridentity>
-				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -757,7 +720,7 @@ Enchanted creature gets +1/+1 for each creature you control.</text>
 Captive Peach can&apos;t attack or block.
 Whenever a creature attacks you, untap it. It gains menace until end of turn.
 {5}, Sacrifice Captive Peach: Her owner draws a card and creates two Treasure tokens. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/45_Captive Peach.png" num="45">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/44_Captive Peach.png" num="44">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -776,7 +739,7 @@ Whenever a creature attacks you, untap it. It gains menace until end of turn.
 			<text>This spell can&apos;t be countered
 Trample, haste
 Whenever DK &amp; Diddy attacks, double each other attacking creature&apos;s power until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/46_DK &amp; Diddy.png" num="46">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/45_DK &amp; Diddy.png" num="45">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -795,7 +758,7 @@ Whenever DK &amp; Diddy attacks, double each other attacking creature&apos;s pow
 			<text>Flying
 Clay Shooting — Whenever one or more commanders you control attack, Duck Hunt Duo deals 2 damage to each defending player. Create a Treasure token for each player dealt damage this way.
 Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/48_Duck Hunt Duo.png" num="48">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/47_Duck Hunt Duo.png" num="47">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -920,7 +883,7 @@ When Kooper enters, put a shield counter on each other modified creature you con
 			<name>Luigi, Second Banana</name>
 			<text>Whenever an Aura enters attached to Luigi, you may create a token that&apos;s a copy of it attached to another target legendary creature you control.
 Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/59_Luigi, Second Banana.png" num="59">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/60_Luigi, Second Banana.png" num="60">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -939,7 +902,7 @@ Partner—Cross Heroes (You can have two commanders if both have this ability.)<
 			<text>Reach
 Whenever you sacrifice an enchantment, Mallow deals 2 damage to any target and you gain 2 life.
 {2}{R}{G}, Sacrifice an Aura with mana value 1 or greater: Discover X, where X is that Aura&apos;s mana value. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/62_Mallow, Lost Prince.png" num="62">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/63_Mallow, Lost Prince.png" num="63">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -957,7 +920,7 @@ Whenever you sacrifice an enchantment, Mallow deals 2 damage to any target and y
 			<name>Mario, Superstar</name>
 			<text>Whenever Mario attacks, create a tapped Treasure token for each Aura attached to him.
 Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/63_Mario, Superstar.png" num="63">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/64_Mario, Superstar.png" num="64">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -975,7 +938,7 @@ Partner—Cross Heroes (You can have two commanders if both have this ability.)<
 			<name>Peachette, Super Crowned</name>
 			<text>Flying
 At the beginning of your end step, return target Aura card from your graveyard to your hand if you attacked with a commander this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/65_Peachette, Super Crowned.png" num="65">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/66_Peachette, Super Crowned.png" num="66">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -994,7 +957,7 @@ At the beginning of your end step, return target Aura card from your graveyard t
 			<text>Flying
 Untap each enchanted permanent you control during each opponent&apos;s untap step.
 Whenever you attack, for each defending player, tap target creature that player controls.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/66_Prince Peasley, Flamboyant Bean.png" num="66">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/67_Prince Peasley, Flamboyant Bean.png" num="67">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1014,7 +977,7 @@ Whenever you attack, for each defending player, tap target creature that player 
 Starshroom gets +1/+0 for each other creature and/or enchantment you control.
 When this Vehicle enters, create a 1/1 green and white Fungus Hero Creature token with Vigilance and a 1/1 colorless Star enchantment creature token with flying.
 Crew 2</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/68_Starshroom.png" num="68">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/69_Starshroom.png" num="69">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1035,7 +998,7 @@ Crew 2</text>
 • Rage — First strike
 • Gloom — Deathtouch
 • Calm — Lifelink</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/69_Super Princess Peach.png" num="69">SMC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMC-files/img/70_Super Princess Peach.png" num="70">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1350,7 +1313,7 @@ At the beginning of your end step, you lose half your life, rounded up, unless y
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Trample, haste
 Whenever Dry Bowser attacks, mill three cards. You may play one of those cards this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/47_Dry Bowser.png" num="47">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/46_Dry Bowser.png" num="46">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1383,7 +1346,7 @@ Whenever you discard one or more cards, each opponent who controls a Noble draws
 		<card>
 			<name>Shadow Mario</name>
 			<text>You may have Shadow Mario enter as a copy of any creature on the battlefield, except it&apos;s an Ooze Minion in addition to its other types, it isn&apos;t legendary, and it has expendable 3.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/67_Shadow Mario.png" num="67">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/68_Shadow Mario.png" num="68">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1417,7 +1380,7 @@ Goaded creatures get +1/+0 and have first strike and &quot;This creature can&apo
 		</card>
 		<card>
 			<name>Gooper Blooper</name>
-			<text>When this creature enters, tap target creature or artifact you don&apos;t control and put two stun counters on it.
+			<text>When this creature enters, tap target artifact or creature you don&apos;t control and put two stun counters on it.
 Encore {6}{U}{U} ({6}{U}{U}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/8_Gooper Blooper.png" num="8">SMC</set>
 			<prop>
@@ -1546,7 +1509,7 @@ Whenever Wingo attacks, defending player exiles the top card of their library.Yo
 			<text>Flying, lifelink
 Sour Grapes — Whenever you gain life, you may pay twice that much life. If you do, draw a card for each 1 life you gained.
 The Ultimate Tragedy — Whenever a player loses the game, put four +1/+1 counters on Madame Grape.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/61_Madame Grape.png" num="61">SMC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/62_Madame Grape.png" num="62">SMC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1611,6 +1574,43 @@ Whenever King Boo attacks, you and defending player each reveal the top card of 
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Lord of Lightning</name>
+			<text>This spell costs {X} less to cast, where X is the greatest power among creatures you don&apos;t control.
+Flying, haste
+Whenever The Lord of Lightning attacks, defending player loses 3 life and discards a card.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/59_The Lord of Lightning.png" num="59">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>6BBRR</manacost>
+				<cmc>10</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elite Magikoopa</name>
+			<text>Vigilance
+If an ability of another Minion, Noble, or Villain you control triggers, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/48_Elite Magikoopa.png" num="48">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Wizard Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
