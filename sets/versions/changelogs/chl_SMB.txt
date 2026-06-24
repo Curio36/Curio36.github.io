@@ -1,4 +1,21 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Geno Whirl
+rules_text: Destroy target tapped nonland permanent. Its owner draws a card unless that permament dealt damage to you this turn. => Exile target tapped nonland permanent. Its owner draws a card unless that permanent dealt damage to you this turn.
+
+Moo Moo Meadows Cow
+pt: 2/2 => 2/1
+
+Koopa Troopa
+rules_text: This creature enters tapped.
+Expendable 2 [i](When this creature dies, create a 2/2 black Minion creature token with “This token can't block.”)[/i] => Expendable 1 [i](When this creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i]
+pt: 2/1 => 2/2
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Walbrick Shieldmate added.

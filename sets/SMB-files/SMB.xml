@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>SMB</name>
-			<longname>Magic the Gathering | Super Mario Brothers</longname>
+			<longname>Super Mario Brothers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-14</releasedate>
+			<releasedate>2026-06-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -257,7 +257,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		</card>
 		<card>
 			<name>Geno Whirl</name>
-			<text>Destroy target tapped nonland permanent. Its owner draws a card unless that permament dealt damage to you this turn.</text>
+			<text>Exile target tapped nonland permanent. Its owner draws a card unless that permanent dealt damage to you this turn.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/11_Geno Whirl.png" num="11">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -321,7 +321,7 @@ Whenever you gain life for the first time each turn, clear a stage. (Draw a card
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2297,8 +2297,7 @@ Exhaust — {4}{U}, {T}: One or two target creatures you control each get +1/+1 
 		</card>
 		<card>
 			<name>Koopa Troopa</name>
-			<text>This creature enters tapped.
-Expendable 2 (When this creature dies, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
+			<text>Expendable 1 (When this creature dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/94_Koopa Troopa.png" num="94">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2309,7 +2308,7 @@ Expendable 2 (When this creature dies, create a 2/2 black Minion creature token 
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
