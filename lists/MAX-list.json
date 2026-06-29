@@ -1,0 +1,395 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Red Hot, Blazing Streak",
+        "number": 5,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "White Knight, Sentinel Supreme",
+        "number": 10,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lady Gore, Death's Edge",
+        "number": 14,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vox Dei, Hallowed Leader",
+        "number": 15,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sonic Rollerblader",
+        "number": 8,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gallant Soul",
+        "number": 3,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Black Sheep, Shining Beacon",
+        "number": 1,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blue Skies, Aerial Ace",
+        "number": 2,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Green Thumb, Phytomistress",
+        "number": 4,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Erdia Raxx, Humble CEO",
+        "number": 12,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "5P-4M, Evil Supercomputer",
+        "number": 11,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Immense, Failed Experiment",
+        "number": 13,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reformed Pragmatist",
+        "number": 6,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tempest Surge",
+        "number": 9,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Skykelp Guardian",
+        "number": 7,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Acid Vats",
+        "number": 16,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Bountiful Orchard",
+        "number": 17,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Busy City Square",
+        "number": 18,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Radioactive Mines",
+        "number": 20,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mystical Marsh",
+        "number": 19,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->masterpiece",
+    {
+        "card_name": "The Terminus of Apparition",
+        "number": 1,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Verilax the Havenskin",
+        "number": 2,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Impostor Syndrome",
+        "number": 3,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Egrix the Bile Bulwark",
+        "number": 4,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hex of Undeath",
+        "number": 5,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Terminus of Return",
+        "number": 6,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bayo, Irritable Instructor",
+        "number": 7,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Through the Omenpath",
+        "number": 8,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Druneth, Reviver of the Hive",
+        "number": 9,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kavaero, Mind-Bitten",
+        "number": 10,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Withar, Cocoon Keeper",
+        "number": 11,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

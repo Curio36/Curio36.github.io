@@ -607,7 +607,7 @@
             "number": 15,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Flying\nWhenever you cast an enchantment spell with mana value greater than this creature's power, put a +1/+1 counter on this creature, draw a card, then you can put a land card from your hand onto the battlefield.",
+            "rules_text": "Flying\nWhenever you cast an enchantment spell with mana value greater than this creature's power, put a +1/+1 counter on this creature, draw a card, then you may put a land card from your hand onto the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -834,5 +834,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 1
 }

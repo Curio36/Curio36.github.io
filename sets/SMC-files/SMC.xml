@@ -5,7 +5,7 @@
 			<name>SMC</name>
 			<longname>Super Mario Brothers Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-14</releasedate>
+			<releasedate>2026-06-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -622,7 +622,7 @@ When this creature enters, clear a stage for each creature you control with powe
 		<card>
 			<name>Hungry Luma</name>
 			<text>Flying
-Whenever you cast an enchantment spell with mana value greater than this creature&apos;s power, put a +1/+1 counter on this creature, draw a card, then you can put a land card from your hand onto the battlefield.</text>
+Whenever you cast an enchantment spell with mana value greater than this creature&apos;s power, put a +1/+1 counter on this creature, draw a card, then you may put a land card from your hand onto the battlefield.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/33_Hungry Luma.png" num="33">SMC</set>
 			<prop>
 				<layout>normal</layout>

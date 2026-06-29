@@ -5,7 +5,7 @@
 			<name>SMCM</name>
 			<longname>Mushroom Kingdom Commander Precon</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-05</releasedate>
+			<releasedate>2026-06-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -623,7 +623,7 @@ Creatures that entered this turn and that aren&apos;t attacking you get +1/+0 an
 		<card>
 			<name>Hungry Luma</name>
 			<text>Flying
-Whenever you cast an enchantment spell with mana value greater than this creature&apos;s power, put a +1/+1 counter on this creature, draw a card, then you can put a land card from your hand onto the battlefield.</text>
+Whenever you cast an enchantment spell with mana value greater than this creature&apos;s power, put a +1/+1 counter on this creature, draw a card, then you may put a land card from your hand onto the battlefield.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/15_Hungry Luma.png" num="15">SMCM</set>
 			<prop>
 				<layout>normal</layout>

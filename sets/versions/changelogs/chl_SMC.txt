@@ -1,4 +1,15 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Hungry Luma
+rules_text: Flying
+Whenever you cast an enchantment spell with mana value greater than this creature's power, put a +1/+1 counter on this creature, draw a card, then you can put a land card from your hand onto the battlefield. => Flying
+Whenever you cast an enchantment spell with mana value greater than this creature's power, put a +1/+1 counter on this creature, draw a card, then you may put a land card from your hand onto the battlefield.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The Lord of Lightning added.

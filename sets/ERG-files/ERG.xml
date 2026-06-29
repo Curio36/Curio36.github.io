@@ -5,14 +5,14 @@
 			<name>ERG</name>
 			<longname>Ergamon: Nature&apos;s Rage</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-08</releasedate>
+			<releasedate>2026-06-28</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Vivien, Wildheart Defender</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/31_Vivien, Wildheart Defender.png" num="31">ERG</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/35_Vivien, Wildheart Defender.png" num="35">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -29,7 +29,7 @@
 		<card>
 			<name>Karlos, Spark Surveyor</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/42_Karlos, Spark Surveyor.png" num="42">ERG</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/46_Karlos, Spark Surveyor.png" num="46">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@
 			<text>Ward {2}
 Collective abilities you activate cost {2} less to activate.
 Whenever you activate a collective ability, copy it. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/24_Fecund Colony Mother.png" num="24">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/27_Fecund Colony Mother.png" num="27">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -66,7 +66,7 @@ Whenever you activate a collective ability, copy it. You may choose new targets 
 			<name>Trace of Forbidden Knowledge</name>
 			<text>When this enchantment enters or leaves the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 {4}{B}, Sacrifice this enchantment: Target player mills X cards, where X is the number of cards in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/8_Trace of Forbidden Knowledge.png" num="8">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/9_Trace of Forbidden Knowledge.png" num="9">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -83,7 +83,7 @@ Whenever you activate a collective ability, copy it. You may choose new targets 
 			<name>Trace of Living Death</name>
 			<text>When this enchantment enters or leaves the battlefield, return up to one target creature card from your graveyard to your hand.
 {3}{G}, Sacrifice this enchantment: Add {B}{B}{B}{G}{G}{G}. Spend this mana only to cast creature spells or activate abilities of creature sources.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/14_Trace of Living Death.png" num="14">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/16_Trace of Living Death.png" num="16">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -100,7 +100,7 @@ Whenever you activate a collective ability, copy it. You may choose new targets 
 			<name>Impulsive Jackrabbit</name>
 			<text>During your turn, this creature has first strike.
 Symbiotic — Whenever this creature and a creature with greater power attack together, exile the top card of your library. Until the beginning of combat on your next turn, you may play that card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/16_Impulsive Jackrabbit.png" num="16">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/18_Impulsive Jackrabbit.png" num="18">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ Symbiotic — Whenever this creature and a creature with greater power attack to
 			<name>Manaquill Porcupine</name>
 			<text>Reach
 Whenever you cast a spell from anywhere other than your hand, this creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/18_Manaquill Porcupine.png" num="18">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/20_Manaquill Porcupine.png" num="20">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -136,7 +136,7 @@ Whenever you cast a spell from anywhere other than your hand, this creature deal
 			<name>Hungry Wingclaw</name>
 			<text>During your turn, this creature has flying.
 Whenever you activate a collective ability and whenever another creature you control enters, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/15_Hungry Wingclaw.png" num="15">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/17_Hungry Wingclaw.png" num="17">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -154,7 +154,7 @@ Whenever you activate a collective ability and whenever another creature you con
 			<name>Trace of Endless Growth</name>
 			<text>When this enchantment enters or leaves the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {4}{R}, Sacrifice this enchantment: This enchantment deals damage equal to the number of lands you control to target creature or planeswalker.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/29_Trace of Endless Growth.png" num="29">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/33_Trace of Endless Growth.png" num="33">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -171,7 +171,7 @@ Whenever you activate a collective ability and whenever another creature you con
 			<name>Valley Maker Wurm</name>
 			<text>Trample
 Landfall — Whenever a land you control enters, put a +1/+1 counter on each creature you control. They gain trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/48_Valley Maker Wurm.png" num="48">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/52_Valley Maker Wurm.png" num="52">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -189,7 +189,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on each cre
 			<name>Igneous Omen</name>
 			<text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 You may play an additional land this turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/40_Igneous Omen.png" num="40">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/44_Igneous Omen.png" num="44">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -207,7 +207,7 @@ You may play an additional land this turn.</text>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 You draw two cards and gain 3 life.
 Flashback {3}{B}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/45_Scavengers&apos; Feast.png" num="45">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/49_Scavengers&apos; Feast.png" num="49">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -224,7 +224,7 @@ Flashback {3}{B}{G} (You may cast this card from your graveyard for its flashbac
 			<name>Hunter Duo</name>
 			<text>Flying, menace
 Whenever you attacking causes one or more triggered abilities you control to trigger, copy up to one target triggered ability you control. You may choose new targets for the copy.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/39_Hunter Duo.png" num="39">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/43_Hunter Duo.png" num="43">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -243,7 +243,7 @@ Whenever you attacking causes one or more triggered abilities you control to tri
 			<text>Flash
 When this enchantment enters, it deals damage equal to the number of creatures you control to target creature you don&apos;t control. If that creature is blocking, each creature it&apos;s blocking gains trample until end of turn.
 {2}{RW}: Creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/44_Pack Attack.png" num="44">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/48_Pack Attack.png" num="48">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -263,7 +263,7 @@ When this enchantment enters, it deals damage equal to the number of creatures y
 • Destroy target enchantment.
 • Counter target spell.
 You lose 3 life and mill three cards.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/35_Devour the Soul.png" num="35">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/39_Devour the Soul.png" num="39">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -280,7 +280,7 @@ You lose 3 life and mill three cards.</text>
 			<name>Opportunistic Scavengers</name>
 			<text>Menace
 Whenever this creature enters or attacks, draw a card, then discard a card unless you exile two cards from your graveyard.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/43_Opportunistic Scavengers.png" num="43">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/47_Opportunistic Scavengers.png" num="47">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -295,27 +295,10 @@ Whenever this creature enters or attacks, draw a card, then discard a card unles
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Wildfire Tusker</name>
-			<text>When this creature enters, destroy up to one target land. That land&apos;s controller may search their library for a basic land, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/63_Wildfire Tusker.png" num="63">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Beast</type>
-				<maintype>Creature</maintype>
-				<manacost>2R/G</manacost>
-				<cmc>3</cmc>
-				<colors>RG</colors>
-				<coloridentity>RG</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Skyskimmer Drake</name>
 			<text>This spell costs {2} less to cast if you control two or more creatures with flying.
 Flying, vigilance</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/60_Skyskimmer Drake.png" num="60">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/64_Skyskimmer Drake.png" num="64">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -330,28 +313,10 @@ Flying, vigilance</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fungal Roach</name>
-			<text>Whenever this creature enters or attacks, mill two cards.
-When this creature dies, you may exile it. When you do, return up to two target creature cards from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/54_Fungal Roach.png" num="54">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Fungus Insect</type>
-				<maintype>Creature</maintype>
-				<manacost>3B/G</manacost>
-				<cmc>4</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Crackling Jerboa</name>
 			<text>Symbiotic — Whenever this creature and a creature with greater power attack together, put a +1/+1 counter on this creature.
 Whenever this creature is dealt damage while it&apos;s attacking, it deals that much damage to defending player.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/52_Crackling Jerboa.png" num="52">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/56_Crackling Jerboa.png" num="56">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -369,7 +334,7 @@ Whenever this creature is dealt damage while it&apos;s attacking, it deals that 
 			<name>Wrong Step</name>
 			<text>Kicker—Tap an untapped creature you control with power 4 or greater (You may tap an untapped creature you control with power 4 or greater in addition to any other costs as you cast this spell.)
 Choose target creature. Return it to its owner&apos;s hand. If this spell was kicked, instead that creature&apos;s owner puts it on their choice of the top or bottom of their library.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/9_Wrong Step.png" num="9">ERG</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/10_Wrong Step.png" num="10">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -385,7 +350,7 @@ Choose target creature. Return it to its owner&apos;s hand. If this spell was ki
 		<card>
 			<name>Brigan, Beast Trafficker</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/32_Brigan, Beast Trafficker.png" num="32">ERG</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/36_Brigan, Beast Trafficker.png" num="36">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -402,7 +367,7 @@ Choose target creature. Return it to its owner&apos;s hand. If this spell was ki
 		<card>
 			<name>Survey the Terrain</name>
 			<text>Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/27_Survey the Terrain.png" num="27">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/32_Survey the Terrain.png" num="32">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -416,27 +381,9 @@ Choose target creature. Return it to its owner&apos;s hand. If this spell was ki
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Feref Boughs Widow</name>
-			<text>Reach
-When this creature enters, you may sacrifice another creature. If you do, you draw a card and gain 2 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/53_Feref Boughs Widow.png" num="53">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Spider</type>
-				<maintype>Creature</maintype>
-				<manacost>3B/G</manacost>
-				<cmc>4</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>3/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Coordinated Lioness</name>
 			<text>This creature can&apos;t attack or block alone.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/51_Coordinated Lioness.png" num="51">ERG</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/55_Coordinated Lioness.png" num="55">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -454,7 +401,7 @@ When this creature enters, you may sacrifice another creature. If you do, you dr
 			<name>Geoderoller Scarab</name>
 			<text>Trample
 When this creature enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/55_Geoderoller Scarab.png" num="55">ERG</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/59_Geoderoller Scarab.png" num="59">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -472,7 +419,7 @@ When this creature enters, create a Treasure token. (It&apos;s an artifact with 
 			<name>Twisting Eye Peacock</name>
 			<text>Flying
 When this creature enters, return up to one target creature to its owner&apos;s hand. If you controlled that creature, create a 1/1 white and blue Bird creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/47_Twisting Eye Peacock.png" num="47">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/51_Twisting Eye Peacock.png" num="51">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -523,29 +470,10 @@ At the beginning of your end step, if you gained 3 or more life this turn, draw 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Luminous Wings, Nesttender</name>
-			<text>This spell costs {1} less to cast for each creature you control with flying.
-Flying, vigilance, lifelink
-Whenever Luminous Wings enters or attacks, return target nonland permanent card from your graveyard to your hand. If that card has mana value 3 or less, return it to the battlefield instead.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/3_Luminous Wings, Nesttender.png" num="3">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Bird Avatar</type>
-				<maintype>Creature</maintype>
-				<manacost>7WW</manacost>
-				<cmc>9</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>4/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Scurrying Glittermouse</name>
 			<text>This creature can&apos;t be blocked by creatures with power 3 or greater.
 Symbiotic — Whenever this creature and a creature with greater power attack together, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/4_Scurrying Glittermouse.png" num="4">ERG</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/5_Scurrying Glittermouse.png" num="5">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -563,7 +491,7 @@ Symbiotic — Whenever this creature and a creature with greater power attack to
 			<name>Trace of Martial Wisdom</name>
 			<text>When this enchantment enters or leaves the battle, put a +1/+1 counter on up to one target creature you control.
 {5}{U}, Sacrifice this enchantment: Until end of turn, target creature you control gains flying and &quot;Whenever this creature deals combat damage to a player, draw that many cards&quot;.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/5_Trace of Martial Wisdom.png" num="5">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/6_Trace of Martial Wisdom.png" num="6">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -581,7 +509,7 @@ Symbiotic — Whenever this creature and a creature with greater power attack to
 			<text>This spell can&apos;t be countered
 Whenever Basking Gargantua or another creature you control enters, target player mills cards equal to that creature&apos;s toughness.
 {1}{U}, Discard a card: Exile Basking Gargantua. Return it to the battlefield tapped under its owner&apos;s control at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/6_Basking Gargantua, Drifter.png" num="6">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/7_Basking Gargantua, Drifter.png" num="7">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -599,7 +527,7 @@ Whenever Basking Gargantua or another creature you control enters, target player
 			<name>Hypnotic Octopus</name>
 			<text>Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
 Exhaust — {4}{U}{U}: For each opponent, gain control of up to one nonland permanent that player controls with mana value equal to or less than this creature&apos;s power. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/7_Hypnotic Octopus.png" num="7">ERG</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/8_Hypnotic Octopus.png" num="8">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -618,7 +546,7 @@ Exhaust — {4}{U}{U}: For each opponent, gain control of up to one nonland perm
 			<text>You may have this creature enters under the control of an opponent of your choice.
 Flying
 When this creature enters, sacrifice another creature. If you can&apos;t, sacrifice this creature.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/10_Brood Parasite.png" num="10">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/11_Brood Parasite.png" num="11">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -635,7 +563,7 @@ When this creature enters, sacrifice another creature. If you can&apos;t, sacrif
 		<card>
 			<name>Mortician Beetle</name>
 			<text>Whenever a player sacrifices a creature, you may put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/11_Mortician Beetle.png" num="11">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/12_Mortician Beetle.png" num="12">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -653,7 +581,7 @@ When this creature enters, sacrifice another creature. If you can&apos;t, sacrif
 			<name>Sanguine Hunger, Bloodspiller</name>
 			<text>Trample, lifelink
 As long as you have at least 10 life more than your starting life total, you may cast creature spells from your graveyard by paying life equal to their mana value instead of paying their mana cost.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/12_Sanguine Hunger, Bloodspiller.png" num="12">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/14_Sanguine Hunger, Bloodspiller.png" num="14">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -670,7 +598,7 @@ As long as you have at least 10 life more than your starting life total, you may
 		<card>
 			<name>Sink Into Tar</name>
 			<text>Target creature gets -3/-3 until end of turn. If that creature would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/13_Sink Into Tar.png" num="13">ERG</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/15_Sink Into Tar.png" num="15">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -687,7 +615,7 @@ As long as you have at least 10 life more than your starting life total, you may
 			<name>Jagged Ridge Boar</name>
 			<text>Collective {2}{R} ({2}{R}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
 Double strike, trample</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/17_Jagged Ridge Boar.png" num="17">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/19_Jagged Ridge Boar.png" num="19">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -706,7 +634,7 @@ Double strike, trample</text>
 			<text>First strike, haste
 Ward—Pay 7 life
 Whenever Sun Mane attacks, exile cards from the top of defending player&apos;s library until you exile a creature card. Put that card onto the battlefield tapped and attacking that player. At the beginning of the next end step, sacrifice that creature.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/19_Sun Mane, Pridemaster.png" num="19">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/22_Sun Mane, Pridemaster.png" num="22">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -724,7 +652,7 @@ Whenever Sun Mane attacks, exile cards from the top of defending player&apos;s l
 			<name>Trace of Unerring Force</name>
 			<text>When this enchantment enters or leaves the battlefield, target creature you control gets +1/+0 and gains first strike until end of turn.
 {2}{W}, Sacrifice this enchantment: Each creature you control with first strike gains double strike until end of turn, then each other creature you control gains first strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/20_Trace of Unerring Force.png" num="20">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/23_Trace of Unerring Force.png" num="23">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -742,7 +670,7 @@ Whenever Sun Mane attacks, exile cards from the top of defending player&apos;s l
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Whenever this creature attacks, untap each land you control.
 {3}{G}: Reveal the top card of your library. If it&apos;s a creature or land card, put it into your hand. Otherwise, you may mill a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/21_Blooming Elk.png" num="21">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/24_Blooming Elk.png" num="24">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -760,7 +688,7 @@ Whenever this creature attacks, untap each land you control.
 			<name>Brigan&apos;s Shipment</name>
 			<text>You may sacrifice a creature. If you do, you draw cards equal to that creature&apos;s power, then you gain life equal to its toughness.
 You may put a green creature card from your hand onto the battlefield.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/22_Brigan&apos;s Shipment.png" num="22">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/25_Brigan&apos;s Shipment.png" num="25">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -778,7 +706,7 @@ You may put a green creature card from your hand onto the battlefield.</text>
 			<text>Collective {2}{G} ({2}{G}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
 This creature gets +1/+0 for each land you control.
 Whenever this creature deals combat damage to a player, draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/23_Creeping Ivydian.png" num="23">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/26_Creeping Ivydian.png" num="26">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -793,28 +721,10 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Immense Tusks, Herdcaller</name>
-			<text>Trample, ward {2}
-Whenever you cast a creature spell from anywhere other than your hand, you may search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/25_Immense Tusks, Herdcaller.png" num="25">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Elephant Avatar</type>
-				<maintype>Creature</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>6/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Shifting Territory</name>
 			<text>At the beginning of each end step, if a land card was put into your graveyard from the battlefield this turn, draw a card.
 {3}{G}, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/26_Shifting Territory.png" num="26">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/31_Shifting Territory.png" num="31">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -828,47 +738,11 @@ Whenever you cast a creature spell from anywhere other than your hand, you may s
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Taunting Baboon</name>
-			<text>Collective {3}{G} ({3}{G}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
-All creatures able to block this creature do so.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/28_Taunting Baboon.png" num="28">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Monkey</type>
-				<maintype>Creature</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>1/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Truga Scythecat</name>
-			<text>This creature can&apos;t be blocked by more than one creature.
-Whenever this creature attacks, put a +1/+1 counter on it if two or more lands entered under your control this turn. If you do, it gains trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/30_Truga Scythecat.png" num="30">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Cat</type>
-				<maintype>Creature</maintype>
-				<manacost>3G</manacost>
-				<cmc>4</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Caged Corpsegorger</name>
 			<text>Trample
 This creature enters tapped with six stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
 Whenever you sacrifice a permanent, draw a card if this creature is untapped. Otherwise, untap this creature.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/33_Caged Corpsegorger.png" num="33">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/37_Caged Corpsegorger.png" num="37">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -885,7 +759,7 @@ Whenever you sacrifice a permanent, draw a card if this creature is untapped. Ot
 		<card>
 			<name>Deadbog Gator</name>
 			<text>Whenever you sacrifice one or more nontoken permanents, create a 1/1 black and green Zombie Frog creature token with &quot;This token can&apos;t block.&quot;</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/34_Deadbog Gator.png" num="34">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/38_Deadbog Gator.png" num="38">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -902,7 +776,7 @@ Whenever you sacrifice a permanent, draw a card if this creature is untapped. Ot
 		<card>
 			<name>Feeding Time</name>
 			<text>Destroy all nonland permanents. Create a 1/1 black Insect creature token for each permanent you controlled that was destroyed this way.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/36_Feeding Time.png" num="36">ERG</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/ERG-files/img/40_Feeding Time.png" num="40">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -919,7 +793,7 @@ Whenever you sacrifice a permanent, draw a card if this creature is untapped. Ot
 			<name>Glisten Tail, Hunting Mutate</name>
 			<text>Deathtouch, ward {2}
 Whenever a player casts a noncreature spell, that player gets two poison counters. (A player with ten or more poison counters loses the game.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/37_Glisten Tail, Hunting Mutate.png" num="37">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/41_Glisten Tail, Hunting Mutate.png" num="41">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -937,7 +811,7 @@ Whenever a player casts a noncreature spell, that player gets two poison counter
 			<name>Grist, the Endless Hunger</name>
 			<text>Flying, trample, haste
 Whenever Grist or another Insect you control enter or dies, an Insect card is put into your graveyard from anywhere other than the battlefield, or an Insect card leaves your graveyard, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/38_Grist, the Endless Hunger.png" num="38">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/42_Grist, the Endless Hunger.png" num="42">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -952,46 +826,10 @@ Whenever Grist or another Insect you control enter or dies, an Insect card is pu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Invigorating Winds</name>
-			<text>Whenever one or more creatures you control deal combat damage to a player, you draw a card and gain 2 life.
-{2}{WU}: Target creature you control gains flying until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/41_Invigorating Winds.png" num="41">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2WU</manacost>
-				<cmc>4</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Skydancer, Graceful Predator</name>
-			<text>Flying
-Whenever another creature you control with flying enters, put a +1/+1 counter on Skydancer.
-When Skydancer dies, put its counters on up to one target creature with flying. If you don&apos;t put counters on a creature this way, scry 2.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/46_Skydancer, Graceful Predator.png" num="46">ERG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Griffin</type>
-				<maintype>Creature</maintype>
-				<manacost>1WU</manacost>
-				<cmc>3</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Clattering Scavenger</name>
 			<text>Collective {2}{BG} ({2}{BG}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
 Attacking creatures you control have deathtouch.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/49_Clattering Scavenger.png" num="49">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/53_Clattering Scavenger.png" num="53">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1009,7 +847,7 @@ Attacking creatures you control have deathtouch.</text>
 			<name>Cloud Dancer Gryff</name>
 			<text>Collective {WU} ({WU}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
 Flying</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/50_Cloud Dancer Gryff.png" num="50">ERG</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/54_Cloud Dancer Gryff.png" num="54">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1028,7 +866,7 @@ Flying</text>
 			<text>Collective {2}{RW} ({2}{RW}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
 First strike
 If a creature you control dealing combat damage causes a triggered ability of that creature to trigger, that ability triggers an additional time.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/56_Huntscarred Alpha.png" num="56">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/60_Huntscarred Alpha.png" num="60">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1046,7 +884,7 @@ If a creature you control dealing combat damage causes a triggered ability of th
 			<name>Mindleech Swarm</name>
 			<text>Collective {2}{UB} ({2}{UB}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
 Whenever this creature deals combat damage to a player, look at that many cards from the top of your library. Put one of them into your hand and the rest into your graveyard.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/57_Mindleech Swarm.png" num="57">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/61_Mindleech Swarm.png" num="61">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1065,7 +903,7 @@ Whenever this creature deals combat damage to a player, look at that many cards 
 			<text>Collective {2}{WU} ({2}{WU}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
 Flying
 Whenever this creature deals combat damage to a player, for each nonland permanent type, exile up to one permanent of that type you control, then return those permanents to the battlefield under their owner&apos;s control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/58_Mistborne Griffin.png" num="58">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/62_Mistborne Griffin.png" num="62">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1084,7 +922,7 @@ Whenever this creature deals combat damage to a player, for each nonland permane
 			<text>Flash
 Flying
 When this creature enters, look at the top three cards of your library. Put one of them into your hand and the rest in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/59_Shadow-Eye Raven.png" num="59">ERG</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/63_Shadow-Eye Raven.png" num="63">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1101,7 +939,7 @@ When this creature enters, look at the top three cards of your library. Put one 
 		<card>
 			<name>Stalking Poacher</name>
 			<text>Threshold — Whenever this creature attacks, surveil 1, then this creature gets +2/+0 until end of turn if there are seven or more cards in your graveyard. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/61_Stalking Poacher.png" num="61">ERG</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/65_Stalking Poacher.png" num="65">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1116,10 +954,98 @@ When this creature enters, look at the top three cards of your library. Put one 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
+			<name>Poach</name>
+			<text>Exile target creature. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/13_Poach.png" num="13">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Immense Tusks, Herdcaller</name>
+			<text>Trample, ward {2}
+Whenever you cast a creature spell from anywhere other than your hand, you may search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/28_Immense Tusks, Herdcaller.png" num="28">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elephant Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feref Boughs Widow</name>
+			<text>Reach
+When this creature enters, you may sacrifice another creature. If you do, you draw a card and gain 2 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/57_Feref Boughs Widow.png" num="57">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3B/G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fungal Beetle</name>
+			<text>Whenever this creature enters or attacks, mill two cards.
+When this creature dies, you may exile it. When you do, return up to two target creature cards from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/58_Fungal Beetle.png" num="58">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3B/G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mischievous Monkey</name>
+			<text>Collective {3}{G} ({3}{G}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
+All creatures able to block this creature do so.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/29_Mischievous Monkey.png" num="29">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
 			<name>Territorial Silverback</name>
 			<text>Collective {2}{RG} ({2}{RG}, Exile this card from your hand: Target attacking creature gains the following abilities until end of turn. You can cast this spell later from exile.)
 Whenever this creature deals combat damage to a player, add that much mana in any combination of {R} and/or {G}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/62_Territorial Silverback.png" num="62">ERG</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/66_Territorial Silverback.png" num="66">ERG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1132,6 +1058,251 @@ Whenever this creature deals combat damage to a player, add that much mana in an
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wildfire Lagac</name>
+			<text>When this creature enters, destroy up to one target land. That land&apos;s controller may search their library for a basic land, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/67_Wildfire Lagac.png" num="67">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R/G</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luminous Wings, Nesttender</name>
+			<text>This spell costs {1} less to cast for each creature you control with flying.
+Flying, vigilance, lifelink
+Whenever Luminous Wings enters or attacks, return target nonland permanent card from your graveyard to your hand. If that card has mana value 3 or less, return it to the battlefield instead.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/4_Luminous Wings, Nesttender.png" num="4">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>7WW</manacost>
+				<cmc>9</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Graceful Unicorn</name>
+			<text>Symbiotic — Whenever this creature and a creature with greater power attack together, you gain 2 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/3_Graceful Unicorn.png" num="3">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spined Scurrier</name>
+			<text>Haste
+{R}, Discard this card: Target creature you control gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/21_Spined Scurrier.png" num="21">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hedgehog</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Truga Scythecat</name>
+			<text>Trample
+This creature can&apos;t be blocked by more than one creature.
+Whenever this creature attacks, put a +1/+1 counter on it if two or more lands entered under your control this turn. If you do, it gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/34_Truga Scythecat.png" num="34">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invigorating Winds</name>
+			<text>When this enchantment enters, create two 1/1 white and blue Bird creature tokens with flying.
+Creatures you control with flying get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/ERG-files/img/45_Invigorating Winds.png" num="45">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skydance, Graceful Predator</name>
+			<text>Flying
+Whenever another creature you control with flying enters, put a +1/+1 counter on Skydance.
+When Skydance dies, choose one—
+• Put its counters on up to one target creature with flying.
+• Scry 2.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/50_Skydance, Graceful Predator.png" num="50">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Douma Expanse</name>
+			<text>This land enters tapped.
+{T}: Add {W} or {U}.
+{2}{W}{U}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains flying until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/68_Douma Expanse.png" num="68">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Enju Sound</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {B}.
+{2}{U}{B}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. Until end of turn, it can&apos;t be blocked by creatures with greater power. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/69_Enju Sound.png" num="69">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Golan Plains</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains first strike until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/71_Golan Plains.png" num="71">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Maradin Boglands</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {G}.
+{2}{B}{G}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains deathtouch until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/72_Maradin Boglands.png" num="72">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/70_Evolving Wilds.png" num="70">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Seedspreader Tapir</name>
+			<text>When this creature enters, look at the top four cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. 
+{5}{G}: This creature gets +2/+3 until end of turn.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/30_Seedspreader Tapir.png" num="30">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Tapir</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Truga Outskirts</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {G}.
+{2}{R}{G}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains trample until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/ERG-files/img/73_Truga Outskirts.png" num="73">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
