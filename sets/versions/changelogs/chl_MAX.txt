@@ -1,4 +1,35 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Weftwalker, Edge's Lost added.
+Faceless, Disguise Expert added.
+Godsclaw, Servant of Power added.
+Moon Mad, Unwilling Lunatic added.
+Acrobat, Gymnastic Hero added.
+The Heap, Walking Fen added.
+The Centipede, Crawling Terror added.
+Martyr, Former Ally added.
+Umbra, the Devious Shadow added.
+The Judge, Strict Arbiter added.
+Bounding Strongman added.
+MANTLES OF ALCOMEX (MAX) added.
+Box of Scraps added.
+
+
+Red Hot, Blazing Streak
+rules_text: Double strike, menace, haste
+Whenever you attack for the first time each turn, untap each creature you control with first strike, double strike, menace, haste, or tactical. After this phase, there is an additional combat phase. => Double strike, menace, haste
+Whenever you attack for the first time each turn, untap each creature you control with first strike, double strike, flash, menace, haste, or tactical. After this phase, there is an additional combat phase.
+
+
+type: Creature — Spirit Hero => Enchantment
+cost: {G}{W} => 
+rules_text: Vigilance
+Whenever you gain life, put a +1/+1 counter on this creature. => Creatures you control
+pt: 2/2 => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

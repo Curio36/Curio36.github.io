@@ -6,8 +6,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Red Hot, Blazing Streak",
-        "number": 5,
+        "card_name": "e"
+    },
+    {
+        "card_name": "Bounding Strongman",
+        "number": 2,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -15,35 +18,95 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Weftwalker, Edge's Lost",
+        "number": 16,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Faceless, Disguise Expert",
+        "number": 6,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Red Hot, Blazing Streak",
+        "number": 11,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Godsclaw, Servant of Power",
+        "number": 8,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "White Knight, Sentinel Supreme",
-        "number": 10,
+        "number": 17,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "The Judge, Strict Arbiter",
+        "number": 22,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Umbra, the Devious Shadow",
+        "number": 26,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Lady Gore, Death's Edge",
-        "number": 14,
+        "number": 23,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Moon Mad, Unwilling Lunatic",
+        "number": 25,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Vox Dei, Hallowed Leader",
-        "number": 15,
+        "number": 27,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -57,7 +120,7 @@
     },
     {
         "card_name": "Sonic Rollerblader",
-        "number": 8,
+        "number": 14,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -68,7 +131,7 @@
     },
     {
         "card_name": "Gallant Soul",
-        "number": 3,
+        "number": 7,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -91,28 +154,6 @@
     },
     {
         "card_name": "Black Sheep, Shining Beacon",
-        "number": 1,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Blue Skies, Aerial Ace",
-        "number": 2,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Green Thumb, Phytomistress",
         "number": 4,
         "shape": "normal",
         "set": "MAX",
@@ -120,8 +161,40 @@
         "position": ""
     },
     {
+        "card_name": "Blue Skies, Aerial Ace",
+        "number": 5,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Heap, Walking Fen",
+        "number": 10,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Acrobat, Gymnastic Hero",
+        "number": 3,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Green Thumb, Phytomistress",
+        "number": 9,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Erdia Raxx, Humble CEO",
-        "number": 12,
+        "number": 20,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -129,21 +202,31 @@
     },
     {
         "card_name": "5P-4M, Evil Supercomputer",
-        "number": 11,
+        "number": 18,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "The Centipede, Crawling Terror",
+        "number": 19,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Martyr, Former Ally",
+        "number": 24,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Immense, Failed Experiment",
-        "number": 13,
+        "number": 21,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -151,7 +234,7 @@
     },
     {
         "card_name": "Reformed Pragmatist",
-        "number": 6,
+        "number": 12,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -159,7 +242,7 @@
     },
     {
         "card_name": "Tempest Surge",
-        "number": 9,
+        "number": 15,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -173,11 +256,49 @@
     },
     {
         "card_name": "Skykelp Guardian",
-        "number": 7,
+        "number": 13,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "",
+        "number": 1,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Box of Scraps",
+        "number": 28,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -202,7 +323,7 @@
     },
     {
         "card_name": "Acid Vats",
-        "number": 16,
+        "number": 29,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -213,7 +334,7 @@
     },
     {
         "card_name": "Bountiful Orchard",
-        "number": 17,
+        "number": 30,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -236,7 +357,7 @@
     },
     {
         "card_name": "Busy City Square",
-        "number": 18,
+        "number": 31,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -244,7 +365,7 @@
     },
     {
         "card_name": "Radioactive Mines",
-        "number": 20,
+        "number": 33,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -258,11 +379,44 @@
     },
     {
         "card_name": "Mystical Marsh",
-        "number": 19,
+        "number": 32,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "MANTLES OF ALCOMEX (MAX)",
+        "number": 1,
+        "shape": "token",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

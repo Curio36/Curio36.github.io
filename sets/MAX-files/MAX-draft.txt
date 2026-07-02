@@ -5,9 +5,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Spirit Hero",
-			"collector_number": "3",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/3_Gallant Soul.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/7_Gallant Soul.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Plant Mutant Hero",
-			"collector_number": "7",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/7_Skykelp Guardian.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/13_Skykelp Guardian.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Human Athlete Hero",
-			"collector_number": "8",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/8_Sonic Rollerblader.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/14_Sonic Rollerblader.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/9_Tempest Surge.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/15_Tempest Surge.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Elf Rogue Hero",
-			"collector_number": "6",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/6_Reformed Pragmatist.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/12_Reformed Pragmatist.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "18",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/18_Busy City Square.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/31_Busy City Square.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "16",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/16_Acid Vats.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/29_Acid Vats.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "17",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/17_Bountiful Orchard.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/30_Bountiful Orchard.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "20",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/20_Radioactive Mines.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/33_Radioactive Mines.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "19",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/19_Mystical Marsh.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/32_Mystical Marsh.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Legendary Creature — Human Warlock Hero",
-			"collector_number": "2",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/2_Blue Skies, Aerial Ace.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/5_Blue Skies, Aerial Ace.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Elf Druid Hero",
-			"collector_number": "4",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/4_Green Thumb, Phytomistress.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/9_Green Thumb, Phytomistress.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Human Warlock Hero",
-			"collector_number": "1",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/1_Black Sheep, Shining Beacon.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/4_Black Sheep, Shining Beacon.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "5",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/5_Red Hot, Blazing Streak.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/11_Red Hot, Blazing Streak.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Centaur Knight Hero",
-			"collector_number": "10",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/10_White Knight, Sentinel Supreme.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/17_White Knight, Sentinel Supreme.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Legendary Creature — Zombie Villain",
-			"collector_number": "14",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/14_Lady Gore, Death's Edge.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/23_Lady Gore, Death's Edge.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G/U}{G/U}",
 			"type": "Legendary Creature — Mutant Villain",
-			"collector_number": "13",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/13_The Immense, Failed Experiment.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/21_The Immense, Failed Experiment.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Legendary Artifact Creature — Robot Villain",
-			"collector_number": "11",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/11_5P-4M, Evil Supercomputer.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/18_5P-4M, Evil Supercomputer.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Legendary Creature — Elf Villain",
-			"collector_number": "12",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/12_Erdia Raxx, Humble CEO.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/20_Erdia Raxx, Humble CEO.png"
 			}
 		},
 		{
@@ -305,9 +305,149 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Legendary Creature — Human Cleric Villain",
-			"collector_number": "15",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/15_Vox Dei, Hallowed Leader.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/27_Vox Dei, Hallowed Leader.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/1_.png"
+			}
+		},
+		{
+			"name": "Weftwalker, Edge's Lost",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Drix Hero",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/16_Weftwalker, Edge's Lost.png"
+			}
+		},
+		{
+			"name": "Faceless, Disguise Expert",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Hero",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/6_Faceless, Disguise Expert.png"
+			}
+		},
+		{
+			"name": "Godsclaw, Servant of Power",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Legendary Creature — Beast Hero",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/8_Godsclaw, Servant of Power.png"
+			}
+		},
+		{
+			"name": "Moon Mad, Unwilling Lunatic",
+			"rarity": "rare",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Legendary Creature — Werewolf Villain",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/25_Moon Mad, Unwilling Lunatic.png"
+			}
+		},
+		{
+			"name": "Acrobat, Gymnastic Hero",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Athlete Hero",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/3_Acrobat, Gymnastic Hero.png"
+			}
+		},
+		{
+			"name": "The Heap, Walking Fen",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Elemental Hero",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/10_The Heap, Walking Fen.png"
+			}
+		},
+		{
+			"name": "The Centipede, Crawling Terror",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/G}",
+			"type": "Legendary Creature — Human Insect Villain",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/19_The Centipede, Crawling Terror.png"
+			}
+		},
+		{
+			"name": "Martyr, Former Ally",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/W}",
+			"type": "Legendary Creature — Human Villain",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/24_Martyr, Former Ally.png"
+			}
+		},
+		{
+			"name": "Umbra, the Devious Shadow",
+			"rarity": "rare",
+			"mana_cost": "{U/B}",
+			"type": "Legendary Creature — Human Rogue Villain",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/26_Umbra, the Devious Shadow.png"
+			}
+		},
+		{
+			"name": "The Judge, Strict Arbiter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Legendary Creature — Archon Villain",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/22_The Judge, Strict Arbiter.png"
+			}
+		},
+		{
+			"name": "Bounding Strongman",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Hero",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/2_Bounding Strongman.png"
+			}
+		},
+		{
+			"name": "MANTLES OF ALCOMEX (MAX)",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/1t_MANTLES OF ALCOMEX (MAX).png"
+			}
+		},
+		{
+			"name": "Box of Scraps",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/28_Box of Scraps.png"
 			}
 		}
 	]
@@ -323,18 +463,31 @@
 	2 5P-4M, Evil Supercomputer
 	2 Erdia Raxx, Humble CEO
 	2 Vox Dei, Hallowed Leader
+	2 Weftwalker, Edge's Lost
+	2 Faceless, Disguise Expert
+	2 Godsclaw, Servant of Power
+	2 Moon Mad, Unwilling Lunatic
+	2 Acrobat, Gymnastic Hero
+	2 The Heap, Walking Fen
+	2 The Centipede, Crawling Terror
+	2 Martyr, Former Ally
+	2 Umbra, the Devious Shadow
+	2 The Judge, Strict Arbiter
 [uncommon(3)]
 	4 Gallant Soul
 	4 Skykelp Guardian
 	4 Sonic Rollerblader
 	4 Tempest Surge
 	4 Reformed Pragmatist
+	4 
+	4 Box of Scraps
 [common(6)]
 	8 Busy City Square
 	8 Acid Vats
 	8 Bountiful Orchard
 	8 Radioactive Mines
 	8 Mystical Marsh
+	8 Bounding Strongman
 [common | masterpiece(1)]
 	8 Busy City Square
 	8 Acid Vats
@@ -352,6 +505,7 @@
 	3 Hex of Undeath
 	3 Impostor Syndrome
 	3 Through the Omenpath
+	8 Bounding Strongman
 [foil(1)]
 	6 Gallant Soul
 	6 Skykelp Guardian
@@ -373,6 +527,19 @@
 	2 5P-4M, Evil Supercomputer
 	2 Erdia Raxx, Humble CEO
 	2 Vox Dei, Hallowed Leader
+	6 
+	2 Weftwalker, Edge's Lost
+	2 Faceless, Disguise Expert
+	2 Godsclaw, Servant of Power
+	2 Moon Mad, Unwilling Lunatic
+	2 Acrobat, Gymnastic Hero
+	2 The Heap, Walking Fen
+	2 The Centipede, Crawling Terror
+	2 Martyr, Former Ally
+	2 Umbra, the Devious Shadow
+	2 The Judge, Strict Arbiter
+	12 Bounding Strongman
+	6 Box of Scraps
 [wildcard(1)]
 	15 Gallant Soul
 	15 Skykelp Guardian
@@ -394,3 +561,16 @@
 	7 5P-4M, Evil Supercomputer
 	7 Erdia Raxx, Humble CEO
 	7 Vox Dei, Hallowed Leader
+	15 
+	7 Weftwalker, Edge's Lost
+	7 Faceless, Disguise Expert
+	7 Godsclaw, Servant of Power
+	7 Moon Mad, Unwilling Lunatic
+	7 Acrobat, Gymnastic Hero
+	7 The Heap, Walking Fen
+	7 The Centipede, Crawling Terror
+	7 Martyr, Former Ally
+	7 Umbra, the Devious Shadow
+	7 The Judge, Strict Arbiter
+	6 Bounding Strongman
+	15 Box of Scraps

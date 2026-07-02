@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/5_Plot Hole.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/7_Plot Hole.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Class",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/3_Heartwarming Romance.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/5_Heartwarming Romance.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Performer",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/4_Leading Lady.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/6_Leading Lady.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/7_Fade to Black.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/9_Fade to Black.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/6_Cold Open.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/8_Cold Open.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Class",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/8_Gripping Noir.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/10_Gripping Noir.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "10",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/10_Break a Leg.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/12_Break a Leg.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "12",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/12_Sequel Hook.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/14_Sequel Hook.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment — Class",
-			"collector_number": "13",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/13_Tasteless Gorefest.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/15_Tasteless Gorefest.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}",
 			"type": "Instant",
-			"collector_number": "11",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/11_Post-Credit Scene.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/13_Post-Credit Scene.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/16_Smashing Success.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/18_Smashing Success.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Class",
-			"collector_number": "14",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/14_Action Blockbuster.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/16_Action Blockbuster.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Djinn Bard",
-			"collector_number": "17",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/17_Soundtrack Composer.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/19_Soundtrack Composer.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "15",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/15_Heart of the Peaks.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/17_Heart of the Peaks.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "19",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/19_Training Montage.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/22_Training Montage.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Elf Octopus Advisor",
-			"collector_number": "38",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/38_Simic Cinematographer.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/42_Simic Cinematographer.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "50",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/50_Silverwood Clapboard.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/54_Silverwood Clapboard.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact Creature — Robot Scout",
-			"collector_number": "32",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/32_Intrepid Camerabot.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/36_Intrepid Camerabot.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Dragon",
-			"collector_number": "31",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/31_Instigator Dragon.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/35_Instigator Dragon.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "33",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/33_On-Set Menagerie.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/37_On-Set Menagerie.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Varmint Performer",
-			"collector_number": "39",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/39_Trained Varmint.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/43_Trained Varmint.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "29",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/29_Get the Shot.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/33_Get the Shot.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Imp Artificer",
-			"collector_number": "20",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/20_Blood Bag Innovator.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/24_Blood Bag Innovator.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Warrior Advisor",
-			"collector_number": "23",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/23_Combat Choreographer.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/27_Combat Choreographer.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}{B}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/34_Only Mostly Dead.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/38_Only Mostly Dead.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "30",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/30_Gruelling Conditions.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/34_Gruelling Conditions.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "36",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/36_See the World.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/40_See the World.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "26",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/26_Endless Haunting.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/30_Endless Haunting.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "24",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/24_Director of Photomancy.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/28_Director of Photomancy.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Spirit Bard Advisor",
-			"collector_number": "28",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/28_G.E.I.S.T. Organizer.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/32_G.E.I.S.T. Organizer.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Homunculus Artificer",
-			"collector_number": "35",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/35_Overproductive Assistant.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/39_Overproductive Assistant.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "21",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/21_Budget Balancer.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/25_Budget Balancer.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/22_Casting Call.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/26_Casting Call.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/37_Shock Twist.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/41_Shock Twist.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Insect Advisor",
-			"collector_number": "25",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/25_Down and Dirty Director.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/29_Down and Dirty Director.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "27",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/27_Freelance Scriptwriter.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/31_Freelance Scriptwriter.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Class",
-			"collector_number": "18",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/18_Creature Feature.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/21_Creature Feature.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/9_Previsualization.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/11_Previsualization.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{B/R}",
 			"type": "Legendary Creature — Devil Performer",
-			"collector_number": "40",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/40_Agorakh, Demanding Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/44_Agorakh, Demanding Costar.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/W}",
 			"type": "Legendary Creature — Goblin Performer",
-			"collector_number": "41",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/41_Breakneck, Martial Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/45_Breakneck, Martial Costar.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Legendary Creature — Otter Performer",
-			"collector_number": "42",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/42_Cord, Exuberant Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/46_Cord, Exuberant Costar.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W/B}{W/B}",
 			"type": "Legendary Creature — Spirit Performer",
-			"collector_number": "43",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/43_Derist, Reoccuring Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/47_Derist, Reoccuring Costar.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/G}",
 			"type": "Legendary Creature — Elf Performer",
-			"collector_number": "44",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/44_Ellik, Egotistical Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/48_Ellik, Egotistical Costar.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W/U}{W/U}",
 			"type": "Legendary Creature — Elemental Performer",
-			"collector_number": "45",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/45_Firdi, Icy Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/49_Firdi, Icy Costar.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R/G}{R/G}",
 			"type": "Legendary Creature — Dinosaur Performer",
-			"collector_number": "46",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/46_Gnasher, Wildborn Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/50_Gnasher, Wildborn Costar.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Legendary Creature — Merfolk Performer",
-			"collector_number": "47",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/47_Miche, Adaptable Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/51_Miche, Adaptable Costar.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U/B}",
 			"type": "Legendary Creature — Vampire Performer",
-			"collector_number": "48",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/48_Verat, Unnerving Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/52_Verat, Unnerving Costar.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G/W}{G/W}",
 			"type": "Legendary Creature — Human Performer",
-			"collector_number": "49",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/49_Yumeko, Graceful Costar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/53_Yumeko, Graceful Costar.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "51",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/51_Bretagard Village.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/55_Bretagard Village.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "52",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/52_Hunting Territory.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/56_Hunting Territory.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "53",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/53_Shady Dojo.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/57_Shady Dojo.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "54",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/54_Skyclave Vantage.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/58_Skyclave Vantage.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "55",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/55_Yawgmoth's Altar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/59_Yawgmoth's Altar.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "56",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/56_Aurora Expanse.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/60_Aurora Expanse.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "57",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/57_Elegant Garden.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/61_Elegant Garden.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "58",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/58_Haunted Interior.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/62_Haunted Interior.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "59",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/59_Highfalutin Tavern.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/63_Highfalutin Tavern.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "60",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/60_Jungle Base.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/64_Jungle Base.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "61",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/61_Lively Ballroom.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/65_Lively Ballroom.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "62",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/62_Local Bazaar.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/66_Local Bazaar.png"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "63",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/63_Reclaimed Lab.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/67_Reclaimed Lab.png"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "64",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/64_Scientific Retreat.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/68_Scientific Retreat.png"
 			}
 		},
 		{
@@ -645,9 +645,49 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "65",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/FLM-files/img/65_Stark Graveyard.png"
+				"en": "https://Curio36.github.io/sets/FLM-files/img/69_Stark Graveyard.png"
+			}
+		},
+		{
+			"name": "Flubbed Stunt",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/4_Flubbed Stunt.png"
+			}
+		},
+		{
+			"name": "Fashionably Late",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/3_Fashionably Late.png"
+			}
+		},
+		{
+			"name": "Vault Fire",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/20_Vault Fire.png"
+			}
+		},
+		{
+			"name": "Blacklist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/FLM-files/img/23_Blacklist.png"
 			}
 		}
 	]
@@ -666,6 +706,7 @@
 	2 Shady Dojo
 	2 Skyclave Vantage
 	2 Yawgmoth's Altar
+	2 Blacklist
 [uncommon(3)]
 	4 Leading Lady
 	4 Post-Credit Scene
@@ -701,6 +742,7 @@
 	4 Miche, Adaptable Costar
 	4 Verat, Unnerving Costar
 	4 Yumeko, Graceful Costar
+	4 Fashionably Late
 [common(6)]
 	8 Plot Hole
 	8 Fade to Black
@@ -720,6 +762,8 @@
 	8 Reclaimed Lab
 	8 Scientific Retreat
 	8 Stark Graveyard
+	8 Flubbed Stunt
+	8 Vault Fire
 [common | masterpiece(1)]
 	8 Plot Hole
 	8 Fade to Black
@@ -739,6 +783,8 @@
 	8 Reclaimed Lab
 	8 Scientific Retreat
 	8 Stark Graveyard
+	8 Flubbed Stunt
+	8 Vault Fire
 [foil(1)]
 	12 Plot Hole
 	2 Heartwarming Romance
@@ -805,6 +851,10 @@
 	12 Reclaimed Lab
 	12 Scientific Retreat
 	12 Stark Graveyard
+	12 Flubbed Stunt
+	6 Fashionably Late
+	12 Vault Fire
+	2 Blacklist
 [wildcard(1)]
 	6 Plot Hole
 	7 Heartwarming Romance
@@ -871,3 +921,7 @@
 	6 Reclaimed Lab
 	6 Scientific Retreat
 	6 Stark Graveyard
+	6 Flubbed Stunt
+	15 Fashionably Late
+	6 Vault Fire
+	7 Blacklist
