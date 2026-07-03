@@ -1,4 +1,58 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Utility Belt added.
+Okkult, Chaos Witch added.
+Galebender Rescuer added.
+Emerge from the Shadows added.
+Strength Monger added.
+Grim Piper added.
+Street Dancer added.
+Pristine Goonbot added.
+Devious Duo added.
+Enforcer of the Will added.
+Living Shadow added.
+Martyr's Blood added.
+Divine Abomination added.
+Enhanced Crawler Swarm added.
+Giggling Slasher added.
+Walking Exoskeleton added.
+Bearer of the Mooncurse added.
+
+
+MANTLES OF ALCOMEX (MAX)
+rules_text: WU 
+UB 
+BR Tactical [i](Pseudo-exalted as tactical can pour multiple abilities into one attacker)[/i]
+RG 
+GW Lifegain
+WB [/i][i]Alliance[/i][i][i]
+[/i]UR Second Draw [i](hi there TVN synergies)[/i]
+BG 
+RW 
+{G}{U} MV 4+ [i](hi there FLM synergies)[/i]
+
+Mechanics
+Tactical [i](At the beginning of combat on your turn, if this creature doesn't have summoning sickness, you may tap it. If you do, target creature you control gets +1/+0 and gains the following abilities until end of turn.)[/i]
+[i]Alliance[/i] — Whenever another creature you control enters
+Teamwork number [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power number or more.)[/i] => WU Flicker/leaves the battlefield without dying
+UB Saboteur
+BR Tactical [i](Pseudo-exalted as tactical can pour multiple abilities into one attacker)[/i]
+RG Roles
+GW Lifegain
+WB [/i][i]Alliance[/i][i][i]
+[/i]UR Second Draw [i](hi there TVN synergies)[/i]
+BG ‘Creature mastery' [i](2+ creature cards in grave)[/i]
+RW ‘Valorous'
+{G}{U} MV 4+ [i](hi there FLM synergies)[/i]
+
+Mechanics
+Tactical [i](At the beginning of combat on your turn, if this creature doesn't have summoning sickness, you may tap it. If you do, target creature you control gets +1/+0 and gains the following abilities until end of turn.)[/i]
+[i]Alliance[/i] — Whenever another creature you control enters
+Teamwork number [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power number or more.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Weftwalker, Edge's Lost added.
