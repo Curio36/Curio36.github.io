@@ -5,7 +5,7 @@
 			<name>MAX</name>
 			<longname>Mantles of Alcomex</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-03</releasedate>
+			<releasedate>2026-07-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -103,7 +103,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 {2}{W}{B}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains lifelink until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/47_Busy City Square.png" num="47">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/59_Busy City Square.png" num="59">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,7 +120,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 {2}{B}{R}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. When it dies this turn, each opponent loses 2 life. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/45_Acid Vats.png" num="45">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/56_Acid Vats.png" num="56">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -137,7 +137,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.
 {2}{G}{W}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains vigilance until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/46_Bountiful Orchard.png" num="46">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/58_Bountiful Orchard.png" num="58">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -154,7 +154,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
 {2}{U}{R}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains menace until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/49_Radioactive Mines.png" num="49">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/64_Radioactive Mines.png" num="64">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -171,7 +171,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 {2}{G}{U}, {T}, Sacrifice this land: Put a +1/+1 counter on each of one or two target creatures. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/48_Mystical Marsh.png" num="48">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/62_Mystical Marsh.png" num="62">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -478,7 +478,7 @@ At the beginning of combat on your turn, look at the top five cards of your libr
 Players can&apos;t gain life.
 Damage can&apos;t be prevented.
 Whenever a creature blocks, Lady Gore deals 1 damage to that creature&apos;s controller.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/38_Lady Gore, Death&apos;s Edge.png" num="38">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/44_Lady Gore, Death&apos;s Edge.png" num="44">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -496,7 +496,7 @@ Whenever a creature blocks, Lady Gore deals 1 damage to that creature&apos;s con
 			<name>The Immense, Failed Experiment</name>
 			<text>The Immense enters with X +1/+1 counters on it.
 Whenever The Immense deals combat damage to a player, draw a card. Then if the number of cards in your hand is greater than its power, put a +1/+1 counter on The Immense.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/36_The Immense, Failed Experiment.png" num="36">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/42_The Immense, Failed Experiment.png" num="42">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -534,7 +534,7 @@ Whenever The Immense deals combat damage to a player, draw a card. Then if the n
 			<name>Erdia Raxx, Humble CEO</name>
 			<text>Whenever you sacrifice another nontoken creature, create a 1/1 white Citizen creature token.
 Exhaust — Tap 10 untapped creatures you control: Your life total becomes equal to twice your starting life total. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/35_Erdia Raxx, Humble CEO.png" num="35">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/40_Erdia Raxx, Humble CEO.png" num="40">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -551,8 +551,8 @@ Exhaust — Tap 10 untapped creatures you control: Your life total becomes equal
 		<card>
 			<name>Vox Dei, Hallowed Leader</name>
 			<text>Creatures you control with no abilities get +1/+1.
-When this creature enters, up to one other target creature loses all abilities and becomes a Citizen creature with base power and toughness 3/3.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/42_Vox Dei, Hallowed Leader.png" num="42">MAX</set>
+When this creature enters, up to one other target creature loses all abilities and becomes a Cleric creature with base power and toughness 3/3.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/52_Vox Dei, Hallowed Leader.png" num="52">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -626,7 +626,7 @@ Whenever Godsclaw enters or attacks, discover 4. (Exile cards from the top of yo
 			<text>If a spell or ability an opponent controls causes you to discard this card, put it onto the battlefield instead of putting it into your graveyard.
 Moon Mad attacks each turn if able.
 Creature spells and abilities of creature sources you control can&apos;t be countered.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/40_Moon Mad, Unwilling Lunatic.png" num="40">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/46_Moon Mad, Unwilling Lunatic.png" num="46">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -682,7 +682,7 @@ Whenever The Heap attacks, you may put two cards exiled with it on the bottom of
 			<text>Deathtouch
 When The Centipede enters and at the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 Whenever The Centipede attacks, if there&apos;s five or more creature cards in your graveyard, he gets +5/+5 until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/34_The Centipede, Crawling Terror.png" num="34">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/37_The Centipede, Crawling Terror.png" num="37">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -700,7 +700,7 @@ Whenever The Centipede attacks, if there&apos;s five or more creature cards in y
 			<name>Martyr, Former Ally</name>
 			<text>Whenever Martyr is dealt damage, she deals that much damage to target opponent.
 {4}{RW}: Until end of turn, whenever another creature you control is dealt damage, it deals that much damage to target opponent.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/39_Martyr, Former Ally.png" num="39">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/45_Martyr, Former Ally.png" num="45">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -719,7 +719,7 @@ Whenever The Centipede attacks, if there&apos;s five or more creature cards in y
 			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)
 Whenever Umbra deals combat damage to a player, put that many recon counters on it.
 {2}{UB}, Sacrifice Umbra: Mill X cards, where X is the number of recon counters on him. Put a card milled this way into your hand.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/41_Umbra, the Devious Shadow.png" num="41">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/51_Umbra, the Devious Shadow.png" num="51">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -738,7 +738,7 @@ Whenever Umbra deals combat damage to a player, put that many recon counters on 
 			<text>Flying, vigilance
 Each player can&apos;t cast more than one spell each turn.
 Each player can&apos;t draw more than one card each turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/37_The Judge, Strict Arbiter.png" num="37">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/43_The Judge, Strict Arbiter.png" num="43">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -805,7 +805,7 @@ Teamwork number (As an additional cost to cast this spell, you may tap any numbe
 			<text>When this artifact enters, draw a card.
 Whenever another artifact you control enters, put a charge counter on this artifact.
 {4}, {T}, Exile this artifact: You may put an artifact card with mana value equal to or less than the number of charge counters on this artifact from your hand or graveyard onto the battlefield. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/43_Box of Scraps.png" num="43">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/53_Box of Scraps.png" num="53">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -821,7 +821,7 @@ Whenever another artifact you control enters, put a charge counter on this artif
 			<text>When this Equipment enters, attach it to target creature you control.
 Equipped creature gets +1/+1.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/44_Utility Belt.png" num="44">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/54_Utility Belt.png" num="54">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -924,7 +924,7 @@ During your turn, Roles you control have &quot;Enchanted creature gets +1/+1.&qu
 		<card>
 			<name>Street Dancer</name>
 			<text>Vigilance, menace
-Whenever you cast a spell or activate an ability that targets you or a permanent you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
+Whenever you or a permanent you control becomes the target of a spell or ability you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/27_Street Dancer.png" num="27">MAX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1116,6 +1116,258 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Fortress</name>
+			<text>{T}: Add {C}.
+{T}: Add {B} or {R}. Activate only if this land entered this turn or if you control a basic land.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/60_Dark Fortress.png" num="60">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gathering Place</name>
+			<text>{T}: Add {C}.
+{T}: Add {G} or {W}. Activate only if this land entered this turn or if you control a basic land.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/61_Gathering Place.png" num="61">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Overclocked Power Plant</name>
+			<text>{T}: Add {C}.
+{T}: Add {U} or {R}. Activate only if this land entered this turn or if you control a basic land.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/63_Overclocked Power Plant.png" num="63">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Austere Tower</name>
+			<text>{T}: Add {C}.
+{T}: Add {W} or {B}. Activate only if this land entered this turn or if you control a basic land.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/57_Austere Tower.png" num="57">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Abundant Gardens</name>
+			<text>{T}: Add {C}.
+{T}: Add {G} or {U}. Activate only if this land entered this turn or if you control a basic land.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/55_Abundant Gardens.png" num="55">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Helperbot V2</name>
+			<text>When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/41_Helperbot V2.png" num="41">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>W/UW/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcane Refocus</name>
+			<text>Discard up to two cards, then draw that many cards plus one.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/35_Arcane Refocus.png" num="35">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/RU/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Practitioners of Forbidden Arts</name>
+			<text>Flash
+Flying</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/48_Practitioners of Forbidden Arts.png" num="48">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ninja Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charging Flamebelcher</name>
+			<text>Haste
+When this creature dies, it deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/38_Charging Flamebelcher.png" num="38">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Runaway Pet</name>
+			<text>Trample
+When this creature enters, destroy up to one target artifact.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/49_Runaway Pet.png" num="49">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3R/G</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acolyte of the Voice</name>
+			<text>When this creature enters, you gain 2 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/34_Acolyte of the Voice.png" num="34">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>New Moon Disciple</name>
+			<text>When this creature enters, create a Healing Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has lifelink.)</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/47_New Moon Disciple.png" num="47">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Cleric Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Combat Baton</name>
+			<text>When this artifact enters, attach it to target creature you control.
+Equipped creature gets +1/+0 and has first strike.
+Equip {3}</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/39_Combat Baton.png" num="39">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Single-Celled Super-Evolver</name>
+			<text>Whenever another creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/50_Single-Celled Super-Evolver.png" num="50">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Germ Mutant Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>G/U</manacost>
+				<cmc>1</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bathe in the Swamps</name>
+			<text>Mill four cards, then you may return a creature card from among them to your hand. If you don&apos;t put a card into your hand this way, gain 2 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/36_Bathe in the Swamps.png" num="36">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B/G</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

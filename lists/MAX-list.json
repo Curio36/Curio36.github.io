@@ -74,7 +74,7 @@
     },
     {
         "card_name": "The Judge, Strict Arbiter",
-        "number": 37,
+        "number": 43,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -82,7 +82,7 @@
     },
     {
         "card_name": "Umbra, the Devious Shadow",
-        "number": 41,
+        "number": 51,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -90,7 +90,7 @@
     },
     {
         "card_name": "Lady Gore, Death's Edge",
-        "number": 38,
+        "number": 44,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -98,7 +98,7 @@
     },
     {
         "card_name": "Moon Mad, Unwilling Lunatic",
-        "number": 40,
+        "number": 46,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -106,7 +106,7 @@
     },
     {
         "card_name": "Vox Dei, Hallowed Leader",
-        "number": 42,
+        "number": 52,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -193,6 +193,46 @@
         "position": ""
     },
     {
+        "card_name": "Helperbot V2",
+        "number": 41,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Practitioners of Forbidden Arts",
+        "number": 48,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Charging Flamebelcher",
+        "number": 38,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Runaway Pet",
+        "number": 49,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Acolyte of the Voice",
+        "number": 34,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "er"
     },
     {
@@ -249,7 +289,7 @@
     },
     {
         "card_name": "Erdia Raxx, Humble CEO",
-        "number": 35,
+        "number": 40,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -265,7 +305,7 @@
     },
     {
         "card_name": "The Centipede, Crawling Terror",
-        "number": 34,
+        "number": 37,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -273,7 +313,7 @@
     },
     {
         "card_name": "Martyr, Former Ally",
-        "number": 39,
+        "number": 45,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -281,7 +321,7 @@
     },
     {
         "card_name": "The Immense, Failed Experiment",
-        "number": 36,
+        "number": 42,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -368,11 +408,51 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "New Moon Disciple",
+        "number": 47,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Tempest Surge",
         "number": 29,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bathe in the Swamps",
+        "number": 36,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Combat Baton",
+        "number": 39,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Single-Celled Super-Evolver",
+        "number": 50,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Arcane Refocus",
+        "number": 35,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -402,7 +482,7 @@
     "a->colorless",
     {
         "card_name": "Box of Scraps",
-        "number": 43,
+        "number": 53,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -410,7 +490,7 @@
     },
     {
         "card_name": "Utility Belt",
-        "number": 44,
+        "number": 54,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -439,6 +519,31 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dark Fortress",
+        "number": 60,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gathering Place",
+        "number": 61,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -448,7 +553,7 @@
     },
     {
         "card_name": "Acid Vats",
-        "number": 45,
+        "number": 56,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -459,7 +564,7 @@
     },
     {
         "card_name": "Bountiful Orchard",
-        "number": 46,
+        "number": 58,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -481,8 +586,38 @@
         "card_name": "er"
     },
     {
+        "card_name": "Austere Tower",
+        "number": 57,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Overclocked Power Plant",
+        "number": 63,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Abundant Gardens",
+        "number": 55,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Busy City Square",
-        "number": 47,
+        "number": 59,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -490,7 +625,7 @@
     },
     {
         "card_name": "Radioactive Mines",
-        "number": 49,
+        "number": 64,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -504,7 +639,7 @@
     },
     {
         "card_name": "Mystical Marsh",
-        "number": 48,
+        "number": 62,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,

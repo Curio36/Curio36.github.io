@@ -1,4 +1,35 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Dark Fortress added.
+Gathering Place added.
+Overclocked Power Plant added.
+Austere Tower added.
+Abundant Gardens added.
+Helperbot V2 added.
+Arcane Refocus added.
+Practitioners of Forbidden Arts added.
+Charging Flamebelcher added.
+Runaway Pet added.
+Acolyte of the Voice added.
+New Moon Disciple added.
+Combat Baton added.
+Single-Celled Super-Evolver added.
+Bathe in the Swamps added.
+
+
+Vox Dei, Hallowed Leader
+rules_text: Creatures you control with no abilities get +1/+1.
+When this creature enters, up to one other target creature loses all abilities and becomes a Citizen creature with base power and toughness 3/3. => Creatures you control with no abilities get +1/+1.
+When this creature enters, up to one other target creature loses all abilities and becomes a Cleric creature with base power and toughness 3/3.
+
+Street Dancer
+rules_text: Vigilance, menace
+Whenever you cast a spell or activate an ability that targets you or a permanent you control, put a +1/+1 counter on this creature. This ability triggers only once each turn. => Vigilance, menace
+Whenever you or a permanent you control becomes the target of a spell or ability you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.

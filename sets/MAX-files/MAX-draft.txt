@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "47",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/47_Busy City Square.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/59_Busy City Square.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "45",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/45_Acid Vats.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/56_Acid Vats.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "46",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/46_Bountiful Orchard.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/58_Bountiful Orchard.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "49",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/49_Radioactive Mines.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/64_Radioactive Mines.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "48",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/48_Mystical Marsh.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/62_Mystical Marsh.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Legendary Creature — Zombie Villain",
-			"collector_number": "38",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/38_Lady Gore, Death's Edge.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/44_Lady Gore, Death's Edge.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G/U}{G/U}",
 			"type": "Legendary Creature — Mutant Villain",
-			"collector_number": "36",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/36_The Immense, Failed Experiment.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/42_The Immense, Failed Experiment.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Legendary Creature — Elf Villain",
-			"collector_number": "35",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/35_Erdia Raxx, Humble CEO.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/40_Erdia Raxx, Humble CEO.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Legendary Creature — Human Cleric Villain",
-			"collector_number": "42",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/42_Vox Dei, Hallowed Leader.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/52_Vox Dei, Hallowed Leader.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R/G}{R/G}",
 			"type": "Legendary Creature — Werewolf Villain",
-			"collector_number": "40",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/40_Moon Mad, Unwilling Lunatic.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/46_Moon Mad, Unwilling Lunatic.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B/G}",
 			"type": "Legendary Creature — Human Insect Villain",
-			"collector_number": "34",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/34_The Centipede, Crawling Terror.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/37_The Centipede, Crawling Terror.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R/W}",
 			"type": "Legendary Creature — Human Villain",
-			"collector_number": "39",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/39_Martyr, Former Ally.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/45_Martyr, Former Ally.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U/B}",
 			"type": "Legendary Creature — Human Rogue Villain",
-			"collector_number": "41",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/41_Umbra, the Devious Shadow.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/51_Umbra, the Devious Shadow.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Legendary Creature — Archon Villain",
-			"collector_number": "37",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/37_The Judge, Strict Arbiter.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/43_The Judge, Strict Arbiter.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "43",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/43_Box of Scraps.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/53_Box of Scraps.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "44",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/44_Utility Belt.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/54_Utility Belt.png"
 			}
 		},
 		{
@@ -609,6 +609,156 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/MAX-files/img/3_Bearer of the Mooncurse.png"
 			}
+		},
+		{
+			"name": "Dark Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/60_Dark Fortress.png"
+			}
+		},
+		{
+			"name": "Gathering Place",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/61_Gathering Place.png"
+			}
+		},
+		{
+			"name": "Overclocked Power Plant",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/63_Overclocked Power Plant.png"
+			}
+		},
+		{
+			"name": "Austere Tower",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/57_Austere Tower.png"
+			}
+		},
+		{
+			"name": "Abundant Gardens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/55_Abundant Gardens.png"
+			}
+		},
+		{
+			"name": "Helperbot V2",
+			"rarity": "common",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/41_Helperbot V2.png"
+			}
+		},
+		{
+			"name": "Arcane Refocus",
+			"rarity": "common",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/35_Arcane Refocus.png"
+			}
+		},
+		{
+			"name": "Practitioners of Forbidden Arts",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Human Ninja Minion",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/48_Practitioners of Forbidden Arts.png"
+			}
+		},
+		{
+			"name": "Charging Flamebelcher",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Goblin Warrior Hero",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/38_Charging Flamebelcher.png"
+			}
+		},
+		{
+			"name": "Runaway Pet",
+			"rarity": "common",
+			"mana_cost": "{3}{R/G}",
+			"type": "Creature — Beast",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/49_Runaway Pet.png"
+			}
+		},
+		{
+			"name": "Acolyte of the Voice",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Human Cleric Minion",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/34_Acolyte of the Voice.png"
+			}
+		},
+		{
+			"name": "New Moon Disciple",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Vampire Cleric Villain",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/47_New Moon Disciple.png"
+			}
+		},
+		{
+			"name": "Combat Baton",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/39_Combat Baton.png"
+			}
+		},
+		{
+			"name": "Single-Celled Super-Evolver",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Creature — Germ Mutant Minion",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/50_Single-Celled Super-Evolver.png"
+			}
+		},
+		{
+			"name": "Bathe in the Swamps",
+			"rarity": "common",
+			"mana_cost": "{1}{B/G}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/36_Bathe in the Swamps.png"
+			}
 		}
 	]
 
@@ -634,6 +784,11 @@
 	2 Umbra, the Devious Shadow
 	2 The Judge, Strict Arbiter
 	1 Okkult, Chaos Witch
+	2 Dark Fortress
+	2 Gathering Place
+	2 Overclocked Power Plant
+	2 Austere Tower
+	2 Abundant Gardens
 [uncommon(3)]
 	4 Gallant Soul
 	4 Skykelp Guardian
@@ -664,6 +819,16 @@
 	8 Mystical Marsh
 	8 Bounding Strongman
 	8 Utility Belt
+	8 Helperbot V2
+	8 Arcane Refocus
+	8 Practitioners of Forbidden Arts
+	8 Charging Flamebelcher
+	8 Runaway Pet
+	8 Acolyte of the Voice
+	8 New Moon Disciple
+	8 Combat Baton
+	8 Single-Celled Super-Evolver
+	8 Bathe in the Swamps
 [common | masterpiece(1)]
 	8 Busy City Square
 	8 Acid Vats
@@ -683,6 +848,16 @@
 	3 Through the Omenpath
 	8 Bounding Strongman
 	8 Utility Belt
+	8 Helperbot V2
+	8 Arcane Refocus
+	8 Practitioners of Forbidden Arts
+	8 Charging Flamebelcher
+	8 Runaway Pet
+	8 Acolyte of the Voice
+	8 New Moon Disciple
+	8 Combat Baton
+	8 Single-Celled Super-Evolver
+	8 Bathe in the Swamps
 [foil(1)]
 	6 Gallant Soul
 	6 Skykelp Guardian
@@ -733,6 +908,21 @@
 	6 Giggling Slasher
 	6 Walking Exoskeleton
 	6 Bearer of the Mooncurse
+	2 Dark Fortress
+	2 Gathering Place
+	2 Overclocked Power Plant
+	2 Austere Tower
+	2 Abundant Gardens
+	12 Helperbot V2
+	12 Arcane Refocus
+	12 Practitioners of Forbidden Arts
+	12 Charging Flamebelcher
+	12 Runaway Pet
+	12 Acolyte of the Voice
+	12 New Moon Disciple
+	12 Combat Baton
+	12 Single-Celled Super-Evolver
+	12 Bathe in the Swamps
 [wildcard(1)]
 	15 Gallant Soul
 	15 Skykelp Guardian
@@ -783,3 +973,18 @@
 	15 Giggling Slasher
 	15 Walking Exoskeleton
 	15 Bearer of the Mooncurse
+	7 Dark Fortress
+	7 Gathering Place
+	7 Overclocked Power Plant
+	7 Austere Tower
+	7 Abundant Gardens
+	6 Helperbot V2
+	6 Arcane Refocus
+	6 Practitioners of Forbidden Arts
+	6 Charging Flamebelcher
+	6 Runaway Pet
+	6 Acolyte of the Voice
+	6 New Moon Disciple
+	6 Combat Baton
+	6 Single-Celled Super-Evolver
+	6 Bathe in the Swamps
