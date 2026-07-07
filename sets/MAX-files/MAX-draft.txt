@@ -155,9 +155,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Artifact — Terminus Stone",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/6_The Terminus of Return.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/7_The Terminus of Return.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Human Spider Hero",
-			"collector_number": "10",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/10_Kavaero, Mind-Bitten.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/13_Kavaero, Mind-Bitten.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Symbiote Spider Hero",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/4_Egrix the Bile Bulwark.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/5_Egrix the Bile Bulwark.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human Scientist Villain",
-			"collector_number": "9",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/9_Druneth, Reviver of the Hive.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/12_Druneth, Reviver of the Hive.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Human Villain",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/7_Bayo, Irritable Instructor.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/9_Bayo, Irritable Instructor.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{W}{B}",
 			"type": "Legendary Creature — Human Villain",
-			"collector_number": "11",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/11_Withar, Cocoon Keeper.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/14_Withar, Cocoon Keeper.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{B}",
 			"type": "Sorcery",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/5_Hex of Undeath.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/6_Hex of Undeath.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/8_Through the Omenpath.png"
+				"en": "https://Curio36.github.io/sets/MAX-files/img/10_Through the Omenpath.png"
 			}
 		},
 		{
@@ -324,7 +324,7 @@
 			"name": "Faceless, Disguise Expert",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
-			"type": "Legendary Creature — Hero",
+			"type": "Legendary Creature — Shapeshifter Hero",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/MAX-files/img/11_Faceless, Disguise Expert.png"
@@ -418,16 +418,6 @@
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/MAX-files/img/1_Bounding Strongman.png"
-			}
-		},
-		{
-			"name": "MANTLES OF ALCOMEX (MAX)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/MAX-files/img/1t_MANTLES OF ALCOMEX (MAX).png"
 			}
 		},
 		{
@@ -759,6 +749,36 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/MAX-files/img/36_Bathe in the Swamps.png"
 			}
+		},
+		{
+			"name": "Yuan Yanfeng, the Perfected Breath",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Warrior Hero",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/11_Yuan Yanfeng, the Perfected Breath.png"
+			}
+		},
+		{
+			"name": "Phreaker, Cybersuit Savior",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Artifact Creature — Human Hero",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/4_Phreaker, Cybersuit Savior.png"
+			}
+		},
+		{
+			"name": "Arkane, Magicrafter",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Warlock Hero",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/MAX-files/img/8_Arkane, Magicrafter.png"
+			}
 		}
 	]
 
@@ -858,6 +878,9 @@
 	8 Combat Baton
 	8 Single-Celled Super-Evolver
 	8 Bathe in the Swamps
+	3 Yuan Yanfeng, the Perfected Breath
+	3 Phreaker, Cybersuit Savior
+	3 Arkane, Magicrafter
 [foil(1)]
 	6 Gallant Soul
 	6 Skykelp Guardian

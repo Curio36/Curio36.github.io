@@ -5,7 +5,7 @@
 			<name>MAX</name>
 			<longname>Mantles of Alcomex</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-05</releasedate>
+			<releasedate>2026-07-06</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -282,7 +282,7 @@ White Knight assigns combat damage equal to her toughness rather than her power.
 {T}: Add {B}.
 {6}{B}, {T}, Exile a creature you control: Harness The Terminus of Return. (Once harnessed, its Origin ability is active.)
 Origin — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/6_The Terminus of Return.png" num="6">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/7_The Terminus of Return.png" num="7">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -317,7 +317,7 @@ Origin — At the beginning of your end step, exile up to one other target nonla
 		<card>
 			<name>Kavaero, Mind-Bitten</name>
 			<text>You may have Kavaero enter as a copy of any creature card in a graveyard, except his name is Kavaero, Mind-Bitten and he&apos;s a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/10_Kavaero, Mind-Bitten.png" num="10">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/13_Kavaero, Mind-Bitten.png" num="13">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -335,7 +335,7 @@ Origin — At the beginning of your end step, exile up to one other target nonla
 			<name>Egrix the Bile Bulwark</name>
 			<text>Deathtouch, lifelink
 Whenever Egrix attacks, until end of turn you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/4_Egrix the Bile Bulwark.png" num="4">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/5_Egrix the Bile Bulwark.png" num="5">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -371,7 +371,7 @@ If damage would be dealt to Verilax, prevent that damage and put that many +1/+1
 			<name>Druneth, Reviver of the Hive</name>
 			<text>Trample
 Whenever you cast a creature spell with mana value equal to Druneth&apos;s power, copy that spell, except the copy isn&apos;t legendary. Then put a +1/+1 counter on Druneth. (The copy becomes a token.)</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/9_Druneth, Reviver of the Hive.png" num="9">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/12_Druneth, Reviver of the Hive.png" num="12">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -391,7 +391,7 @@ Whenever you cast a creature spell with mana value equal to Druneth&apos;s power
 You don&apos;t lose unspent red mana as steps and phases end.
 Whenever you cast an instant or sorcery spell, add {R}.
 When Bayo leaves the battlefield, you may pay {X}. When you do, he deals X damage to target player.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/7_Bayo, Irritable Instructor.png" num="7">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/9_Bayo, Irritable Instructor.png" num="9">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +409,7 @@ When Bayo leaves the battlefield, you may pay {X}. When you do, he deals X damag
 			<name>Withar, Cocoon Keeper</name>
 			<text>Vigilance, lifelink
 When Withar enters, you may exchange your life total with target opponent. If you lose life this way, draw that many cards.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/11_Withar, Cocoon Keeper.png" num="11">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/14_Withar, Cocoon Keeper.png" num="14">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -426,7 +426,7 @@ When Withar enters, you may exchange your life total with target opponent. If yo
 		<card>
 			<name>Hex of Undeath</name>
 			<text>Return up to six target creature cards with different names from your graveyard to the battlefield.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/5_Hex of Undeath.png" num="5">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/6_Hex of Undeath.png" num="6">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -459,7 +459,7 @@ When Withar enters, you may exchange your life total with target opponent. If yo
 			<name>Through the Omenpath</name>
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
 At the beginning of combat on your turn, look at the top five cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/8_Through the Omenpath.png" num="8">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/10_Through the Omenpath.png" num="10">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -592,7 +592,7 @@ Whenever one or more permanents are exiled from the battlefield, put that many +
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Hero</type>
+				<type>Legendary Creature — Shapeshifter Hero</type>
 				<maintype>Creature</maintype>
 				<manacost>3UB</manacost>
 				<cmc>5</cmc>
@@ -769,36 +769,6 @@ When this creature enters, you may discard a card. If you do, draw a card.</text
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>MANTLES OF ALCOMEX (MAX) MAX</name>
-			<text>WU Flicker/leaves the battlefield without dying
-UB Saboteur
-BR Tactical (Pseudo-exalted as tactical can pour multiple abilities into one attacker)
-RG Roles
-GW Lifegain
-WB Alliance
-UR Second Draw (hi there TVN synergies)
-BG ‘Creature mastery&apos; (2+ creature cards in grave)
-RW ‘Valorous&apos;
-{G}{U} MV 4+ (hi there FLM synergies)
-
-Mechanics
-Tactical (At the beginning of combat on your turn, if this creature doesn&apos;t have summoning sickness, you may tap it. If you do, target creature you control gets +1/+0 and gains the following abilities until end of turn.)
-Alliance — Whenever another creature you control enters
-Teamwork number (As an additional cost to cast this spell, you may tap any number of creatures you control with total power number or more.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/1t_MANTLES OF ALCOMEX (MAX).png" num="1">MAX</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WUBRG</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
 		</card>
 		<card>
 			<name>Box of Scraps</name>
@@ -1368,6 +1338,60 @@ Equip {3}</text>
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Yuan Yanfeng, the Perfected Breath</name>
+			<text>You may activate abilities of creatures you control as though those creatures had haste.
+{T}: Add two mana of any one color. Spend this mana only to activate abilities of creature sources.</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/11_Yuan Yanfeng, the Perfected Breath.png" num="11">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Phreaker, Cybersuit Savior</name>
+			<text>Flying
+Whenever you cast an artifact spell, you may copy it, except the copy isn&apos;t legendary. Do this only once each turn. (The copy becomes a token.)</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/4_Phreaker, Cybersuit Savior.png" num="4">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arkane, Magicrafter</name>
+			<text>Whenever you cast a spell from anywhere other than your hand, Arkane deals 2 damage to each opponent.
+{2}{R}, {T}, Discard a card: Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost.</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/8_Arkane, Magicrafter.png" num="8">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

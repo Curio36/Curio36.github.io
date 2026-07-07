@@ -1,4 +1,17 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Yuan Yanfeng, the Perfected Breath added.
+Phreaker, Cybersuit Savior added.
+Arkane, Magicrafter added.
+
+MANTLES OF ALCOMEX (MAX) removed.
+
+Faceless, Disguise Expert
+type: Legendary Creature — Hero => Legendary Creature — Shapeshifter Hero
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.

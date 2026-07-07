@@ -657,39 +657,6 @@
     {
         "card_name": "er"
     },
-    "a->token",
-    {
-        "card_name": "MANTLES OF ALCOMEX (MAX)",
-        "number": 1,
-        "shape": "token",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
     "a->masterpiece",
     {
         "card_name": "The Terminus of Apparition",
@@ -716,7 +683,7 @@
         "position": ""
     },
     {
-        "card_name": "Egrix the Bile Bulwark",
+        "card_name": "Phreaker, Cybersuit Savior",
         "number": 4,
         "shape": "normal",
         "set": "MAX",
@@ -724,7 +691,7 @@
         "position": ""
     },
     {
-        "card_name": "Hex of Undeath",
+        "card_name": "Egrix the Bile Bulwark",
         "number": 5,
         "shape": "normal",
         "set": "MAX",
@@ -732,7 +699,7 @@
         "position": ""
     },
     {
-        "card_name": "The Terminus of Return",
+        "card_name": "Hex of Undeath",
         "number": 6,
         "shape": "normal",
         "set": "MAX",
@@ -740,7 +707,7 @@
         "position": ""
     },
     {
-        "card_name": "Bayo, Irritable Instructor",
+        "card_name": "The Terminus of Return",
         "number": 7,
         "shape": "normal",
         "set": "MAX",
@@ -748,7 +715,7 @@
         "position": ""
     },
     {
-        "card_name": "Through the Omenpath",
+        "card_name": "Arkane, Magicrafter",
         "number": 8,
         "shape": "normal",
         "set": "MAX",
@@ -756,7 +723,7 @@
         "position": ""
     },
     {
-        "card_name": "Druneth, Reviver of the Hive",
+        "card_name": "Bayo, Irritable Instructor",
         "number": 9,
         "shape": "normal",
         "set": "MAX",
@@ -764,7 +731,7 @@
         "position": ""
     },
     {
-        "card_name": "Kavaero, Mind-Bitten",
+        "card_name": "Through the Omenpath",
         "number": 10,
         "shape": "normal",
         "set": "MAX",
@@ -772,7 +739,7 @@
         "position": ""
     },
     {
-        "card_name": "Withar, Cocoon Keeper",
+        "card_name": "Yuan Yanfeng, the Perfected Breath",
         "number": 11,
         "shape": "normal",
         "set": "MAX",
@@ -780,13 +747,28 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Druneth, Reviver of the Hive",
+        "number": 12,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Kavaero, Mind-Bitten",
+        "number": 13,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Withar, Cocoon Keeper",
+        "number": 14,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
