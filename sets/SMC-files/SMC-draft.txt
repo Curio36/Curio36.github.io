@@ -851,16 +851,6 @@
 			}
 		},
 		{
-			"name": "Volcano Wario's Deflection",
-			"rarity": "rare",
-			"mana_cost": "{U}{R}",
-			"type": "Instant",
-			"collector_number": "72",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMC-files/img/72_Volcano Wario's Deflection.png"
-			}
-		},
-		{
 			"name": "King Boo, Haunted Hotelier",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
@@ -888,6 +878,16 @@
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMC-files/img/48_Elite Magikoopa.png"
+			}
+		},
+		{
+			"name": "Volcano Wario's Deflection",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMC-files/img/72_Volcano Wario's Deflection.png"
 			}
 		}
 	]
@@ -962,10 +962,10 @@
 	2 Wingo, Thieving Roc
 	2 Madame Grape
 	2 Bowser's Muscle Car V2
-	2 Volcano Wario's Deflection
 	2 King Boo, Haunted Hotelier
 	2 The Lord of Lightning
 	2 Elite Magikoopa
+	2 Volcano Wario's Deflection
 [uncommon(3)]
 	4 Lava Moat Blargg
 [common(6)]
@@ -1041,10 +1041,10 @@
 	2 Wingo, Thieving Roc
 	2 Madame Grape
 	2 Bowser's Muscle Car V2
-	2 Volcano Wario's Deflection
 	2 King Boo, Haunted Hotelier
 	2 The Lord of Lightning
 	2 Elite Magikoopa
+	2 Volcano Wario's Deflection
 [wildcard(1)]
 	7 Lord Fredrik, the Snowmad King
 	7 Jr. Troopa, Recurring Boss
@@ -1116,7 +1116,7 @@
 	7 Wingo, Thieving Roc
 	7 Madame Grape
 	7 Bowser's Muscle Car V2
-	7 Volcano Wario's Deflection
 	7 King Boo, Haunted Hotelier
 	7 The Lord of Lightning
 	7 Elite Magikoopa
+	7 Volcano Wario's Deflection

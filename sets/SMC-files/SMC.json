@@ -1536,24 +1536,6 @@
             "notes": ""
         },
         {
-            "card_name": "Volcano Wario's Deflection",
-            "color": "UR",
-            "rarity": "rare",
-            "type": "Instant",
-            "number": 72,
-            "color_identity": "UR",
-            "cost": "{U}{R}",
-            "rules_text": "You may cast this spell without paying its mana cost if it targets a spell or ability targeting your commander.\nYou may choose new targets for target spell or ability with only one target. This spell deals 2 damage to that spell or ability's controller.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SMC",
-            "loyalty": "",
-            "artist": "TomZhao; Intelligent Systems",
-            "notes": ""
-        },
-        {
             "card_name": "King Boo, Haunted Hotelier",
             "color": "UB",
             "rarity": "rare",
@@ -1606,7 +1588,25 @@
             "loyalty": "",
             "artist": "SUPEDUPEmario; Ubisoft",
             "notes": ""
+        },
+        {
+            "card_name": "Volcano Wario's Deflection",
+            "color": "UR",
+            "rarity": "rare",
+            "type": "Instant",
+            "number": 72,
+            "color_identity": "UR",
+            "cost": "{U}{R}",
+            "rules_text": "You may cast this spell without paying its mana cost if it targets a spell or ability targeting your commander.\nYou may choose new targets for target spell or ability with only one target. This spell deals 2 damage to that spell or ability's controller.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SMC",
+            "loyalty": "",
+            "artist": "TomZhao; Intelligent Systems",
+            "notes": ""
         }
     ],
-    "version": 3
+    "version": 1
 }

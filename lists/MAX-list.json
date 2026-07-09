@@ -1,6 +1,11 @@
 ﻿[
     {
-        "card_name": "e"
+        "card_name": "Stellar Guardian",
+        "number": 1,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -10,7 +15,7 @@
     },
     {
         "card_name": "Bounding Strongman",
-        "number": 1,
+        "number": 2,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -34,38 +39,6 @@
     "a->gold",
     {
         "card_name": "Weftwalker, Edge's Lost",
-        "number": 31,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Faceless, Disguise Expert",
-        "number": 11,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Red Hot, Blazing Streak",
-        "number": 23,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Godsclaw, Servant of Power",
-        "number": 15,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "White Knight, Sentinel Supreme",
         "number": 32,
         "shape": "normal",
         "set": "MAX",
@@ -73,87 +46,7 @@
         "position": ""
     },
     {
-        "card_name": "The Judge, Strict Arbiter",
-        "number": 43,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Umbra, the Devious Shadow",
-        "number": 51,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lady Gore, Death's Edge",
-        "number": 44,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Moon Mad, Unwilling Lunatic",
-        "number": 46,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Vox Dei, Hallowed Leader",
-        "number": 52,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Enforcer of the Will",
-        "number": 9,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Emerge from the Shadows",
-        "number": 8,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Giggling Slasher",
-        "number": 14,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bearer of the Mooncurse",
-        "number": 3,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Divine Abomination",
-        "number": 7,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Galebender Rescuer",
+        "card_name": "Faceless, Disguise Expert",
         "number": 12,
         "shape": "normal",
         "set": "MAX",
@@ -161,31 +54,111 @@
         "position": ""
     },
     {
-        "card_name": "Living Shadow",
-        "number": 19,
+        "card_name": "Red Hot, Blazing Streak",
+        "number": 24,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Sonic Rollerblader",
-        "number": 26,
+        "card_name": "Godsclaw, Servant of Power",
+        "number": 16,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Strength Monger",
-        "number": 28,
+        "card_name": "White Knight, Sentinel Supreme",
+        "number": 33,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Gallant Soul",
+        "card_name": "The Judge, Strict Arbiter",
+        "number": 44,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Umbra, the Devious Shadow",
+        "number": 52,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lady Gore, Death's Edge",
+        "number": 45,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Moon Mad, Unwilling Lunatic",
+        "number": 47,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vox Dei, Hallowed Leader",
+        "number": 53,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Enforcer of the Will",
+        "number": 10,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Emerge from the Shadows",
+        "number": 9,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Giggling Slasher",
+        "number": 15,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bearer of the Mooncurse",
+        "number": 4,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Divine Abomination",
+        "number": 8,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Galebender Rescuer",
         "number": 13,
         "shape": "normal",
         "set": "MAX",
@@ -193,8 +166,40 @@
         "position": ""
     },
     {
+        "card_name": "Living Shadow",
+        "number": 20,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sonic Rollerblader",
+        "number": 27,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Strength Monger",
+        "number": 29,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gallant Soul",
+        "number": 14,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Helperbot V2",
-        "number": 41,
+        "number": 42,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -202,22 +207,6 @@
     },
     {
         "card_name": "Practitioners of Forbidden Arts",
-        "number": 48,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Charging Flamebelcher",
-        "number": 38,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Runaway Pet",
         "number": 49,
         "shape": "normal",
         "set": "MAX",
@@ -225,8 +214,24 @@
         "position": ""
     },
     {
+        "card_name": "Charging Flamebelcher",
+        "number": 39,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Runaway Pet",
+        "number": 50,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Acolyte of the Voice",
-        "number": 34,
+        "number": 35,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -249,54 +254,6 @@
     },
     {
         "card_name": "Black Sheep, Shining Beacon",
-        "number": 4,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Okkult, Chaos Witch",
-        "number": 21,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "The Heap, Walking Fen",
-        "number": 18,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Acrobat, Gymnastic Hero",
-        "number": 2,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Green Thumb, Phytomistress",
-        "number": 16,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Erdia Raxx, Humble CEO",
-        "number": 40,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Blue Skies, Aerial Ace",
         "number": 5,
         "shape": "normal",
         "set": "MAX",
@@ -304,79 +261,7 @@
         "position": ""
     },
     {
-        "card_name": "The Centipede, Crawling Terror",
-        "number": 37,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Martyr, Former Ally",
-        "number": 45,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "The Immense, Failed Experiment",
-        "number": 42,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Devious Duo",
-        "number": 6,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "5P-4M, Evil Supercomputer",
-        "number": 33,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Grim Piper",
-        "number": 17,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Martyr's Blood",
-        "number": 20,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Enhanced Crawler Swarm",
-        "number": 10,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reformed Pragmatist",
-        "number": 24,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Pristine Goonbot",
+        "card_name": "Okkult, Chaos Witch",
         "number": 22,
         "shape": "normal",
         "set": "MAX",
@@ -384,23 +269,111 @@
         "position": ""
     },
     {
-        "card_name": "Walking Exoskeleton",
-        "number": 30,
+        "card_name": "The Heap, Walking Fen",
+        "number": 19,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Street Dancer",
-        "number": 27,
+        "card_name": "Acrobat, Gymnastic Hero",
+        "number": 3,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Skykelp Guardian",
+        "card_name": "Green Thumb, Phytomistress",
+        "number": 17,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Erdia Raxx, Humble CEO",
+        "number": 41,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blue Skies, Aerial Ace",
+        "number": 6,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Centipede, Crawling Terror",
+        "number": 38,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Martyr, Former Ally",
+        "number": 46,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Immense, Failed Experiment",
+        "number": 43,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Devious Duo",
+        "number": 7,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "5P-4M, Evil Supercomputer",
+        "number": 34,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grim Piper",
+        "number": 18,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Martyr's Blood",
+        "number": 21,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Enhanced Crawler Swarm",
+        "number": 11,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reformed Pragmatist",
         "number": 25,
         "shape": "normal",
         "set": "MAX",
@@ -408,8 +381,40 @@
         "position": ""
     },
     {
+        "card_name": "Pristine Goonbot",
+        "number": 23,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Walking Exoskeleton",
+        "number": 31,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Street Dancer",
+        "number": 28,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skykelp Guardian",
+        "number": 26,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "New Moon Disciple",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -417,7 +422,7 @@
     },
     {
         "card_name": "Tempest Surge",
-        "number": 29,
+        "number": 30,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -425,7 +430,7 @@
     },
     {
         "card_name": "Bathe in the Swamps",
-        "number": 36,
+        "number": 37,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -433,7 +438,7 @@
     },
     {
         "card_name": "Combat Baton",
-        "number": 39,
+        "number": 40,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -441,7 +446,7 @@
     },
     {
         "card_name": "Single-Celled Super-Evolver",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -452,7 +457,7 @@
     },
     {
         "card_name": "Arcane Refocus",
-        "number": 35,
+        "number": 36,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -482,7 +487,7 @@
     "a->colorless",
     {
         "card_name": "Box of Scraps",
-        "number": 53,
+        "number": 54,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -490,7 +495,7 @@
     },
     {
         "card_name": "Utility Belt",
-        "number": 54,
+        "number": 55,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -528,7 +533,7 @@
     },
     {
         "card_name": "Dark Fortress",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -539,7 +544,7 @@
     },
     {
         "card_name": "Gathering Place",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -553,7 +558,7 @@
     },
     {
         "card_name": "Acid Vats",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -564,7 +569,7 @@
     },
     {
         "card_name": "Bountiful Orchard",
-        "number": 58,
+        "number": 59,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -587,7 +592,7 @@
     },
     {
         "card_name": "Austere Tower",
-        "number": 57,
+        "number": 58,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
@@ -595,36 +600,6 @@
     },
     {
         "card_name": "Overclocked Power Plant",
-        "number": 63,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Abundant Gardens",
-        "number": 55,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Busy City Square",
-        "number": 59,
-        "shape": "normal",
-        "set": "MAX",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Radioactive Mines",
         "number": 64,
         "shape": "normal",
         "set": "MAX",
@@ -638,12 +613,75 @@
         "card_name": "e"
     },
     {
-        "card_name": "Mystical Marsh",
-        "number": 62,
+        "card_name": "Abundant Gardens",
+        "number": 56,
         "shape": "normal",
         "set": "MAX",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "Busy City Square",
+        "number": 60,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Radioactive Mines",
+        "number": 65,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mystical Marsh",
+        "number": 63,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "MANTLES OF ALCOMEX (MAX)",
+        "number": 1,
+        "shape": "token",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -658,6 +696,22 @@
         "card_name": "er"
     },
     "a->masterpiece",
+    {
+        "card_name": "Guiding Astrolabe",
+        "number": 19,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Melchior, Artificial Invasion",
+        "number": 20,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
     {
         "card_name": "The Terminus of Apparition",
         "number": 1,
@@ -683,7 +737,7 @@
         "position": ""
     },
     {
-        "card_name": "Phreaker, Cybersuit Savior",
+        "card_name": "Nok, Grimgill Raid Captain",
         "number": 4,
         "shape": "normal",
         "set": "MAX",
@@ -691,7 +745,7 @@
         "position": ""
     },
     {
-        "card_name": "Egrix the Bile Bulwark",
+        "card_name": "Phreaker, Cybersuit Savior",
         "number": 5,
         "shape": "normal",
         "set": "MAX",
@@ -699,7 +753,7 @@
         "position": ""
     },
     {
-        "card_name": "Hex of Undeath",
+        "card_name": "Duras, the Dark Eye",
         "number": 6,
         "shape": "normal",
         "set": "MAX",
@@ -707,7 +761,7 @@
         "position": ""
     },
     {
-        "card_name": "The Terminus of Return",
+        "card_name": "Egrix the Bile Bulwark",
         "number": 7,
         "shape": "normal",
         "set": "MAX",
@@ -715,7 +769,7 @@
         "position": ""
     },
     {
-        "card_name": "Arkane, Magicrafter",
+        "card_name": "Hex of Undeath",
         "number": 8,
         "shape": "normal",
         "set": "MAX",
@@ -723,7 +777,7 @@
         "position": ""
     },
     {
-        "card_name": "Bayo, Irritable Instructor",
+        "card_name": "The Terminus of Return",
         "number": 9,
         "shape": "normal",
         "set": "MAX",
@@ -731,7 +785,7 @@
         "position": ""
     },
     {
-        "card_name": "Through the Omenpath",
+        "card_name": "Arkane, Magicrafter",
         "number": 10,
         "shape": "normal",
         "set": "MAX",
@@ -739,7 +793,7 @@
         "position": ""
     },
     {
-        "card_name": "Yuan Yanfeng, the Perfected Breath",
+        "card_name": "Bayo, Irritable Instructor",
         "number": 11,
         "shape": "normal",
         "set": "MAX",
@@ -747,7 +801,7 @@
         "position": ""
     },
     {
-        "card_name": "Druneth, Reviver of the Hive",
+        "card_name": "Tongue of the Charmer",
         "number": 12,
         "shape": "normal",
         "set": "MAX",
@@ -755,7 +809,7 @@
         "position": ""
     },
     {
-        "card_name": "Kavaero, Mind-Bitten",
+        "card_name": "Cavestalker Territory",
         "number": 13,
         "shape": "normal",
         "set": "MAX",
@@ -763,7 +817,7 @@
         "position": ""
     },
     {
-        "card_name": "Withar, Cocoon Keeper",
+        "card_name": "Through the Omenpath",
         "number": 14,
         "shape": "normal",
         "set": "MAX",
@@ -771,7 +825,36 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Yuan Yanfeng, the Perfected Breath",
+        "number": 15,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Druneth, Reviver of the Hive",
+        "number": 16,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kavaero, Mind-Bitten",
+        "number": 17,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Withar, Cocoon Keeper",
+        "number": 18,
+        "shape": "normal",
+        "set": "MAX",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"

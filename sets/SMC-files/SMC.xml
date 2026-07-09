@@ -5,7 +5,7 @@
 			<name>SMC</name>
 			<longname>Super Mario Brothers Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-28</releasedate>
+			<releasedate>2026-07-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1543,23 +1543,6 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Volcano Wario&apos;s Deflection</name>
-			<text>You may cast this spell without paying its mana cost if it targets a spell or ability targeting your commander.
-You may choose new targets for target spell or ability with only one target. This spell deals 2 damage to that spell or ability&apos;s controller.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/72_Volcano Wario&apos;s Deflection.png" num="72">SMC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
-				<colors>UR</colors>
-				<coloridentity>UR</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>King Boo, Haunted Hotelier</name>
 			<text>Flying, deathtouch
 Whenever King Boo attacks, you and defending player each reveal the top card of your library. You lose life equal to the lowest mana value among those cards and defending player loses life equal to the greatest mana value among them. Then you each draw a card.</text>
@@ -1613,6 +1596,23 @@ If an ability of another Minion, Noble, or Villain you control triggers, that ab
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volcano Wario&apos;s Deflection</name>
+			<text>You may cast this spell without paying its mana cost if it targets a spell or ability targeting your commander.
+You may choose new targets for target spell or ability with only one target. This spell deals 2 damage to that spell or ability&apos;s controller.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/72_Volcano Wario&apos;s Deflection.png" num="72">SMC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

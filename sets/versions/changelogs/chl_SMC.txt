@@ -1,30 +1,4 @@
-﻿VERSION 3 CHANGELOG
-====================
-
-
-
-Hungry Luma
-rules_text: Flying
-Whenever you cast an enchantment spell with mana value greater than this creature's power, put a +1/+1 counter on this creature, draw a card, then you can put a land card from your hand onto the battlefield. => Flying
-Whenever you cast an enchantment spell with mana value greater than this creature's power, put a +1/+1 counter on this creature, draw a card, then you may put a land card from your hand onto the battlefield.
-
-
-VERSION 2 CHANGELOG
-====================
-
-The Lord of Lightning added.
-Elite Magikoopa added.
-
-Captain Syrup, Black Sugar Bandit removed.
-Topmaniac, Battlerock King removed.
-
-Gooper Blooper
-rules_text: When this creature enters, tap target creature or artifact you don't control and put two stun counters on it.
-Encore {6}{U}{U} [i]({6}{U}{U}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)[/i] => When this creature enters, tap target artifact or creature you don't control and put two stun counters on it.
-Encore {6}{U}{U} [i]({6}{U}{U}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)[/i]
-
-
-VERSION 1 CHANGELOG
+﻿VERSION 1 CHANGELOG
 ====================
 
 First version published.

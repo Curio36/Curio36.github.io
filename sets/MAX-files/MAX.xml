@@ -5,7 +5,7 @@
 			<name>MAX</name>
 			<longname>Mantles of Alcomex</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-06</releasedate>
+			<releasedate>2026-07-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Gallant Soul</name>
 			<text>Vigilance
 Whenever you gain life, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/13_Gallant Soul.png" num="13">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/14_Gallant Soul.png" num="14">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Whenever you gain life, put a +1/+1 counter on this creature.</text>
 			<name>Skykelp Guardian</name>
 			<text>Flying, vigilance
 Whenever you cast a spell with mana value 4 or greater, you gain 2 life and scry 1.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/25_Skykelp Guardian.png" num="25">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/26_Skykelp Guardian.png" num="26">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -49,7 +49,7 @@ Whenever you cast a spell with mana value 4 or greater, you gain 2 life and scry
 			<name>Sonic Rollerblader</name>
 			<text>Tactical (At the beginning of combat on your turn, you may tap this creature. If you do, target creature you control gets +1/+0 and gains the following abilities until end of turn.)
 First strike, haste</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/26_Sonic Rollerblader.png" num="26">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/27_Sonic Rollerblader.png" num="27">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -67,7 +67,7 @@ First strike, haste</text>
 			<name>Tempest Surge</name>
 			<text>Teamwork 3 (As an additional cost to cast this spell, you may tap any number of creatures you control with total power 3 or more.)
 Draw two cards. If this spell was cast using teamwork, it deals damage to each opponent equal to the number of cards in your hand. Otherwise, it deals 2 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/29_Tempest Surge.png" num="29">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/30_Tempest Surge.png" num="30">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -84,7 +84,7 @@ Draw two cards. If this spell was cast using teamwork, it deals damage to each o
 			<name>Reformed Pragmatist</name>
 			<text>Deathtouch
 Alliance — Whenever another creature you control enters, target opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/24_Reformed Pragmatist.png" num="24">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/25_Reformed Pragmatist.png" num="25">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -103,7 +103,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 {2}{W}{B}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains lifelink until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/59_Busy City Square.png" num="59">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/60_Busy City Square.png" num="60">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,7 +120,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 {2}{B}{R}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. When it dies this turn, each opponent loses 2 life. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/56_Acid Vats.png" num="56">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/57_Acid Vats.png" num="57">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -137,7 +137,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.
 {2}{G}{W}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains vigilance until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/58_Bountiful Orchard.png" num="58">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/59_Bountiful Orchard.png" num="59">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -154,7 +154,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
 {2}{U}{R}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains menace until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/64_Radioactive Mines.png" num="64">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/65_Radioactive Mines.png" num="65">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -171,7 +171,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 {2}{G}{U}, {T}, Sacrifice this land: Put a +1/+1 counter on each of one or two target creatures. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/62_Mystical Marsh.png" num="62">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/63_Mystical Marsh.png" num="63">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -188,7 +188,7 @@ Alliance — Whenever another creature you control enters, target opponent loses
 			<text>Flying, ward {2}
 Whenever Blue Skies enters or attacks, draw a card.
 Whenever you draw a card, add {U} or {R}. You don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/5_Blue Skies, Aerial Ace.png" num="5">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/6_Blue Skies, Aerial Ace.png" num="6">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -207,7 +207,7 @@ Whenever you draw a card, add {U} or {R}. You don&apos;t lose this mana as steps
 			<text>Whenever you cast a spell with mana value 4 or greater, put two +1/+1 counters on target land you control. If that spell had mana value 8 or greater, double the number of +1/+1 counters on that land.
 {T}: Add one mana of any color.
 {T}: Target land you control becomes a 0/0 Elemental creature with vigilance and haste until end of turn. It&apos;s still a land. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/16_Green Thumb, Phytomistress.png" num="16">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/17_Green Thumb, Phytomistress.png" num="17">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -225,7 +225,7 @@ Whenever you draw a card, add {U} or {R}. You don&apos;t lose this mana as steps
 			<name>Black Sheep, Shining Beacon</name>
 			<text>Deathtouch, lifelink
 Whenever Black Sheep deals combat damage to an opponent, put target creature card from that player&apos;s graveyard onto the battlefield tapped under your control. That creature is a Hero in addition to its other types and gains &quot;If this creature would die, put it on the bottom of its owner&apos;s library instead.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/4_Black Sheep, Shining Beacon.png" num="4">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/5_Black Sheep, Shining Beacon.png" num="5">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -243,7 +243,7 @@ Whenever Black Sheep deals combat damage to an opponent, put target creature car
 			<name>Red Hot, Blazing Streak</name>
 			<text>Double strike, menace, haste
 Whenever you attack for the first time each turn, untap each creature you control with first strike, double strike, flash, menace, haste, or tactical. After this phase, there is an additional combat phase.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/23_Red Hot, Blazing Streak.png" num="23">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/24_Red Hot, Blazing Streak.png" num="24">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -262,7 +262,7 @@ Whenever you attack for the first time each turn, untap each creature you contro
 			<text>Vigilance, lifelink
 You and other creatures you control have hexproof.
 White Knight assigns combat damage equal to her toughness rather than her power.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/32_White Knight, Sentinel Supreme.png" num="32">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/33_White Knight, Sentinel Supreme.png" num="33">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -282,7 +282,7 @@ White Knight assigns combat damage equal to her toughness rather than her power.
 {T}: Add {B}.
 {6}{B}, {T}, Exile a creature you control: Harness The Terminus of Return. (Once harnessed, its Origin ability is active.)
 Origin — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/7_The Terminus of Return.png" num="7">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/9_The Terminus of Return.png" num="9">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -317,7 +317,7 @@ Origin — At the beginning of your end step, exile up to one other target nonla
 		<card>
 			<name>Kavaero, Mind-Bitten</name>
 			<text>You may have Kavaero enter as a copy of any creature card in a graveyard, except his name is Kavaero, Mind-Bitten and he&apos;s a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/13_Kavaero, Mind-Bitten.png" num="13">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/17_Kavaero, Mind-Bitten.png" num="17">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -335,7 +335,7 @@ Origin — At the beginning of your end step, exile up to one other target nonla
 			<name>Egrix the Bile Bulwark</name>
 			<text>Deathtouch, lifelink
 Whenever Egrix attacks, until end of turn you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/5_Egrix the Bile Bulwark.png" num="5">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/7_Egrix the Bile Bulwark.png" num="7">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -371,7 +371,7 @@ If damage would be dealt to Verilax, prevent that damage and put that many +1/+1
 			<name>Druneth, Reviver of the Hive</name>
 			<text>Trample
 Whenever you cast a creature spell with mana value equal to Druneth&apos;s power, copy that spell, except the copy isn&apos;t legendary. Then put a +1/+1 counter on Druneth. (The copy becomes a token.)</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/12_Druneth, Reviver of the Hive.png" num="12">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/16_Druneth, Reviver of the Hive.png" num="16">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -391,7 +391,7 @@ Whenever you cast a creature spell with mana value equal to Druneth&apos;s power
 You don&apos;t lose unspent red mana as steps and phases end.
 Whenever you cast an instant or sorcery spell, add {R}.
 When Bayo leaves the battlefield, you may pay {X}. When you do, he deals X damage to target player.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/9_Bayo, Irritable Instructor.png" num="9">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/11_Bayo, Irritable Instructor.png" num="11">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +409,7 @@ When Bayo leaves the battlefield, you may pay {X}. When you do, he deals X damag
 			<name>Withar, Cocoon Keeper</name>
 			<text>Vigilance, lifelink
 When Withar enters, you may exchange your life total with target opponent. If you lose life this way, draw that many cards.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/14_Withar, Cocoon Keeper.png" num="14">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/18_Withar, Cocoon Keeper.png" num="18">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -426,7 +426,7 @@ When Withar enters, you may exchange your life total with target opponent. If yo
 		<card>
 			<name>Hex of Undeath</name>
 			<text>Return up to six target creature cards with different names from your graveyard to the battlefield.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/6_Hex of Undeath.png" num="6">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/8_Hex of Undeath.png" num="8">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -459,7 +459,7 @@ When Withar enters, you may exchange your life total with target opponent. If yo
 			<name>Through the Omenpath</name>
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
 At the beginning of combat on your turn, look at the top five cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/10_Through the Omenpath.png" num="10">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/14_Through the Omenpath.png" num="14">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -478,7 +478,7 @@ At the beginning of combat on your turn, look at the top five cards of your libr
 Players can&apos;t gain life.
 Damage can&apos;t be prevented.
 Whenever a creature blocks, Lady Gore deals 1 damage to that creature&apos;s controller.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/44_Lady Gore, Death&apos;s Edge.png" num="44">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/45_Lady Gore, Death&apos;s Edge.png" num="45">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -496,7 +496,7 @@ Whenever a creature blocks, Lady Gore deals 1 damage to that creature&apos;s con
 			<name>The Immense, Failed Experiment</name>
 			<text>The Immense enters with X +1/+1 counters on it.
 Whenever The Immense deals combat damage to a player, draw a card. Then if the number of cards in your hand is greater than its power, put a +1/+1 counter on The Immense.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/42_The Immense, Failed Experiment.png" num="42">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/43_The Immense, Failed Experiment.png" num="43">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -516,7 +516,7 @@ Whenever The Immense deals combat damage to a player, draw a card. Then if the n
 {T}, Discard a card: Draw a card.
 {T}, Discard a blue card: Untap two other target nonland permanents you control.
 {T}, Discard a red card: Create a tapped Treasure token.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/33_5P-4M, Evil Supercomputer.png" num="33">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/34_5P-4M, Evil Supercomputer.png" num="34">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -534,7 +534,7 @@ Whenever The Immense deals combat damage to a player, draw a card. Then if the n
 			<name>Erdia Raxx, Humble CEO</name>
 			<text>Whenever you sacrifice another nontoken creature, create a 1/1 white Citizen creature token.
 Exhaust — Tap 10 untapped creatures you control: Your life total becomes equal to twice your starting life total. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/40_Erdia Raxx, Humble CEO.png" num="40">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/41_Erdia Raxx, Humble CEO.png" num="41">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -552,7 +552,7 @@ Exhaust — Tap 10 untapped creatures you control: Your life total becomes equal
 			<name>Vox Dei, Hallowed Leader</name>
 			<text>Creatures you control with no abilities get +1/+1.
 When this creature enters, up to one other target creature loses all abilities and becomes a Cleric creature with base power and toughness 3/3.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/52_Vox Dei, Hallowed Leader.png" num="52">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/53_Vox Dei, Hallowed Leader.png" num="53">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -571,7 +571,7 @@ When this creature enters, up to one other target creature loses all abilities a
 			<text>Weftwalker can&apos;t be blocked.
 When Weftwalker enters, exile up to one other target nonland permanent until she leaves the battlefield.
 Whenever one or more permanents are exiled from the battlefield, put that many +1/+1 counters on Weftwalker.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/31_Weftwalker, Edge&apos;s Lost.png" num="31">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/32_Weftwalker, Edge&apos;s Lost.png" num="32">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -588,7 +588,7 @@ Whenever one or more permanents are exiled from the battlefield, put that many +
 		<card>
 			<name>Faceless, Disguise Expert</name>
 			<text>You may have Faceless enter as a copy of any creature on the battlefield or any creature card in a graveyard, except it&apos;s a Hero in addition to its other types and it has &quot;Whenever this creature deals combat damage to a player, create a token that&apos;s a copy of it except it&apos;s a 1/1 and doesn&apos;t have this ability.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/11_Faceless, Disguise Expert.png" num="11">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/12_Faceless, Disguise Expert.png" num="12">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -607,7 +607,7 @@ Whenever one or more permanents are exiled from the battlefield, put that many +
 			<text>This spell can&apos;t be countered.
 Trample
 Whenever Godsclaw enters or attacks, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/15_Godsclaw, Servant of Power.png" num="15">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/16_Godsclaw, Servant of Power.png" num="16">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -624,9 +624,9 @@ Whenever Godsclaw enters or attacks, discover 4. (Exile cards from the top of yo
 		<card>
 			<name>Moon Mad, Unwilling Lunatic</name>
 			<text>If a spell or ability an opponent controls causes you to discard this card, put it onto the battlefield instead of putting it into your graveyard.
-Moon Mad attacks each turn if able.
+Moon Mad can&apos;t block.
 Creature spells and abilities of creature sources you control can&apos;t be countered.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/46_Moon Mad, Unwilling Lunatic.png" num="46">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/47_Moon Mad, Unwilling Lunatic.png" num="47">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -644,7 +644,7 @@ Creature spells and abilities of creature sources you control can&apos;t be coun
 			<name>Acrobat, Gymnastic Hero</name>
 			<text>During your turn, Acrobat has first strike and flying.
 Noncreature spells cost {1} more to cast.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/2_Acrobat, Gymnastic Hero.png" num="2">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/3_Acrobat, Gymnastic Hero.png" num="3">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -663,7 +663,7 @@ Noncreature spells cost {1} more to cast.</text>
 			<text>Deathtouch
 If a creature would die, exile it instead.
 Whenever The Heap attacks, you may put two cards exiled with it on the bottom of their owner&apos;s library in a random order. If you do, you gain 1 life and draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/18_The Heap, Walking Fen.png" num="18">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/19_The Heap, Walking Fen.png" num="19">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -682,7 +682,7 @@ Whenever The Heap attacks, you may put two cards exiled with it on the bottom of
 			<text>Deathtouch
 When The Centipede enters and at the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 Whenever The Centipede attacks, if there&apos;s five or more creature cards in your graveyard, he gets +5/+5 until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/37_The Centipede, Crawling Terror.png" num="37">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/38_The Centipede, Crawling Terror.png" num="38">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -700,7 +700,7 @@ Whenever The Centipede attacks, if there&apos;s five or more creature cards in y
 			<name>Martyr, Former Ally</name>
 			<text>Whenever Martyr is dealt damage, she deals that much damage to target opponent.
 {4}{RW}: Until end of turn, whenever another creature you control is dealt damage, it deals that much damage to target opponent.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/45_Martyr, Former Ally.png" num="45">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/46_Martyr, Former Ally.png" num="46">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -719,7 +719,7 @@ Whenever The Centipede attacks, if there&apos;s five or more creature cards in y
 			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)
 Whenever Umbra deals combat damage to a player, put that many recon counters on it.
 {2}{UB}, Sacrifice Umbra: Mill X cards, where X is the number of recon counters on him. Put a card milled this way into your hand.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/51_Umbra, the Devious Shadow.png" num="51">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/52_Umbra, the Devious Shadow.png" num="52">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -738,7 +738,7 @@ Whenever Umbra deals combat damage to a player, put that many recon counters on 
 			<text>Flying, vigilance
 Each player can&apos;t cast more than one spell each turn.
 Each player can&apos;t draw more than one card each turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/43_The Judge, Strict Arbiter.png" num="43">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/44_The Judge, Strict Arbiter.png" num="44">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -756,7 +756,7 @@ Each player can&apos;t draw more than one card each turn.</text>
 			<name>Bounding Strongman</name>
 			<text>Reach, trample
 When this creature enters, you may discard a card. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/1_Bounding Strongman.png" num="1">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/2_Bounding Strongman.png" num="2">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -775,7 +775,7 @@ When this creature enters, you may discard a card. If you do, draw a card.</text
 			<text>When this artifact enters, draw a card.
 Whenever another artifact you control enters, put a charge counter on this artifact.
 {4}, {T}, Exile this artifact: You may put an artifact card with mana value equal to or less than the number of charge counters on this artifact from your hand or graveyard onto the battlefield. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/53_Box of Scraps.png" num="53">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/54_Box of Scraps.png" num="54">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -791,7 +791,7 @@ Whenever another artifact you control enters, put a charge counter on this artif
 			<text>When this Equipment enters, attach it to target creature you control.
 Equipped creature gets +1/+1.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/54_Utility Belt.png" num="54">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/55_Utility Belt.png" num="55">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -806,7 +806,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Okkult, Chaos Witch</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 At the beginning of your end step, if you cast one or more noncreature spells this turn, exile cards from the top of your library until you exile cards with total mana value X or greater, where X is the number of noncreature spells you cast this turn. You may cast any number of spells from among them without paying their mana costs.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/MAX-files/img/21_Okkult, Chaos Witch.png" num="21">MAX</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/MAX-files/img/22_Okkult, Chaos Witch.png" num="22">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -825,7 +825,7 @@ At the beginning of your end step, if you cast one or more noncreature spells th
 			<text>Flash
 Flying
 When this creature enters, exile up to one other target creature. Return that card to the battlefield under its owner&apos;s control at the beginning of the next end step. If you controlled that creature, it enters with a +1/+1 counter on it. Otherwise, it enters tapped.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/12_Galebender Rescuer.png" num="12">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/13_Galebender Rescuer.png" num="13">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -843,7 +843,7 @@ When this creature enters, exile up to one other target creature. Return that ca
 			<name>Emerge from the Shadows</name>
 			<text>When this enchantment enters, target creature you control gets +1/+0 and can&apos;t be blocked this turn.
 Whenever one or more creatures you control deal combat damage to an opponent, that player loses 1 life and you gain 1 life. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/8_Emerge from the Shadows.png" num="8">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/9_Emerge from the Shadows.png" num="9">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -860,7 +860,7 @@ Whenever one or more creatures you control deal combat damage to an opponent, th
 			<name>Strength Monger</name>
 			<text>When this creature enters, create a Monster Role token attached to up to one other target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)
 During your turn, Roles you control have &quot;Enchanted creature gets +1/+1.&quot;</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/28_Strength Monger.png" num="28">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/29_Strength Monger.png" num="29">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -877,7 +877,7 @@ During your turn, Roles you control have &quot;Enchanted creature gets +1/+1.&qu
 		<card>
 			<name>Grim Piper</name>
 			<text>Whenever this creature enters or attacks, if you have two or more creature cards in your graveyard, create a 1/1 black Rat Hero creature token.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/17_Grim Piper.png" num="17">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/18_Grim Piper.png" num="18">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -895,7 +895,7 @@ During your turn, Roles you control have &quot;Enchanted creature gets +1/+1.&qu
 			<name>Street Dancer</name>
 			<text>Vigilance, menace
 Whenever you or a permanent you control becomes the target of a spell or ability you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/27_Street Dancer.png" num="27">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/28_Street Dancer.png" num="28">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -912,7 +912,7 @@ Whenever you or a permanent you control becomes the target of a spell or ability
 		<card>
 			<name>Pristine Goonbot</name>
 			<text>At the beginning of combat on your turn, you may discard a card. If you do, choose a target creature. Whenever that creature deals combat damage to a player this turn, you draw two cards.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/22_Pristine Goonbot.png" num="22">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/23_Pristine Goonbot.png" num="23">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -930,7 +930,7 @@ Whenever you or a permanent you control becomes the target of a spell or ability
 			<name>Devious Duo</name>
 			<text>When this creature enters, create a 1/1 black Villain creature token.
 {2}{W}{B}, Exile this card from your graveyard: Create two 1/1 black Villain creature tokens.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/6_Devious Duo.png" num="6">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/7_Devious Duo.png" num="7">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -948,7 +948,7 @@ Whenever you or a permanent you control becomes the target of a spell or ability
 			<name>Enforcer of the Will</name>
 			<text>Whenever another creature you control leaves the battlefield without dying, put a +1/+1 counter on this creature. It can&apos;t be blocked this turn.
 {1}{W}{U}, Return another creature you control to its owner&apos;s hand: This creature gains lifelink until end of turn. Activate only as a sorcery and only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/9_Enforcer of the Will.png" num="9">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/10_Enforcer of the Will.png" num="10">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -966,7 +966,7 @@ Whenever you or a permanent you control becomes the target of a spell or ability
 			<name>Living Shadow</name>
 			<text>Flying
 Whenever this creature deals combat damage to a player, draw a card. If it dealt 4 or more damage to that player, instead draw two cards, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/19_Living Shadow.png" num="19">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/20_Living Shadow.png" num="20">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -983,7 +983,7 @@ Whenever this creature deals combat damage to a player, draw a card. If it dealt
 		<card>
 			<name>Martyr&apos;s Blood</name>
 			<text>Target creature you control deals X damage to any other target and X damage to itself and you gain X life, where X is its power.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/20_Martyr&apos;s Blood.png" num="20">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/21_Martyr&apos;s Blood.png" num="21">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1000,7 +1000,7 @@ Whenever this creature deals combat damage to a player, draw a card. If it dealt
 			<name>Divine Abomination</name>
 			<text>Trample, lifelink
 This creature can&apos;t be blocked by more than one creature.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/7_Divine Abomination.png" num="7">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/8_Divine Abomination.png" num="8">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1019,7 +1019,7 @@ This creature can&apos;t be blocked by more than one creature.</text>
 			<text>As long as you&apos;ve cast another spell with mana value 5 or greater this turn, you may cast this spell by paying {G}{U} instead of paying its mana cost.
 Vigilance
 When this creature enters, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/10_Enhanced Crawler Swarm.png" num="10">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/11_Enhanced Crawler Swarm.png" num="11">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1037,7 +1037,7 @@ When this creature enters, draw two cards.</text>
 			<name>Giggling Slasher</name>
 			<text>Deathtouch
 When this creature enters or dies, create a Killer Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +2/+0.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/14_Giggling Slasher.png" num="14">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/15_Giggling Slasher.png" num="15">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1055,7 +1055,7 @@ When this creature enters or dies, create a Killer Role token attached to up to 
 			<name>Walking Exoskeleton</name>
 			<text>Deathtouch, reach
 When this creature enters, search your library for a creature card, put it into your graveyard, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/30_Walking Exoskeleton.png" num="30">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/31_Walking Exoskeleton.png" num="31">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1073,7 +1073,7 @@ When this creature enters, search your library for a creature card, put it into 
 			<name>Bearer of the Mooncurse</name>
 			<text>When this creature enters, you may create a Cursed Role token attached to a creature you control. If you do, put two +1/+1 counters on that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
 Whenever one or more enchanted creatures you control deal combat damage to a player, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/3_Bearer of the Mooncurse.png" num="3">MAX</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/MAX-files/img/4_Bearer of the Mooncurse.png" num="4">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1091,7 +1091,7 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 			<name>Dark Fortress</name>
 			<text>{T}: Add {C}.
 {T}: Add {B} or {R}. Activate only if this land entered this turn or if you control a basic land.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/60_Dark Fortress.png" num="60">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/61_Dark Fortress.png" num="61">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1107,7 +1107,7 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 			<name>Gathering Place</name>
 			<text>{T}: Add {C}.
 {T}: Add {G} or {W}. Activate only if this land entered this turn or if you control a basic land.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/61_Gathering Place.png" num="61">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/62_Gathering Place.png" num="62">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1123,7 +1123,7 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 			<name>Overclocked Power Plant</name>
 			<text>{T}: Add {C}.
 {T}: Add {U} or {R}. Activate only if this land entered this turn or if you control a basic land.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/63_Overclocked Power Plant.png" num="63">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/64_Overclocked Power Plant.png" num="64">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1139,7 +1139,7 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 			<name>Austere Tower</name>
 			<text>{T}: Add {C}.
 {T}: Add {W} or {B}. Activate only if this land entered this turn or if you control a basic land.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/57_Austere Tower.png" num="57">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/58_Austere Tower.png" num="58">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1155,7 +1155,7 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 			<name>Abundant Gardens</name>
 			<text>{T}: Add {C}.
 {T}: Add {G} or {U}. Activate only if this land entered this turn or if you control a basic land.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/55_Abundant Gardens.png" num="55">MAX</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/MAX-files/img/56_Abundant Gardens.png" num="56">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1170,7 +1170,7 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 		<card>
 			<name>Helperbot V2</name>
 			<text>When this creature enters, draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/41_Helperbot V2.png" num="41">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/42_Helperbot V2.png" num="42">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1187,7 +1187,7 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 		<card>
 			<name>Arcane Refocus</name>
 			<text>Discard up to two cards, then draw that many cards plus one.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/35_Arcane Refocus.png" num="35">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/36_Arcane Refocus.png" num="36">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1204,7 +1204,7 @@ Whenever one or more enchanted creatures you control deal combat damage to a pla
 			<name>Practitioners of Forbidden Arts</name>
 			<text>Flash
 Flying</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/48_Practitioners of Forbidden Arts.png" num="48">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/49_Practitioners of Forbidden Arts.png" num="49">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1222,7 +1222,7 @@ Flying</text>
 			<name>Charging Flamebelcher</name>
 			<text>Haste
 When this creature dies, it deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/38_Charging Flamebelcher.png" num="38">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/39_Charging Flamebelcher.png" num="39">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1240,7 +1240,7 @@ When this creature dies, it deals 1 damage to any target.</text>
 			<name>Runaway Pet</name>
 			<text>Trample
 When this creature enters, destroy up to one target artifact.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/49_Runaway Pet.png" num="49">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/50_Runaway Pet.png" num="50">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1257,7 +1257,7 @@ When this creature enters, destroy up to one target artifact.</text>
 		<card>
 			<name>Acolyte of the Voice</name>
 			<text>When this creature enters, you gain 2 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/34_Acolyte of the Voice.png" num="34">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/35_Acolyte of the Voice.png" num="35">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1274,7 +1274,7 @@ When this creature enters, destroy up to one target artifact.</text>
 		<card>
 			<name>New Moon Disciple</name>
 			<text>When this creature enters, create a Healing Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has lifelink.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/47_New Moon Disciple.png" num="47">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/48_New Moon Disciple.png" num="48">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1293,7 +1293,7 @@ When this creature enters, destroy up to one target artifact.</text>
 			<text>When this artifact enters, attach it to target creature you control.
 Equipped creature gets +1/+0 and has first strike.
 Equip {3}</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/39_Combat Baton.png" num="39">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/40_Combat Baton.png" num="40">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1309,7 +1309,7 @@ Equip {3}</text>
 		<card>
 			<name>Single-Celled Super-Evolver</name>
 			<text>Whenever another creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/50_Single-Celled Super-Evolver.png" num="50">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/51_Single-Celled Super-Evolver.png" num="51">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1326,7 +1326,7 @@ Equip {3}</text>
 		<card>
 			<name>Bathe in the Swamps</name>
 			<text>Mill four cards, then you may return a creature card from among them to your hand. If you don&apos;t put a card into your hand this way, gain 2 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/36_Bathe in the Swamps.png" num="36">MAX</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/37_Bathe in the Swamps.png" num="37">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1343,7 +1343,7 @@ Equip {3}</text>
 			<name>Yuan Yanfeng, the Perfected Breath</name>
 			<text>You may activate abilities of creatures you control as though those creatures had haste.
 {T}: Add two mana of any one color. Spend this mana only to activate abilities of creature sources.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/11_Yuan Yanfeng, the Perfected Breath.png" num="11">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/15_Yuan Yanfeng, the Perfected Breath.png" num="15">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1361,7 +1361,7 @@ Equip {3}</text>
 			<name>Phreaker, Cybersuit Savior</name>
 			<text>Flying
 Whenever you cast an artifact spell, you may copy it, except the copy isn&apos;t legendary. Do this only once each turn. (The copy becomes a token.)</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/4_Phreaker, Cybersuit Savior.png" num="4">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/5_Phreaker, Cybersuit Savior.png" num="5">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1379,7 +1379,7 @@ Whenever you cast an artifact spell, you may copy it, except the copy isn&apos;t
 			<name>Arkane, Magicrafter</name>
 			<text>Whenever you cast a spell from anywhere other than your hand, Arkane deals 2 damage to each opponent.
 {2}{R}, {T}, Discard a card: Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost.</text>
-			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/8_Arkane, Magicrafter.png" num="8">MAX</set>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/10_Arkane, Magicrafter.png" num="10">MAX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1390,6 +1390,155 @@ Whenever you cast an artifact spell, you may copy it, except the copy isn&apos;t
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MANTLES OF ALCOMEX (MAX) MAX</name>
+			<text>WU Flicker/leaves the battlefield without dying
+UB Saboteur
+BR Tactical (Pseudo-exalted as tactical can pour multiple abilities into one attacker)
+RG Roles
+GW Lifegain
+WB Alliance
+UR Second Draw (hi there TVN synergies)
+BG ‘Creature mastery&apos; (2+ creature cards in grave)
+RW ‘Valorous&apos;
+{G}{U} MV 4+ (hi there FLM synergies)
+
+Mechanics
+Tactical (At the beginning of combat on your turn, if this creature doesn&apos;t have summoning sickness, you may tap it. If you do, target creature you control gets +1/+0 and gains the following abilities until end of turn.)
+Alliance — Whenever another creature you control enters
+Teamwork number (As an additional cost to cast this spell, you may tap any number of creatures you control with total power number or more.)</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/1t_MANTLES OF ALCOMEX (MAX).png" num="1">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Melchior, Artificial Invasion</name>
+			<text>Whenever another nontoken artifact you control enters, you may pay {2}. If you do, create a token that&apos;s a copy of it. If the token isn&apos;t a creature, it becomes a 2/2 Robot Villain creature in addition to its other types.</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/20_Melchior, Artificial Invasion.png" num="20">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nok, Grimgill Raid Captain</name>
+			<text>Flying
+Nok&apos;s power is equal to the number of Merfolk you control.
+Whenever you cast a noncreature spell with one or more blue mana symbols in its mana cost, create that many 1/1 blue Merfolk creature tokens.</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/4_Nok, Grimgill Raid Captain.png" num="4">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Merfolk Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duras, the Dark Eye</name>
+			<text>Lifelink
+{T}: You draw a card and lose 1 life. Then if your library has no cards in it, you win the game. (You win even if you have 0 life or didn&apos;t draw a card.)</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/6_Duras, the Dark Eye.png" num="6">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Sorcerer Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tongue of the Charmer</name>
+			<text>When Tongue of the Charmer enters, gain control of target creature until end of turn. Untap that creature. Until end of turn, it becomes a Villain in addition to its other types and gains haste.
+{T}: Add one mana of any color.</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/12_Tongue of the Charmer.png" num="12">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guiding Astrolabe</name>
+			<text>Ward {2}
+Whenever you attack, look at the top six cards of your library. You may cast a spell from among them with mana value less than or equal to the greatest power among attacking creatures you control without paying its mana cost. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/19_Guiding Astrolabe.png" num="19">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cavestalker Territory</name>
+			<text>Landfall — Whenever a land you control enters, you may mill two cards.
+{5}{G}, Sacrifice this enchantment: Create X 1/1 green Minion creature tokens named Cavestalker, where X is the number of permanent cards in your graveyard. The tokens have &quot;Whenever this token attacks, you may mill a card.&quot; Activate only as a sorcery.</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/MAX-files/img/13_Cavestalker Territory.png" num="13">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stellar Guardian</name>
+			<text>Flying, vigilance
+Whenever this creature attacks, tap target creature defending player controls.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/MAX-files/img/1_Stellar Guardian.png" num="1">MAX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
