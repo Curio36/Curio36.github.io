@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Bird Bard Artificer",
-			"collector_number": "21",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/21_Maker Pigeon.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/19_Maker Pigeon.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elemental",
-			"collector_number": "20",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/20_Magic Shades Moe-Eye.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/18_Magic Shades Moe-Eye.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Plant Citizen",
-			"collector_number": "26",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/26_Poplin Supporters.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/24_Poplin Supporters.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Hero",
-			"collector_number": "32",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/32_Superstar Baby.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/30_Superstar Baby.png"
 			}
 		},
 		{
@@ -105,19 +105,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/36_Toad Tea Time.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/35_Toad Tea Time.png"
 			}
 		},
 		{
-			"name": "Lip Lock",
+			"name": "Turnip Toss",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/19_Lip Lock.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/36_Turnip Toss.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/22_Matrimonial Rejection.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/20_Matrimonial Rejection.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Elemental Bird",
-			"collector_number": "28",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/28_Sand Bird.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/26_Sand Bird.png"
 			}
 		},
 		{
@@ -175,19 +175,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Ox Pilot",
-			"collector_number": "23",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/23_Moo Moo Meadows Cow.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/21_Moo Moo Meadows Cow.png"
 			}
 		},
 		{
 			"name": "Koopa Paratroopa",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Turtle Minion",
-			"collector_number": "17",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/17_Koopa Paratroopa.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/93_Koopa Paratroopa.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Dog Citizen",
-			"collector_number": "34",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/34_Tanuki Shopkeepers.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/32_Tanuki Shopkeepers.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/29_Sparkling Ego.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/27_Sparkling Ego.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Ape Hero",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/85_Cantankerous Elder.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/84_Cantankerous Elder.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Spirit Warlock Hero",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/91_Insightful Ghost.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/90_Insightful Ghost.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/89_Ghost Guess.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/88_Ghost Guess.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/84_Cackletta's Intrusion.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/83_Cackletta's Intrusion.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/82_Bowser's Big Suck.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/81_Bowser's Big Suck.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/90_Grasp of the River Twygz.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/89_Grasp of the River Twygz.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Bird Minion",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/93_Kleptomaniac Condor.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/92_Kleptomaniac Condor.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Legendary Enchantment Creature — Star Advisor",
-			"collector_number": "30",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/30_Starlow, Guiding Voice.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/28_Starlow, Guiding Voice.png"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Fungus Advisor",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/35_Toad House Assistant.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/34_Toad House Assistant.png"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Turtle Hero",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/18_Koops, Timid Turtle.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/17_Koops, Timid Turtle.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "25",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/25_Pipe Cork.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/23_Pipe Cork.png"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Turtle Scout Hero",
-			"collector_number": "24",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/24_Parakarry, Mailman.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/22_Parakarry, Mailman.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Turtle Advisor",
-			"collector_number": "27",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/27_Racetrack Lakitu.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/25_Racetrack Lakitu.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Human Noble Soldier",
-			"collector_number": "33",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/33_Swordfighter Peach.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/31_Swordfighter Peach.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Turtle Skeleton Minion",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/87_Dry Bones.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/86_Dry Bones.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/83_Bowser's Clown Car.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/82_Bowser's Clown Car.png"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Shapeshifter Shade",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/86_Cosmic Mario.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/85_Cosmic Mario.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/92_King Boo.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/91_King Boo.png"
 			}
 		},
 		{
@@ -1754,7 +1754,7 @@
 			"name": "Kammy Koopa, the Brains",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}{B}",
-			"type": "Legendary Creature — Turtle Wizard Minion",
+			"type": "Legendary Creature — Turtle Wizard Villain",
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMB-files/img/216_Kammy Koopa, the Brains.png"
@@ -2015,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "31",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/31_Super Mushroom.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/29_Super Mushroom.png"
 			}
 		},
 		{
@@ -2475,9 +2475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/88_Garlic Breath.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/87_Garlic Breath.png"
 			}
 		},
 		{
@@ -2488,16 +2488,6 @@
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMB-files/img/102_Queen Jaydes's Blessing.png"
-			}
-		},
-		{
-			"name": "Bone Rattler",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "80",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/80_Bone Rattler.png"
 			}
 		},
 		{
@@ -2685,9 +2675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMB-files/img/81_The Boss's Approach.png"
+				"en": "https://Curio36.github.io/sets/SMB-files/img/80_The Boss's Approach.png"
 			}
 		},
 		{
@@ -2959,6 +2949,16 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMB-files/img/198_Captain Syrup, Black Sugar Bandit.png"
 			}
+		},
+		{
+			"name": "Toad Brigade Poplin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Plant Scout Advisor",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMB-files/img/33_Toad Brigade Poplin.png"
+			}
 		}
 	]
 
@@ -3130,7 +3130,6 @@
 	4 Toxic Spew
 	4 Garlic Breath
 	4 Queen Jaydes's Blessing
-	4 Bone Rattler
 	4 Yoshi Steed
 	4 Courier's Pets
 	4 Tiki Doom
@@ -3141,6 +3140,7 @@
 	4 Pipe Frame Kart
 	4 Rosalina's Storybook
 	4 Mario Circuit
+	4 Toad Brigade Poplin
 [common(6)]
 	8 Maker Pigeon
 	8 Guard Broggy
@@ -3151,7 +3151,7 @@
 	8 Twirling-Hair Heroine
 	8 Bouncy Hoppo
 	8 Toad Tea Time
-	8 Lip Lock
+	8 Turnip Toss
 	8 Matrimonial Rejection
 	8 Chic Sizeshifter
 	8 Friendly Dolphin
@@ -3244,7 +3244,7 @@
 	8 Twirling-Hair Heroine
 	8 Bouncy Hoppo
 	8 Toad Tea Time
-	8 Lip Lock
+	8 Turnip Toss
 	8 Matrimonial Rejection
 	8 Chic Sizeshifter
 	8 Friendly Dolphin
@@ -3339,7 +3339,7 @@
 	12 Twirling-Hair Heroine
 	12 Bouncy Hoppo
 	12 Toad Tea Time
-	12 Lip Lock
+	12 Turnip Toss
 	12 Matrimonial Rejection
 	1 Whistletop Train
 	2 Geno Whirl
@@ -3562,7 +3562,6 @@
 	6 Toxic Spew
 	6 Garlic Breath
 	6 Queen Jaydes's Blessing
-	6 Bone Rattler
 	2 Towering Pokey
 	6 Yoshi Steed
 	6 Courier's Pets
@@ -3597,6 +3596,7 @@
 	1 Wario, Greedy Antihero
 	1 Wonder Dragon
 	1 Captain Syrup, Black Sugar Bandit
+	6 Toad Brigade Poplin
 [wildcard(1)]
 	4 Clash of Light and Dark
 	4 King K. Rool
@@ -3609,7 +3609,7 @@
 	6 Twirling-Hair Heroine
 	6 Bouncy Hoppo
 	6 Toad Tea Time
-	6 Lip Lock
+	6 Turnip Toss
 	6 Matrimonial Rejection
 	4 Whistletop Train
 	7 Geno Whirl
@@ -3832,7 +3832,6 @@
 	15 Toxic Spew
 	15 Garlic Breath
 	15 Queen Jaydes's Blessing
-	15 Bone Rattler
 	7 Towering Pokey
 	15 Yoshi Steed
 	15 Courier's Pets
@@ -3867,3 +3866,4 @@
 	4 Wario, Greedy Antihero
 	4 Wonder Dragon
 	4 Captain Syrup, Black Sugar Bandit
+	15 Toad Brigade Poplin

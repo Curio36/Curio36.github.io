@@ -17,7 +17,7 @@
     },
     {
         "card_name": "King Boo",
-        "number": 92,
+        "number": 91,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "The Boss's Approach",
-        "number": 81,
+        "number": 80,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -177,7 +177,7 @@
     },
     {
         "card_name": "Bowser's Clown Car",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Cosmic Mario",
-        "number": 86,
+        "number": 85,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Moo Moo Meadows Cow",
-        "number": 23,
+        "number": 21,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Sand Bird",
-        "number": 28,
+        "number": 26,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Swordfighter Peach",
-        "number": 33,
+        "number": 31,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -376,8 +376,8 @@
         "position": ""
     },
     {
-        "card_name": "Bone Rattler",
-        "number": 80,
+        "card_name": "Dry Bones",
+        "number": 86,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -416,7 +416,7 @@
         "position": ""
     },
     {
-        "card_name": "Dry Bones",
+        "card_name": "Garlic Breath",
         "number": 87,
         "shape": "normal",
         "set": "SMB",
@@ -456,8 +456,8 @@
         "position": ""
     },
     {
-        "card_name": "Garlic Breath",
-        "number": 88,
+        "card_name": "Kleptomaniac Condor",
+        "number": 92,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -496,7 +496,7 @@
         "position": ""
     },
     {
-        "card_name": "Kleptomaniac Condor",
+        "card_name": "Koopa Paratroopa",
         "number": 93,
         "shape": "normal",
         "set": "SMB",
@@ -560,7 +560,7 @@
         "position": ""
     },
     {
-        "card_name": "Koopa Paratroopa",
+        "card_name": "Koops, Timid Turtle",
         "number": 17,
         "shape": "normal",
         "set": "SMB",
@@ -600,8 +600,8 @@
         "position": ""
     },
     {
-        "card_name": "Koops, Timid Turtle",
-        "number": 18,
+        "card_name": "Parakarry, Mailman",
+        "number": 22,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -640,8 +640,8 @@
         "position": ""
     },
     {
-        "card_name": "Parakarry, Mailman",
-        "number": 24,
+        "card_name": "Pipe Cork",
+        "number": 23,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -680,7 +680,7 @@
         "position": ""
     },
     {
-        "card_name": "Pipe Cork",
+        "card_name": "Racetrack Lakitu",
         "number": 25,
         "shape": "normal",
         "set": "SMB",
@@ -720,7 +720,7 @@
         "position": ""
     },
     {
-        "card_name": "Racetrack Lakitu",
+        "card_name": "Sparkling Ego",
         "number": 27,
         "shape": "normal",
         "set": "SMB",
@@ -760,8 +760,8 @@
         "position": ""
     },
     {
-        "card_name": "Sparkling Ego",
-        "number": 29,
+        "card_name": "Starlow, Guiding Voice",
+        "number": 28,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -800,8 +800,8 @@
         "position": ""
     },
     {
-        "card_name": "Starlow, Guiding Voice",
-        "number": 30,
+        "card_name": "Tanuki Shopkeepers",
+        "number": 32,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -840,8 +840,8 @@
         "position": ""
     },
     {
-        "card_name": "Tanuki Shopkeepers",
-        "number": 34,
+        "card_name": "Toad Brigade Poplin",
+        "number": 33,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -881,7 +881,7 @@
     },
     {
         "card_name": "Toad House Assistant",
-        "number": 35,
+        "number": 34,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -977,7 +977,7 @@
     },
     {
         "card_name": "Bowser's Big Suck",
-        "number": 82,
+        "number": 81,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1017,7 +1017,7 @@
     },
     {
         "card_name": "Cackletta's Intrusion",
-        "number": 84,
+        "number": 83,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1057,7 +1057,7 @@
     },
     {
         "card_name": "Cantankerous Elder",
-        "number": 85,
+        "number": 84,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1097,7 +1097,7 @@
     },
     {
         "card_name": "Ghost Guess",
-        "number": 89,
+        "number": 88,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1120,8 +1120,8 @@
         "position": ""
     },
     {
-        "card_name": "Lip Lock",
-        "number": 19,
+        "card_name": "Magic Shades Moe-Eye",
+        "number": 18,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1137,7 +1137,7 @@
     },
     {
         "card_name": "Grasp of the River Twygz",
-        "number": 90,
+        "number": 89,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1160,8 +1160,8 @@
         "position": ""
     },
     {
-        "card_name": "Magic Shades Moe-Eye",
-        "number": 20,
+        "card_name": "Maker Pigeon",
+        "number": 19,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1177,7 +1177,7 @@
     },
     {
         "card_name": "Insightful Ghost",
-        "number": 91,
+        "number": 90,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1200,8 +1200,8 @@
         "position": ""
     },
     {
-        "card_name": "Maker Pigeon",
-        "number": 21,
+        "card_name": "Matrimonial Rejection",
+        "number": 20,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1240,8 +1240,8 @@
         "position": ""
     },
     {
-        "card_name": "Matrimonial Rejection",
-        "number": 22,
+        "card_name": "Poplin Supporters",
+        "number": 24,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1280,8 +1280,8 @@
         "position": ""
     },
     {
-        "card_name": "Poplin Supporters",
-        "number": 26,
+        "card_name": "Super Mushroom",
+        "number": 29,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1320,8 +1320,8 @@
         "position": ""
     },
     {
-        "card_name": "Super Mushroom",
-        "number": 31,
+        "card_name": "Superstar Baby",
+        "number": 30,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1360,8 +1360,8 @@
         "position": ""
     },
     {
-        "card_name": "Superstar Baby",
-        "number": 32,
+        "card_name": "Toad Tea Time",
+        "number": 35,
         "shape": "normal",
         "set": "SMB",
         "rotated": false,
@@ -1400,7 +1400,7 @@
         "position": ""
     },
     {
-        "card_name": "Toad Tea Time",
+        "card_name": "Turnip Toss",
         "number": 36,
         "shape": "normal",
         "set": "SMB",

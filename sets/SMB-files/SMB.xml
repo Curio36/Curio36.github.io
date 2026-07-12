@@ -5,7 +5,7 @@
 			<name>SMB</name>
 			<longname>Super Mario Brothers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-24</releasedate>
+			<releasedate>2026-07-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -48,7 +48,7 @@ Whenever a player sacrifices one or more permanents, you gain that much life and
 			<name>Maker Pigeon</name>
 			<text>Flying
 When this creature enters or leaves the battlefield, you gain 1 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/21_Maker Pigeon.png" num="21">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/19_Maker Pigeon.png" num="19">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -83,7 +83,7 @@ When this creature enters or leaves the battlefield, you gain 1 life.</text>
 		<card>
 			<name>Magic Shades Moe-Eye</name>
 			<text>Whenever this creature becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/20_Magic Shades Moe-Eye.png" num="20">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/18_Magic Shades Moe-Eye.png" num="18">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -100,7 +100,7 @@ When this creature enters or leaves the battlefield, you gain 1 life.</text>
 		<card>
 			<name>Poplin Supporters</name>
 			<text>When this creature enters, create a Super token attached to target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/26_Poplin Supporters.png" num="26">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/24_Poplin Supporters.png" num="24">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ When this creature enters or leaves the battlefield, you gain 1 life.</text>
 			<name>Superstar Baby</name>
 			<text>During your turn, this creature has first strike.
 When this creature enters, draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/32_Superstar Baby.png" num="32">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/30_Superstar Baby.png" num="30">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -152,7 +152,7 @@ When this creature enters, draw a card.</text>
 		<card>
 			<name>Twirling-Hair Heroine</name>
 			<text>During your turn, this creature has flying.
-Whenever this creature attacks, another target attacking Hero or Noble you control gets +2/+0 until end of turn.</text>
+Whenever this creature attacks, another target attacking creature you control gets +2/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/37_Twirling-Hair Heroine.png" num="37">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -190,7 +190,7 @@ Whenever this creature attacks, another target attacking Hero or Noble you contr
 			<name>Toad Tea Time</name>
 			<text>Enchant creature
 As long as another player controls enchanted creature, it can&apos;t attack or block. Otherwise, enchanted creature gets +2/+2</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/36_Toad Tea Time.png" num="36">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/35_Toad Tea Time.png" num="35">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -204,9 +204,9 @@ As long as another player controls enchanted creature, it can&apos;t attack or b
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Lip Lock</name>
-			<text>Lip Lock deals 4 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/19_Lip Lock.png" num="19">SMB</set>
+			<name>Turnip Toss</name>
+			<text>Turnip Toss deals 4 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/36_Turnip Toss.png" num="36">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -223,7 +223,7 @@ As long as another player controls enchanted creature, it can&apos;t attack or b
 			<name>Matrimonial Rejection</name>
 			<text>Exile target artifact or enchantment.
 Draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/22_Matrimonial Rejection.png" num="22">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/20_Matrimonial Rejection.png" num="20">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -292,7 +292,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<text>Flying, vigilance, ward {2}
 Whenever you attack with two or more creatures, clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)
 Whenever you clear a world, return target nonland permanent with mana value 4 or less from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/28_Sand Bird.png" num="28">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/26_Sand Bird.png" num="26">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -311,7 +311,7 @@ Whenever you clear a world, return target nonland permanent with mana value 4 or
 			<text>First strike, lifelink
 Whenever this creature crews a Vehicle, that Vehicle gains first strike and lifelink until end of turn.
 Whenever you gain life for the first time each turn, clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/23_Moo Moo Meadows Cow.png" num="23">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/21_Moo Moo Meadows Cow.png" num="21">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -328,17 +328,17 @@ Whenever you gain life for the first time each turn, clear a stage. (Draw a card
 		<card>
 			<name>Koopa Paratroopa</name>
 			<text>Flying
-Whenever another Minion or Noble you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/17_Koopa Paratroopa.png" num="17">SMB</set>
+Whenever another Minion, Noble, or Villain you control enters, this creature gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/93_Koopa Paratroopa.png" num="93">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Turtle Minion</type>
 				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
+				<manacost>1B</manacost>
 				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -346,9 +346,9 @@ Whenever another Minion or Noble you control enters, put a +1/+1 counter on this
 		<card>
 			<name>Tanuki Shopkeepers</name>
 			<text>Lifelink
-When this creature enters, you and target opponent each draw a card. If that player controls more lands than you, create a Treasure token.
-{4}{W}: You and target opponent each draw a card. If that player controls more lands than you, create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/34_Tanuki Shopkeepers.png" num="34">SMB</set>
+When this creature enters, you and target opponent each draw a card.
+{3}{W}: You and target opponent each draw a card.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/32_Tanuki Shopkeepers.png" num="32">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -384,7 +384,7 @@ When this creature enters, tap all artifacts and creatures you don&apos;t contro
 			<name>Sparkling Ego</name>
 			<text>Target creature you control gains hexproof, indestructible, and lifelink until end of turn.
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/29_Sparkling Ego.png" num="29">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/27_Sparkling Ego.png" num="27">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -399,7 +399,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Chic Sizeshifter</name>
-			<text>This creature can&apos;t be blocked as long as you control another attacking Hero or Noble.
+			<text>As long as you&apos;ve drawn two or more cards this turn, this creature can&apos;t be blocked.
 {3}{U}: This creature has base power and toughness 3/1 until end of turn.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/47_Chic Sizeshifter.png" num="47">SMB</set>
 			<prop>
@@ -700,7 +700,7 @@ Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each 
 			<name>Cantankerous Elder</name>
 			<text>When this creature enters, target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)
 {B}, Discard this card, Pay 1 life: Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/85_Cantankerous Elder.png" num="85">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/84_Cantankerous Elder.png" num="84">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -718,7 +718,7 @@ Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each 
 			<name>Insightful Ghost</name>
 			<text>Flying
 When this creature enters or dies, clear a stage. (Draw a card, then discard a card. Every third stage you clear, you clear a world, draw a card and create a Treasure token instead.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/91_Insightful Ghost.png" num="91">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/90_Insightful Ghost.png" num="90">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -773,7 +773,7 @@ When enchanted creature dies, return it to the battlefield under its owner&apos;
 			<name>Ghost Guess</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards, then create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/89_Ghost Guess.png" num="89">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/88_Ghost Guess.png" num="88">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -791,7 +791,7 @@ Draw two cards, then create a 1/1 black Minion creature token with &quot;This to
 			<text>Choose one —
 • Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
 • Target creature you control gets +2/+0 and gains lifelink and deathtouch until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/84_Cackletta&apos;s Intrusion.png" num="84">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/83_Cackletta&apos;s Intrusion.png" num="83">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -808,7 +808,7 @@ Draw two cards, then create a 1/1 black Minion creature token with &quot;This to
 			<name>Bowser&apos;s Big Suck</name>
 			<text>This spell costs {2} less to cast if you control a Noble.
 Exile target creature or planeswalker.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/82_Bowser&apos;s Big Suck.png" num="82">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/81_Bowser&apos;s Big Suck.png" num="81">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -825,7 +825,7 @@ Exile target creature or planeswalker.</text>
 			<name>Grasp of the River Twygz</name>
 			<text>This spell costs {1} less to cast for each creature card in your graveyard.
 Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it and each Aura attached to it instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/90_Grasp of the River Twygz.png" num="90">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/89_Grasp of the River Twygz.png" num="89">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -841,7 +841,7 @@ Target creature gets -5/-5 until end of turn. If that creature would die this tu
 		<card>
 			<name>Ashley, Young Witch</name>
 			<text>Whenever an opponent discards their first card during each of your turns, you may pay 1 life. If you do, draw a card.
-{1}{B}, {T}, Sacrifice another creature: Target opponent discards a card and loses 2 life. Activate only as a sorcery.</text>
+{1}{B}, {T}, Sacrifice another creature: Target opponent discards a card and loses 1 life. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/78_Ashley, Young Witch.png" num="78">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -878,7 +878,7 @@ Other nontoken creatures you control have expendable 1. (When that creature you 
 			<name>Kleptomaniac Condor</name>
 			<text>Flying
 When this creature enters, exile target card from an opponent&apos;s graveyard. If it has mana value 1 or less, you may cast it without paying its mana cost. If that spell would be put into its owner&apos;s graveyard, exile it instead.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/93_Kleptomaniac Condor.png" num="93">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/92_Kleptomaniac Condor.png" num="92">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1141,7 +1141,7 @@ Whenever Birdo deals combat damage to an opponent for the first time each turn, 
 			<name>Lakithunder, Lakitu Boss</name>
 			<text>Flying
 Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
-Whenever another artifact, Minion, or Noble you control enters, Lakithunder deals 1 damage to each opponent.</text>
+Whenever another artifact, Minion, Noble, or Villain you control enters, Lakithunder deals 1 damage to each opponent.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/141_Lakithunder, Lakitu Boss.png" num="141">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1194,7 +1194,7 @@ When this Aura enters and whenever enchanted permanent becomes tapped, you may d
 		</card>
 		<card>
 			<name>Bowser&apos;s Fire Hazard</name>
-			<text>Bowser&apos;s Fire Hazard deals 2 damage to each creature except for Minions and Nobles.</text>
+			<text>Bowser&apos;s Fire Hazard deals 2 damage to each creature except for Minions, Nobles, and Villains.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/123_Bowser&apos;s Fire Hazard.png" num="123">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1476,7 +1476,7 @@ Whenever an enchantment is put into your graveyard from the battlefield, put a +
 		</card>
 		<card>
 			<name>Peewee Piranha, Temperamental</name>
-			<text>This spell costs {1} less to cast for each Minion and/or Noble creature you control and each Minion and/or Noble creature card in your graveyard.
+			<text>This spell costs {1} less to cast for each Minion, Noble, and/or Villain creature you control and each Minion, Noble, and/or Villain creature card in your graveyard.
 Haste
 Pewee Piranha can&apos;t be blocked by creatures with power 2 or less.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/177_Peewee Piranha, Temperamental.png" num="177">SMB</set>
@@ -1496,7 +1496,7 @@ Pewee Piranha can&apos;t be blocked by creatures with power 2 or less.</text>
 		<card>
 			<name>Potted Uproot</name>
 			<text>Reach
-Whenever another Minion or Noble you control enters, put a +1/+1 counter on this creature.
+Whenever another Minion, Noble, and/or Villain you control enters, put a +1/+1 counter on this creature.
 When a Noble you control enters, you may have this creature deals damage equal to its power to up to one target creature with flying. Do this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/179_Potted Uproot.png" num="179">SMB</set>
 			<prop>
@@ -1623,7 +1623,7 @@ Whenever another artifact you control enters, if it doesn&apos;t share a name wi
 		<card>
 			<name>Chincho Swarm</name>
 			<text>Menace
-Whenever this creature attacks, another target attacking Minion or Noble gains lifelink until end of turn.</text>
+Whenever this creature attacks, another target attacking Minion, Noble, or Villain gains lifelink until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/201_Chincho Swarm.png" num="201">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1861,7 +1861,7 @@ When this artifact enters, target creature you control gets +1/+0 and gains firs
 			<name>Starlow, Guiding Voice</name>
 			<text>Flying
 At the beginning of your end step, if an Aura entered under your control this turn, you scry 1 and gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/30_Starlow, Guiding Voice.png" num="30">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/28_Starlow, Guiding Voice.png" num="28">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1898,7 +1898,7 @@ At the beginning of your end step, if an Aura entered under your control this tu
 			<name>Toad House Assistant</name>
 			<text>Vigilance
 Aura spells you cast cost {1} less to cast.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/35_Toad House Assistant.png" num="35">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/34_Toad House Assistant.png" num="34">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1934,7 +1934,7 @@ Whenever Cat Mario attacks, create a 1/1 white Cat Hero creature token with vigi
 			<name>Koops, Timid Turtle</name>
 			<text>Koops enters with a shield counter on him. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 Exhaust — {6}{W}: Put a +1/+1 counter and two shield counters on Koops. (Activate each exhaust ability only once.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/18_Koops, Timid Turtle.png" num="18">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/17_Koops, Timid Turtle.png" num="17">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1953,7 +1953,7 @@ Exhaust — {6}{W}: Put a +1/+1 counter and two shield counters on Koops. (Activ
 			<text>Enchant basic land you control
 When this Aura enters, exile target creature or artifact an opponent controls until this Aura leaves the battlefield.
 Enchanted land has &quot;{T}: Scry 1.&quot;</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/25_Pipe Cork.png" num="25">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/23_Pipe Cork.png" num="23">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1971,7 +1971,7 @@ Enchanted land has &quot;{T}: Scry 1.&quot;</text>
 			<text>Flying
 Parakarry enters with a shield counter on him. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 Whenever Parakarry attacks, another target attacking creature and up to one other attacking legendary creature gain flying until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/24_Parakarry, Mailman.png" num="24">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/22_Parakarry, Mailman.png" num="22">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1990,7 +1990,7 @@ Whenever Parakarry attacks, another target attacking creature and up to one othe
 			<text>Flash
 Flying
 When this creature enters, return target creature you control to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/27_Racetrack Lakitu.png" num="27">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/25_Racetrack Lakitu.png" num="25">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2029,7 +2029,7 @@ When Dr. Mario enters, you may choose one —
 			<text>First strike
 When Swordfighter Peach enters, you may put an Aura or Equipment card from your hand or graveyard onto the battlefield.
 Equipment you control have equip {1}.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/33_Swordfighter Peach.png" num="33">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/31_Swordfighter Peach.png" num="31">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2150,7 +2150,7 @@ Surveil 1, then draw a card. (To surveil 1, look at the top card of your library
 		</card>
 		<card>
 			<name>Goombella, Archaeology Student</name>
-			<text>Whenever Goombella or another Hero or Noble you control enter, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+			<text>Whenever Goombella or another Legendary Creature you control enter, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {2}{U}, Exile three cards from your graveyard: Draw two cards, then discard a card.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/52_Goombella, Archaeology Student.png" num="52">SMB</set>
 			<prop>
@@ -2333,8 +2333,8 @@ When this creature enters, it deals 1 damage to any target. If that target was d
 		<card>
 			<name>Dry Bones</name>
 			<text>This creature can&apos;t block.
-{4}{B}: Return this card from your graveyard to the battlefield. This ability costs {1} less to activate for each Minion and/or Noble you control.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/87_Dry Bones.png" num="87">SMB</set>
+{4}{B}: Return this card from your graveyard to the battlefield. This ability costs {1} less to activate for each Minion, Noble, and/or Villain you control.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/86_Dry Bones.png" num="86">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2409,7 +2409,7 @@ Whenever Walugi becomes tapped, up to one target creature or Vehicle you control
 When Bowser&apos;s Clown Car enters, create Junior&apos;s Clown Car, a 3/3 legendary black Vehicle artifact creature token with flying and crew 2.
 Whenever one or more creatures you control deals combat damage to a player, that player loses half their life, rounded up.
 Crew 3</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/83_Bowser&apos;s Clown Car.png" num="83">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/82_Bowser&apos;s Clown Car.png" num="82">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2428,7 +2428,7 @@ Crew 3</text>
 			<text>Indestructible
 Whenever Cosmic Mario deals combat damage to a player, each opponent may sacrifice a legendary creature. Each opponent who doesn&apos;t loses half their life, rounded up.
 {2}{B}, Sacrifice another legendary creature: Cosmic Mario can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/86_Cosmic Mario.png" num="86">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/85_Cosmic Mario.png" num="85">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2465,7 +2465,7 @@ Whenever a source deals damage to this creature, that source&apos;s controller l
 			<text>Flying
 When King Boo enters, create X 1/1 black Spirit Minion creature tokens with flying and &quot;This token can&apos;t block&quot;, where X is the number of different names among creature cards in your graveyard.
 {1}{B}, Sacrifice a Minion: You draw a card and each player loses 2 life.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/92_King Boo.png" num="92">SMB</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/91_King Boo.png" num="91">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2518,7 +2518,7 @@ Expendable 1 (When this creature dies, create a 1/1 black Minion creature token 
 		</card>
 		<card>
 			<name>Shy Guy</name>
-			<text>{T}: Add {R}. Spend this mana only to cast a Minion or Noble spell or activate abilities of Minion or Noble sources.</text>
+			<text>{T}: Add {R}. Spend this mana only to cast a Minion, Noble, or Villain spell or activate abilities of Minion, Noble, or Villain sources.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/148_Shy Guy.png" num="148">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2662,7 +2662,7 @@ Whenever this creature is dealt damage, create that many tapped Treasure tokens.
 		<card>
 			<name>Dancer Mario</name>
 			<text>Ward—Pay 5 life.
-Whenever one or more Heroes and/or Nobles you control deal combat damage to a player, exile the top card of your library. You may play those cards until your next combat.</text>
+Whenever one or more Heroes, Nobles, and/or Performers you control deal combat damage to a player, exile the top card of your library. You may play that card until your next combat.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/128_Dancer Mario.png" num="128">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2729,7 +2729,7 @@ Whenever one or more Heroes and/or Nobles you control deal combat damage to a pl
 		<card>
 			<name>Unchained Chomp</name>
 			<text>Haste
-Whenever a Minion or Noble you control attacks, it deals 1 damage to the player or permanent it&apos;s attacking.
+Whenever a Minion, Noble, or Villain you control attacks, it deals 1 damage to the player or permanent it&apos;s attacking.
 At the beginning of your end step, sacrifice this creature.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/151_Unchained Chomp.png" num="151">SMB</set>
 			<prop>
@@ -2817,7 +2817,7 @@ Enchanted creature gets +1/+1 and has reach.</text>
 		</card>
 		<card>
 			<name>Patrolling Goomba</name>
-			<text>When this creature enters, put a +1/+1 counter on another target Minion or Noble you control.</text>
+			<text>When this creature enters, put a +1/+1 counter on another target Minion, Noble, or Villain you control.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/176_Patrolling Goomba.png" num="176">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2890,7 +2890,7 @@ Whenever Elephant Mario deals combat damage to a player, surveil 1, then draw a 
 			<name>Yoshi&apos;s Island</name>
 			<text>This land enters tapped unless you control a legendary creature.
 {T}: Add {G}.
-Exhaust — {4}{G}, {T}: Choose a creature with the least toughness among creatures you control. Put X +1/+1 counters on it, where X is the greatest toughness among creatures you control. (Activate each exhaust ability only once.)</text>
+Exhaust — {2}{G}{G}, {T}: Choose a creature with the least toughness among creatures you control. Put X +1/+1 counters on it, where X is the greatest toughness among creatures you control. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/259_Yoshi&apos;s Island.png" num="259">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3045,7 +3045,7 @@ Whenever you clear a world, put two +1/+1 counters on target creature.</text>
 		<card>
 			<name>Chargin&apos; Chuck</name>
 			<text>Haste
-Other Minions and Nobles you control get +1/+0.</text>
+Other Minions, Nobles, and/or Villains you control get +1/+0.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/200_Chargin&apos; Chuck.png" num="200">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3120,12 +3120,12 @@ Whenever DK attacks, if you&apos;ve sacrificed a token this turn, he gets +2/+2 
 			<name>Kammy Koopa, the Brains</name>
 			<text>Flash
 Flying
-When Kammy Koopa enters, counter target spell you don&apos;t control unless its controller pays {2}. If you control two or more other Minions and/or Nobles, counter that spell unless its controller pays {4} instead.</text>
+When Kammy Koopa enters, counter target spell you don&apos;t control unless its controller pays {2}. If you control two or more other Minion, Noble, and/or Villain, counter that spell unless its controller pays {4} instead.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/216_Kammy Koopa, the Brains.png" num="216">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Turtle Wizard Minion</type>
+				<type>Legendary Creature — Turtle Wizard Villain</type>
 				<maintype>Creature</maintype>
 				<manacost>1UUB</manacost>
 				<cmc>4</cmc>
@@ -3354,8 +3354,8 @@ When King Bob-omb dies, for each opponent, draw three cards unless that player h
 		</card>
 		<card>
 			<name>King Bowser, the Mighty</name>
-			<text>Whenever King Bowser or another nontoken Minion or Noble you control enters, amass Minion 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Minion. If you don&apos;t control an Army, create a 0/0 black Minion Army creature token first.)
-{W}{U}{B}{R}{G}: Put two +1/+1 counters on King Bowser, then each other Minion and Noble you control has base power equal to his power until end of turn.</text>
+			<text>Whenever King Bowser or another nontoken Minion, Noble, or Villain you control enters, amass Minion 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Minion. If you don&apos;t control an Army, create a 0/0 black Minion Army creature token first.)
+{W}{U}{B}{R}{G}: Put two +1/+1 counters on King Bowser, then each other Minion, Noble, and Villain you control has base power equal to his power until end of turn.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/218_King Bowser, the Mighty.png" num="218">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3391,7 +3391,7 @@ Outta Sight — Whenever Lady Bow deals combat damage to a player, exile up to o
 		<card>
 			<name>Petey Piranha</name>
 			<text>Flying, trample
-When Petey Piranha enters, for each opponent, choose up to one target creature they control. Each other creature you control that&apos;s a Minion, Noble, and/or Plant deals damage equal to its power to each of those targets.</text>
+When Petey Piranha enters, for each opponent, choose up to one target creature they control. Each other creature you control that&apos;s a Minion, Noble, Plant, and/or Villain deals damage equal to its power to each of those targets.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/227_Petey Piranha.png" num="227">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3446,7 +3446,7 @@ Mechawiggler gets +X/+0, where X is the amount of damage dealt to it this turn.<
 			<name>Bowser&apos;s Kingdom</name>
 			<text>This land enters tapped unless you control a legendary creature.
 {T}: Add {B}.
-Exhaust — {5}{B}, {T}: Create two X/X black Minion creature tokens with &quot;This token can&apos;t block&quot;, where X is the greatest power among creature cards in your graveyard. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+Exhaust — {4}{B}, {T}: Create two X/X black Minion creature tokens with &quot;This token can&apos;t block&quot;, where X is the greatest power among creature cards in your graveyard. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/251_Bowser&apos;s Kingdom.png" num="251">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3587,7 +3587,7 @@ Whenever Firebrand Mario deals combat damage to an opponent, you may sacrifice a
 			<text>Enchant creature
 Enchanted creature gets +1/+1 and has vigilance.
 Stock (You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/31_Super Mushroom.png" num="31">SMB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/29_Super Mushroom.png" num="29">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3604,7 +3604,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 			<name>Super Mario Bros</name>
 			<text>Flash
 Menace
-When Super Mario Bros enter, return any number of target Aura cards put into your graveyard or into exile from the battlefield this turn to the battlefield attached to them.</text>
+When Super Mario Bros enter, return any number of target Aura cards put into your graveyard from the battlefield this turn to the battlefield attached to them.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/233_Super Mario Bros.png" num="233">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4006,7 +4006,7 @@ When Boom Boom dies, create two 2/2 black Minion creature tokens with &quot;This
 		<card>
 			<name>Mr. I</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
-Whenever this creature attacks while you control another Minion or Noble, you draw a card and lose 1 life.</text>
+Whenever this creature attacks while you control another Minion, Noble, or Villain, you draw a card and lose 1 life.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/98_Mr. I.png" num="98">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4364,7 +4364,7 @@ Scry 2.</text>
 		<card>
 			<name>Garlic Breath</name>
 			<text>Target opponent discards two cards. Create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/88_Garlic Breath.png" num="88">SMB</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/87_Garlic Breath.png" num="87">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4393,26 +4393,6 @@ Return target creature card from your graveyard to the battlefield tapped.</text
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Bone Rattler</name>
-			<text>Flash
-Menace
-When this Vehicle enters, exile up to one target creature that was dealt damage this turn.
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/80_Bone Rattler.png" num="80">SMB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact — Vehicle</type>
-				<maintype>Artifact</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>4/3</pt>
-			</prop>
-			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Towering Pokey</name>
@@ -4653,7 +4633,7 @@ Tap an untapped creature you control: This Vehicle becomes an artifact creature 
 		<card>
 			<name>Madame Flurrie, Charming</name>
 			<text>Flying, vigilance
-Gale Force — When Madame Flurrie enters, for each Hero and/or Noble you control, exile target nonland permanent you don&apos;t control. Return those permanents to the battlefield under their owner&apos;s control at the beginning of their owner&apos;s next end step.</text>
+Gale Force — When Madame Flurrie enters, for each legendary creature you control, exile target nonland permanent you don&apos;t control. Return those permanents to the battlefield under their owner&apos;s control tapped at the beginning of their owner&apos;s next end step.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/56_Madame Flurrie, Charming.png" num="56">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4725,7 +4705,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>The Boss&apos;s Approach</name>
 			<text>Create a Super token attached to a creature you control, then destroy each creature with lesser power than that creature. (A Super token is a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/81_The Boss&apos;s Approach.png" num="81">SMB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/80_The Boss&apos;s Approach.png" num="80">SMB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4876,7 +4856,7 @@ If you control fewer lands than the opponent who controls the most lands, create
 			<name>Mushroom Kingdom</name>
 			<text>This land enters tapped unless you control a legendary creature.
 {T}: Add {W}.
-Exhaust — {4}{W}, {T}: Exile target Aura card from your graveyard, then create a token that&apos;s a copy of it. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+Exhaust — {2}{W}{W}, {T}: Exile target Aura card from your graveyard, then create a token that&apos;s a copy of it. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/256_Mushroom Kingdom.png" num="256">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5201,6 +5181,23 @@ Whenever you attack, create a Treasure token. Then if Captain Syrup is attacking
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Toad Brigade Poplin</name>
+			<text>When this creature enters, you may search your library for an enchantment card, reveal it, then shuffle. If you revealed an Aura this way, put it into your hand. Otherwise, put that card on top of your library.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/33_Toad Brigade Poplin.png" num="33">SMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Scout Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
