@@ -5,7 +5,7 @@
 			<name>FLM</name>
 			<longname>Silverwood Film Festival</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-09</releasedate>
+			<releasedate>2026-07-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -260,26 +260,10 @@ Return target creature card from your graveyard to the battlefield tapped.</text
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Heart of the Peaks</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/34_Heart of the Peaks.png" num="34">FLM</set>
-			<prop>
-				<layout>saga</layout>
-				<side>front</side>
-				<type>Enchantment — Saga</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Training Montage</name>
 			<text>When this enchantment enters, put a +1/+1 counter on target creature you control.
 Whenever a creature you control with a +1/+1 counter on it attacks, double the number of +1/+1 counters on that creature.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/46_Training Montage.png" num="46">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/47_Training Montage.png" num="47">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -296,7 +280,7 @@ Whenever a creature you control with a +1/+1 counter on it attacks, double the n
 			<name>Simic Cinematographer</name>
 			<text>Reach
 Whenever you cast a noncreature spell with mana value 4 or greater, put a +1/+1 counter on this creature and untap it.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/71_Simic Cinematographer.png" num="71">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/73_Simic Cinematographer.png" num="73">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -314,7 +298,7 @@ Whenever you cast a noncreature spell with mana value 4 or greater, put a +1/+1 
 			<name>Silverwood Clapboard</name>
 			<text>{T}: Add one mana of any color.
 {3}, {T}: For each Saga you control, you may put a lore counter on that Saga or remove a lore counter from it. Activate only as a sorcery</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/85_Silverwood Clapboard.png" num="85">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/87_Silverwood Clapboard.png" num="87">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -329,7 +313,7 @@ Whenever you cast a noncreature spell with mana value 4 or greater, put a +1/+1 
 			<name>Intrepid Camerabot</name>
 			<text>Vigilance
 Whenever another permanent you control entering causes a triggered ability of that permanent to trigger, you may pay {2}. If you do, copy that triggered ability. You may choose new targets for it.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/62_Intrepid Camerabot.png" num="62">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/64_Intrepid Camerabot.png" num="64">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -347,7 +331,7 @@ Whenever another permanent you control entering causes a triggered ability of th
 			<name>Instigator Dragon</name>
 			<text>Flying, first strike
 When this creature enters, another target creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/61_Instigator Dragon.png" num="61">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/63_Instigator Dragon.png" num="63">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -366,7 +350,7 @@ When this creature enters, another target creature you control deals damage equa
 			<text>Enchant land
 Enchanted land has &quot;{T}: Add two mana of any one color.&quot;
 {4}{R}{G}, Sacrifice this Aura: Put four +1/+1 counters on target creature you control. It gains trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/65_On-Set Menagerie.png" num="65">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/67_On-Set Menagerie.png" num="67">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -383,7 +367,7 @@ Enchanted land has &quot;{T}: Add two mana of any one color.&quot;
 			<name>Trained Varmint</name>
 			<text>This creature enters with two +1/+1 counters, a deathtouch counter, and a lifelink counter on it.
 When this creature dies, put its counters on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/73_Trained Varmint.png" num="73">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/75_Trained Varmint.png" num="75">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -401,7 +385,7 @@ When this creature dies, put its counters on target creature you control.</text>
 			<name>Get the Shot</name>
 			<text>Organize 2—{2}{G}{U} (You may cast this spell by paying {2}{G}{U} and tapping two creatures you control.)
 Draw three cards. You may put up to two land cards from your hand onto the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/59_Get the Shot.png" num="59">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/61_Get the Shot.png" num="61">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -419,7 +403,7 @@ Draw three cards. You may put up to two land cards from your hand onto the battl
 			<text>Menace, lifelink
 This creature can&apos;t block.
 Whenever this creature attack, you may sacrifice another nonland permanent. If you do, this creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/49_Blood Bag Innovator.png" num="49">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/50_Blood Bag Innovator.png" num="50">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -437,7 +421,7 @@ Whenever this creature attack, you may sacrifice another nonland permanent. If y
 			<name>Combat Choreographer</name>
 			<text>Double strike
 Whenever this creature attacks, you may tap another untapped creature you control. If you do, tap target creature defending player controls.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/53_Combat Choreographer.png" num="53">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/54_Combat Choreographer.png" num="54">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -454,7 +438,7 @@ Whenever this creature attacks, you may tap another untapped creature you contro
 		<card>
 			<name>Only Mostly Dead</name>
 			<text>Exile up to one target creature you control and up to one target creature card in your graveyard, then return each card exiled this way to the battlefield tapped under its owner&apos;s control.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/66_Only Mostly Dead.png" num="66">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/68_Only Mostly Dead.png" num="68">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -471,7 +455,7 @@ Whenever this creature attacks, you may tap another untapped creature you contro
 			<name>Gruelling Conditions</name>
 			<text>When this enchantment enters, you may sacrifice another enchantment or creature. If you do, draw two cards.
 Attacking creatures you control get +1/+0.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/60_Gruelling Conditions.png" num="60">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/62_Gruelling Conditions.png" num="62">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -487,7 +471,7 @@ Attacking creatures you control get +1/+0.</text>
 		<card>
 			<name>See the World</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/69_See the World.png" num="69">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/71_See the World.png" num="71">FLM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -503,7 +487,7 @@ Attacking creatures you control get +1/+0.</text>
 		<card>
 			<name>Endless Haunting</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/56_Endless Haunting.png" num="56">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/57_Endless Haunting.png" num="57">FLM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -520,7 +504,7 @@ Attacking creatures you control get +1/+0.</text>
 			<name>Director of Photomancy</name>
 			<text>Flash
 At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature and you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/54_Director of Photomancy.png" num="54">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/55_Director of Photomancy.png" num="55">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -538,7 +522,7 @@ At the beginning of your end step, if you control two or more tapped creatures, 
 			<name>G.E.I.S.T. Organizer</name>
 			<text>Flying
 Whenever a non-Saga enchantment you control enters or you put a lore counter on a Saga you control, each opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/58_G.E.I.S.T. Organizer.png" num="58">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/60_G.E.I.S.T. Organizer.png" num="60">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -556,7 +540,7 @@ Whenever a non-Saga enchantment you control enters or you put a lore counter on 
 			<name>Overproductive Assistant</name>
 			<text>When this creature enters, create a 1/1 colorless Servo artifact creature token.
 Whenever you cast a noncreature spell with mana value 4 or greater, you may draw a card. If you do, discard a card</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/67_Overproductive Assistant.png" num="67">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/69_Overproductive Assistant.png" num="69">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -574,7 +558,7 @@ Whenever you cast a noncreature spell with mana value 4 or greater, you may draw
 			<name>Budget Balancer</name>
 			<text>At the beginning of your end step, if you control two or more tapped creatures, create a Treasure token.
 Sacrifice two Treasures you control: Add three mana of any one color.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/50_Budget Balancer.png" num="50">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/51_Budget Balancer.png" num="51">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -591,7 +575,7 @@ Sacrifice two Treasures you control: Add three mana of any one color.</text>
 		<card>
 			<name>Casting Call</name>
 			<text>Create two 1/1 white Performer creature tokens. When you do, choose target creature you control. Until end of turn, that creature gets +1/+1 for each creature you control and gains haste.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/51_Casting Call.png" num="51">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/52_Casting Call.png" num="52">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -608,7 +592,7 @@ Sacrifice two Treasures you control: Add three mana of any one color.</text>
 			<name>Shock Twist</name>
 			<text>Organize 2—{U}{R} (You may cast this spell by paying {U}{R} and tapping two creatures you control.)
 Shock Twist deals 4 damage to target creature. Target player draws two cards, then discards a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/70_Shock Twist.png" num="70">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/72_Shock Twist.png" num="72">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -625,7 +609,7 @@ Shock Twist deals 4 damage to target creature. Target player draws two cards, th
 			<name>Down and Dirty Director</name>
 			<text>Creatures you control with counters on them can&apos;t be blocked by more than one creature.
 {6}{B}{G}: Each opponent loses 3 life. This ability costs {1} less to activate for each counter on a permanent you control. Activate this ability only once each turn and only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/55_Down and Dirty Director.png" num="55">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/56_Down and Dirty Director.png" num="56">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -643,7 +627,7 @@ Shock Twist deals 4 damage to target creature. Target player draws two cards, th
 			<name>Freelance Scriptwriter</name>
 			<text>Vigilance
 When this creature enters, look at the top six cards of your library. You may reveal a Saga, Bard, or Performer card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/57_Freelance Scriptwriter.png" num="57">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/59_Freelance Scriptwriter.png" num="59">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -660,7 +644,7 @@ When this creature enters, look at the top six cards of your library. You may re
 		<card>
 			<name>Creature Feature</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/42_Creature Feature.png" num="42">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/43_Creature Feature.png" num="43">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -694,7 +678,7 @@ Scry 2, then draw two cards.</text>
 			<name>Agorakh, Demanding Costar</name>
 			<text>Menace
 When Agorakh enters, he deals 4 damage to target creature you control. Excess damage is dealt to you instead.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/74_Agorakh, Demanding Costar.png" num="74">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/76_Agorakh, Demanding Costar.png" num="76">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -713,7 +697,7 @@ When Agorakh enters, he deals 4 damage to target creature you control. Excess da
 			<text>First strike
 Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 Whenever Breackneck attacks while renowned, other creatures you control get +1/+0 and gain first strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/75_Breakneck, Martial Costar.png" num="75">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/77_Breakneck, Martial Costar.png" num="77">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -732,7 +716,7 @@ Whenever Breackneck attacks while renowned, other creatures you control get +1/+
 			<text>Whenever you cast a noncreature spell, choose one. If that spell had mana value 4 or greater, choose one or both instead.
 • Create a 1/1 colorless Servo artifact creature token.
 • Put a +1/+1 counter on Cord.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/76_Cord, Exuberant Costar.png" num="76">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/78_Cord, Exuberant Costar.png" num="78">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -750,7 +734,7 @@ Whenever Breackneck attacks while renowned, other creatures you control get +1/+
 			<name>Derist, Reoccuring Costar</name>
 			<text>Flying
 Whenever Derist attacks, if you sacrificed a Saga this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/77_Derist, Reoccuring Costar.png" num="77">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/79_Derist, Reoccuring Costar.png" num="79">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -767,8 +751,8 @@ Whenever Derist attacks, if you sacrificed a Saga this turn, return target creat
 		<card>
 			<name>Ellik, Egotistical Costar</name>
 			<text>Ellik enters with a +1/+1 counter on him.
-Whenever you put one or more counters on another permanent you control, you gain 1 life and surveil 1. This ability triggers only once each turn. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/78_Ellik, Egotistical Costar.png" num="78">FLM</set>
+Whenever you put one or more counters on another permanent you control, you gain 1 life and put a +1/+1 counter on Ellik. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/80_Ellik, Egotistical Costar.png" num="80">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -786,7 +770,7 @@ Whenever you put one or more counters on another permanent you control, you gain
 			<name>Firdi, Icy Costar</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 At the beginning of your end step, if you control two or more tapped creatures, tap target creature you don&apos;t control and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/79_Firdi, Icy Costar.png" num="79">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/81_Firdi, Icy Costar.png" num="81">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -804,7 +788,7 @@ At the beginning of your end step, if you control two or more tapped creatures, 
 			<name>Gnasher, Wildborn Costar</name>
 			<text>Trample
 Whenever Gnasher deals combat damage to a player, create a Treasure token. If you control another attacking creature with power 4 or greater, create two Treasure tokens instead.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/80_Gnasher, Wildborn Costar.png" num="80">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/82_Gnasher, Wildborn Costar.png" num="82">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -822,7 +806,7 @@ Whenever Gnasher deals combat damage to a player, create a Treasure token. If yo
 			<name>Miche, Adaptable Costar</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 Whenever you cast a noncreature spell with mana value 4 or greater, up to one target creature you control has base power and toughness 4/4 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/81_Miche, Adaptable Costar.png" num="81">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/83_Miche, Adaptable Costar.png" num="83">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -840,7 +824,7 @@ Whenever you cast a noncreature spell with mana value 4 or greater, up to one ta
 			<name>Verat, Unnerving Costar</name>
 			<text>Flying
 When Verat enters, surveil X, where X is the greatest power among creatures that entered under your control this turn. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/82_Verat, Unnerving Costar.png" num="82">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/84_Verat, Unnerving Costar.png" num="84">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -858,7 +842,7 @@ When Verat enters, surveil X, where X is the greatest power among creatures that
 			<name>Yumeko, Graceful Costar</name>
 			<text>This spell costs {1} less to cast for each Saga you control and each Saga card in your graveyard.
 When Yumeko enters, you draw a card, then you may remove a lore counter from each of any number of Sagas you control. You gain 2 life plus an additional 2 life for each lore counter removed this way.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/83_Yumeko, Graceful Costar.png" num="83">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/85_Yumeko, Graceful Costar.png" num="85">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -877,7 +861,7 @@ When Yumeko enters, you draw a card, then you may remove a lore counter from eac
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.
 {G}{W}, Discard this card: For each permanent you control with one or more counters on it, you may put a counter on that permanent of each kind already on it.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/86_Bretagard Village.png" num="86">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/88_Bretagard Village.png" num="88">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -894,7 +878,7 @@ When Yumeko enters, you draw a card, then you may remove a lore counter from eac
 			<text>This land enters tapped.
 {T}: Add {R} or {G}.
 {3}{R}{G}, Discard this card: Target attacking creature gains double strike and trample until end of turn</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/87_Hunting Territory.png" num="87">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/89_Hunting Territory.png" num="89">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -911,7 +895,7 @@ When Yumeko enters, you draw a card, then you may remove a lore counter from eac
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
 {2}{U}{B}, Discard this card: Create two 1/1 blue Ninja creature tokens with &quot;This token can&apos;t be blocked.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/88_Shady Dojo.png" num="88">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/90_Shady Dojo.png" num="90">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -928,7 +912,7 @@ When Yumeko enters, you draw a card, then you may remove a lore counter from eac
 			<text>This land enters tapped.
 {T}: Add {W} or {U}.
 {1}{W}{U}, Discard this card: Return target spell to its owner&apos;s hand. Scry 1.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/89_Skyclave Vantage.png" num="89">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/91_Skyclave Vantage.png" num="91">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -945,7 +929,7 @@ When Yumeko enters, you draw a card, then you may remove a lore counter from eac
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 {3}{B}{R}, Discard this card: Draw two cards. Each player loses 2 life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/90_Yawgmoth&apos;s Altar.png" num="90">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/92_Yawgmoth&apos;s Altar.png" num="92">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -962,7 +946,7 @@ When Yumeko enters, you draw a card, then you may remove a lore counter from eac
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {G} or {U}.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/91_Aurora Expanse.png" num="91">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/93_Aurora Expanse.png" num="93">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -979,7 +963,7 @@ When this land enters, you may pay {1}. If you do, add {G} or {U}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {G} or {W}.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/92_Elegant Garden.png" num="92">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/94_Elegant Garden.png" num="94">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -996,7 +980,7 @@ When this land enters, you may pay {1}. If you do, add {G} or {W}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {U} or {B}.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/93_Haunted Interior.png" num="93">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/95_Haunted Interior.png" num="95">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1013,7 +997,7 @@ When this land enters, you may pay {1}. If you do, add {U} or {B}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {R} or {W}.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/94_Highfalutin Tavern.png" num="94">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/96_Highfalutin Tavern.png" num="96">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1030,7 +1014,7 @@ When this land enters, you may pay {1}. If you do, add {R} or {W}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {R} or {G}.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/95_Jungle Base.png" num="95">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/97_Jungle Base.png" num="97">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1047,7 +1031,7 @@ When this land enters, you may pay {1}. If you do, add {R} or {G}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {B} or {R}.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/96_Lively Ballroom.png" num="96">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/98_Lively Ballroom.png" num="98">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1064,7 +1048,7 @@ When this land enters, you may pay {1}. If you do, add {B} or {R}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {W} or {U}.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/97_Local Bazaar.png" num="97">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/99_Local Bazaar.png" num="99">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1081,7 +1065,7 @@ When this land enters, you may pay {1}. If you do, add {W} or {U}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {B} or {G}.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/98_Reclaimed Lab.png" num="98">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/100_Reclaimed Lab.png" num="100">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1098,7 +1082,7 @@ When this land enters, you may pay {1}. If you do, add {B} or {G}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {U} or {R}.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/99_Scientific Retreat.png" num="99">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/101_Scientific Retreat.png" num="101">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1115,7 +1099,7 @@ When this land enters, you may pay {1}. If you do, add {U} or {R}.
 			<text>This land enters tapped.
 When this land enters, you may pay {1}. If you do, add {W} or {B}.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/100_Stark Graveyard.png" num="100">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/102_Stark Graveyard.png" num="102">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1181,7 +1165,7 @@ Flubbed Stunt deals 3 damage to target attacking or blocking creature. If you pa
 		<card>
 			<name>Blacklist</name>
 			<text>Exile target nonland permanent an opponent controls. Search its controller&apos;s graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/48_Blacklist.png" num="48">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/49_Blacklist.png" num="49">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1232,7 +1216,7 @@ When this creature leaves the battlefield, you may put its counters on target cr
 		</card>
 		<card>
 			<name>Fresh Buttery Popcorn</name>
-			<text>When this artifact enters, put a lore counter on or remove a lore counter from up to one target Saga you control.
+			<text>When this artifact enters, put a lore counter on or remove a lore counter from up to one target Saga you control. Scry 1.
 {2}, {T}, Sacrifice this artifact: You draw a card and gain 3 life.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/6_Fresh Buttery Popcorn.png" num="6">FLM</set>
 			<prop>
@@ -1562,7 +1546,7 @@ Non-Human creatures you control enter with an additional +1/+1 counter.</text>
 			<text>Trample
 This creature enters with a +1/+1 counter on it for each other creature you control, plus an additional +1/+1 counter on it for each other Performer you control.
 Whenever another creature you control enters, put a +1/+1 counter on this creature. Put two +1/+1 counters on this creature instead if that creature was a Performer.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/43_Handled Hydra.png" num="43">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/44_Handled Hydra.png" num="44">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1579,7 +1563,7 @@ Whenever another creature you control enters, put a +1/+1 counter on this creatu
 		<card>
 			<name>Location Scouting</name>
 			<text>Search you library of up to two land cards and reveal them. Put any number of basic land cards revealed this way onto the battlefield tapped and each card not put onto the battlefield this way into your hand. Then shuffle.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/44_Location Scouting.png" num="44">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/45_Location Scouting.png" num="45">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1597,7 +1581,7 @@ Whenever another creature you control enters, put a +1/+1 counter on this creatu
 			<text>Enchantment spells you control can&apos;t be countered.
 {T}: Add one mana of any color. Spend this mana only to cast enchantment spells.
 {T}: Add one mana of any color among enchantments you control.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/45_Single-Minded Painter.png" num="45">FLM</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/46_Single-Minded Painter.png" num="46">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1614,7 +1598,7 @@ Whenever another creature you control enters, put a +1/+1 counter on this creatu
 		<card>
 			<name>Zoology of the Multiverse</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLM-files/img/47_Zoology of the Multiverse.png" num="47">FLM</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLM-files/img/48_Zoology of the Multiverse.png" num="48">FLM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1631,7 +1615,7 @@ Whenever another creature you control enters, put a +1/+1 counter on this creatu
 			<name>Clever Callbacks</name>
 			<text>Enchantment spells you cast cost {1} less to cast.
 Whenever the final chapter ability of a Saga you control triggers, the first chapter ability of that Saga triggers. (You still sacrifice it after those triggers resolve.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/52_Clever Callbacks.png" num="52">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/53_Clever Callbacks.png" num="53">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1649,7 +1633,7 @@ Whenever the final chapter ability of a Saga you control triggers, the first cha
 			<text>Trample
 Ward—Pay 2 life
 During your turn, each noncreature spell you cast has spectacle. Its spectacle cost is equal to its mana cost reduced by {2}. (You may cast a spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/63_Killer Clown.png" num="63">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/65_Killer Clown.png" num="65">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1666,14 +1650,14 @@ During your turn, each noncreature spell you cast has spectacle. Its spectacle c
 		<card>
 			<name>Marguerite Port</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLM-files/img/64_Marguerite Port.png" num="64">FLM</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLM-files/img/66_Marguerite Port.png" num="66">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Planeswalker — Marguerite</type>
 				<maintype>Planeswalker</maintype>
-				<manacost>2RGW</manacost>
-				<cmc>5</cmc>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
 				<colors>WRG</colors>
 				<coloridentity>WRG</coloridentity>
 				<loyalty>5</loyalty>
@@ -1683,7 +1667,7 @@ During your turn, each noncreature spell you cast has spectacle. Its spectacle c
 		<card>
 			<name>Ravnica Under Siege</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLM-files/img/68_Ravnica Under Siege.png" num="68">FLM</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLM-files/img/70_Ravnica Under Siege.png" num="70">FLM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1700,7 +1684,7 @@ During your turn, each noncreature spell you cast has spectacle. Its spectacle c
 			<name>Squelch, Viscous Costar</name>
 			<text>Whenever Squelch enters or attacks, exile up to two target cards from a single graveyard. If a creature card is exiled this way, put a +1/+1 counter on Squelch.
 {2}{BG}, Remove three +1/+1 counters from among creatures you control: Return target creature card you own exiled with Squelch to your hand.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/72_Squelch, Viscous Costar.png" num="72">FLM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/74_Squelch, Viscous Costar.png" num="74">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1718,7 +1702,7 @@ During your turn, each noncreature spell you cast has spectacle. Its spectacle c
 			<name>Femock, Prop Elemental</name>
 			<text>Femock is all colors. (Even when it isn&apos;t on the battlefield.)
 {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/84_Femock, Prop Elemental.png" num="84">FLM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/86_Femock, Prop Elemental.png" num="86">FLM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1730,6 +1714,56 @@ During your turn, each noncreature spell you cast has spectacle. Its spectacle c
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chew the Scenery</name>
+			<text>Choose one—
+• Target creature you control fights target creature you don&apos;t control.
+• Destroy target noncreature artifact or noncreature enchantment.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/FLM-files/img/42_Chew the Scenery.png" num="42">FLM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Fall of Sea Gate</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLM-files/img/58_The Fall of Sea Gate.png" num="58">FLM</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heart of the Peaks</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/FLM-files/img/34_Heart of the Peaks.png" num="34">FLM</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
