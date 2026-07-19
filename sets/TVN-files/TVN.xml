@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-03</releasedate>
+			<releasedate>2026-07-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -796,7 +796,7 @@ Overwhelm — As long as you control a permanent with mana value 4 or greater, t
 		<card>
 			<name>Hippocamp Wrangler</name>
 			<text>Vigilance
-Whenever another permanent you control with mana value 4 or greater enters or a creature you control matures, create a 2/1 blue Horse Fish creature token named Hippocamp.</text>
+Overwhelm — Whenever another permanent you control with mana value 4 or greater enters or a creature you control matures, create a 2/1 blue Horse Fish creature token named Hippocamp.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/55_Hippocamp Wrangler.png" num="55">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2172,8 +2172,8 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 				<side>front</side>
 				<type>Artifact — Vehicle</type>
 				<maintype>Artifact</maintype>
-				<manacost>4R</manacost>
-				<cmc>5</cmc>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>6/6</pt>
@@ -3368,7 +3368,7 @@ Other creatures you control have base power and toughness 8/8.</text>
 		</card>
 		<card>
 			<name>Provisions Ship</name>
-			<text>When this Vehicle enters, create a tapped tapped Treasure token. (Clues are artifact tokens with &quot;{2}, Sacrifice this token: Draw a card.&quot;) 
+			<text>When this Vehicle enters, create a tapped Treasure token. (Clues are artifact tokens with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/223_Provisions Ship.png" num="223">TVN</set>
 			<prop>

@@ -1213,7 +1213,7 @@
 		{
 			"name": "Overloaded Cannonship",
 			"rarity": "common",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Artifact — Vehicle",
 			"collector_number": "142",
 			"image_uris": {
