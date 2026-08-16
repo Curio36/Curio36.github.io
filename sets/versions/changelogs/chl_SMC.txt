@@ -1,4 +1,21 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Paper Mario, Team Player
+pt: 4/3 => 3/3
+
+Yoshi Kid
+rules_text: Vigilance
+Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that he doesn't have on him from among first strike, menace, reach, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead. => Vigilance
+Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that he doesn't have on him from among reach, first strike, menace, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead.
+
+Elite Magikoopa
+pt: 2/2 => 2/3
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -1,4 +1,27 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Earthshaker Altisaur
+rules_text: Vigilance, reach, trample
+[i]Landfall[/i] — Whenever a land you control enters, you may sacrifice it. If you do, put a +1/+1 counter on this creature, draw a card, and add one mana of any color that land could produce. => Reach, vigilance, trample
+[i]Landfall[/i] — Whenever a land you control enters, you may sacrifice it. If you do, put a +1/+1 counter on this creature, draw a card, and add one mana of any color that land could produce.
+
+Hi'A, Flameweb Titan
+rules_text: Vigilance, reach
+Each creature your opponents control with power equal to or less than the number of land cards in your graveyard is goaded.
+{3}, Sacrifice a land or discard a land card: Draw a card. => Reach, vigilance
+Each creature your opponents control with power equal to or less than the number of land cards in your graveyard is goaded.
+{3}, Sacrifice a land or discard a land card: Draw a card.
+
+Gastrolith Engine
+rules_text: {T}: Add one mana of any color.
+{3}, {T}, Exile Gastrolith Engine: Return target card from your graveyard to your hand. => {T}: Add one mana of any color.
+{3}, {T}, Exile this artifact: Return target card from your graveyard to your hand.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

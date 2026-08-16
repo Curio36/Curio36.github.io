@@ -807,7 +807,7 @@
             "cost": "{1}{U}{R}",
             "rules_text": "Vigilance\nIf an ability of another Minion, Noble, or Villain you control triggers, that ability triggers an additional time.",
             "flavor_text": "[i]Part of Kamek's order, this wizard's spells will really dazzle ya.[/i]",
-            "pt": "2/2",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "SMCB",
@@ -816,5 +816,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 1
 }

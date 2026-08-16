@@ -5,7 +5,7 @@
 			<name>SMC</name>
 			<longname>Super Mario Brothers Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-09</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -560,7 +560,7 @@ Whenever Paper Mario attacks, you may exert him. When you do, copy up to two oth
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/3</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1033,7 +1033,7 @@ Fiery Hex — During your turn, double all damage commanders you control would d
 		<card>
 			<name>Yoshi Kid</name>
 			<text>Vigilance
-Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that he doesn&apos;t have on him from among first strike, menace, reach, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead.</text>
+Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that he doesn&apos;t have on him from among reach, first strike, menace, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMC-files/img/74_Yoshi Kid.png" num="74">SMC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1593,7 +1593,7 @@ If an ability of another Minion, Noble, or Villain you control triggers, that ab
 				<cmc>3</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

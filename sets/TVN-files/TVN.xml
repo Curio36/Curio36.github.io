@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-18</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1755,7 +1755,7 @@ Destroy target creature, planeswalker, or Vehicle.</text>
 		<card>
 			<name>Big Score</name>
 			<text>As an additional cost to cast this spell, discard a card.
-Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/117_Big Score.png" num="117">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1845,7 +1845,7 @@ Crew 3</text>
 		</card>
 		<card>
 			<name>Clamp Down</name>
-			<text>Clamp Down deals 1 damage to any target. Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+			<text>Clamp Down deals 1 damage to any target. Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
 You may discard a card. If you do, draw a card.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/122_Clamp Down.png" num="122">TVN</set>
 			<prop>
@@ -1934,7 +1934,7 @@ Whenever this creature attacks, you may discard a card. If you do, draw a card.<
 		<card>
 			<name>Encrusted Crustacean</name>
 			<text>During your turn, this creature has first strike.
-When this creature dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+When this creature dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/128_Encrusted Crustacean.png" num="128">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2456,7 +2456,7 @@ When this creature enters, return up to one target permanent card and up to one 
 		<card>
 			<name>Gilded Plating</name>
 			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (This permanent can&apos;t be the target of spells or abilities your opponents control.)
-Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/162_Gilded Plating.png" num="162">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2723,7 +2723,7 @@ Equip {2}</text>
 		<card>
 			<name>Wingbeast Hunter</name>
 			<text>Reach
-Overwhelm — Whenever this creature attacks while you control a permanent with mana value 4 or greater, it gets +2/+2 until end of turn. Untap it.</text>
+Overwhelm — Whenever this creature attacks while you control a permanent with mana value 4 or greater, it gets +2/+1 until end of turn. Untap it.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/190_Wingbeast Hunter.png" num="190">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2741,7 +2741,7 @@ Overwhelm — Whenever this creature attacks while you control a permanent with 
 		<card>
 			<name>Rootpath Mamba</name>
 			<text>Vigilance
-When this creature enters or dies, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/180_Rootpath Mamba.png" num="180">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2972,7 +2972,7 @@ Whenever one or more Vehicles you control attack a player, exile the top card of
 		</card>
 		<card>
 			<name>Grahn, Seafolk Huntmaster</name>
-			<text>Vigilance, reach, trample
+			<text>Reach, vigilance, trample
 Grahn enters with three +1/+1 counters on him.
 Whenever you cast a permanent spell with mana value 4 or greater or a creature you control matures, put a +1/+1 counter on each creature you control. If that spell or creature was legendary, double the number of +1/+1 counters on Grahn.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/210_Grahn, Seafolk Huntmaster.png" num="210">TVN</set>
@@ -3894,7 +3894,7 @@ Overwhelm — {5}: Until end of turn, this land becomes a 4/4 Leviathan creature
 		<card>
 			<name>Unstable Vein</name>
 			<text>{T}, Pay 1 life: Add {R}.
-{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/260_Unstable Vein.png" num="260">TVN</set>
 			<prop>
 				<layout>normal</layout>

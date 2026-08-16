@@ -5,7 +5,7 @@
 			<name>TVC</name>
 			<longname>Titans of Viludin Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-28</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -99,7 +99,7 @@ Mountaincycling {2}</text>
 		</card>
 		<card>
 			<name>Earthshaker Altisaur</name>
-			<text>Vigilance, reach, trample
+			<text>Reach, vigilance, trample
 Landfall — Whenever a land you control enters, you may sacrifice it. If you do, put a +1/+1 counter on this creature, draw a card, and add one mana of any color that land could produce.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/27_Earthshaker Altisaur.png" num="27">TVC</set>
 			<prop>
@@ -172,7 +172,7 @@ Creatures you control gain hexproof and indestructible until end of turn. Until 
 		</card>
 		<card>
 			<name>Hi&apos;A, Flameweb Titan</name>
-			<text>Vigilance, reach
+			<text>Reach, vigilance
 Each creature your opponents control with power equal to or less than the number of land cards in your graveyard is goaded.
 {3}, Sacrifice a land or discard a land card: Draw a card.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/41_Hi&apos;A, Flameweb Titan.png" num="41">TVC</set>
@@ -599,7 +599,7 @@ Crew 3</text>
 		<card>
 			<name>Gastrolith Engine</name>
 			<text>{T}: Add one mana of any color.
-{3}, {T}, Exile Gastrolith Engine: Return target card from your graveyard to your hand.</text>
+{3}, {T}, Exile this artifact: Return target card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/51_Gastrolith Engine.png" num="51">TVC</set>
 			<prop>
 				<layout>normal</layout>

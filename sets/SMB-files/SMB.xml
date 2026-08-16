@@ -5,7 +5,7 @@
 			<name>SMB</name>
 			<longname>Super Mario Brothers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-12</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1424,8 +1424,8 @@ Whenever you cast a creature spell, surveil 1. The first time you put a land car
 		</card>
 		<card>
 			<name>Cruise the Bean Stalk</name>
-			<text>This spell can&apos;t be countered
-Put any number of land cards from your hand and/or graveyard onto the battlefield tapped. When you do, target creature you control has base power and toughness each equal to the number of lands you control until end of turn.</text>
+			<text>This spell can&apos;t be countered.
+Put any number of land cards from your hand and/or graveyard onto the battlefield tapped. When you do, target creature you control gains &quot;This creature&apos;s base power and toughness are each equal to the number of lands you control&quot; until end of turn.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMB-files/img/159_Cruise the Bean Stalk.png" num="159">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2626,7 +2626,7 @@ Whenever an opponent casts a spell with one or more targets, this creature deals
 		<card>
 			<name>Coin Coffer</name>
 			<text>Menace
-Whenever this creature is dealt damage, create that many tapped Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/126_Coin Coffer.png" num="126">SMB</set>
 			<prop>
 				<layout>normal</layout>

@@ -14,7 +14,7 @@
 			"name": "Bowser, Monstrous King",
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Legendary Creature — Dragon Turtle Noble",
+			"type": "Legendary Creature — Turtle Dragon Noble",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SME-files/img/10_Bowser, Monstrous King.png"
@@ -64,7 +64,7 @@
 			"name": "Wonder Bowser Jr.",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature — Dragon Turtle Noble",
+			"type": "Legendary Creature — Turtle Dragon Noble",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SME-files/img/12_Wonder Bowser Jr..png"

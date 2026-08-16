@@ -729,6 +729,16 @@
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/ERG-files/img/73_Truga Outskirts.png"
 			}
+		},
+		{
+			"name": "Twisted Death Monitor",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Lizard Mutant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/1_Twisted Death Monitor.png"
+			}
 		}
 	]
 
@@ -827,6 +837,7 @@
 	8 Evolving Wilds
 	8 Seedspreader Tapir
 	8 Truga Outskirts
+	3 Twisted Death Monitor
 [foil(1)]
 	1 Vivien, Wildheart Defender
 	1 Karlos, Spark Surveyor

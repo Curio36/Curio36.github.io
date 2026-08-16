@@ -5,7 +5,7 @@
 			<name>SMCB</name>
 			<longname>Bowser&apos;s Baddies Commander Precon</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-14</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -814,7 +814,7 @@ If an ability of another Minion, Noble, or Villain you control triggers, that ab
 				<cmc>3</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

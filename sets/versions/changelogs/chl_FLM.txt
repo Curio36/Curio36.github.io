@@ -1,4 +1,16 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Attack of the Colossal Thing! added.
+Worst Picture Nomination added.
+Tella, Muse of Meletis added.
+
+
+Reshoot
+rules_text: Counter target noncreature spell. That spell's controller draws a card. => Counter target noncreature spell. If that spell is countered this way, its controller draws a card.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

@@ -5,7 +5,7 @@
 			<name>ERG</name>
 			<longname>Ergamon: Nature&apos;s Rage</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-28</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -506,7 +506,7 @@ Symbiotic — Whenever this creature and a creature with greater power attack to
 		</card>
 		<card>
 			<name>Basking Gargantua, Drifter</name>
-			<text>This spell can&apos;t be countered
+			<text>This spell can&apos;t be countered.
 Whenever Basking Gargantua or another creature you control enters, target player mills cards equal to that creature&apos;s toughness.
 {1}{U}, Discard a card: Exile Basking Gargantua. Return it to the battlefield tapped under its owner&apos;s control at the beginning of the next end step.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/7_Basking Gargantua, Drifter.png" num="7">ERG</set>
@@ -580,7 +580,7 @@ When this creature enters, sacrifice another creature. If you can&apos;t, sacrif
 		<card>
 			<name>Sanguine Hunger, Bloodspiller</name>
 			<text>Trample, lifelink
-As long as you have at least 10 life more than your starting life total, you may cast creature spells from your graveyard by paying life equal to their mana value instead of paying their mana cost.</text>
+As long as you have at least 10 life more than your starting life total, you may cast creature spells from your graveyard by paying life equal to their mana value instead of paying their mana cost. A creature cast this way enters with a finality counter on it.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/ERG-files/img/14_Sanguine Hunger, Bloodspiller.png" num="14">ERG</set>
 			<prop>
 				<layout>normal</layout>
@@ -1303,6 +1303,25 @@ When Skydance dies, choose one—
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Twisted Death Monitor</name>
+			<text>Menace, trample
+When this creature enters or becomes monstrous, destroy target permanent.
+{5}{B}{G}: Monstrosity 4. (If this creature isn&apos;t monstrous, put four +1/+1 counters on it and it becomes monstrous.)</text>
+			<set rarity="masterpiece" picurl="https://Curio36.github.io/sets/ERG-files/img/1_Twisted Death Monitor.png" num="1">ERG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

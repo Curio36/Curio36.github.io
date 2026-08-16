@@ -1,4 +1,52 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Big Score
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Clamp Down
+rules_text: Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card. => Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card.
+
+Encrusted Crustacean
+rules_text: During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Gilded Plating
+rules_text: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Wingbeast Hunter
+rules_text: Reach
+[i]Overwhelm [/i]— Whenever this creature attacks while you control a permanent with mana value 4 or greater, it gets +2/+2 until end of turn. Untap it. => Reach
+[i]Overwhelm [/i]— Whenever this creature attacks while you control a permanent with mana value 4 or greater, it gets +2/+1 until end of turn. Untap it.
+
+Rootpath Mamba
+rules_text: Vigilance
+When this creature enters or dies, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Vigilance
+When this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Grahn, Seafolk Huntmaster
+rules_text: Vigilance, reach, trample
+Grahn enters with three +1/+1 counters on him.
+Whenever you cast a permanent spell with mana value 4 or greater or a creature you control matures, put a +1/+1 counter on each creature you control. If that spell or creature was legendary, double the number of +1/+1 counters on Grahn. => Reach, vigilance, trample
+Grahn enters with three +1/+1 counters on him.
+Whenever you cast a permanent spell with mana value 4 or greater or a creature you control matures, put a +1/+1 counter on each creature you control. If that spell or creature was legendary, double the number of +1/+1 counters on Grahn.
+
+Unstable Vein
+rules_text: {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

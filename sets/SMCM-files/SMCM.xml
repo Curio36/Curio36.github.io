@@ -5,7 +5,7 @@
 			<name>SMCM</name>
 			<longname>Mushroom Kingdom Commander Precon</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-28</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -85,7 +85,7 @@ Whenever a creature attacks you, untap it. It gains menace until end of turn.
 		<card>
 			<name>Yoshi Kid</name>
 			<text>Vigilance
-Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that he doesn&apos;t have on him from among first strike, menace, reach, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead.</text>
+Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that he doesn&apos;t have on him from among reach, first strike, menace, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/37_Yoshi Kid.png" num="37">SMCM</set>
 			<prop>
 				<layout>normal</layout>
@@ -412,7 +412,7 @@ Whenever Paper Mario attacks, you may exert him. When you do, copy up to two oth
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/3</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

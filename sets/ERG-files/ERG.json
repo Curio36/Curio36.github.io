@@ -517,14 +517,14 @@
             "number": 7,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "This spell can't be countered\nWhenever Basking Gargantua or another creature you control enters, target player mills cards equal to that creature's toughness.\n{1}{U}, Discard a card: Exile Basking Gargantua. Return it to the battlefield tapped under its owner's control at the beginning of the next end step.",
+            "rules_text": "This spell can't be countered.\nWhenever Basking Gargantua or another creature you control enters, target player mills cards equal to that creature's toughness.\n{1}{U}, Discard a card: Exile Basking Gargantua. Return it to the battlefield tapped under its owner's control at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "6/7",
             "special_text": "",
             "shape": "normal",
             "set": "ERG",
             "loyalty": "",
-            "artist": "",
+            "artist": "Raph Lomotan",
             "notes": ""
         },
         {
@@ -589,7 +589,7 @@
             "number": 14,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "Trample, lifelink\nAs long as you have at least 10 life more than your starting life total, you may cast creature spells from your graveyard by paying life equal to their mana value instead of paying their mana cost.",
+            "rules_text": "Trample, lifelink\nAs long as you have at least 10 life more than your starting life total, you may cast creature spells from your graveyard by paying life equal to their mana value instead of paying their mana cost. A creature cast this way enters with a finality counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1318,7 +1318,25 @@
             "loyalty": "",
             "artist": "",
             "notes": ""
+        },
+        {
+            "card_name": "Twisted Death Monitor",
+            "color": "BG",
+            "rarity": "masterpiece",
+            "type": "Creature \u2014 Lizard Mutant",
+            "number": 1,
+            "color_identity": "BG",
+            "cost": "{4}{B}{G}",
+            "rules_text": "Menace, trample\nWhen this creature enters or becomes monstrous, destroy target permanent.\n{5}{B}{G}: Monstrosity 4. [i](If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "6/6",
+            "special_text": "",
+            "shape": "normal",
+            "set": "ERG",
+            "loyalty": "",
+            "artist": "Jasper Sandner",
+            "notes": ""
         }
     ],
-    "version": 2
+    "version": 1
 }

@@ -899,6 +899,39 @@
     {
         "card_name": "er"
     },
+    "a->masterpiece",
+    {
+        "card_name": "Twisted Death Monitor",
+        "number": 1,
+        "shape": "normal",
+        "set": "ERG",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     }
