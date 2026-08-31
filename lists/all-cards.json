@@ -16892,6 +16892,121 @@
             "image_type": "png"
         },
         {
+            "card_name": "Plains",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Plains",
+            "number": 273,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TVN",
+            "loyalty": "",
+            "artist": "Blake Rottinger",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Island",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Island",
+            "number": 275,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TVN",
+            "loyalty": "",
+            "artist": "Emily Hare",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Swamp",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Swamp",
+            "number": 279,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TVN",
+            "loyalty": "",
+            "artist": "Geoffrey Ernault",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Mountain",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Mountain",
+            "number": 282,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TVN",
+            "loyalty": "",
+            "artist": "Dasom Hyun",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Forest",
+            "number": 285,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TVN",
+            "loyalty": "",
+            "artist": "Angelina Andreas",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
             "card_name": "Goldseeker Cruiser",
             "color": "W",
             "rarity": "common",
@@ -16907,8 +17022,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Yasushi Matsuoka",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cogwork Crew",
@@ -16926,8 +17045,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jordi Rapture",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cogwork Deckhands",
@@ -16945,8 +17068,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Kian Reglos",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Combat Rigging",
@@ -16964,8 +17091,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Virgile Boulais",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deckhand's Blade",
@@ -16983,8 +17114,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Determined Push",
@@ -17002,8 +17137,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Felix Ortiz",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Distracting Dolphin",
@@ -17021,8 +17160,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alexey Kruglov",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drop-Off Specialist",
@@ -17040,8 +17183,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "neon laboratory",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Early-Stage Aviator",
@@ -17059,8 +17206,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Roberto Akeiron",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cog Maintainer",
@@ -17078,8 +17229,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Runa Ivana Rosenberger",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Engine Repairs",
@@ -17097,8 +17252,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Aaron Nakahara",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eradicating Wave",
@@ -17116,8 +17275,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Aaron Garcia",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "FT by Jeenyus",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "First Fleet Airship",
@@ -17135,8 +17298,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Svetoslav Petrov",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloudscape Kraken",
@@ -17154,8 +17321,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jon Pintar",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glorycarved Masthead",
@@ -17173,8 +17344,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "GR-4E, Personal Guard",
@@ -17192,8 +17367,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heartfelt Shipwright",
@@ -17211,8 +17390,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Vadim Marchenkov",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rescue Carrier",
@@ -17230,8 +17413,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Julien Lepelletier",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistcutter Attendant",
@@ -17249,8 +17436,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Matt DeMino",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pearlthrone Guard",
@@ -17268,8 +17459,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ayu Marques",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Repel Titans",
@@ -17287,8 +17482,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Muhamad Faizal Fikri",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shore Tyrant",
@@ -17306,8 +17505,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Wayne Wu",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sunken Casket",
@@ -17325,8 +17528,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Lucas Staniec",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seafolk Sentinel",
@@ -17344,8 +17551,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Zezhou Chen",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shining Wingfin",
@@ -17363,8 +17574,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Gabriel Ramos",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shore Tyrant's Challenge",
@@ -17382,8 +17597,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ryan Van Dongen",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skilled Shipwright",
@@ -17401,8 +17620,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Kirill",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skyskimmer Glaucus",
@@ -17420,8 +17643,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Simo R\u00e4s\u00e4nen",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Splendor Port Guardship",
@@ -17439,8 +17666,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sebastian Tucholski",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stand as One",
@@ -17458,8 +17689,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Vablo",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deckside Gunner",
@@ -17477,8 +17712,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "\u017dana Arnautovi\u0107",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sunvine Nurturer",
@@ -17496,8 +17735,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Humble Squid Creatives",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gelid Tyrant",
@@ -17515,8 +17758,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "TamberElla",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beachcombing Tiktaalik",
@@ -17534,8 +17781,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Agnieszka Kapu\u015bci\u0144ska",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Breaching Greatshark",
@@ -17553,8 +17804,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Konstantin Gerasimov",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chart a Course",
@@ -17572,8 +17827,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Rayven Studios",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloud Sea Bell",
@@ -17591,8 +17850,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nick Terry",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloud Sea Snatcher",
@@ -17610,8 +17873,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ursula Dorada",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cynette, Cnidariamancer",
@@ -17629,8 +17896,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "YAMILUNA39",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dash on the Rocks",
@@ -17648,8 +17919,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Matthieu Tourdes",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disrupt Existence",
@@ -17667,8 +17942,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alice Bessoni",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Freezing Winds",
@@ -17686,8 +17965,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Shirley Gong",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Giant Remora",
@@ -17705,8 +17988,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Russell Marks",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fishy Rumormonger",
@@ -17724,8 +18011,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Envar Studio",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hippocamp Wrangler",
@@ -17743,8 +18034,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ian Kirkpatrick",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hunting Whale",
@@ -17762,8 +18057,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Louise Goalby",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "May go to UU or to 4/5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inkmane Hippocamp",
@@ -17781,8 +18080,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sluggo",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mercurial Skyrod",
@@ -17800,8 +18103,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Kaion Luong [BeeBros Team]",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Meticulous Planning",
@@ -17819,8 +18126,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Edward Chee",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mindribbon Serpent",
@@ -17838,8 +18149,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Tom Lopez",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gelid Sea Courier",
@@ -17857,8 +18172,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "MATSURICA",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gelid Tyrant's Challenge",
@@ -17876,8 +18195,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "TamberElla",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overwhelming Riptide",
@@ -17895,8 +18218,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "\u00c1lvaro Jim\u00e9nez",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pearl Trader's Manta",
@@ -17914,8 +18241,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "alessio.dias_art",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Read the Starfish",
@@ -17933,8 +18264,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Zandraart (Alex Kern)",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sea Witch's Wards",
@@ -17952,8 +18287,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "\nKudos Productions\nKudos Productions",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seafoam Shackles",
@@ -17971,8 +18310,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Michael Bakker",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spellcatcher Conch",
@@ -17990,8 +18333,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Allan Arello and Mooncolony",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Starry Night Skiff",
@@ -18009,8 +18356,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "David Ot\u00e1lora",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Submersible Pod",
@@ -18028,8 +18379,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "edyartworks",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thirst for Power",
@@ -18047,8 +18402,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Bjorn Hurri",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Titanic Haruspicy",
@@ -18066,8 +18425,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Anastasia Shestak",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wash Overboard",
@@ -18085,8 +18448,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Anna Podedworna",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stormbringer Ship",
@@ -18104,8 +18471,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Arkoii",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wunderpus Mimic",
@@ -18123,8 +18494,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Natalia Bouajram",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ambitious Prototype",
@@ -18142,8 +18517,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "JB Casacop",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crossbone Cove Cutter",
@@ -18161,8 +18540,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alexandre LARCHER",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cursed Compass",
@@ -18180,8 +18563,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Aaron Lovett",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deep Tyrant's Challenge",
@@ -18199,8 +18586,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Leon Marcel",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devour",
@@ -18218,8 +18609,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ivana Abbate",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dredging Arm",
@@ -18237,8 +18632,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Happy Toast",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fangcrest Finisher",
@@ -18256,8 +18655,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alberto Alonso",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grimechurner Rotboat",
@@ -18275,8 +18678,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Amelia Poltoracka",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "Name and idea by RootWalla",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deadman's Tales",
@@ -18294,8 +18701,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Oleg Poluyanov",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inktrench Stinger",
@@ -18313,8 +18724,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jessada Sutthi",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inktrench's Trail",
@@ -18332,8 +18747,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "James Fletcher",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fleetsinker",
@@ -18351,8 +18770,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Mark Akopov",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jahan, High Seas Lich",
@@ -18370,8 +18793,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Francis Tneh",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jahan's Pets",
@@ -18389,8 +18816,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Andrea Bignami",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lamprey Swarm",
@@ -18408,8 +18839,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Vasily Ermolaev",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lich's Insight",
@@ -18427,8 +18862,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Aaron Nakahara",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Midnight Queen, Damned Vessel",
@@ -18446,8 +18885,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nadezhda Tikhomirova",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Noxious Venting",
@@ -18465,8 +18908,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "\nKudos Productions\nKudos Productions",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deep Tyrant",
@@ -18484,8 +18931,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Francisco Chinchilla",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Perilous Pickpocket",
@@ -18503,8 +18954,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "nibelwolf",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Raise from the Depths",
@@ -18522,8 +18977,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Caelan Stokkermans",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Requisitioned Raider",
@@ -18541,8 +19000,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Chris Setra",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Retrofitted Rampager",
@@ -18560,8 +19023,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Chirag Tripathy",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ripmaw Assassin",
@@ -18579,8 +19046,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Akira Atreides",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rot Sea Surge",
@@ -18598,8 +19069,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Helder ALMEIDA",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rakish Buccaneer",
@@ -18617,8 +19092,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Daniel Purnama",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shipyard Scavenger",
@@ -18636,8 +19115,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "\nSIXMOREVODKA\nSIXMOREVODKA",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Silent Drifter",
@@ -18655,8 +19138,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Rodion Shaldo",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tendrils of the Deep",
@@ -18674,8 +19161,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Xebelion",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Titan Bone Assault",
@@ -18693,8 +19184,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Diego de Almeida",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Standard Issue Guardbot",
@@ -18712,8 +19207,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Atharva Dharphale",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vile Gastrolith",
@@ -18731,8 +19230,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nathanael Mortensen",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Basking Iguanin",
@@ -18750,8 +19253,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Henrique Gomes",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Big Score",
@@ -18761,7 +19268,7 @@
             "number": 117,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -18769,8 +19276,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Audy Ravindra",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blacksail Looter",
@@ -18788,8 +19299,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Joshua Cairos",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bursting Vein Serpent",
@@ -18807,8 +19322,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "NicholasKay",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charred Isles Excavator",
@@ -18826,8 +19345,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Markella Stav",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charred Isles Shovelbearer",
@@ -18845,8 +19368,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Anton Nazarenko",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clamp Down",
@@ -18856,7 +19383,7 @@
             "number": 122,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nYou may discard a card. If you do, draw a card.",
+            "rules_text": "Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nYou may discard a card. If you do, draw a card.",
             "flavor_text": "[i]Pearl diving is not without either its rewards nor its risks.[/i]",
             "pt": "",
             "special_text": "",
@@ -18864,8 +19391,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jim Nelson",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crushing Charge",
@@ -18883,8 +19414,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "\nJiHun Lee\nJiHun Lee",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Daunting Figurehead",
@@ -18902,8 +19437,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Greg Rutkowski",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dockside Rebuffer",
@@ -18921,8 +19460,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "FT by Jeenyus",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dunemaker Wurm",
@@ -18940,8 +19483,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "mist XG",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Encrusted Crustacean",
@@ -18951,7 +19498,7 @@
             "number": 128,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "During your turn, this creature has first strike.\nWhen this creature dies, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "During your turn, this creature has first strike.\nWhen this creature dies, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -18959,8 +19506,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Federico Maria Cugliari",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eruptive Emergence",
@@ -18978,8 +19529,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Luciano Javier Carreira",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Expedition Funding",
@@ -18997,8 +19552,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Zuzanna Kapu\u015bci\u0144ska",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Explosive Rage",
@@ -19016,8 +19575,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Wirawan Pranoto",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Full Tilt",
@@ -19035,8 +19598,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Vladislav Ushakov",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vein Tyrant",
@@ -19054,8 +19621,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "KazmaBlack",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lovebyrd's Galleon",
@@ -19073,8 +19644,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "\nSIXMOREVODKA\nSIXMOREVODKA",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inevitable, Doom's Flagship",
@@ -19092,8 +19667,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nadezhda Tikhomirova",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lavaheart Dragon",
@@ -19111,8 +19690,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Mateusz Wisniewski",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lightning Rod Installer",
@@ -19130,8 +19713,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nick Moskvin",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Loose Cannon",
@@ -19149,8 +19736,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Goodname Studio",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Magmatic Gastrolith",
@@ -19168,8 +19759,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Dmitry Isakevitch",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Magmawake Whale",
@@ -19187,8 +19782,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ramza Ardyputra",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overloaded Cannonship",
@@ -19206,8 +19805,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "KyuYong Eom",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ready, Aim, Fire!",
@@ -19225,8 +19828,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Roaming Dunkleosteus",
@@ -19244,8 +19851,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jean Cruz",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seasoned Cannoneer",
@@ -19263,8 +19874,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "PavelKunc",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scorching Fox",
@@ -19282,8 +19897,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Michelle Martinez",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "BanCrabs helped this design",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stormward Shanties",
@@ -19301,8 +19920,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sam Hogg",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Powderkeg Explosion",
@@ -19320,8 +19943,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Kudos Productions",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tyrant's Demand",
@@ -19339,8 +19966,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Timur Dairbayev",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vein Tyrant's Challenge",
@@ -19358,8 +19989,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Mateusz Wisniewski",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Apex Anomalocaris",
@@ -19377,8 +20012,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Luis R. Blanco",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ava, Thorny Diva",
@@ -19396,8 +20035,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Shyguyz _",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Coral Tyrant's Challenge",
@@ -19415,8 +20058,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Anton Ek",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Destructive Wake",
@@ -19434,8 +20081,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Thomas Ricci",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "Functional Reprint of Betrayal at the Vault; FT by Jeenyus",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drag from the Shallows",
@@ -19453,8 +20104,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jakub Jagoda",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dryad Navigator",
@@ -19472,8 +20127,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Muhammad Fajri",
+            "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental's Flourish",
@@ -19491,8 +20150,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Mathieu Seveno",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Foraging Badger",
@@ -19510,8 +20173,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Dagmara Matuszak",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gilded Plating",
@@ -19521,7 +20188,7 @@
             "number": 162,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]\nTarget player creates a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This instant can't be the target of spells or abilities your opponents control.)[/i]\nTarget player creates a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19529,8 +20196,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Pixoloid Studios",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Give In to Instinct",
@@ -19548,8 +20219,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Eugenio Frosali",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Coral Tyrant",
@@ -19567,8 +20242,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Anton Ek",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hoofbeats in the Woods",
@@ -19586,8 +20265,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "ArtofAndreGarcia",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hydra Hullbreaker",
@@ -19605,8 +20288,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Propagated Bioship",
@@ -19624,8 +20311,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ridell Apellanes",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Isle-Mimic Leviathan",
@@ -19643,8 +20334,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Saeed Ramez",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leafwhisper Beetle",
@@ -19662,8 +20357,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Lucas",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lineaz Eulogist",
@@ -19681,8 +20380,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ir\u0430 FirOy Fidler",
+            "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mosstusk Guardian",
@@ -19700,8 +20403,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Omar Vallejos",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Otoro, Wild Explorer",
@@ -19711,16 +20418,20 @@
             "number": 172,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "",
+            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a loyalty counter on Otoro.\n[0]: Surveil 1, then create a Map token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.\u201d)[/i]\n[-1]: Surveil 3, then you may return a land card from your graveyard to your hand.\n[-5]: Create a 0/0 green Scout creature token with \u201cThis token gets +1/+1 for each land you control.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a loyalty counter on Otoro.\n[0]: Surveil 1, then create a Map token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.\u201d)[/i]\n[-1]: Surveil 3, then you may return a land card from your graveyard to your hand.\n[-5]: Create a 0/0 green Scout creature token with \u201cThis token gets +1/+1 for each land you control.\u201d",
+            "special_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a loyalty counter on Otoro.\n[0]: Surveil 1, then create a Map token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.\u201d)[/i]\n[-1]: Surveil 3, then you may return a land card from your graveyard to your hand.\n[-5]: Create a 0/0 green Scout creature token with \u201cThis token gets +1/+1 for each land you control.\u201d",
             "shape": "planeswalker",
             "set": "TVN",
             "loyalty": "3",
             "artist": "Diego Machuca",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Perennial Regrowth",
@@ -19738,8 +20449,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Joshua Cairos",
+            "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plow Through",
@@ -19757,8 +20472,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ben Wootten",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "Canon card from DFT",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Primordial Coelacanth",
@@ -19776,8 +20495,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Eike Braselmann",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ramming Prow",
@@ -19795,8 +20518,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "James Bousema",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wingbeast Hunter",
@@ -19814,8 +20541,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Igor Grechanyi",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rootpath Mamba",
@@ -19833,8 +20564,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Eduardo da Silva Pires",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rustbladder Kelp",
@@ -19852,8 +20587,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Marta Grajper",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tin Isle Channeler",
@@ -19871,8 +20610,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Andrew 'emmilius' Szymanski",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tin Isle Lifetender",
@@ -19890,8 +20633,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Steven Jones",
+            "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tin Isle Wurmrig",
@@ -19909,8 +20656,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Marko Jeli\u0107",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "To the Horizon",
@@ -19928,8 +20679,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Thomas Ressuge",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vedre Strait Caller",
@@ -19947,8 +20702,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Kyle Herring",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vibrant Siphonophore",
@@ -19966,8 +20725,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Aaron Sedgwick",
+            "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zoophonic Call",
@@ -19985,8 +20748,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Marcos Villarroel",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abyssal Sea-Witch",
@@ -20004,8 +20771,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ekaterina Gorelko",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aesi, Capricious Serpent",
@@ -20023,8 +20794,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Clint Cearley",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Back For More",
@@ -20042,8 +20817,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ian Perks",
+            "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beliaz, Hot Shot",
@@ -20061,8 +20840,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Douglas Manzini",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grahn, Seafolk Huntmaster",
@@ -20080,8 +20863,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alex Heath",
+            "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cephalid Strategist",
@@ -20099,8 +20886,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ayu Marques",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Apex Landshifter",
@@ -20118,8 +20909,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Rudy Siswanto",
+            "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chordatan Bloodseeker",
@@ -20137,8 +20932,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Dat Phan",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloudbelt Synthesis",
@@ -20156,8 +20955,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Rai Souza",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cyfra, Inktrench Tyrant",
@@ -20175,15 +20978,19 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Tyramine",
+            "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elagid, the Endless Glutton",
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Crocodile Leviathan",
-            "number": 203,
+            "number": 202,
             "color_identity": "BG",
             "cost": "{5}{B}{G}",
             "rules_text": "Whenever you attack, you may cast a permanent spell with mana value X or less from your hand or graveyard without paying its mana cost, where X is the greatest power among attacking creatures. If you cast a spell from your graveyard this way, it enters with a finality counter on it.",
@@ -20194,8 +21001,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ivan Berta",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Engines Critical",
@@ -20213,8 +21024,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sonderflex Studio",
+            "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eskin, Furnace Master",
@@ -20232,8 +21047,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ivan Fomin",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Evram, Blind Metallomancer",
@@ -20251,8 +21070,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Taras Susak [Altered TCG]",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fangworm Fleetship",
@@ -20270,8 +21093,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nadezhda Tikhomirova",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Firenz, Sunvine Custodian",
@@ -20289,8 +21116,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Guilherme Prieto",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ehn, Cloud Sea Ancient",
@@ -20308,8 +21139,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Lars Bijl",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grandir, the Storm-Bodied",
@@ -20327,8 +21162,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Astrid Lian",
+            "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grandir's Trove",
@@ -20346,8 +21185,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Volmi Games",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Holtz, Devilish Benefactor",
@@ -20365,8 +21208,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nikijs Vackars",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Intrepid Courier",
@@ -20384,8 +21231,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Victor Garcia",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ka'bi, the Bloomhoof",
@@ -20403,8 +21254,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Monika Pa\u0142osz",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lava Flow Hellbender",
@@ -20422,8 +21277,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Yang ShaoXuan",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Len, Endless Tentacles",
@@ -20441,8 +21300,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Dima Derzhavin",
+            "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Malzan the Shipwright",
@@ -20452,7 +21315,7 @@
             "number": 219,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "",
+            "rules_text": "[+1]: Untap up to one target artifact or creature, then tap up to one target artifact or creature\n[+1]: Target Vehicle you control becomes an artifact creature until your next turn.\n[-1]: You gain 2 life and draw a card.\n[-7]: Search your library for two artifact creature and/or Vehicle cards with different names, put them onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Untap up to one target artifact or creature, then tap up to one target artifact or creature\n[+1]: Target Vehicle you control becomes an artifact creature until your next turn.\n[-1]: You gain 2 life and draw a card.\n[-7]: Search your library for two artifact creature and/or Vehicle cards with different names, put them onto the battlefield, then shuffle.",
@@ -20460,8 +21323,12 @@
             "set": "TVN",
             "loyalty": "4",
             "artist": "SIXMOREVODKA",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pantry Filler",
@@ -20479,8 +21346,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Joby Dorr",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Provisions Ship",
@@ -20498,8 +21369,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Stepan Gilev",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Raucous Week, Party Ship",
@@ -20517,8 +21392,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "#HT000Y",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reckless Innovator",
@@ -20536,8 +21415,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Zhang Zs",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Relentless Reconstructionist",
@@ -20555,8 +21438,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Anh Tung for Altered TCG",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Runes of Recall",
@@ -20574,8 +21461,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Mateusz Mizak",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soulbound Sloop",
@@ -20593,8 +21484,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Juan de la Cruz",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Superb Salvage",
@@ -20612,8 +21507,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Emilio Di Pietro, MSc.",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Firejelly Anomaly",
@@ -20631,8 +21530,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Victor Sales",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tiz'ek's Meltdown",
@@ -20650,8 +21553,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Gonzalo Kenny",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tyrant Territory",
@@ -20669,8 +21576,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alessandro Calbini",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cogwork Companion",
@@ -20688,8 +21599,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Roberto Pitturru",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cogwork Ichthyoid",
@@ -20707,8 +21622,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "\u2726 Monztre \u2726",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deepweb Spider",
@@ -20726,8 +21645,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "SIXMOREVODKA",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "High Seas Harrier",
@@ -20745,8 +21668,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sebastian Duran",
+            "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Goldvein Monstrosity",
@@ -20764,8 +21691,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Thomas Ricci",
+            "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merchant Vessel",
@@ -20783,8 +21714,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sam Hogg",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pirate Salvo",
@@ -20802,8 +21737,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Power Siphon",
@@ -20821,8 +21760,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Gui Ramalho",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Research Vessel",
@@ -20840,8 +21783,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Polina Pokrovskaia",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Uncovered Pitfall",
@@ -20859,8 +21806,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Muhamad Faizal Fikri",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sturdy Anchoring",
@@ -20878,8 +21829,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "garslilas",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tideborne Generator",
@@ -20897,8 +21852,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jonathan Bolster",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trench Drone",
@@ -20916,8 +21875,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nikolai Lockertsen",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Untapped Gastrolith",
@@ -20935,8 +21898,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nathanael Mortensen",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Busy Workshop",
@@ -20954,8 +21921,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sergio Villa-Isaza",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Churning Landscape",
@@ -20973,8 +21944,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Florian Herold",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deepsea Maw",
@@ -20992,8 +21967,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "DJ Choi",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glamorous Port",
@@ -21011,8 +21990,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Tomasz Chistowski",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seafolk Court",
@@ -21030,8 +22013,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Todd Song",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pirates' Bay",
@@ -21049,8 +22036,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Carl Ljungsberg",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crackling Cataract",
@@ -21068,8 +22059,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Chris Dien",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Uncharted Strait",
@@ -21087,8 +22082,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alex Rommel",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unstable Vein",
@@ -21098,7 +22097,7 @@
             "number": 260,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life: Add {R}.\n{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "{T}, Pay 1 life: Add {R}.\n{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -21106,8 +22105,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Va\u00efarello Lo\u00efc",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloud Sea",
@@ -21125,8 +22128,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Shaheen Khan",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Congregation Reef",
@@ -21144,8 +22151,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "La\u00eds Rodrigues",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grand Rim Caldera",
@@ -21163,8 +22174,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ferdinand Ladera",
+            "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gyre Strait",
@@ -21182,8 +22197,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sin jong hun",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inktrench Crag",
@@ -21201,8 +22220,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Benjamin Wiesemann",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rot Sea",
@@ -21220,8 +22243,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Daniele (DANKA) Montella",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Silent Shores",
@@ -21239,8 +22266,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "yan yang",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Storm Belt",
@@ -21258,8 +22289,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jesse Wood",
+            "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tin Isle Canyon",
@@ -21277,8 +22312,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Philipp A. Urlich",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Turtle Beach",
@@ -21296,15 +22335,19 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Asim A. Steckel",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Plains",
-            "number": 273,
+            "number": 271,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -21315,8 +22358,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Sophie Li",
+            "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -21334,8 +22381,35 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Johannes Figlhuber",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Island",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Island",
+            "number": 274,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TVN",
+            "loyalty": "",
+            "artist": "Mary Davydova",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -21352,35 +22426,20 @@
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
-            "artist": "Mary Davydova",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Island",
-            "number": 275,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TVN",
-            "loyalty": "",
             "artist": "Ihor Reshetnikov",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Swamp",
-            "number": 279,
+            "number": 278,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -21391,8 +22450,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Simon Murton",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -21410,27 +22473,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Margaux Duboc",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Mountain",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
-            "number": 282,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TVN",
-            "loyalty": "",
-            "artist": "Daryl Choo",
-            "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -21447,17 +22495,21 @@
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
-            "artist": "Amanda Crowell",
+            "artist": "Daryl Choo",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Forest",
+            "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
-            "number": 285,
-            "color_identity": "G",
+            "type": "Basic Land \u2013 Mountain",
+            "number": 280,
+            "color_identity": "R",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
@@ -21466,9 +22518,13 @@
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
-            "artist": "Sina Hayati",
+            "artist": "Amanda Crowell",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -21485,9 +22541,36 @@
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
-            "artist": "Liv Rez",
+            "artist": "Sina Hayati",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Forest",
+            "number": 283,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TVN",
+            "loyalty": "",
+            "artist": "Liv Rez",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ankertrold, the Harrower",
@@ -21505,8 +22588,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Denis Pospelov",
+            "alias": "The Watcher in the Water",
+            "position": "247",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Muzzio, Exiled Cogworker",
@@ -21524,8 +22611,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Karl Kopinski",
+            "alias": "Leonardo Da Vinci",
+            "position": "248",
+            "rotated": false,
             "notes": "Muzzio's Preparations Conspiracy",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Out of the Tombs",
@@ -21543,8 +22634,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Marcus Reyno",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodgap, Reaver Warship",
@@ -21562,8 +22657,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Leonid Koliagin",
+            "alias": "RMS Titanic",
+            "position": "250",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lazing Megatherium",
@@ -21581,8 +22680,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Rob Brunette",
+            "alias": "Lumbering Mega Sloth",
+            "position": "251",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Coloeus, Blacksail Flagship",
@@ -21600,8 +22703,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nadezhda Tikhomirova",
+            "alias": "Jackdaw",
+            "position": "252",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drang, Blacksail Captain",
@@ -21619,8 +22726,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Matthew DeMino",
+            "alias": "Edward Kenway",
+            "position": "253",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ruz and Elda, Lethal Lovebirds",
@@ -21638,8 +22749,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Bogdan Antoci",
+            "alias": "Mary Read and Anne Bonny",
+            "position": "254",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Waveslicer, Liko's Cruiser",
@@ -21657,8 +22772,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Scott Altmann",
+            "alias": "Bessie, the Doctor's Roadster",
+            "position": "255",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Copy",
@@ -21676,8 +22795,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Chris Ostrowski",
+            "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sailor",
@@ -21695,8 +22818,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Fajri Muhammad [Keyforge]",
+            "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whale",
@@ -21714,8 +22841,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Natasha McGhie Online",
+            "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bird Pirate",
@@ -21733,8 +22864,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "David Alc\u00e1ntara Rubio",
+            "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Construct",
@@ -21752,8 +22887,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Andrea Uderzo",
+            "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hippocamp",
@@ -21771,8 +22910,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Dan Baker",
+            "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jellyfish",
@@ -21790,8 +22933,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Hjalmar W\u00e5hlin",
+            "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shrimp",
@@ -21809,8 +22956,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Carl-August W.",
+            "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pirate",
@@ -21828,8 +22979,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Waldemar Kazak and Grafkt Studio",
+            "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Serpent",
@@ -21847,8 +23002,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Luka Brico",
+            "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dragon Fish",
@@ -21866,8 +23025,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Jorge Norgaard",
+            "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental Elk",
@@ -21885,8 +23048,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "ArtOfAndreGarcia",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scout",
@@ -21904,8 +23071,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Matijos Gebreselassie",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Turtle",
@@ -21923,8 +23094,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Dominic Barrios",
+            "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood",
@@ -21942,8 +23117,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alena Kub\u00edkov\u00e1",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clue",
@@ -21961,8 +23140,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Mathieu Virassamy Sacri",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Map",
@@ -21980,8 +23163,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Arden Beckwith",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -21999,103 +23186,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ihor Reshetnikov",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Plains",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
-            "number": 271,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TVN",
-            "loyalty": "",
-            "artist": "Blake Rottinger",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Island",
-            "number": 274,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TVN",
-            "loyalty": "",
-            "artist": "Emily Hare",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Swamp",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
-            "number": 278,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TVN",
-            "loyalty": "",
-            "artist": "Geoffrey Ernault",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Mountain",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
-            "number": 280,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TVN",
-            "loyalty": "",
-            "artist": "Dasom Hyun",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Forest",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
-            "number": 283,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TVN",
-            "loyalty": "",
-            "artist": "Angelina Andreas",
-            "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Surly Maintainer",
@@ -22113,8 +23209,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Przemek Gul",
+            "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Riding Turtle",
@@ -22124,16 +23224,20 @@
             "number": 227,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
-            "rules_text": "Whenever this creature attacks, untap another target creature you control with lesser toughness. Prevent all combat damage that would be dealt to that creature this turn.",
+            "rules_text": "Yearling {G}{W} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhenever this creature attacks, untap another target creature you control with lesser toughness. Prevent all combat damage that would be dealt to that creature this turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
-            "special_text": "GW \u2013",
+            "special_text": "Yearling {G}{W} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhenever this creature attacks, untap another target creature you control with lesser toughness. Prevent all combat damage that would be dealt to that creature this turn.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Wenjun Lin",
+            "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hungering Greatleech",
@@ -22143,16 +23247,20 @@
             "number": 214,
             "color_identity": "BG",
             "cost": "{5}{B}{G}",
-            "rules_text": "When this creature enters, you may sacrifice a creature. If you do, you draw two cards and you gain life equal to the sacrificed creature's toughness.",
+            "rules_text": "Yearling {2}{B}{G} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, you may sacrifice a creature. If you do, you draw two cards and you gain life equal to the sacrificed creature's toughness.",
             "flavor_text": "[i][/i]",
             "pt": "6/7",
-            "special_text": "2BG \u2013",
+            "special_text": "Yearling {2}{B}{G} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, you may sacrifice a creature. If you do, you draw two cards and you gain life equal to the sacrificed creature's toughness.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Ninerio",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Memory Eater",
@@ -22162,16 +23270,20 @@
             "number": 220,
             "color_identity": "UB",
             "cost": "{3}{U}{B}",
-            "rules_text": "Menace\nWhenever this creature deals combat damage to a player, target player mills twice that many cards.",
+            "rules_text": "Yearling {1}{U}{B} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nMenace\nWhenever this creature deals combat damage to a player, target player mills twice that many cards.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
-            "special_text": "1UB \u2013",
+            "special_text": "Yearling {1}{U}{B} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nMenace\nWhenever this creature deals combat damage to a player, target player mills twice that many cards.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Raul Montenegro",
+            "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nurturing Algaeback",
@@ -22181,16 +23293,20 @@
             "number": 221,
             "color_identity": "UG",
             "cost": "{4}{G}{U}",
-            "rules_text": "Ward {1}\nOther creatures you control with yearling get +1/+0 and have ward {1}. [i](Even if they weren't cast for their yearling cost.)[/i]",
+            "rules_text": "Yearling {1}{G}{U} \u2013 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWard {1}\nOther creatures you control with yearling get +1/+0 and have ward {1}. [i](Even if they weren't cast for their yearling cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
-            "special_text": "1GU \u2013",
+            "special_text": "Yearling {1}{G}{U} \u2013 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWard {1}\nOther creatures you control with yearling get +1/+0 and have ward {1}. [i](Even if they weren't cast for their yearling cost.)[/i]",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Doug Batista(Astral-Requin)",
+            "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gothil's Clutchling",
@@ -22200,16 +23316,20 @@
             "number": 164,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
-            "rules_text": "Trample, vigilance\nWhenever a creature you control with toughness greater than its power deals combat damage to a player, draw a card.",
+            "rules_text": "Yearling {2}{G}{G} \u2013 3/5 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample, vigilance\nWhenever a creature you control with toughness greater than its power deals combat damage to a player, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "7/9",
-            "special_text": "2GG \u2013",
+            "special_text": "Yearling {2}{G}{G} \u2013 3/5 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample, vigilance\nWhenever a creature you control with toughness greater than its power deals combat damage to a player, draw a card.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Kyle Herring",
+            "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lurking Alligator",
@@ -22219,16 +23339,20 @@
             "number": 170,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "{2}{G}: Each creature you control can't be blocked by more than one creature this turn.",
+            "rules_text": "Yearling {G} \u2013 2/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\n{2}{G}: Each creature you control can't be blocked by more than one creature this turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
-            "special_text": "G \u2013",
+            "special_text": "Yearling {G} \u2013 2/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\n{2}{G}: Each creature you control can't be blocked by more than one creature this turn.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Pedro Otelcana",
+            "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pathstomper Javelina",
@@ -22238,16 +23362,20 @@
             "number": 173,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Trample\nWhenever this creature attacks, another target attacking creature gets +X/+X and gains trample until end of turn, where X is this creature's power.",
+            "rules_text": "Yearling {1}{G}{G} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample\nWhenever this creature attacks, another target attacking creature gets +X/+X and gains trample until end of turn, where X is this creature's power.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
-            "special_text": "1GG \u2013",
+            "special_text": "Yearling {1}{G}{G} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample\nWhenever this creature attacks, another target attacking creature gets +X/+X and gains trample until end of turn, where X is this creature's power.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Guilherme Da Cas",
+            "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quaking Tunneler",
@@ -22257,16 +23385,20 @@
             "number": 178,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "When this creature enters, destroy up to one target artifact or enchantment with mana value less than or equal to this creature's power.",
+            "rules_text": "Yearling {1}{G} \u2013 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, destroy up to one target artifact or enchantment with mana value less than or equal to this creature's power.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
-            "special_text": "1G \u2013",
+            "special_text": "Yearling {1}{G} \u2013 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, destroy up to one target artifact or enchantment with mana value less than or equal to this creature's power.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "JUAN CALLE",
+            "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shallows Altisaur",
@@ -22276,16 +23408,20 @@
             "number": 182,
             "color_identity": "G",
             "cost": "{6}{G}{G}",
-            "rules_text": "Reach",
+            "rules_text": "Yearling {3}{G} \u2013 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nReach",
             "flavor_text": "[i]Their every movement throws powerful waves around without a care, but their majesty leaves them a popular sight.[/i]",
             "pt": "7/7",
-            "special_text": "3G \u2013",
+            "special_text": "Yearling {3}{G} \u2013 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nReach",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Rudolf Hima",
+            "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tin Isle Bear",
@@ -22295,16 +23431,20 @@
             "number": 183,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Trample\nWhen this creature enters or matures, return target permanent card from your graveyard to your hand.\nIf this creature would die, exile it instead.",
+            "rules_text": "Yearling {1}{G}{G} \u2013 2/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample\nWhen this creature enters or matures, return target permanent card from your graveyard to your hand.\nIf this creature would die, exile it instead.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
-            "special_text": "1GG \u2013",
+            "special_text": "Yearling {1}{G}{G} \u2013 2/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample\nWhen this creature enters or matures, return target permanent card from your graveyard to your hand.\nIf this creature would die, exile it instead.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Gunship Revolution",
+            "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Exuberant Podcaller",
@@ -22314,16 +23454,20 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.",
+            "rules_text": "Yearling {1}{W}{W} \u2013 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
-            "special_text": "1WW \u2013",
+            "special_text": "Yearling {1}{W}{W} \u2013 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Skii Illustrations",
+            "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steelfin Dolphin",
@@ -22333,16 +23477,20 @@
             "number": 35,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Vigilance\nWhenever this creature attacks, untap up to one other target artifact or creature.",
+            "rules_text": "Yearling {W} \u2013 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nVigilance\nWhenever this creature attacks, untap up to one other target artifact or creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
-            "special_text": "W \u2013",
+            "special_text": "Yearling {W} \u2013 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nVigilance\nWhenever this creature attacks, untap up to one other target artifact or creature.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "personifiedchalk",
+            "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tanglegrasp Jelly",
@@ -22352,16 +23500,20 @@
             "number": 38,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.",
+            "rules_text": "Yearling {1}{W}{W} \u2013 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
-            "special_text": "1WW \u2013",
+            "special_text": "Yearling {1}{W}{W} \u2013 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Nicolas Hubert",
+            "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abyssal Trilobite",
@@ -22371,16 +23523,20 @@
             "number": 39,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Vigilance\nWhen this creature enters or dies, surveil X, where X is its power.",
+            "rules_text": "Yearling {U} \u2013 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nVigilance\nWhen this creature enters or dies, surveil X, where X is its power.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
-            "special_text": "U \u2013",
+            "special_text": "Yearling {U} \u2013 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nVigilance\nWhen this creature enters or dies, surveil X, where X is its power.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "J\u00falia d'Oliveira",
+            "alias": "",
+            "position": "288",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gelid Sea Whale",
@@ -22390,16 +23546,20 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{7}{U}{U}",
-            "rules_text": "When this creature enters, tap up to X target creatures, where X is its power. Put a stun counter on each of those creatures.",
+            "rules_text": "Yearling {3}{U}{U} \u2013 2/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, tap up to X target creatures, where X is its power. Put a stun counter on each of those creatures.",
             "flavor_text": "[i][/i]",
             "pt": "5/7",
-            "special_text": "3UU \u2013",
+            "special_text": "Yearling {3}{U}{U} \u2013 2/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, tap up to X target creatures, where X is its power. Put a stun counter on each of those creatures.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Grzegorz Rutkowski (88grzes)",
+            "alias": "",
+            "position": "289",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Observant Osprey",
@@ -22409,16 +23569,20 @@
             "number": 62,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Flying\n{4}{U}: Surveil 1. This ability costs {X} less to activate, where X is this creature's power. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "Yearling {U} \u2013 1/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nFlying\n{4}{U}: Surveil 1. This ability costs {X} less to activate, where X is this creature's power. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
-            "special_text": "U \u2013",
+            "special_text": "Yearling {U} \u2013 1/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nFlying\n{4}{U}: Surveil 1. This ability costs {X} less to activate, where X is this creature's power. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Paul Krapf",
+            "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stormbelt Serpent",
@@ -22428,16 +23592,20 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "This creature can't be blocked if you've drawn two or more cards this turn.",
+            "rules_text": "Yearling {2}{U} \u2013 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nThis creature can't be blocked if you've drawn two or more cards this turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
-            "special_text": "2U \u2013",
+            "special_text": "Yearling {2}{U} \u2013 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nThis creature can't be blocked if you've drawn two or more cards this turn.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "ArtOfAndreGarcia",
+            "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abyssal Tempter",
@@ -22447,16 +23615,20 @@
             "number": 77,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "When this creature enters, you may pay 2 life. If you do, you draw a card and create a tapped Treasure token.",
+            "rules_text": "Yearling {2}{B} \u2013 3/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, you may pay 2 life. If you do, you draw a card and create a tapped Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
-            "special_text": "2B \u2013",
+            "special_text": "Yearling {2}{B} \u2013 3/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters, you may pay 2 life. If you do, you draw a card and create a tapped Treasure token.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Ryan Van Dongen",
+            "alias": "",
+            "position": "292",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deadlights Leviathan",
@@ -22466,16 +23638,20 @@
             "number": 82,
             "color_identity": "B",
             "cost": "{5}{B}{B}",
-            "rules_text": "When this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped.",
+            "rules_text": "Yearling {2}{B}{B} \u2013 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
-            "special_text": "2BB \u2013",
+            "special_text": "Yearling {2}{B}{B} \u2013 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhen this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Kez Laczin",
+            "alias": "",
+            "position": "293",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rot Sea Worm",
@@ -22485,16 +23661,20 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "This creature can't block.\nYou may cast this spell from your graveyard using its yearling ability and an additional 2 life.",
+            "rules_text": "Yearling {1}{B} \u2013 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nThis creature can't block.\nYou may cast this spell from your graveyard using its yearling ability and an additional 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
-            "special_text": "1B \u2013",
+            "special_text": "Yearling {1}{B} \u2013 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nThis creature can't block.\nYou may cast this spell from your graveyard using its yearling ability and an additional 2 life.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Ahmed Teilab",
+            "alias": "",
+            "position": "294",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whirlpool Annihilator",
@@ -22504,16 +23684,20 @@
             "number": 114,
             "color_identity": "B",
             "cost": "{6}{B}{B}",
-            "rules_text": "Trample\nWhen this creature enters or matures, each player sacrifices a creature or Vehicle of their choice.",
+            "rules_text": "Yearling {2}{B}{B} \u2013 4/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample\nWhen this creature enters or matures, each player sacrifices a creature or Vehicle of their choice.",
             "flavor_text": "[i][/i]",
             "pt": "7/6",
-            "special_text": "2BB \u2013",
+            "special_text": "Yearling {2}{B}{B} \u2013 4/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample\nWhen this creature enters or matures, each player sacrifices a creature or Vehicle of their choice.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Filip Dudek",
+            "alias": "",
+            "position": "295",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Angered Slaghorn",
@@ -22523,16 +23707,20 @@
             "number": 115,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "Trample, haste",
+            "rules_text": "Yearling {2}{R} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample, haste",
             "flavor_text": "[i]Elgo's first shot bounced uselessly off of the slaghorn's hide. He didn't have time for a second.[/i]",
             "pt": "4/5",
-            "special_text": "2R \u2013",
+            "special_text": "Yearling {2}{R} \u2013 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample, haste",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "RJ Palmer",
+            "alias": "",
+            "position": "296",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crackling Eel",
@@ -22542,16 +23730,20 @@
             "number": 123,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Menace\nWhenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player.",
+            "rules_text": "Yearling {1}{R} \u2013 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nMenace\nWhenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
-            "special_text": "1R \u2013",
+            "special_text": "Yearling {1}{R} \u2013 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nMenace\nWhenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Cory Strader",
+            "alias": "",
+            "position": "297",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ironfang Amphisbaena",
@@ -22561,16 +23753,20 @@
             "number": 135,
             "color_identity": "R",
             "cost": "{6}{R}",
-            "rules_text": "Trample\nWhenever this creature attacks, create an X/X red Serpent creature token with trample that is tapped and attacking, where X is this creature's power. Sacrifice that token at end of combat.",
+            "rules_text": "Yearling {3}{R} \u2013 4/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample\nWhenever this creature attacks, create an X/X red Serpent creature token with trample that is tapped and attacking, where X is this creature's power. Sacrifice that token at end of combat.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
-            "special_text": "3R \u2013",
+            "special_text": "Yearling {3}{R} \u2013 4/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nTrample\nWhenever this creature attacks, create an X/X red Serpent creature token with trample that is tapped and attacking, where X is this creature's power. Sacrifice that token at end of combat.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Luka Brico",
+            "alias": "",
+            "position": "298",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thrashing Fiddler",
@@ -22580,16 +23776,20 @@
             "number": 149,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Double strike\nAs long as you've sacrificed an artifact this turn, this creature gets +1/+0 and has trample.",
+            "rules_text": "Yearling {1}{R} \u2013 1/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nDouble strike\nAs long as you've sacrificed an artifact this turn, this creature gets +1/+0 and has trample.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
-            "special_text": "1R \u2013",
+            "special_text": "Yearling {1}{R} \u2013 1/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nDouble strike\nAs long as you've sacrificed an artifact this turn, this creature gets +1/+0 and has trample.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Jim Nelson",
+            "alias": "",
+            "position": "299",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reprieve",
@@ -22607,8 +23807,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "SIXMOREVODKA STUDIO",
+            "alias": "",
+            "position": "300",
+            "rotated": false,
             "notes": "FT by Jeenyus",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clattering Boneship",
@@ -22626,8 +23830,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ridell Apellanes",
+            "alias": "",
+            "position": "301",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pirate's Blessing",
@@ -22645,8 +23853,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Marcin Kulesza",
+            "alias": "",
+            "position": "302",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seafolk Pilgrimguard",
@@ -22664,8 +23876,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Julian Santos",
+            "alias": "",
+            "position": "303",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Port Patrolship",
@@ -22683,8 +23899,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nadezhda Tikhomirova",
+            "alias": "",
+            "position": "304",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mooneye Octopus",
@@ -22694,16 +23914,20 @@
             "number": 61,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "Whenever this creature deals combat damage to a player, draw that many cards.\nWhenever another creature you control deals combat damage to a player, draw a card.",
+            "rules_text": "Yearling {2}{U}{U} \u2013 2/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhenever this creature deals combat damage to a player, draw that many cards.\nWhenever another creature you control deals combat damage to a player, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "6/8",
-            "special_text": "2UU \u2013",
+            "special_text": "Yearling {2}{U}{U} \u2013 2/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]\nWhenever this creature deals combat damage to a player, draw that many cards.\nWhenever another creature you control deals combat damage to a player, draw a card.",
             "shape": "normal",
             "set": "TVN",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
+            "position": "305",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hookfin, Basalt Commander",
@@ -22721,8 +23945,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Bogdan Antoci",
+            "alias": "",
+            "position": "306",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Algal Orchard",
@@ -22740,8 +23968,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Pawe\u0142 Latkowski",
+            "alias": "",
+            "position": "307",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fertile Delta",
@@ -22759,8 +23991,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Mark Castanon",
+            "alias": "",
+            "position": "308",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gold Mine",
@@ -22778,8 +24014,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Alex van der Linde",
+            "alias": "",
+            "position": "309",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Labor District",
@@ -22797,8 +24037,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Darek Zabrocki",
+            "alias": "",
+            "position": "310",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elbow-Grease Innovator",
@@ -22816,15 +24060,19 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Nico Rigobello",
+            "alias": "",
+            "position": "311",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elagid, the Endless Glutton",
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Crocodile Leviathan",
-            "number": 202,
+            "number": 203,
             "color_identity": "BG",
             "cost": "{5}{B}{G}",
             "rules_text": "Menace, deathtouch\nWhenever Elagid attacks, you may cast a permanent spell with mana value X or less from your hand or graveyard without paying its mana cost, where X is the greatest power among attacking creatures. If you cast a spell from your graveyard this way, it enters with a finality counter on it.",
@@ -22835,8 +24083,12 @@
             "set": "TVN",
             "loyalty": "",
             "artist": "Ivan Berta",
+            "alias": "",
+            "position": "312",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         }
     ]
 }

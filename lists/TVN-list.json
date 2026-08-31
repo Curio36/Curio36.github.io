@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "311"
     },
     {
         "card_name": "Mooneye Octopus",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "305"
     },
     {
         "card_name": "Cursed Compass",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "72"
     },
     {
         "card_name": "Inevitable, Doom's Flagship",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "120"
     },
     {
         "card_name": "Hydra Hullbreaker",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "147"
     },
     {
         "card_name": "Glorycarved Masthead",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "19"
     },
     {
         "card_name": "Spellcatcher Conch",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "62"
     },
     {
         "card_name": "Midnight Queen, Damned Vessel",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "86"
     },
     {
         "card_name": "Stormward Shanties",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "131"
     },
     {
         "card_name": "Otoro, Wild Explorer",
@@ -77,7 +77,7 @@
         "shape": "planeswalker",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "153"
     },
     {
         "card_name": "Cloudscape Kraken",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "18"
     },
     {
         "card_name": "Cloud Sea Bell",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "41"
     },
     {
         "card_name": "Crossbone Cove Cutter",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "71"
     },
     {
         "card_name": "Blacksail Looter",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "104"
     },
     {
         "card_name": "Tin Isle Bear",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "284"
     },
     {
         "card_name": "Deckside Gunner",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "35"
     },
     {
         "card_name": "Cynette, Cnidariamancer",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "43"
     },
     {
         "card_name": "Deadlights Leviathan",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "293"
     },
     {
         "card_name": "Charred Isles Excavator",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "106"
     },
     {
         "card_name": "Ava, Thorny Diva",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "136"
     },
     {
         "card_name": "Eradicating Wave",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "16"
     },
     {
         "card_name": "Gelid Tyrant's Challenge",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "56"
     },
     {
         "card_name": "Deep Tyrant's Challenge",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "73"
     },
     {
         "card_name": "Crackling Eel",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "297"
     },
     {
         "card_name": "Coral Tyrant's Challenge",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "137"
     },
     {
         "card_name": "Exuberant Podcaller",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "285"
     },
     {
         "card_name": "Hunting Whale",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "50"
     },
     {
         "card_name": "Fleetsinker",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "81"
     },
     {
         "card_name": "Hookfin, Basalt Commander",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "306"
     },
     {
         "card_name": "Gothil's Clutchling",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "279"
     },
     {
         "card_name": "GR-4E, Personal Guard",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "20"
     },
     {
         "card_name": "Inkmane Hippocamp",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "51"
     },
     {
         "card_name": "Jahan, High Seas Lich",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "82"
     },
     {
         "card_name": "Ironfang Amphisbaena",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "298"
     },
     {
         "card_name": "Isle-Mimic Leviathan",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "149"
     },
     {
         "card_name": "Shore Tyrant's Challenge",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "30"
     },
     {
         "card_name": "Meticulous Planning",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "53"
     },
     {
         "card_name": "Lich's Insight",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "85"
     },
     {
         "card_name": "Lavaheart Dragon",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "121"
     },
     {
         "card_name": "Perennial Regrowth",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "154"
     },
     {
         "card_name": "Skilled Shipwright",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "31"
     },
     {
         "card_name": "Mindribbon Serpent",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "54"
     },
     {
         "card_name": "Rot Sea Worm",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "294"
     },
     {
         "card_name": "Magmawake Whale",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "125"
     },
     {
         "card_name": "Tin Isle Wurmrig",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "163"
     },
     {
         "card_name": "Splendor Port Guardship",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "33"
     },
     {
         "card_name": "Wunderpus Mimic",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "69"
     },
     {
         "card_name": "Silent Drifter",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "97"
     },
     {
         "card_name": "Vein Tyrant's Challenge",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "134"
     },
     {
         "card_name": "Vedre Strait Caller",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "165"
     },
     {
         "card_name": "Cogwork Deckhands",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "7"
     },
     {
         "card_name": "Abyssal Trilobite",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "288"
     },
     {
         "card_name": "Deep Tyrant",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "88"
     },
     {
         "card_name": "Clamp Down",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "108"
     },
     {
         "card_name": "Vibrant Siphonophore",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "166"
     },
     {
         "card_name": "Combat Rigging",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "8"
     },
     {
         "card_name": "Chart a Course",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "40"
     },
     {
         "card_name": "Dredging Arm",
@@ -461,7 +461,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "75"
     },
     {
         "card_name": "Dunemaker Wurm",
@@ -469,7 +469,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "112"
     },
     {
         "card_name": "Apex Anomalocaris",
@@ -477,7 +477,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "135"
     },
     {
         "card_name": "Distracting Dolphin",
@@ -485,7 +485,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "11"
     },
     {
         "card_name": "Cloud Sea Snatcher",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "42"
     },
     {
         "card_name": "Grimechurner Rotboat",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "77"
     },
     {
         "card_name": "Eruptive Emergence",
@@ -509,7 +509,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "114"
     },
     {
         "card_name": "Coral Tyrant",
@@ -517,7 +517,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "145"
     },
     {
         "card_name": "Engine Repairs",
@@ -525,7 +525,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "15"
     },
     {
         "card_name": "Dash on the Rocks",
@@ -533,7 +533,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "44"
     },
     {
         "card_name": "Inktrench's Trail",
@@ -541,7 +541,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "80"
     },
     {
         "card_name": "Full Tilt",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "117"
     },
     {
         "card_name": "Destructive Wake",
@@ -557,7 +557,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "138"
     },
     {
         "card_name": "First Fleet Airship",
@@ -565,7 +565,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "17"
     },
     {
         "card_name": "Disrupt Existence",
@@ -573,7 +573,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "45"
     },
     {
         "card_name": "Jahan's Pets",
@@ -581,7 +581,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "83"
     },
     {
         "card_name": "Loose Cannon",
@@ -589,7 +589,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "123"
     },
     {
         "card_name": "Foraging Badger",
@@ -597,7 +597,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "142"
     },
     {
         "card_name": "Mistcutter Attendant",
@@ -605,7 +605,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "23"
     },
     {
         "card_name": "Gelid Sea Whale",
@@ -613,7 +613,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "289"
     },
     {
         "card_name": "Pirate's Blessing",
@@ -621,7 +621,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "302"
     },
     {
         "card_name": "Lovebyrd's Galleon",
@@ -629,7 +629,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "119"
     },
     {
         "card_name": "Gilded Plating",
@@ -637,7 +637,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "143"
     },
     {
         "card_name": "Port Patrolship",
@@ -645,7 +645,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "304"
     },
     {
         "card_name": "Gelid Tyrant",
@@ -653,7 +653,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "37"
     },
     {
         "card_name": "Raise from the Depths",
@@ -661,7 +661,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "90"
     },
     {
         "card_name": "Magmatic Gastrolith",
@@ -669,7 +669,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "124"
     },
     {
         "card_name": "Lineaz Eulogist",
@@ -677,7 +677,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "151"
     },
     {
         "card_name": "Repel Titans",
@@ -685,7 +685,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "25"
     },
     {
         "card_name": "Hippocamp Wrangler",
@@ -693,7 +693,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "49"
     },
     {
         "card_name": "Rakish Buccaneer",
@@ -701,7 +701,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "95"
     },
     {
         "card_name": "Ready, Aim, Fire!",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "127"
     },
     {
         "card_name": "Lurking Alligator",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "280"
     },
     {
         "card_name": "Rescue Carrier",
@@ -725,7 +725,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "22"
     },
     {
         "card_name": "Overwhelming Riptide",
@@ -733,7 +733,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "57"
     },
     {
         "card_name": "Requisitioned Raider",
@@ -741,7 +741,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "91"
     },
     {
         "card_name": "Roaming Dunkleosteus",
@@ -749,7 +749,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "128"
     },
     {
         "card_name": "Pathstomper Javelina",
@@ -757,7 +757,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "281"
     },
     {
         "card_name": "Seafolk Pilgrimguard",
@@ -765,7 +765,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "303"
     },
     {
         "card_name": "Pearl Trader's Manta",
@@ -773,7 +773,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "58"
     },
     {
         "card_name": "Shipyard Scavenger",
@@ -781,7 +781,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "96"
     },
     {
         "card_name": "Seasoned Cannoneer",
@@ -789,7 +789,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "129"
     },
     {
         "card_name": "Plow Through",
@@ -797,7 +797,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "155"
     },
     {
         "card_name": "Shining Wingfin",
@@ -805,7 +805,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "29"
     },
     {
         "card_name": "Starry Night Skiff",
@@ -813,7 +813,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "63"
     },
     {
         "card_name": "Tendrils of the Deep",
@@ -821,7 +821,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "98"
     },
     {
         "card_name": "Thrashing Fiddler",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "299"
     },
     {
         "card_name": "Primordial Coelacanth",
@@ -837,7 +837,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "156"
     },
     {
         "card_name": "Shore Tyrant",
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "26"
     },
     {
         "card_name": "Submersible Pod",
@@ -853,7 +853,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "64"
     },
     {
         "card_name": "Vile Gastrolith",
@@ -861,7 +861,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "101"
     },
     {
         "card_name": "Tyrant's Demand",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "133"
     },
     {
         "card_name": "Ramming Prow",
@@ -877,7 +877,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "157"
     },
     {
         "card_name": "Tanglegrasp Jelly",
@@ -885,7 +885,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "287"
     },
     {
         "card_name": "Thirst for Power",
@@ -893,7 +893,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "65"
     },
     {
         "card_name": "Whirlpool Annihilator",
@@ -901,7 +901,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "295"
     },
     {
         "card_name": "Vein Tyrant",
@@ -909,7 +909,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "118"
     },
     {
         "card_name": "Tin Isle Channeler",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "161"
     },
     {
         "card_name": "Cog Maintainer",
@@ -925,7 +925,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "14"
     },
     {
         "card_name": "Beachcombing Tiktaalik",
@@ -933,7 +933,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "38"
     },
     {
         "card_name": "Abyssal Tempter",
@@ -941,7 +941,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "292"
     },
     {
         "card_name": "Angered Slaghorn",
@@ -949,7 +949,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "296"
     },
     {
         "card_name": "Zoophonic Call",
@@ -957,7 +957,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "167"
     },
     {
         "card_name": "Cogwork Crew",
@@ -965,7 +965,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "6"
     },
     {
         "card_name": "Breaching Greatshark",
@@ -973,7 +973,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "39"
     },
     {
         "card_name": "Ambitious Prototype",
@@ -981,7 +981,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "70"
     },
     {
         "card_name": "Basking Iguanin",
@@ -989,7 +989,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "102"
     },
     {
         "card_name": "Drag from the Shallows",
@@ -997,7 +997,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "139"
     },
     {
         "card_name": "Deckhand's Blade",
@@ -1005,7 +1005,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "9"
     },
     {
         "card_name": "Fishy Rumormonger",
@@ -1013,7 +1013,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "48"
     },
     {
         "card_name": "Clattering Boneship",
@@ -1021,7 +1021,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "301"
     },
     {
         "card_name": "Big Score",
@@ -1029,7 +1029,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "103"
     },
     {
         "card_name": "Dryad Navigator",
@@ -1037,7 +1037,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "140"
     },
     {
         "card_name": "Determined Push",
@@ -1045,7 +1045,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "10"
     },
     {
         "card_name": "Freezing Winds",
@@ -1053,7 +1053,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "46"
     },
     {
         "card_name": "Deadman's Tales",
@@ -1061,7 +1061,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "78"
     },
     {
         "card_name": "Bursting Vein Serpent",
@@ -1069,7 +1069,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "105"
     },
     {
         "card_name": "Elemental's Flourish",
@@ -1077,7 +1077,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "141"
     },
     {
         "card_name": "Drop-Off Specialist",
@@ -1085,7 +1085,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "12"
     },
     {
         "card_name": "Gelid Sea Courier",
@@ -1093,7 +1093,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "55"
     },
     {
         "card_name": "Devour",
@@ -1101,7 +1101,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "74"
     },
     {
         "card_name": "Charred Isles Shovelbearer",
@@ -1109,7 +1109,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "107"
     },
     {
         "card_name": "Give In to Instinct",
@@ -1117,7 +1117,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "144"
     },
     {
         "card_name": "Early-Stage Aviator",
@@ -1125,7 +1125,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "13"
     },
     {
         "card_name": "Giant Remora",
@@ -1133,7 +1133,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "47"
     },
     {
         "card_name": "Fangcrest Finisher",
@@ -1141,7 +1141,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "76"
     },
     {
         "card_name": "Crushing Charge",
@@ -1149,7 +1149,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "109"
     },
     {
         "card_name": "Hoofbeats in the Woods",
@@ -1157,7 +1157,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "146"
     },
     {
         "card_name": "Goldseeker Cruiser",
@@ -1165,7 +1165,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "5"
     },
     {
         "card_name": "Mercurial Skyrod",
@@ -1173,7 +1173,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "52"
     },
     {
         "card_name": "Inktrench Stinger",
@@ -1181,7 +1181,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "79"
     },
     {
         "card_name": "Daunting Figurehead",
@@ -1189,7 +1189,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "110"
     },
     {
         "card_name": "Leafwhisper Beetle",
@@ -1197,7 +1197,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "150"
     },
     {
         "card_name": "Heartfelt Shipwright",
@@ -1205,7 +1205,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "21"
     },
     {
         "card_name": "Observant Osprey",
@@ -1213,7 +1213,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "290"
     },
     {
         "card_name": "Lamprey Swarm",
@@ -1221,7 +1221,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "84"
     },
     {
         "card_name": "Dockside Rebuffer",
@@ -1229,7 +1229,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "111"
     },
     {
         "card_name": "Mosstusk Guardian",
@@ -1237,7 +1237,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "152"
     },
     {
         "card_name": "Pearlthrone Guard",
@@ -1245,7 +1245,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "24"
     },
     {
         "card_name": "Read the Starfish",
@@ -1253,7 +1253,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "59"
     },
     {
         "card_name": "Noxious Venting",
@@ -1261,7 +1261,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "87"
     },
     {
         "card_name": "Encrusted Crustacean",
@@ -1269,7 +1269,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "113"
     },
     {
         "card_name": "Propagated Bioship",
@@ -1277,7 +1277,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "148"
     },
     {
         "card_name": "Seafolk Sentinel",
@@ -1285,7 +1285,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "28"
     },
     {
         "card_name": "Sea Witch's Wards",
@@ -1293,7 +1293,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "60"
     },
     {
         "card_name": "Perilous Pickpocket",
@@ -1301,7 +1301,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "89"
     },
     {
         "card_name": "Expedition Funding",
@@ -1309,7 +1309,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "115"
     },
     {
         "card_name": "Quaking Tunneler",
@@ -1317,7 +1317,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "282"
     },
     {
         "card_name": "Skyskimmer Glaucus",
@@ -1325,7 +1325,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "32"
     },
     {
         "card_name": "Seafoam Shackles",
@@ -1333,7 +1333,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "61"
     },
     {
         "card_name": "Retrofitted Rampager",
@@ -1341,7 +1341,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "92"
     },
     {
         "card_name": "Explosive Rage",
@@ -1349,7 +1349,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "116"
     },
     {
         "card_name": "Rootpath Mamba",
@@ -1357,7 +1357,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "159"
     },
     {
         "card_name": "Stand as One",
@@ -1365,7 +1365,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "34"
     },
     {
         "card_name": "Stormbelt Serpent",
@@ -1373,7 +1373,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "291"
     },
     {
         "card_name": "Ripmaw Assassin",
@@ -1381,7 +1381,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "93"
     },
     {
         "card_name": "Lightning Rod Installer",
@@ -1389,7 +1389,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "122"
     },
     {
         "card_name": "Rustbladder Kelp",
@@ -1397,7 +1397,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "160"
     },
     {
         "card_name": "Steelfin Dolphin",
@@ -1405,7 +1405,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "286"
     },
     {
         "card_name": "Stormbringer Ship",
@@ -1413,7 +1413,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "68"
     },
     {
         "card_name": "Rot Sea Surge",
@@ -1421,7 +1421,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "94"
     },
     {
         "card_name": "Overloaded Cannonship",
@@ -1429,7 +1429,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "126"
     },
     {
         "card_name": "Shallows Altisaur",
@@ -1437,7 +1437,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "283"
     },
     {
         "card_name": "Sunken Casket",
@@ -1445,7 +1445,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "27"
     },
     {
         "card_name": "Titanic Haruspicy",
@@ -1453,7 +1453,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "66"
     },
     {
         "card_name": "Standard Issue Guardbot",
@@ -1461,7 +1461,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "100"
     },
     {
         "card_name": "Powderkeg Explosion",
@@ -1469,7 +1469,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "132"
     },
     {
         "card_name": "Tin Isle Lifetender",
@@ -1477,7 +1477,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "162"
     },
     {
         "card_name": "Sunvine Nurturer",
@@ -1485,7 +1485,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "36"
     },
     {
         "card_name": "Wash Overboard",
@@ -1493,7 +1493,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "67"
     },
     {
         "card_name": "Titan Bone Assault",
@@ -1501,7 +1501,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "99"
     },
     {
         "card_name": "Scorching Fox",
@@ -1509,7 +1509,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "130"
     },
     {
         "card_name": "To the Horizon",
@@ -1517,7 +1517,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "164"
     },
     {
         "card_name": "e"
@@ -1537,7 +1537,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "158"
     },
     {
         "card_name": "er"
@@ -1558,7 +1558,7 @@
         "shape": "planeswalker",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "192"
     },
     {
         "card_name": "Cyfra, Inktrench Tyrant",
@@ -1566,7 +1566,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "177"
     },
     {
         "card_name": "Eskin, Furnace Master",
@@ -1574,7 +1574,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "180"
     },
     {
         "card_name": "Ka'bi, the Bloomhoof",
@@ -1582,7 +1582,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "189"
     },
     {
         "card_name": "Firenz, Sunvine Custodian",
@@ -1590,7 +1590,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "183"
     },
     {
         "card_name": "Ehn, Cloud Sea Ancient",
@@ -1598,7 +1598,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "184"
     },
     {
         "card_name": "Abyssal Sea-Witch",
@@ -1606,7 +1606,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "168"
     },
     {
         "card_name": "Engines Critical",
@@ -1614,7 +1614,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "179"
     },
     {
         "card_name": "Tiz'ek's Meltdown",
@@ -1622,7 +1622,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "202"
     },
     {
         "card_name": "Pantry Filler",
@@ -1630,7 +1630,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "193"
     },
     {
         "card_name": "Cephalid Strategist",
@@ -1638,7 +1638,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "173"
     },
     {
         "card_name": "Memory Eater",
@@ -1646,7 +1646,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "277"
     },
     {
         "card_name": "Fangworm Fleetship",
@@ -1654,7 +1654,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "182"
     },
     {
         "card_name": "Apex Landshifter",
@@ -1662,7 +1662,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "174"
     },
     {
         "card_name": "Riding Turtle",
@@ -1670,7 +1670,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "275"
     },
     {
         "card_name": "Intrepid Courier",
@@ -1678,7 +1678,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "188"
     },
     {
         "card_name": "e"
@@ -1689,7 +1689,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "196"
     },
     {
         "card_name": "Lava Flow Hellbender",
@@ -1697,7 +1697,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "190"
     },
     {
         "card_name": "e"
@@ -1723,7 +1723,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "181"
     },
     {
         "card_name": "Grandir, the Storm-Bodied",
@@ -1731,15 +1731,15 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "185"
     },
     {
         "card_name": "Elagid, the Endless Glutton",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "312"
     },
     {
         "card_name": "Beliaz, Hot Shot",
@@ -1747,7 +1747,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "171"
     },
     {
         "card_name": "Runes of Recall",
@@ -1755,7 +1755,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "198"
     },
     {
         "card_name": "Superb Salvage",
@@ -1763,7 +1763,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "200"
     },
     {
         "card_name": "Grandir's Trove",
@@ -1771,7 +1771,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "186"
     },
     {
         "card_name": "Back For More",
@@ -1779,7 +1779,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "170"
     },
     {
         "card_name": "Raucous Week, Party Ship",
@@ -1787,7 +1787,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "195"
     },
     {
         "card_name": "Aesi, Capricious Serpent",
@@ -1795,7 +1795,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "169"
     },
     {
         "card_name": "Soulbound Sloop",
@@ -1803,7 +1803,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "199"
     },
     {
         "card_name": "Chordatan Bloodseeker",
@@ -1811,7 +1811,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "175"
     },
     {
         "card_name": "Hungering Greatleech",
@@ -1819,7 +1819,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "276"
     },
     {
         "card_name": "Provisions Ship",
@@ -1827,7 +1827,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "194"
     },
     {
         "card_name": "Nurturing Algaeback",
@@ -1835,7 +1835,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "278"
     },
     {
         "card_name": "Surly Maintainer",
@@ -1843,7 +1843,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "274"
     },
     {
         "card_name": "Firejelly Anomaly",
@@ -1851,7 +1851,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "201"
     },
     {
         "card_name": "e"
@@ -1862,7 +1862,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "197"
     },
     {
         "card_name": "Tyrant Territory",
@@ -1870,7 +1870,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "203"
     },
     {
         "card_name": "er"
@@ -1893,7 +1893,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "172"
     },
     {
         "card_name": "Holtz, Devilish Benefactor",
@@ -1901,7 +1901,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "187"
     },
     {
         "card_name": "Len, Endless Tentacles",
@@ -1909,7 +1909,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "191"
     },
     {
         "card_name": "Cloudbelt Synthesis",
@@ -1917,7 +1917,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "176"
     },
     {
         "card_name": "e"
@@ -1941,7 +1941,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "208"
     },
     {
         "card_name": "Power Siphon",
@@ -1949,7 +1949,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "211"
     },
     {
         "card_name": "Tideborne Generator",
@@ -1957,7 +1957,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "215"
     },
     {
         "card_name": "Cogwork Companion",
@@ -1965,7 +1965,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "204"
     },
     {
         "card_name": "Merchant Vessel",
@@ -1973,7 +1973,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "209"
     },
     {
         "card_name": "Pirate Salvo",
@@ -1981,7 +1981,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "210"
     },
     {
         "card_name": "Sturdy Anchoring",
@@ -1989,7 +1989,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "214"
     },
     {
         "card_name": "Trench Drone",
@@ -1997,7 +1997,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "216"
     },
     {
         "card_name": "Untapped Gastrolith",
@@ -2005,7 +2005,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "217"
     },
     {
         "card_name": "Cogwork Ichthyoid",
@@ -2013,7 +2013,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "205"
     },
     {
         "card_name": "Deepweb Spider",
@@ -2021,7 +2021,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "206"
     },
     {
         "card_name": "High Seas Harrier",
@@ -2029,7 +2029,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "207"
     },
     {
         "card_name": "Research Vessel",
@@ -2037,7 +2037,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "212"
     },
     {
         "card_name": "Uncovered Pitfall",
@@ -2045,7 +2045,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "213"
     },
     {
         "card_name": "e"
@@ -2069,7 +2069,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "221"
     },
     {
         "card_name": "Seafolk Court",
@@ -2077,7 +2077,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "222"
     },
     {
         "card_name": "Pirates' Bay",
@@ -2085,7 +2085,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "223"
     },
     {
         "card_name": "Unstable Vein",
@@ -2093,7 +2093,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "226"
     },
     {
         "card_name": "Churning Landscape",
@@ -2101,7 +2101,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "219"
     },
     {
         "card_name": "er"
@@ -2124,7 +2124,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "227"
     },
     {
         "card_name": "Inktrench Crag",
@@ -2132,7 +2132,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "231"
     },
     {
         "card_name": "Grand Rim Caldera",
@@ -2140,7 +2140,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "229"
     },
     {
         "card_name": "Tin Isle Canyon",
@@ -2148,7 +2148,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "235"
     },
     {
         "card_name": "Turtle Beach",
@@ -2156,7 +2156,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "236"
     },
     {
         "card_name": "er"
@@ -2179,7 +2179,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "310"
     },
     {
         "card_name": "Crackling Cataract",
@@ -2187,7 +2187,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "224"
     },
     {
         "card_name": "Fertile Delta",
@@ -2195,7 +2195,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "308"
     },
     {
         "card_name": "Gold Mine",
@@ -2203,7 +2203,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "309"
     },
     {
         "card_name": "Algal Orchard",
@@ -2211,7 +2211,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "307"
     },
     {
         "card_name": "Silent Shores",
@@ -2219,7 +2219,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "233"
     },
     {
         "card_name": "Storm Belt",
@@ -2227,7 +2227,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "234"
     },
     {
         "card_name": "Rot Sea",
@@ -2235,7 +2235,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "232"
     },
     {
         "card_name": "Congregation Reef",
@@ -2243,7 +2243,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "228"
     },
     {
         "card_name": "Gyre Strait",
@@ -2251,7 +2251,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "230"
     },
     {
         "card_name": "er"
@@ -2274,7 +2274,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "220"
     },
     {
         "card_name": "Uncharted Strait",
@@ -2282,7 +2282,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "225"
     },
     {
         "card_name": "Busy Workshop",
@@ -2290,7 +2290,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "218"
     },
     {
         "card_name": "e"
@@ -2319,23 +2319,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Plains",
-        "number": 272,
-        "shape": "normal",
-        "set": "TVN",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Island",
-        "number": 276,
-        "shape": "normal",
-        "set": "TVN",
-        "rotated": false,
-        "position": ""
+        "position": "0"
     },
     {
         "card_name": "Island",
@@ -2343,7 +2327,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "1"
     },
     {
         "card_name": "Swamp",
@@ -2351,15 +2335,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Swamp",
-        "number": 277,
-        "shape": "normal",
-        "set": "TVN",
-        "rotated": false,
-        "position": ""
+        "position": "2"
     },
     {
         "card_name": "Mountain",
@@ -2367,15 +2343,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mountain",
-        "number": 281,
-        "shape": "normal",
-        "set": "TVN",
-        "rotated": false,
-        "position": ""
+        "position": "3"
     },
     {
         "card_name": "Forest",
@@ -2383,15 +2351,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Forest",
-        "number": 284,
-        "shape": "normal",
-        "set": "TVN",
-        "rotated": false,
-        "position": ""
+        "position": "4"
     },
     {
         "card_name": "Plains",
@@ -2399,7 +2359,15 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "237"
+    },
+    {
+        "card_name": "Plains",
+        "number": 272,
+        "shape": "normal",
+        "set": "TVN",
+        "rotated": false,
+        "position": "238"
     },
     {
         "card_name": "Island",
@@ -2407,7 +2375,15 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "239"
+    },
+    {
+        "card_name": "Island",
+        "number": 276,
+        "shape": "normal",
+        "set": "TVN",
+        "rotated": false,
+        "position": "240"
     },
     {
         "card_name": "Swamp",
@@ -2415,7 +2391,23 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "241"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 277,
+        "shape": "normal",
+        "set": "TVN",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 281,
+        "shape": "normal",
+        "set": "TVN",
+        "rotated": false,
+        "position": "243"
     },
     {
         "card_name": "Mountain",
@@ -2423,7 +2415,15 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "244"
+    },
+    {
+        "card_name": "Forest",
+        "number": 284,
+        "shape": "normal",
+        "set": "TVN",
+        "rotated": false,
+        "position": "245"
     },
     {
         "card_name": "Forest",
@@ -2431,7 +2431,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "246"
     },
     {
         "card_name": "er"
@@ -2452,7 +2452,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "256"
     },
     {
         "card_name": "Blood",
@@ -2460,7 +2460,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "270"
     },
     {
         "card_name": "Clue",
@@ -2468,7 +2468,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "271"
     },
     {
         "card_name": "Map",
@@ -2476,7 +2476,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "272"
     },
     {
         "card_name": "Treasure",
@@ -2484,7 +2484,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "273"
     },
     {
         "card_name": "Sailor",
@@ -2492,7 +2492,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "257"
     },
     {
         "card_name": "Whale",
@@ -2500,7 +2500,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "258"
     },
     {
         "card_name": "Bird Pirate",
@@ -2508,7 +2508,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "259"
     },
     {
         "card_name": "Construct",
@@ -2516,7 +2516,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "260"
     },
     {
         "card_name": "Hippocamp",
@@ -2524,7 +2524,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "261"
     },
     {
         "card_name": "Jellyfish",
@@ -2532,7 +2532,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "262"
     },
     {
         "card_name": "Shrimp",
@@ -2540,7 +2540,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "263"
     },
     {
         "card_name": "Pirate",
@@ -2548,7 +2548,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "264"
     },
     {
         "card_name": "Serpent",
@@ -2556,7 +2556,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "265"
     },
     {
         "card_name": "Dragon Fish",
@@ -2564,7 +2564,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "266"
     },
     {
         "card_name": "Elemental Elk",
@@ -2572,7 +2572,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "267"
     },
     {
         "card_name": "Scout",
@@ -2580,7 +2580,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "268"
     },
     {
         "card_name": "Turtle",
@@ -2588,7 +2588,7 @@
         "shape": "token",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "269"
     },
     {
         "card_name": "e"
@@ -2615,7 +2615,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "255"
     },
     {
         "card_name": "Reprieve",
@@ -2623,7 +2623,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "300"
     },
     {
         "card_name": "Ankertrold, the Harrower",
@@ -2631,7 +2631,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "247"
     },
     {
         "card_name": "Muzzio, Exiled Cogworker",
@@ -2639,7 +2639,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "248"
     },
     {
         "card_name": "Out of the Tombs",
@@ -2647,7 +2647,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "249"
     },
     {
         "card_name": "Bloodgap, Reaver Warship",
@@ -2655,7 +2655,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "250"
     },
     {
         "card_name": "Lazing Megatherium",
@@ -2663,7 +2663,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "251"
     },
     {
         "card_name": "Coloeus, Blacksail Flagship",
@@ -2671,7 +2671,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "252"
     },
     {
         "card_name": "Ruz and Elda, Lethal Lovebirds",
@@ -2679,7 +2679,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "254"
     },
     {
         "card_name": "Drang, Blacksail Captain",
@@ -2687,7 +2687,7 @@
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": ""
+        "position": "253"
     },
     {
         "card_name": "er"

@@ -1,4 +1,785 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Goldseeker Cruiser
+
+Cogwork Crew
+
+Cogwork Deckhands
+
+Combat Rigging
+
+Deckhand's Blade
+
+Determined Push
+
+Distracting Dolphin
+
+Drop-Off Specialist
+
+Early-Stage Aviator
+
+Cog Maintainer
+
+Engine Repairs
+
+Eradicating Wave
+
+First Fleet Airship
+
+Cloudscape Kraken
+
+Glorycarved Masthead
+
+GR-4E, Personal Guard
+
+Heartfelt Shipwright
+
+Rescue Carrier
+
+Mistcutter Attendant
+
+Pearlthrone Guard
+
+Repel Titans
+
+Shore Tyrant
+
+Sunken Casket
+
+Seafolk Sentinel
+
+Shining Wingfin
+
+Shore Tyrant's Challenge
+
+Skilled Shipwright
+
+Skyskimmer Glaucus
+
+Splendor Port Guardship
+
+Stand as One
+
+Deckside Gunner
+
+Sunvine Nurturer
+
+Gelid Tyrant
+
+Beachcombing Tiktaalik
+
+Breaching Greatshark
+
+Chart a Course
+
+Cloud Sea Bell
+
+Cloud Sea Snatcher
+
+Cynette, Cnidariamancer
+
+Dash on the Rocks
+
+Disrupt Existence
+
+Freezing Winds
+
+Giant Remora
+
+Fishy Rumormonger
+
+Hippocamp Wrangler
+
+Hunting Whale
+
+Inkmane Hippocamp
+
+Mercurial Skyrod
+
+Meticulous Planning
+
+Mindribbon Serpent
+
+Gelid Sea Courier
+
+Gelid Tyrant's Challenge
+
+Overwhelming Riptide
+
+Pearl Trader's Manta
+
+Read the Starfish
+
+Sea Witch's Wards
+
+Seafoam Shackles
+
+Spellcatcher Conch
+
+Starry Night Skiff
+
+Submersible Pod
+
+Thirst for Power
+
+Titanic Haruspicy
+
+Wash Overboard
+
+Stormbringer Ship
+
+Wunderpus Mimic
+
+Ambitious Prototype
+
+Crossbone Cove Cutter
+
+Cursed Compass
+
+Deep Tyrant's Challenge
+
+Devour
+
+Dredging Arm
+
+Fangcrest Finisher
+
+Grimechurner Rotboat
+
+Deadman's Tales
+
+Inktrench Stinger
+
+Inktrench's Trail
+
+Fleetsinker
+
+Jahan, High Seas Lich
+
+Jahan's Pets
+
+Lamprey Swarm
+
+Lich's Insight
+
+Midnight Queen, Damned Vessel
+
+Noxious Venting
+
+Deep Tyrant
+
+Perilous Pickpocket
+
+Raise from the Depths
+
+Requisitioned Raider
+
+Retrofitted Rampager
+
+Ripmaw Assassin
+
+Rot Sea Surge
+
+Rakish Buccaneer
+
+Shipyard Scavenger
+
+Silent Drifter
+
+Tendrils of the Deep
+
+Titan Bone Assault
+
+Standard Issue Guardbot
+
+Vile Gastrolith
+
+Basking Iguanin
+
+Big Score
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Blacksail Looter
+
+Bursting Vein Serpent
+
+Charred Isles Excavator
+
+Charred Isles Shovelbearer
+
+Clamp Down
+rules_text: Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card. => Clamp Down deals 1 damage to any target. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+You may discard a card. If you do, draw a card.
+
+Crushing Charge
+
+Daunting Figurehead
+
+Dockside Rebuffer
+
+Dunemaker Wurm
+
+Encrusted Crustacean
+rules_text: During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => During your turn, this creature has first strike.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Eruptive Emergence
+
+Expedition Funding
+
+Explosive Rage
+
+Full Tilt
+
+Vein Tyrant
+
+Lovebyrd's Galleon
+
+Inevitable, Doom's Flagship
+
+Lavaheart Dragon
+
+Lightning Rod Installer
+
+Loose Cannon
+
+Magmatic Gastrolith
+
+Magmawake Whale
+
+Overloaded Cannonship
+
+Ready, Aim, Fire!
+
+Roaming Dunkleosteus
+
+Seasoned Cannoneer
+
+Scorching Fox
+
+Stormward Shanties
+
+Powderkeg Explosion
+
+Tyrant's Demand
+
+Vein Tyrant's Challenge
+
+Apex Anomalocaris
+
+Ava, Thorny Diva
+
+Coral Tyrant's Challenge
+
+Destructive Wake
+
+Drag from the Shallows
+
+Dryad Navigator
+
+Elemental's Flourish
+
+Foraging Badger
+
+Gilded Plating
+rules_text: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This permanent can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This instant can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Give In to Instinct
+
+Coral Tyrant
+
+Hoofbeats in the Woods
+
+Hydra Hullbreaker
+
+Propagated Bioship
+
+Isle-Mimic Leviathan
+
+Leafwhisper Beetle
+
+Lineaz Eulogist
+
+Mosstusk Guardian
+
+Otoro, Wild Explorer
+rules_text:  => [i]Landfall[/i] — Whenever a land you control enters, put a loyalty counter on Otoro.
+[0]: Surveil 1, then create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+[-1]: Surveil 3, then you may return a land card from your graveyard to your hand.
+[-5]: Create a 0/0 green Scout creature token with “This token gets +1/+1 for each land you control.”
+special_text: [i]Landfall[/i] — Whenever a land you control enters, put a loyalty counter on Otoro.
+[0]: Surveil 1, then create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+[-1]: Surveil 3, then you may return a land card from your graveyard to your hand.
+[-5]: Create a 0/0 green Scout creature token with “This token gets +1/+1 for each land you control.” => [i]Landfall[/i] — Whenever a land you control enters, put a loyalty counter on Otoro.
+[0]: Surveil 1, then create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+[-1]: Surveil 3, then you may return a land card from your graveyard to your hand.
+[-5]: Create a 0/0 green Scout creature token with “This token gets +1/+1 for each land you control.”
+
+Perennial Regrowth
+
+Plow Through
+
+Primordial Coelacanth
+
+Ramming Prow
+
+Wingbeast Hunter
+
+Rootpath Mamba
+
+Rustbladder Kelp
+
+Tin Isle Channeler
+
+Tin Isle Lifetender
+
+Tin Isle Wurmrig
+
+To the Horizon
+
+Vedre Strait Caller
+
+Vibrant Siphonophore
+
+Zoophonic Call
+
+Abyssal Sea-Witch
+
+Aesi, Capricious Serpent
+
+Back For More
+
+Beliaz, Hot Shot
+
+Grahn, Seafolk Huntmaster
+
+Cephalid Strategist
+
+Apex Landshifter
+
+Chordatan Bloodseeker
+
+Cloudbelt Synthesis
+
+Cyfra, Inktrench Tyrant
+
+Elagid, the Endless Glutton
+
+Engines Critical
+
+Eskin, Furnace Master
+
+Evram, Blind Metallomancer
+
+Fangworm Fleetship
+
+Firenz, Sunvine Custodian
+
+Ehn, Cloud Sea Ancient
+
+Grandir, the Storm-Bodied
+
+Grandir's Trove
+
+Holtz, Devilish Benefactor
+
+Intrepid Courier
+
+Ka'bi, the Bloomhoof
+
+Lava Flow Hellbender
+
+Len, Endless Tentacles
+
+Malzan the Shipwright
+rules_text:  => [+1]: Untap up to one target artifact or creature, then tap up to one target artifact or creature
+[+1]: Target Vehicle you control becomes an artifact creature until your next turn.
+[-1]: You gain 2 life and draw a card.
+[-7]: Search your library for two artifact creature and/or Vehicle cards with different names, put them onto the battlefield, then shuffle.
+
+Pantry Filler
+
+Provisions Ship
+
+Raucous Week, Party Ship
+
+Reckless Innovator
+
+Relentless Reconstructionist
+
+Runes of Recall
+
+Soulbound Sloop
+
+Superb Salvage
+
+Firejelly Anomaly
+
+Tiz'ek's Meltdown
+
+Tyrant Territory
+
+Cogwork Companion
+
+Cogwork Ichthyoid
+
+Deepweb Spider
+
+High Seas Harrier
+
+Goldvein Monstrosity
+
+Merchant Vessel
+
+Pirate Salvo
+
+Power Siphon
+
+Research Vessel
+
+Uncovered Pitfall
+
+Sturdy Anchoring
+
+Tideborne Generator
+
+Trench Drone
+
+Untapped Gastrolith
+
+Busy Workshop
+
+Churning Landscape
+
+Deepsea Maw
+
+Glamorous Port
+
+Seafolk Court
+
+Pirates' Bay
+
+Crackling Cataract
+
+Uncharted Strait
+
+Unstable Vein
+rules_text: {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {T}, Pay 1 life: Add {R}.
+{2}{R}, {T}, Sacrifice this land: Create a tapped 1/1 red Pirate creature token and a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Cloud Sea
+
+Congregation Reef
+
+Grand Rim Caldera
+
+Gyre Strait
+
+Inktrench Crag
+
+Rot Sea
+
+Silent Shores
+
+Storm Belt
+
+Tin Isle Canyon
+
+Turtle Beach
+
+Ankertrold, the Harrower
+
+Muzzio, Exiled Cogworker
+
+Out of the Tombs
+
+Bloodgap, Reaver Warship
+
+Lazing Megatherium
+
+Coloeus, Blacksail Flagship
+
+Drang, Blacksail Captain
+
+Ruz and Elda, Lethal Lovebirds
+
+Waveslicer, Liko's Cruiser
+
+Copy
+
+Sailor
+
+Whale
+
+Bird Pirate
+
+Construct
+
+Hippocamp
+
+Jellyfish
+
+Shrimp
+
+Pirate
+
+Serpent
+
+Dragon Fish
+
+Elemental Elk
+
+Scout
+
+Turtle
+
+Blood
+
+Clue
+
+Map
+
+Treasure
+
+Surly Maintainer
+
+Riding Turtle
+rules_text: Whenever this creature attacks, untap another target creature you control with lesser toughness. Prevent all combat damage that would be dealt to that creature this turn. => Yearling {G}{W} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, untap another target creature you control with lesser toughness. Prevent all combat damage that would be dealt to that creature this turn.
+special_text: GW — => Yearling {G}{W} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, untap another target creature you control with lesser toughness. Prevent all combat damage that would be dealt to that creature this turn.
+
+Hungering Greatleech
+rules_text: When this creature enters, you may sacrifice a creature. If you do, you draw two cards and you gain life equal to the sacrificed creature's toughness. => Yearling {2}{B}{G} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, you may sacrifice a creature. If you do, you draw two cards and you gain life equal to the sacrificed creature's toughness.
+special_text: 2BG — => Yearling {2}{B}{G} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, you may sacrifice a creature. If you do, you draw two cards and you gain life equal to the sacrificed creature's toughness.
+
+Memory Eater
+rules_text: Menace
+Whenever this creature deals combat damage to a player, target player mills twice that many cards. => Yearling {1}{U}{B} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Menace
+Whenever this creature deals combat damage to a player, target player mills twice that many cards.
+special_text: 1UB — => Yearling {1}{U}{B} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Menace
+Whenever this creature deals combat damage to a player, target player mills twice that many cards.
+
+Nurturing Algaeback
+rules_text: Ward {1}
+Other creatures you control with yearling get +1/+0 and have ward {1}. [i](Even if they weren't cast for their yearling cost.)[/i] => Yearling {1}{G}{U} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Ward {1}
+Other creatures you control with yearling get +1/+0 and have ward {1}. [i](Even if they weren't cast for their yearling cost.)[/i]
+special_text: 1GU — => Yearling {1}{G}{U} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Ward {1}
+Other creatures you control with yearling get +1/+0 and have ward {1}. [i](Even if they weren't cast for their yearling cost.)[/i]
+
+Gothil's Clutchling
+rules_text: Trample, vigilance
+Whenever a creature you control with toughness greater than its power deals combat damage to a player, draw a card. => Yearling {2}{G}{G} — 3/5 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample, vigilance
+Whenever a creature you control with toughness greater than its power deals combat damage to a player, draw a card.
+special_text: 2GG — => Yearling {2}{G}{G} — 3/5 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample, vigilance
+Whenever a creature you control with toughness greater than its power deals combat damage to a player, draw a card.
+
+Lurking Alligator
+rules_text: {2}{G}: Each creature you control can't be blocked by more than one creature this turn. => Yearling {G} — 2/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+{2}{G}: Each creature you control can't be blocked by more than one creature this turn.
+special_text: G — => Yearling {G} — 2/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+{2}{G}: Each creature you control can't be blocked by more than one creature this turn.
+
+Pathstomper Javelina
+rules_text: Trample
+Whenever this creature attacks, another target attacking creature gets +X/+X and gains trample until end of turn, where X is this creature's power. => Yearling {1}{G}{G} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample
+Whenever this creature attacks, another target attacking creature gets +X/+X and gains trample until end of turn, where X is this creature's power.
+special_text: 1GG — => Yearling {1}{G}{G} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample
+Whenever this creature attacks, another target attacking creature gets +X/+X and gains trample until end of turn, where X is this creature's power.
+
+Quaking Tunneler
+rules_text: When this creature enters, destroy up to one target artifact or enchantment with mana value less than or equal to this creature's power. => Yearling {1}{G} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, destroy up to one target artifact or enchantment with mana value less than or equal to this creature's power.
+special_text: 1G — => Yearling {1}{G} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, destroy up to one target artifact or enchantment with mana value less than or equal to this creature's power.
+
+Shallows Altisaur
+rules_text: Reach => Yearling {3}{G} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Reach
+special_text: 3G — => Yearling {3}{G} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Reach
+
+Tin Isle Bear
+rules_text: Trample
+When this creature enters or matures, return target permanent card from your graveyard to your hand.
+If this creature would die, exile it instead. => Yearling {1}{G}{G} — 2/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample
+When this creature enters or matures, return target permanent card from your graveyard to your hand.
+If this creature would die, exile it instead.
+special_text: 1GG — => Yearling {1}{G}{G} — 2/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample
+When this creature enters or matures, return target permanent card from your graveyard to your hand.
+If this creature would die, exile it instead.
+
+Exuberant Podcaller
+rules_text: Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking. => Yearling {1}{W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.
+special_text: 1WW — => Yearling {1}{W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.
+
+Steelfin Dolphin
+rules_text: Vigilance
+Whenever this creature attacks, untap up to one other target artifact or creature. => Yearling {W} — 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Vigilance
+Whenever this creature attacks, untap up to one other target artifact or creature.
+special_text: W — => Yearling {W} — 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Vigilance
+Whenever this creature attacks, untap up to one other target artifact or creature.
+
+Tanglegrasp Jelly
+rules_text: When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield. => Yearling {1}{W}{W} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.
+special_text: 1WW — => Yearling {1}{W}{W} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.
+
+Abyssal Trilobite
+rules_text: Vigilance
+When this creature enters or dies, surveil X, where X is its power. => Yearling {U} — 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Vigilance
+When this creature enters or dies, surveil X, where X is its power.
+special_text: U — => Yearling {U} — 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Vigilance
+When this creature enters or dies, surveil X, where X is its power.
+
+Gelid Sea Whale
+rules_text: When this creature enters, tap up to X target creatures, where X is its power. Put a stun counter on each of those creatures. => Yearling {3}{U}{U} — 2/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, tap up to X target creatures, where X is its power. Put a stun counter on each of those creatures.
+special_text: 3UU — => Yearling {3}{U}{U} — 2/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, tap up to X target creatures, where X is its power. Put a stun counter on each of those creatures.
+
+Observant Osprey
+rules_text: Flying
+{4}{U}: Surveil 1. This ability costs {X} less to activate, where X is this creature's power. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Yearling {U} — 1/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Flying
+{4}{U}: Surveil 1. This ability costs {X} less to activate, where X is this creature's power. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+special_text: U — => Yearling {U} — 1/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Flying
+{4}{U}: Surveil 1. This ability costs {X} less to activate, where X is this creature's power. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Stormbelt Serpent
+rules_text: This creature can't be blocked if you've drawn two or more cards this turn. => Yearling {2}{U} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+This creature can't be blocked if you've drawn two or more cards this turn.
+special_text: 2U — => Yearling {2}{U} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+This creature can't be blocked if you've drawn two or more cards this turn.
+
+Abyssal Tempter
+rules_text: When this creature enters, you may pay 2 life. If you do, you draw a card and create a tapped Treasure token. => Yearling {2}{B} — 3/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, you may pay 2 life. If you do, you draw a card and create a tapped Treasure token.
+special_text: 2B — => Yearling {2}{B} — 3/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, you may pay 2 life. If you do, you draw a card and create a tapped Treasure token.
+
+Deadlights Leviathan
+rules_text: When this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped. => Yearling {2}{B}{B} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped.
+special_text: 2BB — => Yearling {2}{B}{B} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped.
+
+Rot Sea Worm
+rules_text: This creature can't block.
+You may cast this spell from your graveyard using its yearling ability and an additional 2 life. => Yearling {1}{B} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+This creature can't block.
+You may cast this spell from your graveyard using its yearling ability and an additional 2 life.
+special_text: 1B — => Yearling {1}{B} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+This creature can't block.
+You may cast this spell from your graveyard using its yearling ability and an additional 2 life.
+
+Whirlpool Annihilator
+rules_text: Trample
+When this creature enters or matures, each player sacrifices a creature or Vehicle of their choice. => Yearling {2}{B}{B} — 4/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample
+When this creature enters or matures, each player sacrifices a creature or Vehicle of their choice.
+special_text: 2BB — => Yearling {2}{B}{B} — 4/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample
+When this creature enters or matures, each player sacrifices a creature or Vehicle of their choice.
+
+Angered Slaghorn
+rules_text: Trample, haste => Yearling {2}{R} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample, haste
+special_text: 2R — => Yearling {2}{R} — 2/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample, haste
+
+Crackling Eel
+rules_text: Menace
+Whenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player. => Yearling {1}{R} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Menace
+Whenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player.
+special_text: 1R — => Yearling {1}{R} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Menace
+Whenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player.
+
+Ironfang Amphisbaena
+rules_text: Trample
+Whenever this creature attacks, create an X/X red Serpent creature token with trample that is tapped and attacking, where X is this creature's power. Sacrifice that token at end of combat. => Yearling {3}{R} — 4/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample
+Whenever this creature attacks, create an X/X red Serpent creature token with trample that is tapped and attacking, where X is this creature's power. Sacrifice that token at end of combat.
+special_text: 3R — => Yearling {3}{R} — 4/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Trample
+Whenever this creature attacks, create an X/X red Serpent creature token with trample that is tapped and attacking, where X is this creature's power. Sacrifice that token at end of combat.
+
+Thrashing Fiddler
+rules_text: Double strike
+As long as you've sacrificed an artifact this turn, this creature gets +1/+0 and has trample. => Yearling {1}{R} — 1/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Double strike
+As long as you've sacrificed an artifact this turn, this creature gets +1/+0 and has trample.
+special_text: 1R — => Yearling {1}{R} — 1/1 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Double strike
+As long as you've sacrificed an artifact this turn, this creature gets +1/+0 and has trample.
+
+Reprieve
+
+Clattering Boneship
+
+Pirate's Blessing
+
+Seafolk Pilgrimguard
+
+Port Patrolship
+
+Mooneye Octopus
+rules_text: Whenever this creature deals combat damage to a player, draw that many cards.
+Whenever another creature you control deals combat damage to a player, draw a card. => Yearling {2}{U}{U} — 2/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature deals combat damage to a player, draw that many cards.
+Whenever another creature you control deals combat damage to a player, draw a card.
+special_text: 2UU — => Yearling {2}{U}{U} — 2/4 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature deals combat damage to a player, draw that many cards.
+Whenever another creature you control deals combat damage to a player, draw a card.
+
+Hookfin, Basalt Commander
+
+Algal Orchard
+
+Fertile Delta
+
+Gold Mine
+
+Labor District
+
+Elbow-Grease Innovator
+
+Elagid, the Endless Glutton
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
