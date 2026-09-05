@@ -46,6 +46,11 @@
             "formats": ""
         },
         {
+            "set_code": "TTH",
+            "set_name": "To The Horizon",
+            "formats": ""
+        },
+        {
             "set_code": "TVC",
             "set_name": "Titans of Viludin Commander",
             "formats": ""
@@ -53,6 +58,11 @@
         {
             "set_code": "TVN",
             "set_name": "Titans of Viludin",
+            "formats": ""
+        },
+        {
+            "set_code": "UWT",
+            "set_name": "",
             "formats": ""
         }
     ]

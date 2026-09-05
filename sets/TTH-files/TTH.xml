@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TTH</name>
+			<longname>To The Horizon</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-05</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>To The Horizons TTH</name>
+			<text>Mechanics: Largely just what exists that I think would be interesting. Paradox is one that would be used as a mechanic specifically for a theme and I want to choose one or two more (landfall doesn&apos;t count)
+WU Power 2 or less
+UB Artifact Creatures?
+BR Paradox with artifact focus (Junk?)
+RG Modal? 
+GW Aristocrats?
+
+WB Flying?
+UR Illusions w/ Paradox
+BG Scryveil?
+RW Landfall?
+GU Harmonic (Artifacts + Enchantments)</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TTH-files/img/0.png" num="1">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cursetounge Kavu</name>
+			<text>When this creature enters, target creature gets -0/-4 until end of turn. If you targeted a creature you control this way, you draw two cards and lose 2 life.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/1.png" num="5">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kavu</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain Hoyrik</name>
+			<text>Whenever Captain Hoyrik or another nontoken creature you control with power 2 or less enters, scry 1, then draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/2.png" num="8">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Sailor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Echoes Across Time</name>
+			<text>Flying, ward {1}
+Whenever you cast a sorcery spell from your hand, you may cast an instant spell with lesser mana value from your graveyard without paying its mana cost. If a spell cast from your graveyard this way would be put into your graveyard, exile it instead.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TTH-files/img/3.png" num="10">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Memories of Futures Lost</name>
+			<text>Menace
+Whenever Memories of Futures Lost deals combat damage to a player, draw a card, then discard a card. When you do, choose one—
+• You may play the discarded card this turn. (You still pay its costs. Timing restrictions still apply.)
+• Create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/4.png" num="13">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stock Up</name>
+			<text>Look at the top five cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/5.png" num="3">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Subversive Sleeper</name>
+			<text>Flash
+When this creature enters, if it was cast, exile up to one target spell, then return up to one target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TTH-files/img/6.png" num="4">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2UUU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>When this creature enters, if it was cast, untap each basic land you control.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TTH-files/img/7.png" num="7">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heron-Blessed Angel</name>
+			<text>Flying
+Humans and other Angels you control have vigilance.
+When this creature enters, create a 1/1 white Human creature token.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/8.png" num="2">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saproling TTH</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TTH-files/img/9.png" num="1">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Saproling</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Merrell, Tuinvale Glamerist</name>
+			<text>Flying
+Merrell&apos;s power is equal to the number of artifacts you control plus the number of enchantments you control.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/10.png" num="14">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kul, Time Crack Instigator</name>
+			<text>When Kul enters, discard a card, then create two Junk tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
+Paradox — Whenever you cast a spell from anywhere other than your hand, target creature you control gets +1/+0 and gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/11.png" num="12">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Imp Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Admiral&apos;s Coffers</name>
+			<text>When The Admiral&apos;s Coffers enters and at the beginning of your first main phase, create two Treasure tokens.
+{T}, Sacrifice another Treasure: Add three mana of any one color.
+{5}, {T}, Sacrifice The Admiral&apos;s Coffers Add ten mana of any one color.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TTH-files/img/12.png" num="6">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Keyn and Ruckus, Wild Pair</name>
+			<text>Trample
+Whenever you choose one or more modes for a spell or ability, put two +1/+1 counters on Keyn and Ruckus. If those modes were for an ability of another creature you control, you may put a +1/+1 counter on that creature.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/13.png" num="11">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Wolf Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Claire, Batfolk Astrologer</name>
+			<text>Flying
+Whenever Clair or another creature you control enters, you gain 1 life.
+Whenever another creature you control with flying enters, each opponent loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/14.png" num="9">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bat Cleric Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grete, Odric&apos;s Right Hand</name>
+			<text>Grete&apos;s power and toughness are each equal to the number of creatures you control plus the number of legendary permanents you control. (Legendary creatures count twice)
+When Grete enters, exile target nonland permanent you don&apos;t control until she leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/15.png" num="1">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
