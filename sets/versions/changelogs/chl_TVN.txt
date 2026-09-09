@@ -1,4 +1,262 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+Elagid, the Endless Glutton removed.
+
+Engines Critical
+
+Eskin, Furnace Master
+
+Evram, Blind Metallomancer
+
+Fangworm Fleetship
+
+Firenz, Sunvine Custodian
+
+Ehn, Cloud Sea Ancient
+
+Grandir, the Storm-Bodied
+
+Grandir's Trove
+
+Holtz, Devilish Benefactor
+
+Intrepid Courier
+
+Ka'bi, the Bloomhoof
+
+Lava Flow Hellbender
+
+Len, Endless Tentacles
+
+Malzan the Shipwright
+
+Pantry Filler
+
+Provisions Ship
+
+Raucous Week, Party Ship
+
+Reckless Innovator
+
+Relentless Reconstructionist
+
+Runes of Recall
+
+Soulbound Sloop
+
+Superb Salvage
+
+Firejelly Anomaly
+
+Tiz'ek's Meltdown
+
+Tyrant Territory
+
+Cogwork Companion
+
+Cogwork Ichthyoid
+
+Deepweb Spider
+
+High Seas Harrier
+
+Goldvein Monstrosity
+
+Merchant Vessel
+
+Pirate Salvo
+
+Power Siphon
+
+Research Vessel
+
+Uncovered Pitfall
+
+Sturdy Anchoring
+
+Tideborne Generator
+
+Trench Drone
+
+Untapped Gastrolith
+
+Busy Workshop
+
+Churning Landscape
+
+Deepsea Maw
+
+Glamorous Port
+
+Seafolk Court
+
+Pirates' Bay
+
+Crackling Cataract
+
+Uncharted Strait
+
+Unstable Vein
+
+Cloud Sea
+
+Congregation Reef
+
+Grand Rim Caldera
+
+Gyre Strait
+
+Inktrench Crag
+
+Rot Sea
+
+Silent Shores
+
+Storm Belt
+
+Tin Isle Canyon
+
+Turtle Beach
+
+Ankertrold, the Harrower
+
+Muzzio, Exiled Cogworker
+
+Out of the Tombs
+
+Bloodgap, Reaver Warship
+
+Lazing Megatherium
+
+Coloeus, Blacksail Flagship
+
+Drang, Blacksail Captain
+
+Ruz and Elda, Lethal Lovebirds
+
+Waveslicer, Liko's Cruiser
+
+Copy
+
+Sailor
+
+Whale
+
+Bird Pirate
+
+Construct
+
+Hippocamp
+
+Jellyfish
+
+Shrimp
+
+Pirate
+
+Serpent
+
+Dragon Fish
+
+Elemental Elk
+
+Scout
+
+Turtle
+
+Blood
+
+Clue
+
+Map
+
+Treasure
+
+Surly Maintainer
+
+Riding Turtle
+
+Hungering Greatleech
+
+Memory Eater
+
+Nurturing Algaeback
+
+Gothil's Clutchling
+
+Lurking Alligator
+
+Pathstomper Javelina
+
+Quaking Tunneler
+
+Shallows Altisaur
+
+Tin Isle Bear
+
+Exuberant Podcaller
+
+Steelfin Dolphin
+
+Tanglegrasp Jelly
+
+Abyssal Trilobite
+
+Gelid Sea Whale
+
+Observant Osprey
+
+Stormbelt Serpent
+
+Abyssal Tempter
+
+Deadlights Leviathan
+
+Rot Sea Worm
+
+Whirlpool Annihilator
+
+Angered Slaghorn
+
+Crackling Eel
+
+Ironfang Amphisbaena
+
+Thrashing Fiddler
+
+Reprieve
+
+Clattering Boneship
+
+Pirate's Blessing
+
+Seafolk Pilgrimguard
+
+Port Patrolship
+
+Mooneye Octopus
+
+Hookfin, Basalt Commander
+
+Algal Orchard
+
+Fertile Delta
+
+Gold Mine
+
+Labor District
+
+Elbow-Grease Innovator
+
+Elagid, the Endless Glutton
+rules_text: Whenever you attack, you may cast a permanent spell with mana value X or less from your hand or graveyard without paying its mana cost, where X is the greatest power among attacking creatures. If you cast a spell from your graveyard this way, it enters with a finality counter on it. => Menace, deathtouch
+Whenever Elagid attacks, you may cast a permanent spell with mana value X or less from your hand or graveyard without paying its mana cost, where X is the greatest power among attacking creatures. If you cast a spell from your graveyard this way, it enters with a finality counter on it.
+pt: 5/6 => 3/6
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
