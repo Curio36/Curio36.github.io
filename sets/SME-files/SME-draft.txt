@@ -7,7 +7,7 @@
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/7_Luigi, Best Bro.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Creature — Turtle Dragon Noble",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/10_Bowser, Monstrous King.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/16_Super Mario.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/3_Princess Peach, Toadstool Ruler.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Legendary Creature — Ape Hero",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/18_DK, Gorilla Great.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Legendary Creature — Monkey Hero",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/17_Diddy Kong, Best Buddy.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Legendary Creature — Turtle Dragon Noble",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/12_Wonder Bowser Jr..png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Legendary Creature — Fungus Advisor",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/4_Toad, Mushroom Steward.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/6_E. Gadd, Nutty Professor.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/8.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Legendary Creature — Human Noble Pilot",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/14_Princess Daisy, Tomboy Biker.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/9.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Rabbit",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/1_Castle Bunny.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/10.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Artifact Creature — Construct Hero Noble",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/5_Circuit Statues.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/11.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Insect Minion",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/9_Biddybud Battalion.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/12.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Dinosaur Hero",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/15_Red Yoshi.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/13.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Rhino Hero",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/20_Rhino Pal.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/14.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/13_Mario's Courage.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/15.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Sorcery",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/19_DK's Jungle Beatdown.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/16.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Sorcery",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/11_Bowser's Brutality.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/17.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Sorcery",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/8_Luigi's Determination.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/18.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Enchantment",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SME-files/img/2_Peach's Blessing.png"
+				"en": "https://Curio36.github.io/sets/SME-files/img/19.png"
 			}
 		}
 	]

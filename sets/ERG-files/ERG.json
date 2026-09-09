@@ -1,9 +1,11 @@
 ﻿{
     "name": "Ergamon: Nature\u2019s Rage",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Vivien, Wildheart Defender",
@@ -13,7 +15,7 @@
             "number": 35,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "",
+            "rules_text": "You don't lose unspent green mana as steps and phases end.\n[+1]: Put a +1/+1 on up to one target creature. It gains \u201cWhenever this creature deals combat damage to a player, draw a card\u201d until end of turn.\n[-2]: Add an amount of {G} equal to the greatest power among creatures you control.\n[-6]: You get an emblem with \u201c{X}: Creatures you control have base power and toughness X/X until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "You don't lose unspent green mana as steps and phases end.\n[+1]: Put a +1/+1 on up to one target creature. It gains \u201cWhenever this creature deals combat damage to a player, draw a card\u201d until end of turn.\n[-2]: Add an amount of {G} equal to the greatest power among creatures you control.\n[-6]: You get an emblem with \u201c{X}: Creatures you control have base power and toughness X/X until end of turn.",
@@ -21,6 +23,9 @@
             "set": "ERG",
             "loyalty": "3",
             "artist": "Stu Harrington; Hi-Rez Studio",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -31,7 +36,7 @@
             "number": 46,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
-            "rules_text": "",
+            "rules_text": "[+1]: Discard a card, then draw a card. You gain 1 life.\n[-4]: You get an emblem with \u201cWhenever you gain life, put a loyalty counter on each planeswalker you control.\u201d\n[-6]: Exile all creatures. At the beginning of your next end step, return a card you own exiled this way to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Discard a card, then draw a card. You gain 1 life.\n[-4]: You get an emblem with \u201cWhenever you gain life, put a loyalty counter on each planeswalker you control.\u201d\n[-6]: Exile all creatures. At the beginning of your next end step, return a card you own exiled this way to the battlefield.",
@@ -39,6 +44,9 @@
             "set": "ERG",
             "loyalty": "3",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -57,6 +65,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -75,6 +86,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -93,6 +107,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -111,6 +128,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -129,6 +149,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -147,6 +170,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Fernanda Ram\u00edrez Corzo",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -165,6 +191,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -183,6 +212,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,6 +233,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -219,6 +254,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -237,6 +275,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -255,6 +296,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -273,6 +317,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -291,6 +338,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -309,6 +359,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -327,6 +380,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -345,6 +401,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -355,7 +414,7 @@
             "number": 36,
             "color_identity": "BG",
             "cost": "{4}{B}{G}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create a 4/2 green Rhino creature token.\n[-3]: Sacrifice a creature, then draw cards equal to the greater of its power or toughness.\n[-6]: You may put a creature card from your hand or graveyard onto the battlefield. It enters with two additional +1/+1 counters on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create a 4/2 green Rhino creature token.\n[-3]: Sacrifice a creature, then draw cards equal to the greater of its power or toughness.\n[-6]: You may put a creature card from your hand or graveyard onto the battlefield. It enters with two additional +1/+1 counters on it.",
@@ -363,6 +422,9 @@
             "set": "ERG",
             "loyalty": "6",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -381,6 +443,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -399,6 +464,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -417,6 +485,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -435,6 +506,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -453,6 +527,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -471,6 +548,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -489,6 +569,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -507,6 +590,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -525,6 +611,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Raph Lomotan",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -543,6 +632,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -561,6 +653,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -579,6 +674,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -597,6 +695,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -615,6 +716,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -633,6 +737,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -651,6 +758,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -669,6 +779,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -687,6 +800,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Giselle Almeida",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -705,6 +821,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -723,6 +842,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -741,6 +863,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -759,6 +884,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -777,6 +905,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -795,6 +926,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -813,6 +947,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -831,6 +968,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -849,6 +989,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -867,6 +1010,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -885,6 +1031,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -903,6 +1052,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -921,6 +1073,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -939,6 +1094,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -957,6 +1115,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -975,6 +1136,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -993,6 +1157,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Nicol\u00e1s Espinoza",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1011,6 +1178,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Arthur Azaryan",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1029,6 +1199,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Von Milano",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1047,6 +1220,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Alvaro Ramirez",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1065,6 +1241,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Alvaro Ramirez",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1083,6 +1262,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1101,6 +1283,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "David Belmonte",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1119,6 +1304,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1137,6 +1325,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1147,7 +1338,7 @@
             "number": 34,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Trample\nThis creature can't be blocked by more than one creature.\nWhenever this creature attacks, put a +1/+1 counter on it if two or more lands entered under your control this turn. If you do, it gains trample until end of turn.",
+            "rules_text": "Trample\nThis creature can't be blocked by more than one creature.\nWhenever this creature attacks, put a +1/+1 counter on it if two or more lands entered under your control this turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1155,6 +1346,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1173,6 +1367,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1191,6 +1388,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1198,7 +1398,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 68,
+            "number": 70,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{2}{W}{U}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains flying until end of turn. Activate only as a sorcery.",
@@ -1209,6 +1409,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1216,7 +1419,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 69,
+            "number": 71,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{2}{U}{B}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. Until end of turn, it can't be blocked by creatures with greater power. Activate only as a sorcery.",
@@ -1227,6 +1430,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1234,7 +1440,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 71,
+            "number": 74,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{2}{R}{W}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains first strike until end of turn. Activate only as a sorcery.",
@@ -1245,6 +1451,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1252,7 +1461,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 72,
+            "number": 76,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{2}{B}{G}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains deathtouch until end of turn. Activate only as a sorcery.",
@@ -1263,6 +1472,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1270,7 +1482,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 70,
+            "number": 72,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
@@ -1281,6 +1493,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1299,6 +1514,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1306,7 +1524,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 73,
+            "number": 78,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{2}{R}{G}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains trample until end of turn. Activate only as a sorcery.",
@@ -1317,6 +1535,9 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1335,8 +1556,116 @@
             "set": "ERG",
             "loyalty": "",
             "artist": "Jasper Sandner",
+            "alias": "Alpha Deathclaw",
+            "position": "73",
+            "rotated": false,
             "notes": ""
+        },
+        {
+            "card_name": "Bleached Wastes",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 68,
+            "color_identity": "WB",
+            "cost": "",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{2}{W}{B}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains lifelink until end of turn. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "ERG",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
+            "notes": "ERG"
+        },
+        {
+            "card_name": "Dezogem Tar Pits",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 69,
+            "color_identity": "BR",
+            "cost": "",
+            "rules_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{2}{B}{R}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains trample until end of turn. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "ERG",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
+            "notes": "ERG"
+        },
+        {
+            "card_name": "Fruitful Clearing",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 73,
+            "color_identity": "WG",
+            "cost": "",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{2}{G}{W}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains vigilance until end of turn. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "ERG",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
+            "notes": "ERG"
+        },
+        {
+            "card_name": "Lodo Geysers",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 75,
+            "color_identity": "UR",
+            "cost": "",
+            "rules_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{2}{U}{R}, {T}, Sacrifice this land: Put a +1/+1 counter on target creature. It gains menace until end of turn. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "ERG",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
+            "notes": "ERG"
+        },
+        {
+            "card_name": "Mossyrock River Basin",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 77,
+            "color_identity": "UG",
+            "cost": "",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{2}{G}{U}, {T}, Sacrifice this land: Put a +1/+1 counter on each of one or two target creatures. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "ERG",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
+            "notes": "ERG"
         }
     ],
-    "version": 1
+    "version": 2
 }

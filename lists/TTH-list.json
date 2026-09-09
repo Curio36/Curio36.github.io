@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Subversive Sleeper",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Cursetounge Kavu",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "The Admiral's Coffers",
-        "number": 6,
+        "number": 7,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -44,11 +44,31 @@
     },
     {
         "card_name": "Stock Up",
-        "number": 3,
+        "number": 4,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
         "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Silver-Tongue Skald",
+        "number": 3,
+        "shape": "adventure",
+        "set": "TTH",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -74,18 +94,23 @@
     "a->gold",
     {
         "card_name": "Captain Hoyrik",
-        "number": 8,
+        "number": 10,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
         "position": "2"
     },
     {
-        "card_name": "e"
+        "card_name": "Himoto, Kami of the Spark",
+        "number": 13,
+        "shape": "normal",
+        "set": "TTH",
+        "rotated": false,
+        "position": "16"
     },
     {
         "card_name": "Kul, Time Crack Instigator",
-        "number": 12,
+        "number": 16,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -93,14 +118,19 @@
     },
     {
         "card_name": "Keyn and Ruckus, Wild Pair",
-        "number": 11,
+        "number": 15,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
         "position": "13"
     },
     {
-        "card_name": "e"
+        "card_name": "Tekerex, Porcelain Predator",
+        "number": 19,
+        "shape": "normal",
+        "set": "TTH",
+        "rotated": false,
+        "position": "19"
     },
     {
         "card_name": "er"
@@ -119,7 +149,7 @@
     },
     {
         "card_name": "Claire, Batfolk Astrologer",
-        "number": 9,
+        "number": 11,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -127,21 +157,31 @@
     },
     {
         "card_name": "Echoes Across Time",
-        "number": 10,
+        "number": 12,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
         "position": "3"
     },
     {
-        "card_name": "e"
+        "card_name": "Jorshu of Clan Nel Toth",
+        "number": 14,
+        "shape": "normal",
+        "set": "TTH",
+        "rotated": false,
+        "position": "17"
     },
     {
-        "card_name": "e"
+        "card_name": "Abeena, Intrepid Hookslinger",
+        "number": 9,
+        "shape": "normal",
+        "set": "TTH",
+        "rotated": false,
+        "position": "20"
     },
     {
         "card_name": "",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -152,7 +192,7 @@
     },
     {
         "card_name": "Memories of Futures Lost",
-        "number": 13,
+        "number": 17,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -166,7 +206,7 @@
     },
     {
         "card_name": "Merrell, Tuinvale Glamerist",
-        "number": 14,
+        "number": 18,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,

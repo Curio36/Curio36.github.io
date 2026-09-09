@@ -1,9 +1,11 @@
 ﻿{
     "name": "Silverwood Film Festival Commander",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Deyinak Silverwood, Director",
@@ -21,6 +23,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -39,6 +44,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -49,14 +57,17 @@
             "number": 21,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each player mills six cards.\nII \u2014 Choose target permanent card in your graveyard. You may play that card this turn.\nIII \u2014 For each card type among cards in your graveyard, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.\n---\nSacrifice a land: You gain 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each player mills six cards.\nII \u2014 Choose target permanent card in your graveyard. You may play that card this turn.\nIII \u2014 For each card type among cards in your graveyard, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.\n---\nSacrifice a land: You gain 2 life.",
             "shape": "saga",
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -67,14 +78,17 @@
             "number": 20,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 You may sacrifice a permanent. If you do, each opponent sacrifices a permanent that shares a card type with it.\nII \u2014 Exile each opponent's graveyard. \nIII \u2014 \n---\nWhenever you put a lore counter on this Saga, you may pay 1 life. If you do, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 You may sacrifice a permanent. If you do, each opponent sacrifices a permanent that shares a card type with it.\nII \u2014 Exile each opponent's graveyard. \nIII \u2014 \n---\nWhenever you put a lore counter on this Saga, you may pay 1 life. If you do, draw a card.",
             "shape": "saga",
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -85,14 +99,17 @@
             "number": 11,
             "color_identity": "WG",
             "cost": "{4}{G}{W}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 white Performer creature tokens.\nII \u2014 The next spell you cast this turn has convoke. [i](Your creatures can help cast it. Each creature you tap while casting it pays for {1} or one mana of that creature's color.)[/i]\nIII \u2014",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 white Performer creature tokens.\nII \u2014 The next spell you cast this turn has convoke. [i](Your creatures can help cast it. Each creature you tap while casting it pays for {1} or one mana of that creature's color.)[/i]\nIII \u2014",
             "shape": "saga",
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -111,6 +128,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -129,6 +149,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -147,6 +170,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -165,6 +191,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -183,6 +212,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,6 +233,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -219,6 +254,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -229,14 +267,17 @@
             "number": 15,
             "color_identity": "UG",
             "cost": "{G}{U}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Put a +1/+1 counter and a vigilance counter on each of up to two target creatures you control.\nII \u2014 You gain 1 life for each kind of counter among permanents you control.\nIII \u2014 Distribute this Saga's non-lore counters among any number of non-Saga permanents you control.\n---\nWhenever a non-Saga permanent you control leaves the battlefield, you may put its counters on this Saga.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Put a +1/+1 counter and a vigilance counter on each of up to two target creatures you control.\nII \u2014 You gain 1 life for each kind of counter among permanents you control.\nIII \u2014 Distribute this Saga's non-lore counters among any number of non-Saga permanents you control.\n---\nWhenever a non-Saga permanent you control leaves the battlefield, you may put its counters on this Saga.",
             "shape": "saga",
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -247,14 +288,17 @@
             "number": 18,
             "color_identity": "RG",
             "cost": "{4}{R}{G}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 4/5 green Ogre creature token with reach.\nII \u2014 Create a 5/4 red Giant creature token with trample.\nIII \u2014 Create a 6/6 red and green Ogre Giant creature token with reach and trample. Creatures you control gain vigilance and haste until end of turn.\n---\nThis spell can't be countered.\nSpells and abilities you control can't be countered.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 4/5 green Ogre creature token with reach.\nII \u2014 Create a 5/4 red Giant creature token with trample.\nIII \u2014 Create a 6/6 red and green Ogre Giant creature token with reach and trample. Creatures you control gain vigilance and haste until end of turn.\n---\nThis spell can't be countered.\nSpells and abilities you control can't be countered.",
             "shape": "saga",
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -273,6 +317,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -291,6 +338,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -309,6 +359,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -327,6 +380,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -345,6 +401,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -363,6 +422,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -381,6 +443,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -399,6 +464,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -417,6 +485,9 @@
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -427,16 +498,19 @@
             "number": 19,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three Treasure tokens. Scry 3.\nII \u2014 Discard any number of cards, then draw that many cards plus two.\nIII \u2014 Whenever you cast an instant or sorcery spell this turn, copy it. You may choose new targets for those copies.\n---\nYou don't lose unspent blue or red mana as steps and phases end.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three Treasure tokens. Scry 3.\nII \u2014 Discard any number of cards, then draw that many cards plus two.\nIII \u2014 Whenever you cast an instant or sorcery spell this turn, copy it. You may choose new targets for those copies.\n---\nYou don't lose unspent blue or red mana as steps and phases end.",
             "shape": "saga",
             "set": "FLC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

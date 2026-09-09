@@ -5,7 +5,7 @@
 			<name>FLC</name>
 			<longname>Silverwood Film Festival Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-25</releasedate>
+			<releasedate>2026-09-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Deyinak Silverwood, Director</name>
 			<text>Whenever you cast a Saga spell, create a 1/1 white Performer creature token. 
 Whenever you sacrifice an enchantment, create a Treasure token.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLC-files/img/12_Deyinak Silverwood, Director.png" num="12">FLC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLC-files/img/0.png" num="12">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -32,7 +32,7 @@ Whenever you sacrifice an enchantment, create a Treasure token.</text>
 			<text>Flying, vigilance
 Portia gets +1/+1 for each Saga you control and each Saga card in your graveyard.
 Whenever Portia enters or attacks, for each Saga you control, you may remove a lore counter from that Saga or put a lore counter on it.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLC-files/img/16_Portia, Top Bill Actress.png" num="16">FLC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLC-files/img/1.png" num="16">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,8 +48,13 @@ Whenever Portia enters or attacks, for each Saga you control, you may remove a l
 		</card>
 		<card>
 			<name>Undercity Expedition</name>
-			<text></text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/21_Undercity Expedition.png" num="21">FLC</set>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each player mills six cards.
+II — Choose target permanent card in your graveyard. You may play that card this turn.
+III — For each card type among cards in your graveyard, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.
+---
+Sacrifice a land: You gain 2 life.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/2.png" num="21">FLC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -64,8 +69,13 @@ Whenever Portia enters or attacks, for each Saga you control, you may remove a l
 		</card>
 		<card>
 			<name>Tragedies on Rose Street</name>
-			<text></text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/20_Tragedies on Rose Street.png" num="20">FLC</set>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You may sacrifice a permanent. If you do, each opponent sacrifices a permanent that shares a card type with it.
+II — Exile each opponent&apos;s graveyard. 
+III — 
+---
+Whenever you put a lore counter on this Saga, you may pay 1 life. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/3.png" num="20">FLC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -80,8 +90,11 @@ Whenever Portia enters or attacks, for each Saga you control, you may remove a l
 		</card>
 		<card>
 			<name>An Adventure With Friends</name>
-			<text></text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/11_An Adventure With Friends.png" num="11">FLC</set>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create three 1/1 white Performer creature tokens.
+II — The next spell you cast this turn has convoke. (Your creatures can help cast it. Each creature you tap while casting it pays for {1} or one mana of that creature&apos;s color.)
+III —</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/4.png" num="11">FLC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -99,7 +112,7 @@ Whenever Portia enters or attacks, for each Saga you control, you may remove a l
 			<text>Return target Saga card from your graveyard to the battlefield.
 Exile Be Kind, Rewind.
 Overload {4}{W}{W}{W} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/1_Be Kind, Rewind.png" num="1">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/5.png" num="1">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -116,7 +129,7 @@ Overload {4}{W}{W}{W} (You may cast this spell for its overload cost. If you do,
 			<name>D&apos;Zzik, Underworld Distributor</name>
 			<text>Deathtouch
 Whenever you sacrifice an enchantment, return up to one target enchantment, Bard, or Performer card with lesser mana value from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/14_D&apos;Zzik, Underworld Distributor.png" num="14">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/6.png" num="14">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -134,7 +147,7 @@ Whenever you sacrifice an enchantment, return up to one target enchantment, Bard
 			<name>Dotty Ablis, Beloved Actress</name>
 			<text>Enchantment spells you cast cost {1} less to cast. They cost {2} less to cast instead if they have an enchantment type. (Aura, Saga, and Shrine are examples of enchantment types.)
 Whenever you cast your first enchantment spell each turn, draw a card and put a +1/+1 counter on Dotty Ablis.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/2_Dotty Ablis, Beloved Actress.png" num="2">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/7.png" num="2">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -152,7 +165,7 @@ Whenever you cast your first enchantment spell each turn, draw a card and put a 
 			<name>Dila Fauch, Traditionalist</name>
 			<text>Whenever you attack with one or more other creatures with power 4 or greater, the next noncreature spell you cast this turn costs {2} less to cast.
 Whenever you cast a noncreature spell with mana value 4 or greater for the first time each turn, untap each nonland permanent you control.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLC-files/img/13_Dila Fauch, Traditionalist.png" num="13">FLC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLC-files/img/8.png" num="13">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -171,7 +184,7 @@ Whenever you cast a noncreature spell with mana value 4 or greater for the first
 			<text>Vigilance, trample
 Whenever an opponent casts a spell during your turn, Reba deals damage equal to her power to that player.
 Whenever you cast a noncreature spell with mana value 4 or greater, put two +1/+1 counters on Reba.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/17_Reba, Dancing Bear.png" num="17">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/9.png" num="17">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -189,7 +202,7 @@ Whenever you cast a noncreature spell with mana value 4 or greater, put two +1/+
 			<name>Toki, Script Archivist</name>
 			<text>You may look at the top card of your library at any time.
 You may cast noncreature spells with mana value 4 or greater from the top of your library. When you cast a spell this way, surveil 2.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/4_Toki, Script Archivist.png" num="4">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/10.png" num="4">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -207,7 +220,7 @@ You may cast noncreature spells with mana value 4 or greater from the top of you
 			<name>Powerful Soliloquy</name>
 			<text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
 Noncreature spells you cast from your hand with mana value 4 or greater have cascade.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/8_Powerful Soliloquy.png" num="8">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/11.png" num="8">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -222,8 +235,13 @@ Noncreature spells you cast from your hand with mana value 4 or greater have cas
 		</card>
 		<card>
 			<name>Eludha A Bonder&apos;s Story</name>
-			<text></text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/15_Eludha A Bonder&apos;s Story.png" num="15">FLC</set>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put a +1/+1 counter and a vigilance counter on each of up to two target creatures you control.
+II — You gain 1 life for each kind of counter among permanents you control.
+III — Distribute this Saga&apos;s non-lore counters among any number of non-Saga permanents you control.
+---
+Whenever a non-Saga permanent you control leaves the battlefield, you may put its counters on this Saga.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/12.png" num="15">FLC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -238,8 +256,14 @@ Noncreature spells you cast from your hand with mana value 4 or greater have cas
 		</card>
 		<card>
 			<name>A Rubblebelt Romance</name>
-			<text></text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/18_A Rubblebelt Romance.png" num="18">FLC</set>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 4/5 green Ogre creature token with reach.
+II — Create a 5/4 red Giant creature token with trample.
+III — Create a 6/6 red and green Ogre Giant creature token with reach and trample. Creatures you control gain vigilance and haste until end of turn.
+---
+This spell can&apos;t be countered.
+Spells and abilities you control can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/13.png" num="18">FLC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -255,7 +279,7 @@ Noncreature spells you cast from your hand with mana value 4 or greater have cas
 		<card>
 			<name>The Voughts, Legacy Act</name>
 			<text>Whenever you cast a noncreature spell with mana value 4 or greater, create a 3/2 green Elf Performer creature token. Then if you control five or more Performers, draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLC-files/img/22_The Voughts, Legacy Act.png" num="22">FLC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/FLC-files/img/14.png" num="22">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -273,7 +297,7 @@ Noncreature spells you cast from your hand with mana value 4 or greater have cas
 			<name>Set Teardown</name>
 			<text>Organize 4—{2}{G}{G} (You may cast this spell by paying {2}{G}{G} and tapping four creatures you control.)
 Exile each artifact, enchantment, and nonbasic land you don&apos;t control. For each land exiled this way, its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/9_Set Teardown.png" num="9">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/15.png" num="9">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -289,7 +313,7 @@ Exile each artifact, enchantment, and nonbasic land you don&apos;t control. For 
 		<card>
 			<name>Union Meeting</name>
 			<text>Whenever one or more creatures you control deal combat damage to one or more players, you may put a permanent card with mana value X or less from your hand onto the battlefield, where X is the number of lands you control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/10_Union Meeting.png" num="10">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/16.png" num="10">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -306,7 +330,7 @@ Exile each artifact, enchantment, and nonbasic land you don&apos;t control. For 
 			<name>Domesticated Shipbreaker</name>
 			<text>Whenever you cast a noncreature spell, create a 1/1 blue Tentacle Performer creature token.
 Tap four untapped Performers you control: The next instant or sorcery spell you cast from your hand this turn has rebound. (Exile that spell as it resolves. At the beginning of your next upkeep, you may cast that spell from exile without paying its mana cost.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/3_Domesticated Shipbreaker.png" num="3">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/17.png" num="3">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -324,7 +348,7 @@ Tap four untapped Performers you control: The next instant or sorcery spell you 
 			<name>Harsh Director</name>
 			<text>Whenever you sacrifice an enchantment, each opponent loses 3 life unless that player discards a card or sacrifices a nonland permanent.
 {T}, Pay 2 life: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/5_Harsh Director.png" num="5">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/18.png" num="5">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -342,7 +366,7 @@ Tap four untapped Performers you control: The next instant or sorcery spell you 
 			<name>Luxurious Geode</name>
 			<text>{T}: Add {W} or {B}.
 {3}{W}{B}, {T}: Choose two permanent cards in your graveyard that share a card type. Put one of them on top of your library, then exile the other. You gain 2 life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/24_Luxurious Geode.png" num="24">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/19.png" num="24">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -358,7 +382,7 @@ Tap four untapped Performers you control: The next instant or sorcery spell you 
 			<name>Glittering Geode</name>
 			<text>{T}: Add {U} or {R}.
 {3}{U}{R}, {T}: Look at the top three cards of your library. You may discard a card. If you do, put two of those cards into your hand. Otherwise put one of those cards into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/23_Glittering Geode.png" num="23">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/20.png" num="23">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -374,7 +398,7 @@ Tap four untapped Performers you control: The next instant or sorcery spell you 
 			<name>Negatives Cutter</name>
 			<text>Trample
 Whenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/7_Negatives Cutter.png" num="7">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/21.png" num="7">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -392,7 +416,7 @@ Whenever this creature deals combat damage to a player, target instant or sorcer
 			<name>Returned Thespian</name>
 			<text>When this creature enters, each opponent loses 1 life. You gain 1 life and surveil 1.
 Whenever you sacrifice another enchantment, you may pay {B}. If you do, return this card from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/6_Returned Thespian.png" num="6">FLC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/22.png" num="6">FLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -408,8 +432,13 @@ Whenever you sacrifice another enchantment, you may pay {B}. If you do, return t
 		</card>
 		<card>
 			<name>Samara&apos;s Gallery</name>
-			<text></text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/19_Samara&apos;s Gallery.png" num="19">FLC</set>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create three Treasure tokens. Scry 3.
+II — Discard any number of cards, then draw that many cards plus two.
+III — Whenever you cast an instant or sorcery spell this turn, copy it. You may choose new targets for those copies.
+---
+You don&apos;t lose unspent blue or red mana as steps and phases end.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/FLC-files/img/23.png" num="19">FLC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>

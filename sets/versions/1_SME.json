@@ -1,9 +1,11 @@
 ﻿{
     "name": "Super Mario Brothers Eternal Welcome Decks",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Luigi, Best Bro",
@@ -21,6 +23,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "MarioKartDoubleDash; Nintendo",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -39,6 +44,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "KinokoBlast; Nintendo Cube",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -49,7 +57,7 @@
             "number": 16,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "During your turn, Mario has flying. [i](He can't be blocked except by creatures with flying or reach.)[/i]\nWhenever Mario enters or attacks, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nTreasures you control have \u201c{T}, Sacrifice this token: Add two mana of any one color.\u201d",
+            "rules_text": "During your turn, Mario has flying. [i](He can't be blocked except by creatures with flying or reach.)[/i]\nWhenever Mario enters or attacks, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nTreasures you control have \u201c{T}, Sacrifice this token: Add two mana of any one color.\u201d",
             "flavor_text": "[i]\u201cIts-a me!\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -57,6 +65,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -75,6 +86,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Good-Feel; Nintendo",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -93,6 +107,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -111,6 +128,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Time Turner; Rare",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -129,6 +149,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Illumination",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -147,6 +170,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Illumination",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -165,6 +191,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Random Penguins14; Nintendo",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -183,6 +212,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,6 +233,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "RAP; Nintendo",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -219,6 +254,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -237,6 +275,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Doomdorm64; Nintendo",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -255,6 +296,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -273,6 +317,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "LadySophie17; Nintendo",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -291,6 +338,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Illumination",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -309,6 +359,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Kong; Sora LTD",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -327,6 +380,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Results May Vary; Next Level games",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -345,6 +401,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -363,6 +422,9 @@
             "set": "SME",
             "loyalty": "",
             "artist": "Game8 Team; ArtePiazza",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         }
     ]

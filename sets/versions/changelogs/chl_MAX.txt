@@ -1,4 +1,219 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+White Knight's Rebuke removed.
+
+MANTLES OF ALCOMEX (MAX)
+
+MANTLES OF ALCOMEX (MAX)
+
+Gallant Soul
+
+Skykelp Guardian
+
+Sonic Rollerblader
+
+Tempest Surge
+
+Reformed Pragmatist
+
+Busy City Square
+
+Acid Vats
+
+Bountiful Orchard
+
+Radioactive Mines
+
+Mystical Marsh
+
+Blue Skies, Aerial Ace
+
+Green Thumb, Phytomistress
+
+Black Sheep, Shining Beacon
+
+Red Hot, Blazing Streak
+
+White Knight, Sentinel Supreme
+
+The Terminus of Return
+rules_text: Indestructible
+{T}: Add {B}.
+{6}{B}, {T}, Exile a creature you control: Harness The Terminus of Return. [i](Once harnessed, its Origin ability is active.)[/i]
+Origin — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield. => Indestructible
+{T}: Add {B}.
+{6}{B}, {T}, Exile a creature you control: Harness The Terminus of Return. [i](Once harnessed, its Origin ability is active.)[/i] [i](Once harnessed, its I{N}{F} ability is active.)[/i]
+Origin — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+
+The Terminus of Apparition
+rules_text: Indestructible
+{T}: Add {W}.
+{5}{W}, {T}: Harness The Terminus of Apparition. [i](Once harnessed, its Origin ability is active.)[/i]
+Origin — At the beginning of your end step, exile up to one other target nonland permanent you control, then return that card to the battlefield under its owner's control. => Indestructible
+{T}: Add {W}.
+{5}{W}, {T}: Harness The Terminus of Apparition. [i](Once harnessed, its Origin ability is active.)[/i] [i](Once harnessed, its I{N}{F} ability is active.)[/i]
+Origin — At the beginning of your end step, exile up to one other target nonland permanent you control, then return that card to the battlefield under its owner's control.
+
+Kavaero, Mind-Bitten
+
+Egrix the Bile Bulwark
+
+Verilax the Havenskin
+
+Druneth, Reviver of the Hive
+
+Bayo, Irritable Instructor
+
+Withar, Cocoon Keeper
+
+Hex of Undeath
+
+Impostor Syndrome
+
+Through the Omenpath
+
+Lady Gore, Death's Edge
+
+The Immense, Failed Experiment
+
+5P-4M, Evil Supercomputer
+
+Erdia Raxx, Humble CEO
+rules_text: Whenever you sacrifice another nontoken creature, create a 1/1 white Citizen creature token.
+Exhaust — Tap ten untapped creatures you control: Your life total becomes equal to twice your starting life total. [i](Activate each exhaust ability only once.)[/i] => Whenever you sacrifice another nontoken creature, create a 1/1 white Citizen creature token.
+Exhaust — Tap ten untapped creatures you control: Your life total becomes equal to twice your starting life total. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Vox Dei, Hallowed Leader
+rules_text: Creatures you control with no abilities get +1/+1.
+When this creature enters, up to one other target creature loses all abilities and becomes a Cleric creature with base power and toughness 3/3. => Creatures you control with no abilities get +1/+1.
+When Vox Dei enters, up to one other target creature loses all abilities and becomes a Cleric creature with base power and toughness 3/3.
+
+Weftwalker, Edge's Lost
+
+Faceless, Disguise Expert
+
+Godsclaw, Servant of Power
+
+Moon Mad, Unwilling Lunatic
+
+Acrobat, Gymnastic Hero
+
+The Heap, Walking Fen
+
+The Centipede, Crawling Terror
+
+Martyr, Former Ally
+
+Umbra, the Devious Shadow
+
+The Judge, Strict Arbiter
+
+Bounding Strongman
+
+Box of Scraps
+
+Utility Belt
+
+Okkult, Chaos Witch
+
+Galebender Rescuer
+
+Emerge from the Shadows
+
+Strength Monger
+
+Grim Piper
+
+Street Dancer
+
+Pristine Goonbot
+
+Devious Duo
+
+Enforcer of the Will
+
+Living Shadow
+
+Martyr's Blood
+
+Divine Abomination
+
+Enhanced Crawler Swarm
+rules_text: As long as you've cast another spell with mana value 5 or greater this turn, you may cast this spell by paying {G}{U} instead of paying its mana cost.
+Vigilance
+When this creature enters, draw two cards. => This spell costs {3} less to cast if you've cast a spell with mana value 4 or greater this turn.
+Vigilance
+When this creature enters, draw two cards.
+
+Giggling Slasher
+
+Walking Exoskeleton
+
+Bearer of the Mooncurse
+
+Dark Fortress
+
+Gathering Place
+
+Overclocked Power Plant
+
+Austere Tower
+
+Abundant Gardens
+
+Helperbot V2
+
+Arcane Refocus
+
+Practitioners of Forbidden Arts
+
+Charging Flamebelcher
+
+Runaway Pet
+
+Acolyte of the Voice
+
+New Moon Disciple
+
+Combat Baton
+
+Single-Celled Super-Evolver
+
+Bathe in the Swamps
+
+Yuan Yanfeng, the Perfected Breath
+
+Phreaker, Cybersuit Savior
+
+Arkane, Magicrafter
+
+Melchior, Artificial Invasion
+
+Nok, Grimgill Raid Captain
+
+Duras, the Dark Eye
+
+Tongue of the Charmer
+
+Guiding Astrolabe
+
+Cavestalker Territory
+
+Stellar Guardian
+
+White Knight's Rebuke
+cost: {2}{W} => {1}{W}
+rules_text: Flash
+Enchant creature you control
+When this Aura enters, it deals damage to target attacking or blocking creature equal to the number of creatures and/or Auras you control.
+Enchanted creature gets +1/+1 and has first strike. => Enchant creature you control
+When this Aura enters, enchanted creature deals damage to up to one target creature you don't control equal to the number of creatures and/or Auras you control.
+Enchanted creature gets +1/+1 and has first strike.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

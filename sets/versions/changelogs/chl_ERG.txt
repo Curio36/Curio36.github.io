@@ -1,4 +1,178 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Bleached Wastes added.
+Dezogem Tar Pits added.
+Fruitful Clearing added.
+Lodo Geysers added.
+Mossyrock River Basin added.
+
+
+Vivien, Wildheart Defender
+rules_text:  => You don't lose unspent green mana as steps and phases end.
+[+1]: Put a +1/+1 on up to one target creature. It gains “Whenever this creature deals combat damage to a player, draw a card” until end of turn.
+[-2]: Add an amount of {G} equal to the greatest power among creatures you control.
+[-6]: You get an emblem with “{X}: Creatures you control have base power and toughness X/X until end of turn.
+
+Karlos, Spark Surveyor
+rules_text:  => [+1]: Discard a card, then draw a card. You gain 1 life.
+[-4]: You get an emblem with “Whenever you gain life, put a loyalty counter on each planeswalker you control.”
+[-6]: Exile all creatures. At the beginning of your next end step, return a card you own exiled this way to the battlefield.
+
+Fecund Colony Mother
+
+Trace of Forbidden Knowledge
+
+Trace of Living Death
+
+Impulsive Jackrabbit
+
+Manaquill Porcupine
+
+Hungry Wingclaw
+
+Trace of Endless Growth
+
+Valley Maker Wurm
+
+Igneous Omen
+
+Scavengers' Feast
+
+Hunter Duo
+
+Pack Attack
+
+Devour the Soul
+
+Opportunistic Scavengers
+
+Skyskimmer Drake
+
+Crackling Jerboa
+
+Wrong Step
+
+Brigan, Beast Trafficker
+rules_text:  => [+1]: Create a 4/2 green Rhino creature token.
+[-3]: Sacrifice a creature, then draw cards equal to the greater of its power or toughness.
+[-6]: You may put a creature card from your hand or graveyard onto the battlefield. It enters with two additional +1/+1 counters on it.
+
+Survey the Terrain
+
+Coordinated Lioness
+
+Geoderoller Scarab
+
+Twisting Eye Peacock
+
+Divebomb
+
+Gola Plains Ram
+
+Scurrying Glittermouse
+
+Trace of Martial Wisdom
+
+Basking Gargantua, Drifter
+
+Hypnotic Octopus
+
+Brood Parasite
+
+Mortician Beetle
+
+Sanguine Hunger, Bloodspiller
+
+Sink Into Tar
+
+Jagged Ridge Boar
+
+Sun Mane, Pridemaster
+
+Trace of Unerring Force
+
+Blooming Elk
+
+Brigan's Shipment
+
+Creeping Ivydian
+
+Shifting Territory
+
+Caged Corpsegorger
+
+Deadbog Gator
+
+Feeding Time
+
+Glisten Tail, Hunting Mutate
+
+Grist, the Endless Hunger
+
+Clattering Scavenger
+
+Cloud Dancer Gryff
+
+Huntscarred Alpha
+
+Mindleech Swarm
+
+Mistborne Griffin
+
+Shadow-Eye Raven
+
+Stalking Poacher
+
+Poach
+
+Immense Tusks, Herdcaller
+
+Feref Boughs Widow
+
+Fungal Beetle
+
+Mischievous Monkey
+
+Territorial Silverback
+
+Wildfire Lagac
+
+Luminous Wings, Nesttender
+
+Graceful Unicorn
+
+Spined Scurrier
+
+Truga Scythecat
+rules_text: Trample
+This creature can't be blocked by more than one creature.
+Whenever this creature attacks, put a +1/+1 counter on it if two or more lands entered under your control this turn. If you do, it gains trample until end of turn. => Trample
+This creature can't be blocked by more than one creature.
+Whenever this creature attacks, put a +1/+1 counter on it if two or more lands entered under your control this turn.
+
+Invigorating Winds
+
+Skydance, Graceful Predator
+
+Douma Expanse
+
+Enju Sound
+
+Golan Plains
+
+Maradin Boglands
+
+Evolving Wilds
+
+Seedspreader Tapir
+
+Truga Outskirts
+
+Twisted Death Monitor
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

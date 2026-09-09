@@ -5,7 +5,7 @@
 			<name>TVC</name>
 			<longname>Titans of Viludin Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-16</releasedate>
+			<releasedate>2026-09-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>Flying
 This creature can&apos;t block
 Whenever a land card is put into a graveyard from anywhere, this creature deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/18_Blazing Beetle.png" num="18">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/0.png" num="18">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Whenever a land card is put into a graveyard from anywhere, this creature deals 
 		<card>
 			<name>Churning Birth</name>
 			<text>At the beginning of combat on your turn, create X 1/1 red Elemental creature tokens, where X is the number of land cards in your graveyard. Those tokens gain haste until end of turn. Sacrifice them at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/19_Churning Birth.png" num="19">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/1.png" num="19">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -49,7 +49,7 @@ Whenever a land card is put into a graveyard from anywhere, this creature deals 
 			<text>First strike
 Whenever Ignos deals combat damage to a player, discard up to three cards, then draw that many cards. When you discard one or more cards this way, target creature you control gets +1/+0 until end of turn for each card discarded this way.
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/23_Ignos, Magmakin Veintapper.png" num="23">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/2.png" num="23">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -67,7 +67,7 @@ Partner (You can have two commanders if both have partner.)</text>
 			<name>Pyroclastic Pulse</name>
 			<text>Pyroclastic Pulse deals X damage to each creature and planeswalker your opponents control, where X is the number of land cards in your graveyard.
 Mountaincycling {2}</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/24_Pyroclastic Pulse.png" num="24">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/3.png" num="24">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -84,7 +84,7 @@ Mountaincycling {2}</text>
 			<name>Crushing Tectonics</name>
 			<text>Whenever a land card is put into a graveyard from anywhere, put a loam counter on this enchantment.
 {2}{G}, Remove X loam counters from this enchantment and sacrifice it: Destroy X target artifacts and/or enchantments.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/26_Crushing Tectonics.png" num="26">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/4.png" num="26">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -101,7 +101,7 @@ Mountaincycling {2}</text>
 			<name>Earthshaker Altisaur</name>
 			<text>Reach, vigilance, trample
 Landfall — Whenever a land you control enters, you may sacrifice it. If you do, put a +1/+1 counter on this creature, draw a card, and add one mana of any color that land could produce.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/27_Earthshaker Altisaur.png" num="27">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/5.png" num="27">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,7 +120,7 @@ Landfall — Whenever a land you control enters, you may sacrifice it. If you do
 			<text>Ward {1}
 At the beginning of each end step, if a land card was put into a graveyard from anywhere this turn, put a +1/+1 counter on Ku&apos;I. Then if Ku&apos;I has four or more +1/+1 counters on it, create a 1/1 green Elemental Rabbit creature token.
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/33_Ku&apos;I, Spring&apos;s Fecundity.png" num="33">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/6.png" num="33">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -139,7 +139,7 @@ Partner (You can have two commanders if both have partner.)</text>
 			<text>Ward {1}
 At the beginning of each end step, if a land card was put into a graveyard from anywhere this turn, put a +1/+1 counter on Ku&apos;I. Then if Ku&apos;I has four or more +1/+1 counters on it, create a 1/1 green Elemental Rabbit creature token.
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/32_Ku&apos;I, Spring&apos;s Fecundity.png" num="32">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/7.png" num="32">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -157,7 +157,7 @@ Partner (You can have two commanders if both have partner.)</text>
 			<name>Surging Defenses</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Creatures you control gain hexproof and indestructible until end of turn. Until your next end step, you may play lands card exiled with this spell.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/35_Surging Defenses.png" num="35">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/8.png" num="35">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -175,7 +175,7 @@ Creatures you control gain hexproof and indestructible until end of turn. Until 
 			<text>Reach, vigilance
 Each creature your opponents control with power equal to or less than the number of land cards in your graveyard is goaded.
 {3}, Sacrifice a land or discard a land card: Draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/41_Hi&apos;A, Flameweb Titan.png" num="41">TVC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/9.png" num="41">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -194,7 +194,7 @@ Each creature your opponents control with power equal to or less than the number
 			<text>This spell costs {1} less to cast for each land card in your graveyard.
 Whenever Tiz&apos;Ek attacks, surveil 3.
 You may cast sorcery spells from your graveyard by exiling two land cards from your graveyard in addition to paying their other costs.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/48_Tiz&apos;Ek, Molten Cycle.png" num="48">TVC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/10.png" num="48">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -213,7 +213,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 			<text>This land enters tapped.
 {T}: Add {C}.
 {2}, {T}, Sacrifice this land: Search your library for a Mountain card and a Forest card, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/57_Murasa Skyclave.png" num="57">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/11.png" num="57">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -227,7 +227,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/64_Mountain.png" num="64">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/12.png" num="64">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -242,7 +242,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Troll Warrior TVC</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/26t_Troll Warrior.png" num="26">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/13.png" num="26">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -260,7 +260,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Elemental TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/17t_Elemental.png" num="17">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/14.png" num="17">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -278,7 +278,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Bear TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/18t_Bear.png" num="18">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/15.png" num="18">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -296,7 +296,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Elemental Rabbit TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/20t_Elemental Rabbit.png" num="20">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/16.png" num="20">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -314,7 +314,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Elemental Rabbit 2 TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/21t_Elemental Rabbit 2.png" num="21">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/17.png" num="21">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -332,7 +332,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Insect TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/23t_Insect.png" num="23">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/18.png" num="23">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -350,7 +350,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Plant TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/24t_Plant.png" num="24">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/19.png" num="24">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -368,7 +368,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Plant Warrior TVC</name>
 			<text>Reach</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/25t_Plant Warrior.png" num="25">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/20.png" num="25">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -386,7 +386,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Blood TVC</name>
 			<text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/30t_Blood.png" num="30">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/21.png" num="30">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -401,7 +401,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 		<card>
 			<name>Treasure TVC</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/34t_Treasure.png" num="34">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/22.png" num="34">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -419,7 +419,7 @@ You may cast sorcery spells from your graveyard by exiling two land cards from y
 Whenever Heavensward attacks, put a +1/+1 counter on each attacking Vehicle.
 Crew 2
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/5_Heavensward, Breakthrough.png" num="5">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/23.png" num="5">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -437,7 +437,7 @@ Partner (You can have two commanders if both have partner.)</text>
 			<name>Traveling Shipwright</name>
 			<text>When this creature enters, create a 3/2 colorless Vehicle artifact token with crew 1.
 Whenever a Vehicle you control enters, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/6_Traveling Shipwright.png" num="6">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/24.png" num="6">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -456,7 +456,7 @@ Whenever a Vehicle you control enters, draw a card. This ability triggers only o
 			<text>Flying
 When this Vehicle enters, you may sacrifice any number of other nonland permanents. For each permanent sacrificed this way, create a 1/1 black Spirit Pirate creature token with flying.
 Crew 2</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/13_Ghostfleet Frontrunner.png" num="13">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/25.png" num="13">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -474,7 +474,7 @@ Crew 2</text>
 			<name>Pallid Deckhand</name>
 			<text>Menace, deathtouch
 Each Vehicle you control has bloodthirst X. (Vehicles you control enters with X +1/+1 counters on them, where X is the damage dealt to your opponents this turn.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/16_Pallid Deckhand.png" num="16">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/26.png" num="16">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -495,7 +495,7 @@ Each Vehicle you control has bloodthirst X. (Vehicles you control enters with X 
 • Create a 3/2 colorless Vehicle artifact token with crew 1.
 • Discard up to three cards, then draw that many cards.
 • Choose a Vehicle you control. It becomes an artifact creature and gains haste until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/20_Craftwork Apprenticeship.png" num="20">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/27.png" num="20">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -512,7 +512,7 @@ Each Vehicle you control has bloodthirst X. (Vehicles you control enters with X 
 			<name>Shifting Schooner</name>
 			<text>Whenever this Vehicle attacks, you may sacrifice a creature that crewed it this turn. If you do, reveal cards from the top of your library until you reveal a creature or Vehicle card. Put that card onto the battlefield, then shuffle.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/25_Shifting Schooner.png" num="25">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/28.png" num="25">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -529,7 +529,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		<card>
 			<name>Dwarven Duplicator</name>
 			<text>When this creature enters, choose any number of target artifact tokens you control with different names. For each of those targets, create a token that&apos;s a copy of it.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/39_Dwarven Duplicator.png" num="39">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/29.png" num="39">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -547,8 +547,8 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<name>Grand Stateship, Mistcutter</name>
 			<text>Vehicles you control have vigilance and menace.
 {T}, Sacrifice another artifact or creature: Create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater.&quot; If that permanent was legendary or a Vehicle, create two of those tokens instead.
-Crew 3</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/40_Grand Stateship, Mistcutter.png" num="40">TVC</set>
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/30.png" num="40">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -565,7 +565,7 @@ Crew 3</text>
 		<card>
 			<name>Liko, Ark Craftmaster</name>
 			<text>Vehicles you control have myriad. Tokens created this way are artifact creatures and aren&apos;t legendary. (Whenever a Vehicle with myriad attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of that Vehicle that&apos;s tapped and attacking that player or a planeswalker they control. Exile those tokens at end of combat.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/44_Liko, Ark Craftmaster.png" num="44">TVC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/31.png" num="44">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -582,7 +582,7 @@ Crew 3</text>
 		<card>
 			<name>Pelin, the Efficient</name>
 			<text>If one or more artifact tokens would be created under your control, those tokens plus that many Junk tokens are created instead. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/46_Pelin, the Efficient.png" num="46">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/32.png" num="46">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -600,7 +600,7 @@ Crew 3</text>
 			<name>Gastrolith Engine</name>
 			<text>{T}: Add one mana of any color.
 {3}, {T}, Exile this artifact: Return target card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/51_Gastrolith Engine.png" num="51">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/33.png" num="51">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -616,7 +616,7 @@ Crew 3</text>
 			<text>This land enters tapped.
 {T}: Add {C}.
 {2}, {T}, Sacrifice this land: Search your library for a Swamp card and a Mountain card, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/58_Tarnation Vault.png" num="58">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/34.png" num="58">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -630,7 +630,7 @@ Crew 3</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/60_Plains.png" num="60">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/35.png" num="60">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -645,7 +645,7 @@ Crew 3</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/62_Swamp.png" num="62">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/36.png" num="62">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -660,7 +660,7 @@ Crew 3</text>
 		<card>
 			<name>Copy TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/2t_Copy.png" num="2">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/37.png" num="2">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -675,7 +675,7 @@ Crew 3</text>
 		<card>
 			<name>Pilot TVC</name>
 			<text>This token saddles Mounts and crews Vehicles as though its power were 2 greater.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/3t_Pilot.png" num="3">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/38.png" num="3">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -691,7 +691,7 @@ Crew 3</text>
 		<card>
 			<name>Angel TVC</name>
 			<text>Flying, vigilance</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/4t_Angel.png" num="4">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/39.png" num="4">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -709,7 +709,7 @@ Crew 3</text>
 		<card>
 			<name>Clown Robot TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/5t_Clown Robot.png" num="5">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/40.png" num="5">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -726,7 +726,7 @@ Crew 3</text>
 		<card>
 			<name>Sailor TVC</name>
 			<text>This token crews Vehicles as though its power were 2 greater.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/6t_Sailor.png" num="6">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/41.png" num="6">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -744,7 +744,7 @@ Crew 3</text>
 		<card>
 			<name>Spirit Pirate TVC</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/12t_Spirit Pirate.png" num="12">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/42.png" num="12">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -762,7 +762,7 @@ Crew 3</text>
 		<card>
 			<name>Voidseed Warrior TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/13t_Voidseed Warrior.png" num="13">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/43.png" num="13">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -780,7 +780,7 @@ Crew 3</text>
 		<card>
 			<name>Dwarf Berserker TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/16t_Dwarf Berserker.png" num="16">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/44.png" num="16">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -798,7 +798,7 @@ Crew 3</text>
 		<card>
 			<name>Construct TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/31t_Construct.png" num="31">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/45.png" num="31">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -815,7 +815,7 @@ Crew 3</text>
 			<name>Mechtitan TVC</name>
 			<text>Mechtitan is all colors.
 Flying, vigilance, trample, lifelink, haste</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/33t_Mechtitan.png" num="33">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/46.png" num="33">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -832,7 +832,7 @@ Flying, vigilance, trample, lifelink, haste</text>
 		<card>
 			<name>Vehicle TVC</name>
 			<text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/35t_Vehicle.png" num="35">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/47.png" num="35">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -849,7 +849,7 @@ Flying, vigilance, trample, lifelink, haste</text>
 			<name>Zeppelin TVC</name>
 			<text>Flying
 Crew 3</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/36t_Zeppelin.png" num="36">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/48.png" num="36">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -866,7 +866,7 @@ Crew 3</text>
 			<name>Call the Guard</name>
 			<text>Choose target opponent. For each creature that player controls, create a 1/1 white Soldier creature token. Exile Call the Guard with three time counters on it.
 Suspend 3—{1}{W} (Rather than cast this card from your hand, you may pay {1}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/2_Call the Guard.png" num="2">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/49.png" num="2">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -884,7 +884,7 @@ Suspend 3—{1}{W} (Rather than cast this card from your hand, you may pay {1}{W
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Commanders you control have ward {1}.
 Whenever a ward cost of a permanent you control is paid, draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/3_Cephalid Barrister.png" num="3">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/50.png" num="3">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -902,7 +902,7 @@ Whenever a ward cost of a permanent you control is paid, draw a card.</text>
 			<name>Fruitful Discussion</name>
 			<text>Overload {X}{U} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)
 Target player draws X cards.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/10_Fruitful Discussion.png" num="10">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/51.png" num="10">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -920,7 +920,7 @@ Target player draws X cards.</text>
 			<text>At the beginning of your first upkeep each turn, you get an additional upkeep step after this step.
 At the beginning of your first end step each turn, you get an additional end step after this step.
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/12_Shian, Time&apos;s Tide.png" num="12">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/52.png" num="12">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -939,7 +939,7 @@ Partner (You can have two commanders if both have partner.)</text>
 			<text>Reach
 Whenever this creature becomes tapped, you gain 3 life.
 {2}{G}, {T}: Exile up to two target cards from a single graveyard. Create a Treasure token.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/30_Kelp Gatherers.png" num="30">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/53.png" num="30">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -956,7 +956,7 @@ Whenever this creature becomes tapped, you gain 3 life.
 		<card>
 			<name>Scout the Trade Routes</name>
 			<text>Whenever a player attacks, if there are no creatures attacking you or a permanent you control, that player may put a land card from their hand onto the battlefield. If an opponent put a land card onto the battlefield this way, you may put a land card from your hand onto the battlefield.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/34_Scout the Trade Routes.png" num="34">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/54.png" num="34">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -973,7 +973,7 @@ Whenever this creature becomes tapped, you gain 3 life.
 			<name>Betel, the Coralthrone</name>
 			<text>At the beginning of your end step, untap each nonland permanent you control.
 Whenever an opponent casts their first noncreature spell each turn, you may embrace. If you do, draw a card. (To embrace, tap two artifacts and/or creatures you control.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/36_Betel, the Coralthrone.png" num="36">TVC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/55.png" num="36">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -992,7 +992,7 @@ Whenever an opponent casts their first noncreature spell each turn, you may embr
 			<text>This spell can&apos;t be countered.
 Draw four cards, then you gain life equal to the number of cards in your hand.
 You may cast a spell with mana value 5 or less from your hand without paying its mana cost. That spell can&apos;t be countered.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/47_Seafolk Expertise.png" num="47">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/56.png" num="47">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1009,7 +1009,7 @@ You may cast a spell with mana value 5 or less from your hand without paying its
 			<name>Trepi, Aquaculturalist</name>
 			<text>At the beginning of your end step, put a +1/+1 counter on each tapped creature you control.
 {G}{W}, Embrace: You gain 3 life. (To embrace, tap two artifacts and/or creatures you control.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/49_Trepi, Aquaculturalist.png" num="49">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/57.png" num="49">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1026,8 +1026,8 @@ You may cast a spell with mana value 5 or less from your hand without paying its
 		<card>
 			<name>Tursi, Peaceful Courier</name>
 			<text>During your turn, Tursi has hexproof and indestructible.
-Whenever Tursi attacks, you and defending player each draw cards equal to its power, then gain life equal to its toughness.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/50_Tursi, Peaceful Courier.png" num="50">TVC</set>
+Whenever Tursi attacks, you and defending player each draw cards equal to chrp&apos;s power, then gain life equal to chrp&apos;s toughness.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/58.png" num="50">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1046,7 +1046,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 			<text>This land enters tapped.
 {T}: Add {C}.
 {2}, {T}, Sacrifice this land: Search your library for a Plains card and an Island card, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/56_Meletian Harbor.png" num="56">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/59.png" num="56">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1060,7 +1060,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/59_Plains.png" num="59">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/60.png" num="59">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1075,7 +1075,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/65_Forest.png" num="65">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/61.png" num="65">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1090,7 +1090,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Beau TVC</name>
 			<text>This creature&apos;s power and toughness are each equal to the number of lands you control.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/1t_Beau.png" num="1">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/62.png" num="1">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1106,7 +1106,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Soldier TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/7t_Soldier.png" num="7">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/63.png" num="7">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1124,7 +1124,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Salamander Warrior TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/11t_Salamander Warrior.png" num="11">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/64.png" num="11">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1142,7 +1142,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Elephant TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/22t_Elephant.png" num="22">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/65.png" num="22">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1160,7 +1160,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Voja TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/27t_Voja.png" num="27">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/66.png" num="27">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1178,7 +1178,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Voja Fenstalker TVC</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/28t_Voja Fenstalker.png" num="28">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/67.png" num="28">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1196,7 +1196,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 		<card>
 			<name>Voja, Friend to Elves TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/29t_Voja, Friend to Elves.png" num="29">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/68.png" num="29">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1215,7 +1215,7 @@ Whenever Tursi attacks, you and defending player each draw cards equal to its po
 			<text>Changeling (This card is every creature type.)
 Evolve (Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
 At the beginning of combat on your turn, this creature becomes a copy of up to one other target creature until end of turn, except it&apos;s a 0/2 and has changeling and evolve.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/8_Deep-Sea Oddity.png" num="8">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/69.png" num="8">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1231,8 +1231,9 @@ At the beginning of combat on your turn, this creature becomes a copy of up to o
 		</card>
 		<card>
 			<name>Rippling Deeplord</name>
-			<text>If an ability of a Kraken, Leviathan, Octopus, or Serpent source you control would trigger, it triggers an additional time. If this creature is mature, that ability triggers two additional times instead.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/11_Rippling Deeplord.png" num="11">TVC</set>
+			<text>Yearling {3}{U}{U} — 4/4 (You may cast this spell with different mana cost and size. Pay its normal cost once as a sorcery to have it mature.)
+If an ability of a Kraken, Leviathan, Octopus, or Serpent source you control would trigger, it triggers an additional time. If this creature is mature, that ability triggers two additional times instead.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/70.png" num="11">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1248,10 +1249,10 @@ At the beginning of combat on your turn, this creature becomes a copy of up to o
 		</card>
 		<card>
 			<name>Iska, Returned Oneiromancer</name>
-			<text>Whenever you cast a permanent spell with mana value 5 or greater, each opponent discards a card. Each opponent who didn&apos;t discard a nonland card this way loses 3 life.
-{T}, Sacrifice another creature: You lose 1 life and draw a card. If that creature had mana value 5 or greater, you lose 3 life and draw three cards instead.
+			<text>Whenever you cast a permanent spell with mana value 4 or greater, each opponent discards a card. Each opponent who didn&apos;t discard a nonland card this way loses 3 life.
+{T}, Sacrifice another creature: You lose 1 life and draw a card. If that creature had mana value 4 or greater, you lose 3 life and draw three cards instead.
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/14_Iska, Returned Oneiromancer.png" num="14">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/71.png" num="14">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1270,7 +1271,7 @@ Partner (You can have two commanders if both have partner.)</text>
 			<text>Impending 4—{1}{B}, Pay 4 life (If you cast this spell for its impending cost, it enters with four time counters and isn&apos;t a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)
 Flying, menace
 At the beginning of your end step, each opponent loses 1 life and you surveil 1.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/15_Ominous Devilfish.png" num="15">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/72.png" num="15">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1288,7 +1289,7 @@ At the beginning of your end step, each opponent loses 1 life and you surveil 1.
 			<name>High Quality Gastrolith</name>
 			<text>{T}: Add {G}.
 {G}{G}, {T}: Add X mana in any combination of colors, where X is the greatest power among creatures you control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/28_High Quality Gastrolith.png" num="28">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/73.png" num="28">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1304,8 +1305,8 @@ At the beginning of your end step, each opponent loses 1 life and you surveil 1.
 		<card>
 			<name>Inlet Seeker</name>
 			<text>Trample
-When this creature enters, it explores X times, where X is the number of other permanents you control with power, toughness, or mana value 4 or higher. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/29_Inlet Seeker.png" num="29">TVC</set>
+When this creature enters, it explores X times, where X is the number of other permanents you control with power, toughness, or mana value 4 or higher. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/74.png" num="29">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1324,7 +1325,7 @@ When this creature enters, it explores X times, where X is the number of other p
 			<text>Deathtouch
 Whenever a Kraken, Leviathan, Octopus, Serpent, or Whale you control enters, surveil 2 and you gain 2 life.
 {1}, {T}: Add {B}{G}{U}. Spend this mana only to cast spells with mana value 4 or greater or activate abilities of sources with mana value 4 or greater.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/37_Bilchanip, Caller of Tyrants.png" num="37">TVC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/75.png" num="37">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1340,8 +1341,9 @@ Whenever a Kraken, Leviathan, Octopus, Serpent, or Whale you control enters, sur
 		</card>
 		<card>
 			<name>Deil, Ceaseless Titan</name>
-			<text>When Deil enters, you may cast a spell from your hand with mana value less than Deil&apos;s power without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/38_Deil, Ceaseless Titan.png" num="38">TVC</set>
+			<text>Yearling {2}{G}{U} — 3/2 (You may cast this spell with different mana cost and size. Pay its normal cost once as a sorcery to have it mature.)
+When Deil enters, you may cast a spell from your hand with mana value less than Deil&apos;s power without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/76.png" num="38">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1362,7 +1364,7 @@ Whenever a Kraken, Leviathan, Octopus, Serpent, or Whale you control enters, sur
 • Each opponent sacrifices a creature of their choice.
 • Each opponent sacrifices an enchantment of their choice.
 Entwine— Sacrifice two permanents (Choose all if you pay the entwine cost.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/42_Insatiable Rampage.png" num="42">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/77.png" num="42">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1378,8 +1380,8 @@ Entwine— Sacrifice two permanents (Choose all if you pay the entwine cost.)</t
 		<card>
 			<name>Kizahn, Depths Eternal</name>
 			<text>Kizahn can&apos;t be blocked except by three or more creatures.
-When Kizahn enters, mill seven cards, then put each card with mana value 5 or greater milled this way into your hand.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/43_Kizahn, Depths Eternal.png" num="43">TVC</set>
+When Kizahn enters, mill seven cards, then put each card with mana value 4 or greater milled this way into your hand.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/78.png" num="43">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1398,7 +1400,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 			<text>This land enters tapped.
 {T}: Add {C}.
 {2}, {T}, Sacrifice this land: Search your library for an Island card and a Swamp card, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/54_Brinebarrow Ruins.png" num="54">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/79.png" num="54">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1412,7 +1414,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/61_Island.png" num="61">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/80.png" num="61">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1427,7 +1429,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/63_Swamp.png" num="63">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/81.png" num="63">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1442,7 +1444,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 		<card>
 			<name>Koma&apos;s Coil TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/8t_Koma&apos;s Coil.png" num="8">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/82.png" num="8">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1460,7 +1462,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 		<card>
 			<name>Kraken TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/9t_Kraken.png" num="9">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/83.png" num="9">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1478,7 +1480,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 		<card>
 			<name>Kraken TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/10t_Kraken.png" num="10">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/84.png" num="10">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1496,7 +1498,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 		<card>
 			<name>Zombie TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/15t_Zombie.png" num="15">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/85.png" num="15">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1514,7 +1516,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 		<card>
 			<name>Beast TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/19t_Beast.png" num="19">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/86.png" num="19">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1533,7 +1535,7 @@ When Kizahn enters, mill seven cards, then put each card with mana value 5 or gr
 			<name>Decaying Time Loop</name>
 			<text>Discard all the cards in your hand, then draw that many cards.
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/21_Decaying Time Loop.png" num="21">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/87.png" num="21">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1549,7 +1551,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 		<card>
 			<name>Kelpbearer&apos;s Restoration</name>
 			<text>Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/31_Kelpbearer&apos;s Restoration.png" num="31">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/88.png" num="31">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1565,7 +1567,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 		<card>
 			<name>Their Name is Death</name>
 			<text>Destroy all nonartifact creatures.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/17_Their Name is Death.png" num="17">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/89.png" num="17">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1581,7 +1583,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 		<card>
 			<name>Delete</name>
 			<text>Delete deals X damage to each nonartifact creature and each player.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/22_Delete.png" num="22">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/90.png" num="22">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1599,7 +1601,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 			<text>Flying, indestructible
 Whenever this Vehicle attacks, mill three cards. For each creature card milled this way, create a 2/2 black Voidseed Warrior artifact creature token.
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/52_Voidseed Annihilator.png" num="52">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/91.png" num="52">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1616,7 +1618,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<text>Flying
 When this Vehicle enters, create a 2/2 black Voidseed Warrior artifact creature token.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/53_Voidseed Infiltrator.png" num="53">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/92.png" num="53">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1631,7 +1633,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Voidseed Warrior TVC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/14t_Voidseed Warrior.png" num="14">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/93.png" num="14">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1649,7 +1651,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Junk TVC</name>
 			<text>{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/32t_Junk.png" num="32">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/94.png" num="32">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1665,7 +1667,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Banish to Another Universe</name>
 			<text>Affinity for historic permanents (This spell costs {1} less to cast for each historic permanent you control.)
 When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/1_Banish to Another Universe.png" num="1">TVC</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVC-files/img/95.png" num="1">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1682,7 +1684,7 @@ When this enchantment enters, exile target nonland permanent an opponent control
 			<name>Flowering of the White Tree</name>
 			<text>Legendary creatures you control get +2/+1 and have ward {1}.
 Nonlegendary creatures you control get +1/+1.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/4_Flowering of the White Tree.png" num="4">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/96.png" num="4">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1700,7 +1702,7 @@ Nonlegendary creatures you control get +1/+1.</text>
 			<text>Choose one —
 • Destroy all artifacts and creatures.
 • Return target historic permanent card from your graveyard to the battlefield. It enters with two additional +1/+1 counters on it if it&apos;s a creature. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/7_What Must Be Done.png" num="7">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/97.png" num="7">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1716,7 +1718,7 @@ Nonlegendary creatures you control get +1/+1.</text>
 		<card>
 			<name>Desynchronization</name>
 			<text>Return each nonland permanent that&apos;s not historic to its owner&apos;s hand. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/9_Desynchronization.png" num="9">TVC</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/98.png" num="9">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1733,7 +1735,7 @@ Nonlegendary creatures you control get +1/+1.</text>
 			<name>Great Hall of the Citadel</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/55_Great Hall of the Citadel.png" num="55">TVC</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/99.png" num="55">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1748,7 +1750,7 @@ Nonlegendary creatures you control get +1/+1.</text>
 			<name>Noblis, Worldsoul of Flood</name>
 			<text>Flying
 Whenever Noblis enters or attacks, exile a permanent card from your graveyard at random, then create a tapped token that&apos;s a copy of that card. If the exiled card is a land card, repeat this process.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/45_Noblis, Worldsoul of Flood.png" num="45">TVC</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/100.png" num="45">TVC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

@@ -1,9 +1,11 @@
 ﻿{
     "name": "Silverwood Film Festival",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Plot Hole",
@@ -21,6 +23,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -31,14 +36,17 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhenever you attack with exactly two creatures, put a +1/+1 counter on each of them.\n{1}{W}: Level 2\nWhenever you gain life, draw a card. This ability triggers only once each turn.\n{1}{W}: Level 3\nWhenever you put a counter on a creature you control, that creature gains lifelink until end of turn.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhenever you attack with exactly two creatures, put a +1/+1 counter on each of them.\n{1}{W}: Level 2\nWhenever you gain life, draw a card. This ability triggers only once each turn.\n{1}{W}: Level 3\nWhenever you put a counter on a creature you control, that creature gains lifelink until end of turn.",
+            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhenever you attack with exactly two creatures, put a +1/+1 counter on each of them.\n{1}{W}: Level 2\nWhenever you gain life, draw a card. This ability triggers only once each turn.\n{1}{W}: Level 3\nWhenever you put a counter on a creature you control, that creature gains lifelink until end of turn.\n",
             "shape": "class",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -57,6 +65,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -75,6 +86,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -93,6 +107,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -111,6 +128,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -129,6 +149,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -139,14 +162,17 @@
             "number": 15,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "",
+            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this Class enters, create a Clue token.\n{2}{U}: Level 2\nWhen this Class becomes level 2 and at the beginning of your upkeep, create a Clue token.\n{3}{U}{U}: Level 3\nIf you would draw a card except for the first card you draw in each of your draw steps, draw two cards instead.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this Class enters, create a Clue token.\n{2}{U}: Level 2\nWhen this Class becomes level 2 and at the beginning of your upkeep, create a Clue token.\n{3}{U}{U}: Level 3\nIf you would draw a card except for the first card you draw in each of your draw steps, draw two cards instead.",
+            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this Class enters, create a Clue token.\n{2}{U}: Level 2\nWhen this Class becomes level 2 and at the beginning of your upkeep, create a Clue token.\n{3}{U}{U}: Level 3\nIf you would draw a card except for the first card you draw in each of your draw steps, draw two cards instead.\n",
             "shape": "class",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -165,6 +191,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -183,6 +212,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -193,14 +225,17 @@
             "number": 31,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "",
+            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nFlash\nWhen this Class enters, destroy up to one target creature with mana value 3 or less.\n{1}{B}: Level 2\nAttacking creatures you control get +1/0 and have deathtouch.\n{5}{B}: Level 3\nWhenever you attack, each opponent sacrifices a creature of their choice. Then each opponent who controls four or more creatures sacrifices another creature of their choice.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nFlash\nWhen this Class enters, destroy up to one target creature with mana value 3 or less.\n{1}{B}: Level 2\nAttacking creatures you control get +1/0 and have deathtouch.\n{5}{B}: Level 3\nWhenever you attack, each opponent sacrifices a creature of their choice. Then each opponent who controls four or more creatures sacrifices another creature of their choice.",
+            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nFlash\nWhen this Class enters, destroy up to one target creature with mana value 3 or less.\n{1}{B}: Level 2\nAttacking creatures you control get +1/0 and have deathtouch.\n{5}{B}: Level 3\nWhenever you attack, each opponent sacrifices a creature of their choice. Then each opponent who controls four or more creatures sacrifices another creature of their choice.\n",
             "shape": "class",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -219,6 +254,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -226,7 +264,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 38,
+            "number": 39,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Target creature you control gets +2/+1 until end of turn and up to one other target creature you control gets +1/+0 until end of turn.",
@@ -237,6 +275,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -244,17 +285,20 @@
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment \u2014 Class",
-            "number": 33,
+            "number": 34,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]",
+            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhenever you attack a player, this Class deals 1 damage to them.\n{2}{R}: Level 2\nWhenever you attack a player, target creature attacking that player gets +1/+0 and gains menace until end of turn.\n{3}{R}: Level 3\nDouble all damage this Class and attacking creatures you control with menace would deal to opponents and permanents they control.\n",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhenever you attack a player, this Class deals 1 damage to them.\n{2}{R}: Level 2\nWhenever you attack a player, target creature attacking that player gets +1/+0 and gains menace until end of turn.\n{3}{R}: Level 3\nDouble all damage this Class and attacking creatures you control with menace would deal to opponents and permanents they control.",
+            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhenever you attack a player, this Class deals 1 damage to them.\n{2}{R}: Level 2\nWhenever you attack a player, target creature attacking that player gets +1/+0 and gains menace until end of turn.\n{3}{R}: Level 3\nDouble all damage this Class and attacking creatures you control with menace would deal to opponents and permanents they control.\n",
             "shape": "class",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -262,7 +306,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Djinn Bard",
-            "number": 39,
+            "number": 40,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Whenever this creature becomes tapped, exile the top card of your library. You may play that card this turn.",
@@ -273,6 +317,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "Like black, red's uncommon creature percentages have basically stayed the same.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
         },
         {
@@ -280,7 +327,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 50,
+            "number": 51,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "When this enchantment enters, put a +1/+1 counter on target creature you control.\nWhenever a creature you control with a +1/+1 counter on it attacks, double the number of +1/+1 counters on that creature.",
@@ -291,6 +338,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -298,7 +348,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elf Octopus Advisor",
-            "number": 76,
+            "number": 77,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Reach\nWhenever you cast a noncreature spell with mana value 4 or greater, put a +1/+1 counter on this creature and untap it.",
@@ -309,6 +359,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -316,7 +369,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 90,
+            "number": 91,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.\n{3}, {T}: For each Saga you control, you may put a lore counter on that Saga or remove a lore counter from it. Activate only as a sorcery",
@@ -327,6 +380,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -334,7 +390,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Robot Scout",
-            "number": 67,
+            "number": 68,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "Vigilance\nWhenever another permanent you control entering causes a triggered ability of that permanent to trigger, you may pay {2}. If you do, copy that triggered ability. You may choose new targets for it.",
@@ -345,6 +401,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -352,7 +411,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Dragon",
-            "number": 66,
+            "number": 67,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
             "rules_text": "Flying, first strike\nWhen this creature enters, another target creature you control deals damage equal to its power to target creature you don't control.",
@@ -363,6 +422,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -370,7 +432,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 70,
+            "number": 71,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Enchant land\nEnchanted land has \u201c{T}: Add two mana of any one color.\u201d\n{4}{R}{G}, Sacrifice this Aura: Put four +1/+1 counters on target creature you control. It gains trample until end of turn.",
@@ -381,6 +443,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -388,7 +453,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Varmint Performer",
-            "number": 78,
+            "number": 79,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "This creature enters with two +1/+1 counters, a deathtouch counter, and a lifelink counter on it.\nWhen this creature dies, put its counters on target creature you control.",
@@ -399,6 +464,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -406,7 +474,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 64,
+            "number": 65,
             "color_identity": "UG",
             "cost": "{4}{G}{U}",
             "rules_text": "Organize 2\u2014{2}{G}{U} [i](You may cast this spell by paying {2}{G}{U} and tapping two creatures you control.)[/i]\nDraw three cards. You may put up to two land cards from your hand onto the battlefield tapped.",
@@ -417,6 +485,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -424,7 +495,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Imp Artificer",
-            "number": 53,
+            "number": 54,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Menace, lifelink\nThis creature can't block.\nWhenever this creature attack, you may sacrifice another nonland permanent. If you do, this creature deals 1 damage to each opponent.",
@@ -435,6 +506,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -442,7 +516,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Warrior Advisor",
-            "number": 57,
+            "number": 58,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Double strike\nWhenever this creature attacks, you may tap another untapped creature you control. If you do, tap target creature defending player controls.",
@@ -453,6 +527,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -460,7 +537,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 71,
+            "number": 72,
             "color_identity": "UB",
             "cost": "{2}{U}{B}{B}",
             "rules_text": "Exile up to one target creature you control and up to one target creature card in your graveyard, then return each card exiled this way to the battlefield tapped under its owner's control.",
@@ -471,6 +548,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -478,7 +558,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 65,
+            "number": 66,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "When this enchantment enters, you may sacrifice another enchantment or creature. If you do, draw two cards.\nAttacking creatures you control get +1/+0.",
@@ -489,6 +569,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -496,17 +579,20 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Saga",
-            "number": 74,
+            "number": 75,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nII \u2014 You gain 3 life.\nIII \u2014 Return up to one target non-Saga permanent card with mana value 2 or less from your graveyard to the battlefield.\n---\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nII \u2014 You gain 3 life.\nIII \u2014 Return up to one target non-Saga permanent card with mana value 2 or less from your graveyard to the battlefield.\n---\n",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -514,17 +600,20 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Saga",
-            "number": 60,
+            "number": 61,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy up to one target nonland permanent.\nII \u2014 Create two 1/1 black and white Spirit creature tokens with flying.\nIII \u2014 Creatures you control get +1/+1 and gain vigilance until your next turn.\n---\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy up to one target nonland permanent.\nII \u2014 Create two 1/1 black and white Spirit creature tokens with flying.\nIII \u2014 Creatures you control get +1/+1 and gain vigilance until your next turn.\n---\n",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -532,7 +621,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Advisor",
-            "number": 58,
+            "number": 59,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Flash\nAt the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature and you gain 2 life.",
@@ -543,6 +632,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -550,7 +642,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Spirit Bard Advisor",
-            "number": 63,
+            "number": 64,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "Flying\nWhenever a non-Saga enchantment you control enters or you put a lore counter on a Saga you control, each opponent loses 1 life.",
@@ -561,6 +653,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -568,7 +663,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Homunculus Artificer",
-            "number": 72,
+            "number": 73,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "When this creature enters, create a 1/1 colorless Servo artifact creature token.\nWhenever you cast a noncreature spell with mana value 4 or greater, you may draw a card. If you do, discard a card",
@@ -579,6 +674,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -586,7 +684,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Advisor",
-            "number": 54,
+            "number": 55,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "At the beginning of your end step, if you control two or more tapped creatures, create a Treasure token.\nSacrifice two Treasures you control: Add three mana of any one color.",
@@ -597,6 +695,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -604,7 +705,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 55,
+            "number": 56,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "Create two 1/1 white Performer creature tokens. When you do, choose target creature you control. Until end of turn, that creature gets +1/+1 for each creature you control and gains haste.",
@@ -615,6 +716,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -622,7 +726,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 75,
+            "number": 76,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
             "rules_text": "Organize 2\u2014{U}{R} [i](You may cast this spell by paying {U}{R} and tapping two creatures you control.)[/i]\nShock Twist deals 4 damage to target creature. Target player draws two cards, then discards a card.",
@@ -633,6 +737,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -640,7 +747,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Insect Advisor",
-            "number": 59,
+            "number": 60,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
             "rules_text": "Creatures you control with counters on them can't be blocked by more than one creature.\n{6}{B}{G}: Each opponent loses 3 life. This ability costs {1} less to activate for each counter on a permanent you control. Activate this ability only once each turn and only as a sorcery.",
@@ -651,6 +758,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -658,7 +768,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Bard",
-            "number": 62,
+            "number": 63,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
             "rules_text": "Vigilance\nWhen this creature enters, look at the top six cards of your library. You may reveal a Saga, Bard, or Performer card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
@@ -669,6 +779,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -676,17 +789,20 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2014 Class",
-            "number": 46,
+            "number": 47,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "",
+            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this Class enters, create a 4/4 green Mutant Beast creature token with trample.\n{1}{G}: Level 2\nCreature tokens you control can't be blocked by more than one creature.\n{4}{G}: Level 3\nWhenever you attack, attacking creatures you control get +X/+X until end of turn, where X is the greatest power among creature tokens you control.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this Class enters, create a 4/4 green Mutant Beast creature token with trample.\n{1}{G}: Level 2\nCreature tokens you control can't be blocked by more than one creature.\n{4}{G}: Level 3\nWhenever you attack, attacking creatures you control get +X/+X until end of turn, where X is the greatest power among creature tokens you control.",
+            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this Class enters, create a 4/4 green Mutant Beast creature token with trample.\n{1}{G}: Level 2\nCreature tokens you control can't be blocked by more than one creature.\n{4}{G}: Level 3\nWhenever you attack, attacking creatures you control get +X/+X until end of turn, where X is the greatest power among creature tokens you control.\n",
             "shape": "class",
             "set": "FLM",
             "loyalty": "",
             "artist": "Sandara Tang",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -705,6 +821,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -712,7 +831,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Devil Performer",
-            "number": 79,
+            "number": 80,
             "color_identity": "BR",
             "cost": "{BR}{BR}",
             "rules_text": "Menace\nWhen Agorakh enters, he deals 4 damage to target creature you control. Excess damage is dealt to you instead.",
@@ -723,6 +842,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Ivan Kashubo",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -730,7 +852,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Goblin Performer",
-            "number": 80,
+            "number": 81,
             "color_identity": "WR",
             "cost": "{2}{RW}",
             "rules_text": "First strike\nRenown 1 [i](When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]\nWhenever Breackneck attacks while renowned, other creatures you control get +1/+0 and gain first strike until end of turn.",
@@ -741,6 +863,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Ramon \"Monztre\" Puasa Jr.",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -748,7 +873,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Otter Performer",
-            "number": 81,
+            "number": 82,
             "color_identity": "UR",
             "cost": "{1}{UR}{UR}",
             "rules_text": "Whenever you cast a noncreature spell, choose one. If that spell had mana value 4 or greater, choose one or both instead.\n\u2022 Create a 1/1 colorless Servo artifact creature token.\n\u2022 Put a +1/+1 counter on Cord.",
@@ -759,6 +884,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Cl\u00e9mence Geurts",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -766,7 +894,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Spirit Performer",
-            "number": 82,
+            "number": 83,
             "color_identity": "WB",
             "cost": "{2}{WB}{WB}",
             "rules_text": "Flying\nWhenever Derist attacks, if you sacrificed a Saga this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield.",
@@ -777,6 +905,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Maro\u0161 Manhardt",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -784,7 +915,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Elf Performer",
-            "number": 83,
+            "number": 84,
             "color_identity": "BG",
             "cost": "{BG}",
             "rules_text": "Ellik enters with a +1/+1 counter on him.\nWhenever you put one or more counters on another permanent you control, you gain 1 life and put a +1/+1 counter on Ellik. This ability triggers only once each turn.",
@@ -795,6 +926,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Sergey Ushakov (Void)",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -802,7 +936,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Elemental Performer",
-            "number": 84,
+            "number": 85,
             "color_identity": "WU",
             "cost": "{4}{WU}{WU}",
             "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nAt the beginning of your end step, if you control two or more tapped creatures, tap target creature you don't control and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
@@ -813,6 +947,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Benjamin Harris",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -820,7 +957,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Dinosaur Performer",
-            "number": 85,
+            "number": 86,
             "color_identity": "RG",
             "cost": "{3}{RG}{RG}",
             "rules_text": "Trample\nWhenever Gnasher deals combat damage to a player, create a Treasure token. If you control another attacking creature with power 4 or greater, create two Treasure tokens instead.",
@@ -831,6 +968,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Francisco Badilla",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -838,7 +978,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Merfolk Performer",
-            "number": 86,
+            "number": 87,
             "color_identity": "UG",
             "cost": "{1}{GU}{GU}",
             "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nWhenever you cast a noncreature spell with mana value 4 or greater, up to one target creature you control has base power and toughness 4/4 until end of turn.",
@@ -849,6 +989,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Fariba Khamseh",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -856,7 +999,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Vampire Performer",
-            "number": 87,
+            "number": 88,
             "color_identity": "UB",
             "cost": "{3}{UB}",
             "rules_text": "Flying\nWhen Verat enters, surveil X, where X is the greatest power among creatures that entered under your control this turn. [i](To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
@@ -867,6 +1010,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "IHOR KHOMSKY",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -874,7 +1020,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Performer",
-            "number": 88,
+            "number": 89,
             "color_identity": "WG",
             "cost": "{4}{GW}{GW}",
             "rules_text": "This spell costs {1} less to cast for each Saga you control and each Saga card in your graveyard.\nWhen Yumeko enters, you draw a card, then you may remove a lore counter from each of any number of Sagas you control. You gain 2 life plus an additional 2 life for each lore counter removed this way.",
@@ -885,6 +1031,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "David Astruga",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -892,7 +1041,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Land",
-            "number": 91,
+            "number": 92,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{G}{W}, Discard this card: For each permanent you control with one or more counters on it, you may put a counter on that permanent of each kind already on it.",
@@ -903,6 +1052,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Erel Maatita",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -910,7 +1062,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Land",
-            "number": 92,
+            "number": 93,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{3}{R}{G}, Discard this card: Target attacking creature gains double strike and trample until end of turn",
@@ -921,6 +1073,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Nikolay Litvinenko",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -928,7 +1083,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Land",
-            "number": 93,
+            "number": 94,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{2}{U}{B}, Discard this card: Create two 1/1 blue Ninja creature tokens with \u201cThis token can't be blocked.\u201d",
@@ -939,6 +1094,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Eddie Mendoza",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -946,7 +1104,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Land",
-            "number": 94,
+            "number": 95,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{1}{W}{U}, Discard this card: Return target spell to its owner's hand. Scry 1.",
@@ -957,6 +1115,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Juan Salvador Almencion",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -964,7 +1125,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Land",
-            "number": 95,
+            "number": 96,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{3}{B}{R}, Discard this card: Draw two cards. Each player loses 2 life.",
@@ -975,6 +1136,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Michael Katchan",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -982,7 +1146,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 96,
+            "number": 97,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {G} or {U}.\n{T}: Add {G} or {U}.",
@@ -993,6 +1157,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Michal Kv\u00e1\u010d",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1000,7 +1167,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 97,
+            "number": 98,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {G} or {W}.\n{T}: Add {G} or {W}.",
@@ -1011,6 +1178,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "MIDHUN FRANCIS",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1018,7 +1188,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 98,
+            "number": 99,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {U} or {B}.\n{T}: Add {U} or {B}.",
@@ -1029,6 +1199,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Ilia A",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1036,7 +1209,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 99,
+            "number": 100,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {R} or {W}.\n{T}: Add {R} or {W}.",
@@ -1047,6 +1220,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Facundo Rios Ma\u00f1ay",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1054,7 +1230,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 100,
+            "number": 101,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {R} or {G}.\n{T}: Add {R} or {G}.",
@@ -1065,6 +1241,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "John Walther",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1072,7 +1251,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 101,
+            "number": 102,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {B} or {R}.\n{T}: Add {B} or {R}.",
@@ -1083,6 +1262,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Johanna Rupprecht",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1090,7 +1272,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 102,
+            "number": 103,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {W} or {U}.\n{T}: Add {W} or {U}.",
@@ -1101,6 +1283,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Tomasz Chistowski",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1108,7 +1293,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 103,
+            "number": 104,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {B} or {G}.\n{T}: Add {B} or {G}.",
@@ -1119,6 +1304,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Andreas Rocha",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1126,7 +1314,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 104,
+            "number": 105,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {U} or {R}.\n{T}: Add {U} or {R}.",
@@ -1137,6 +1325,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Catatau Pazian",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1144,7 +1335,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 105,
+            "number": 106,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you may pay {1}. If you do, add {W} or {B}.\n{T}: Add {W} or {B}.",
@@ -1155,6 +1346,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Eric Elwell",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1173,6 +1367,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1191,6 +1388,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1198,7 +1398,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 42,
+            "number": 43,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Choose one\u2014\n\u2022 Vault Fire deals 5 damage to target creature or planeswalker.\n\u2022 Destroy target artifact. Vault Fire deals 2 damage to that artifact's controller.",
@@ -1209,6 +1409,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1216,7 +1419,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Instant",
-            "number": 52,
+            "number": 53,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "Exile target nonland permanent an opponent controls. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",
@@ -1227,6 +1430,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1245,6 +1451,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1263,6 +1472,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1281,6 +1493,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1299,6 +1514,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1317,6 +1535,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1335,6 +1556,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1353,6 +1577,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1371,6 +1598,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1389,6 +1619,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1399,14 +1632,17 @@
             "number": 19,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 Return target creature to its owner's hand. Create a token that's a copy of that creature except it's an Alien Mutant in addition to its other types.\nII, III, IV \u2014 Create a token that's a copy of target Alien, Mutant, or creature token.\n---\nWhenever an Alien, Mutant, or creature token you control deals combat damage to a player, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 Return target creature to its owner's hand. Create a token that's a copy of that creature except it's an Alien Mutant in addition to its other types.\nII, III, IV \u2014 Create a token that's a copy of target Alien, Mutant, or creature token.\n---\nWhenever an Alien, Mutant, or creature token you control deals combat damage to a player, draw a card.",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1425,6 +1661,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1443,6 +1682,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1461,6 +1703,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1471,14 +1716,17 @@
             "number": 27,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each creature gets -2/-2 until end of turn.\nII \u2014 Each player mills six cards.\nIII \u2014 Each opponent loses X life, where X is the greatest number of creature cards in a graveyard.\n---\nWhenever a creature an opponent controls dies, you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each creature gets -2/-2 until end of turn.\nII \u2014 Each player mills six cards.\nIII \u2014 Each opponent loses X life, where X is the greatest number of creature cards in a graveyard.\n---\nWhenever a creature an opponent controls dies, you gain 1 life.",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1497,6 +1745,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1504,7 +1755,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 34,
+            "number": 35,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]\nExile the top two cards of your library. You may play one of those cards until the end of your next turn. If this spell was kicked, instead exile the top three cards of your library. You may play two of those cards until the end of your next turn.",
@@ -1515,6 +1766,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1522,7 +1776,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Orc Artificer",
-            "number": 35,
+            "number": 36,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Trample\nWhen this creature enters, it deals 2 damage to any target.",
@@ -1533,6 +1787,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1540,17 +1797,20 @@
             "color": "R",
             "rarity": "mythic",
             "type": "Enchantment \u2014 Saga",
-            "number": 37,
+            "number": 38,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create a 2/2 red Rebel creature tokens. Attach up to one target Equipment you control to it.\nIII \u2014 Each creature and planeswalker you control deals 1 damage to each creature and planeswalker you don't control. Exile all artifacts except for Equipment you control.\n---\nDuring your turn, creatures you control get +1/+0 and have menace.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create a 2/2 red Rebel creature tokens. Attach up to one target Equipment you control to it.\nIII \u2014 Each creature and planeswalker you control deals 1 damage to each creature and planeswalker you don't control. Exile all artifacts except for Equipment you control.\n---\nDuring your turn, creatures you control get +1/+0 and have menace.",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1558,7 +1818,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 40,
+            "number": 41,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "One or two target creatures each get +1/+0 and gain first strike and haste until end of turn. You gain control of one of those creatures until end of turn. Untap those creatures.",
@@ -1569,6 +1829,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
         {
@@ -1576,7 +1839,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Orc Performer",
-            "number": 41,
+            "number": 42,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
             "rules_text": "Trample\nWhen Uruha enters, if he was cast, you may sacrifice X Treasures. When you do, gain control of up to X target creatures that each have a different mana value X or less until end of turn. Those creatures gain haste until end of turn.",
@@ -1587,6 +1850,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1594,7 +1860,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Druid Performer",
-            "number": 43,
+            "number": 44,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "{T}: Add one mana of any color.\nNon-Human creatures you control enter with an additional +1/+1 counter.",
@@ -1605,6 +1871,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1612,7 +1881,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Hydra Performer",
-            "number": 47,
+            "number": 48,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
             "rules_text": "Trample\nThis creature enters with a +1/+1 counter on it for each other creature you control, plus an additional +1/+1 counter on it for each other Performer you control.\nWhenever another creature you control enters, put a +1/+1 counter on this creature. Put two +1/+1 counters on this creature instead if that creature was a Performer.",
@@ -1623,6 +1892,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1630,7 +1902,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 48,
+            "number": 49,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Search you library of up to two land cards and reveal them. Put any number of basic land cards revealed this way onto the battlefield tapped and each card not put onto the battlefield this way into your hand. Then shuffle.",
@@ -1641,6 +1913,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1648,7 +1923,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 ??? Bard",
-            "number": 49,
+            "number": 50,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Enchantment spells you control can't be countered.\n{T}: Add one mana of any color. Spend this mana only to cast enchantment spells.\n{T}: Add one mana of any color among enchantments you control.",
@@ -1659,6 +1934,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1666,17 +1944,20 @@
             "color": "G",
             "rarity": "mythic",
             "type": "Enchantment \u2014 Saga",
-            "number": 51,
+            "number": 52,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Return all creature cards from your graveyard to your hand.\nII, III \u2014 Whenever you cast a creature spell this turn, draw a card, then you may put a land card from your hand onto the battlefield.\n---\nYou have no maximum hand size.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Return all creature cards from your graveyard to your hand.\nII, III \u2014 Whenever you cast a creature spell this turn, draw a card, then you may put a land card from your hand onto the battlefield.\n---\nYou have no maximum hand size.",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1684,7 +1965,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 56,
+            "number": 57,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Enchantment spells you cast cost {1} less to cast.\nWhenever the final chapter ability of a Saga you control triggers, the first chapter ability of that Saga triggers. [i](You still sacrifice it after those triggers resolve.)[/i]",
@@ -1695,6 +1976,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1702,7 +1986,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Creature \u2014 Clown Assassin Performer",
-            "number": 68,
+            "number": 69,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "Trample\nWard\u2014Pay 2 life\nDuring your turn, each noncreature spell you cast has spectacle. Its spectacle cost is equal to its mana cost reduced by {2}. [i](You may cast a spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]",
@@ -1713,6 +1997,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "Mad 1984",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1720,10 +2007,10 @@
             "color": "WRG",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Marguerite",
-            "number": 69,
+            "number": 70,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
-            "rules_text": "",
+            "rules_text": "[+1]: Create two 1/1 white Performer creature tokens. You gain 2 life.\n[+1]: Add two mana of different colors. Spend this mana only to cast creature spells or activate abilities of creature sources.\n[-6]: Target creature you control deals damage equal to its power to each other creature, each non-Marguerite planeswalker, and each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Create two 1/1 white Performer creature tokens. You gain 2 life.\n[+1]: Add two mana of different colors. Spend this mana only to cast creature spells or activate abilities of creature sources.\n[-6]: Target creature you control deals damage equal to its power to each other creature, each non-Marguerite planeswalker, and each opponent.",
@@ -1731,6 +2018,9 @@
             "set": "FLM",
             "loyalty": "5",
             "artist": "",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1738,17 +2028,20 @@
             "color": "WUBRG",
             "rarity": "mythic",
             "type": "Enchantment \u2014 Saga",
-            "number": 73,
+            "number": 74,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest into your graveyard.\nII \u2014 Destroy each monocolored permanent.\nIII \u2014 Until end of turn, you may cast spells that are exactly two colors and have mana value 6 or less without paying their mana cost.\n---\nEach permanent you control that is exactly two colors has hexproof from monocolored.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest into your graveyard.\nII \u2014 Destroy each monocolored permanent.\nIII \u2014 Until end of turn, you may cast spells that are exactly two colors and have mana value 6 or less without paying their mana cost.\n---\nEach permanent you control that is exactly two colors has hexproof from monocolored.",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1756,7 +2049,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Ooze Performer",
-            "number": 77,
+            "number": 78,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "Whenever Squelch enters or attacks, exile up to two target cards from a single graveyard. If a creature card is exiled this way, put a +1/+1 counter on Squelch.\n{2}{BG}, Remove three +1/+1 counters from among creatures you control: Return target creature card you own exiled with Squelch to your hand.",
@@ -1767,6 +2060,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1774,7 +2070,7 @@
             "color": "",
             "rarity": "common",
             "type": "Legendary Artifact Creature \u2014 Elemental Performer",
-            "number": 89,
+            "number": 90,
             "color_identity": "WUBRG",
             "cost": "{3}",
             "rules_text": "Femock is all colors. [i](Even when it isn't on the battlefield.)[/i]\n{T}: Add one mana of any color.",
@@ -1785,6 +2081,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1792,7 +2091,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 45,
+            "number": 46,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Choose one\u2014\n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Destroy target noncreature artifact or noncreature enchantment.",
@@ -1803,6 +2102,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1810,17 +2112,20 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 61,
+            "number": 62,
             "color_identity": "UB",
             "cost": "{3}{U}{B}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Each opponent discard a card. For each land card discarded this way, create a 1/1 colorless Eldrazi Scion creature token. It has \u201cSacrifice this token: Add {C}.\u201d\nIII \u2014 Exile each opponent's graveyard. You may cast a spell from among the exiled cards without paying its mana cost.\n---\nWhenever you sacrifice a token, surveil 1.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Each opponent discard a card. For each land card discarded this way, create a 1/1 colorless Eldrazi Scion creature token. It has \u201cSacrifice this token: Add {C}.\u201d\nIII \u2014 Exile each opponent's graveyard. You may cast a spell from among the exiled cards without paying its mana cost.\n---\nWhenever you sacrifice a token, surveil 1.",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1828,17 +2133,20 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Saga",
-            "number": 36,
+            "number": 37,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 red Monk creature token with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]\nII \u2014 Exile the top card of your library. You may play it this turn.\nIII \u2014 Add {R}{R}{R}.\n---\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 2/2 red Monk creature token with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]\nII \u2014 Exile the top card of your library. You may play it this turn.\nIII \u2014 Add {R}{R}{R}.\n---\n",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1846,17 +2154,20 @@
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2014 Saga",
-            "number": 44,
+            "number": 45,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target creature you control has base power and toughness 6/6 for as long as you control this saga.\nII \u2014 Each opponent sacrifices a nontoken artifact or nontoken enchantment of their choice.\nIII \u2014 Target creature you control has base power and toughness 10/10 and gains trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Target creature you control has base power and toughness 6/6 for as long as you control this saga.\nII \u2014 Each opponent sacrifices a nontoken artifact or nontoken enchantment of their choice.\nIII \u2014 Target creature you control has base power and toughness 10/10 and gains trample until end of turn.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target creature you control has base power and toughness 6/6 for as long as you control this saga.\nII \u2014 Each opponent sacrifices a nontoken artifact or nontoken enchantment of their choice.\nIII \u2014 Target creature you control has base power and toughness 10/10 and gains trample until end of turn.",
             "shape": "saga",
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1864,10 +2175,10 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 32,
+            "number": 33,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.\nCreate a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.\nCreate a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]\u201cWell at least the trophy... isn't that ugly.\u201d\n-Munshin, Director[/i]",
             "pt": "",
             "special_text": "",
@@ -1875,6 +2186,9 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1893,8 +2207,32 @@
             "set": "FLM",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "The Undertaker, Audacious Ghoul",
+            "color": "B",
+            "rarity": "uncommon",
+            "type": "Legendary Creature \u2014 Zombie Bard",
+            "number": 32,
+            "color_identity": "B",
+            "cost": "{1}{B}{B}",
+            "rules_text": "Menace\nWhenever The Undertaker becomes tapped, mill three cards, then you may pay 1 life. If you do, put a card milled this way into your hand.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FLM",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

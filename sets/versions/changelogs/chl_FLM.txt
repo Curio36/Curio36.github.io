@@ -1,4 +1,436 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+The Undertaker, Audacious Ghoul added.
+
+
+Plot Hole
+
+Heartwarming Romance
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack with exactly two creatures, put a +1/+1 counter on each of them.
+{1}{W}: Level 2
+Whenever you gain life, draw a card. This ability triggers only once each turn.
+{1}{W}: Level 3
+Whenever you put a counter on a creature you control, that creature gains lifelink until end of turn.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack with exactly two creatures, put a +1/+1 counter on each of them.
+{1}{W}: Level 2
+Whenever you gain life, draw a card. This ability triggers only once each turn.
+{1}{W}: Level 3
+Whenever you put a counter on a creature you control, that creature gains lifelink until end of turn. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack with exactly two creatures, put a +1/+1 counter on each of them.
+{1}{W}: Level 2
+Whenever you gain life, draw a card. This ability triggers only once each turn.
+{1}{W}: Level 3
+Whenever you put a counter on a creature you control, that creature gains lifelink until end of turn.
+
+
+Ensemble Cast
+
+Executive Meddling
+
+Leading Lady
+
+Fade to Black
+
+Cold Open
+
+Gripping Noir
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a Clue token.
+{2}{U}: Level 2
+When this Class becomes level 2 and at the beginning of your upkeep, create a Clue token.
+{3}{U}{U}: Level 3
+If you would draw a card except for the first card you draw in each of your draw steps, draw two cards instead.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a Clue token.
+{2}{U}: Level 2
+When this Class becomes level 2 and at the beginning of your upkeep, create a Clue token.
+{3}{U}{U}: Level 3
+If you would draw a card except for the first card you draw in each of your draw steps, draw two cards instead. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a Clue token.
+{2}{U}: Level 2
+When this Class becomes level 2 and at the beginning of your upkeep, create a Clue token.
+{3}{U}{U}: Level 3
+If you would draw a card except for the first card you draw in each of your draw steps, draw two cards instead.
+
+
+Break a Leg
+
+Sequel Hook
+
+Tasteless Gorefest
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Flash
+When this Class enters, destroy up to one target creature with mana value 3 or less.
+{1}{B}: Level 2
+Attacking creatures you control get +1/0 and have deathtouch.
+{5}{B}: Level 3
+Whenever you attack, each opponent sacrifices a creature of their choice. Then each opponent who controls four or more creatures sacrifices another creature of their choice.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Flash
+When this Class enters, destroy up to one target creature with mana value 3 or less.
+{1}{B}: Level 2
+Attacking creatures you control get +1/0 and have deathtouch.
+{5}{B}: Level 3
+Whenever you attack, each opponent sacrifices a creature of their choice. Then each opponent who controls four or more creatures sacrifices another creature of their choice. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Flash
+When this Class enters, destroy up to one target creature with mana value 3 or less.
+{1}{B}: Level 2
+Attacking creatures you control get +1/0 and have deathtouch.
+{5}{B}: Level 3
+Whenever you attack, each opponent sacrifices a creature of their choice. Then each opponent who controls four or more creatures sacrifices another creature of their choice.
+
+
+Post-Credit Scene
+
+Smashing Success
+
+Action Blockbuster
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i] => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack a player, this Class deals 1 damage to them.
+{2}{R}: Level 2
+Whenever you attack a player, target creature attacking that player gets +1/+0 and gains menace until end of turn.
+{3}{R}: Level 3
+Double all damage this Class and attacking creatures you control with menace would deal to opponents and permanents they control.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack a player, this Class deals 1 damage to them.
+{2}{R}: Level 2
+Whenever you attack a player, target creature attacking that player gets +1/+0 and gains menace until end of turn.
+{3}{R}: Level 3
+Double all damage this Class and attacking creatures you control with menace would deal to opponents and permanents they control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack a player, this Class deals 1 damage to them.
+{2}{R}: Level 2
+Whenever you attack a player, target creature attacking that player gets +1/+0 and gains menace until end of turn.
+{3}{R}: Level 3
+Double all damage this Class and attacking creatures you control with menace would deal to opponents and permanents they control.
+
+
+Soundtrack Composer
+
+Training Montage
+
+Simic Cinematographer
+
+Silverwood Clapboard
+
+Intrepid Camerabot
+
+Instigator Dragon
+
+On-Set Menagerie
+
+Trained Varmint
+
+Get the Shot
+
+Blood Bag Innovator
+
+Combat Choreographer
+
+Only Mostly Dead
+
+Gruelling Conditions
+
+See the World
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II — You gain 3 life.
+III — Return up to one target non-Saga permanent card with mana value 2 or less from your graveyard to the battlefield.
+---
+
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II — You gain 3 life.
+III — Return up to one target non-Saga permanent card with mana value 2 or less from your graveyard to the battlefield.
+---
+
+
+Endless Haunting
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy up to one target nonland permanent.
+II — Create two 1/1 black and white Spirit creature tokens with flying.
+III — Creatures you control get +1/+1 and gain vigilance until your next turn.
+---
+
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy up to one target nonland permanent.
+II — Create two 1/1 black and white Spirit creature tokens with flying.
+III — Creatures you control get +1/+1 and gain vigilance until your next turn.
+---
+
+
+Director of Photomancy
+
+G.E.I.S.T. Organizer
+
+Overproductive Assistant
+
+Budget Balancer
+
+Casting Call
+
+Shock Twist
+
+Down and Dirty Director
+
+Freelance Scriptwriter
+
+Creature Feature
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 4/4 green Mutant Beast creature token with trample.
+{1}{G}: Level 2
+Creature tokens you control can't be blocked by more than one creature.
+{4}{G}: Level 3
+Whenever you attack, attacking creatures you control get +X/+X until end of turn, where X is the greatest power among creature tokens you control.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 4/4 green Mutant Beast creature token with trample.
+{1}{G}: Level 2
+Creature tokens you control can't be blocked by more than one creature.
+{4}{G}: Level 3
+Whenever you attack, attacking creatures you control get +X/+X until end of turn, where X is the greatest power among creature tokens you control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 4/4 green Mutant Beast creature token with trample.
+{1}{G}: Level 2
+Creature tokens you control can't be blocked by more than one creature.
+{4}{G}: Level 3
+Whenever you attack, attacking creatures you control get +X/+X until end of turn, where X is the greatest power among creature tokens you control.
+
+
+Previsualization
+
+Agorakh, Demanding Costar
+
+Breakneck, Martial Costar
+
+Cord, Exuberant Costar
+
+Derist, Reoccuring Costar
+
+Ellik, Egotistical Costar
+
+Firdi, Icy Costar
+
+Gnasher, Wildborn Costar
+
+Miche, Adaptable Costar
+
+Verat, Unnerving Costar
+
+Yumeko, Graceful Costar
+
+Bretagard Village
+
+Hunting Territory
+
+Shady Dojo
+
+Skyclave Vantage
+
+Yawgmoth's Altar
+
+Aurora Expanse
+
+Elegant Garden
+
+Haunted Interior
+
+Highfalutin Tavern
+
+Jungle Base
+
+Lively Ballroom
+
+Local Bazaar
+
+Reclaimed Lab
+
+Scientific Retreat
+
+Stark Graveyard
+
+Flubbed Stunt
+
+Fashionably Late
+
+Vault Fire
+
+Blacklist
+
+Costuming Specialist
+
+Generational Hire
+
+Fresh Buttery Popcorn
+
+Forgot Your Lines
+
+Reshoot
+
+Stage Fright
+
+Illicit Distributor
+
+Make-Up Crew
+
+Merchandising
+
+Midnight Encounters
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Return target creature to its owner's hand. Create a token that's a copy of that creature except it's an Alien Mutant in addition to its other types.
+II, III, IV — Create a token that's a copy of target Alien, Mutant, or creature token.
+---
+Whenever an Alien, Mutant, or creature token you control deals combat damage to a player, draw a card.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Return target creature to its owner's hand. Create a token that's a copy of that creature except it's an Alien Mutant in addition to its other types.
+II, III, IV — Create a token that's a copy of target Alien, Mutant, or creature token.
+---
+Whenever an Alien, Mutant, or creature token you control deals combat damage to a player, draw a card.
+
+Caustic Critic
+
+Dashing Antihero
+
+Geist Star
+
+Hacksaw Slaughter
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each creature gets -2/-2 until end of turn.
+II — Each player mills six cards.
+III — Each opponent loses X life, where X is the greatest number of creature cards in a graveyard.
+---
+Whenever a creature an opponent controls dies, you gain 1 life.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each creature gets -2/-2 until end of turn.
+II — Each player mills six cards.
+III — Each opponent loses X life, where X is the greatest number of creature cards in a graveyard.
+---
+Whenever a creature an opponent controls dies, you gain 1 life.
+
+Jilted Hypotenuse
+
+Cut the Footage
+
+Experienced Grip
+
+March Against the Machine
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 2/2 red Rebel creature tokens. Attach up to one target Equipment you control to it.
+III — Each creature and planeswalker you control deals 1 damage to each creature and planeswalker you don't control. Exile all artifacts except for Equipment you control.
+---
+During your turn, creatures you control get +1/+0 and have menace.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 2/2 red Rebel creature tokens. Attach up to one target Equipment you control to it.
+III — Each creature and planeswalker you control deals 1 damage to each creature and planeswalker you don't control. Exile all artifacts except for Equipment you control.
+---
+During your turn, creatures you control get +1/+0 and have menace.
+
+Temporary Team-Up
+
+Uruha, Heartthrob
+
+Animal Handler
+
+Handled Hydra
+
+Location Scouting
+
+Single-Minded Painter
+
+Zoology of the Multiverse
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all creature cards from your graveyard to your hand.
+II, III — Whenever you cast a creature spell this turn, draw a card, then you may put a land card from your hand onto the battlefield.
+---
+You have no maximum hand size.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return all creature cards from your graveyard to your hand.
+II, III — Whenever you cast a creature spell this turn, draw a card, then you may put a land card from your hand onto the battlefield.
+---
+You have no maximum hand size.
+
+Clever Callbacks
+
+Killer Clown
+
+Marguerite Port
+rules_text:  => [+1]: Create two 1/1 white Performer creature tokens. You gain 2 life.
+[+1]: Add two mana of different colors. Spend this mana only to cast creature spells or activate abilities of creature sources.
+[-6]: Target creature you control deals damage equal to its power to each other creature, each non-Marguerite planeswalker, and each opponent.
+
+Ravnica Under Siege
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest into your graveyard.
+II — Destroy each monocolored permanent.
+III — Until end of turn, you may cast spells that are exactly two colors and have mana value 6 or less without paying their mana cost.
+---
+Each permanent you control that is exactly two colors has hexproof from monocolored.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest into your graveyard.
+II — Destroy each monocolored permanent.
+III — Until end of turn, you may cast spells that are exactly two colors and have mana value 6 or less without paying their mana cost.
+---
+Each permanent you control that is exactly two colors has hexproof from monocolored.
+
+Squelch, Viscous Costar
+
+Femock, Prop Elemental
+
+Chew the Scenery
+
+The Fall of Sea Gate
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent discard a card. For each land card discarded this way, create a 1/1 colorless Eldrazi Scion creature token. It has “Sacrifice this token: Add {C}.”
+III — Exile each opponent's graveyard. You may cast a spell from among the exiled cards without paying its mana cost.
+---
+Whenever you sacrifice a token, surveil 1.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent discard a card. For each land card discarded this way, create a 1/1 colorless Eldrazi Scion creature token. It has “Sacrifice this token: Add {C}.”
+III — Exile each opponent's graveyard. You may cast a spell from among the exiled cards without paying its mana cost.
+---
+Whenever you sacrifice a token, surveil 1.
+
+Heart of the Peaks
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red Monk creature token with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+II — Exile the top card of your library. You may play it this turn.
+III — Add {R}{R}{R}.
+---
+
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red Monk creature token with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+II — Exile the top card of your library. You may play it this turn.
+III — Add {R}{R}{R}.
+---
+
+
+Attack of the Colossal Thing!
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control has base power and toughness 6/6 for as long as you control this saga.
+II — Each opponent sacrifices a nontoken artifact or nontoken enchantment of their choice.
+III — Target creature you control has base power and toughness 10/10 and gains trample until end of turn.
+special_text: 
+I — Target creature you control has base power and toughness 6/6 for as long as you control this saga.
+II — Each opponent sacrifices a nontoken artifact or nontoken enchantment of their choice.
+III — Target creature you control has base power and toughness 10/10 and gains trample until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control has base power and toughness 6/6 for as long as you control this saga.
+II — Each opponent sacrifices a nontoken artifact or nontoken enchantment of their choice.
+III — Target creature you control has base power and toughness 10/10 and gains trample until end of turn.
+
+Worst Picture Nomination
+rules_text: Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Tella, Muse of Meletis
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Attack of the Colossal Thing! added.

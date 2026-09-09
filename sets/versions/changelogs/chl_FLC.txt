@@ -1,4 +1,128 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Deyinak Silverwood, Director
+
+Portia, Top Bill Actress
+
+Undercity Expedition
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player mills six cards.
+II — Choose target permanent card in your graveyard. You may play that card this turn.
+III — For each card type among cards in your graveyard, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.
+---
+Sacrifice a land: You gain 2 life.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player mills six cards.
+II — Choose target permanent card in your graveyard. You may play that card this turn.
+III — For each card type among cards in your graveyard, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.
+---
+Sacrifice a land: You gain 2 life.
+
+Tragedies on Rose Street
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may sacrifice a permanent. If you do, each opponent sacrifices a permanent that shares a card type with it.
+II — Exile each opponent's graveyard. 
+III — 
+---
+Whenever you put a lore counter on this Saga, you may pay 1 life. If you do, draw a card.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may sacrifice a permanent. If you do, each opponent sacrifices a permanent that shares a card type with it.
+II — Exile each opponent's graveyard. 
+III — 
+---
+Whenever you put a lore counter on this Saga, you may pay 1 life. If you do, draw a card.
+
+An Adventure With Friends
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 white Performer creature tokens.
+II — The next spell you cast this turn has convoke. [i](Your creatures can help cast it. Each creature you tap while casting it pays for {1} or one mana of that creature's color.)[/i]
+III —
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 white Performer creature tokens.
+II — The next spell you cast this turn has convoke. [i](Your creatures can help cast it. Each creature you tap while casting it pays for {1} or one mana of that creature's color.)[/i]
+III —
+
+Be Kind, Rewind
+
+D'Zzik, Underworld Distributor
+
+Dotty Ablis, Beloved Actress
+
+Dila Fauch, Traditionalist
+
+Reba, Dancing Bear
+
+Toki, Script Archivist
+
+Powerful Soliloquy
+
+Eludha A Bonder's Story
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and a vigilance counter on each of up to two target creatures you control.
+II — You gain 1 life for each kind of counter among permanents you control.
+III — Distribute this Saga's non-lore counters among any number of non-Saga permanents you control.
+---
+Whenever a non-Saga permanent you control leaves the battlefield, you may put its counters on this Saga.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter and a vigilance counter on each of up to two target creatures you control.
+II — You gain 1 life for each kind of counter among permanents you control.
+III — Distribute this Saga's non-lore counters among any number of non-Saga permanents you control.
+---
+Whenever a non-Saga permanent you control leaves the battlefield, you may put its counters on this Saga.
+
+A Rubblebelt Romance
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/5 green Ogre creature token with reach.
+II — Create a 5/4 red Giant creature token with trample.
+III — Create a 6/6 red and green Ogre Giant creature token with reach and trample. Creatures you control gain vigilance and haste until end of turn.
+---
+This spell can't be countered.
+Spells and abilities you control can't be countered.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/5 green Ogre creature token with reach.
+II — Create a 5/4 red Giant creature token with trample.
+III — Create a 6/6 red and green Ogre Giant creature token with reach and trample. Creatures you control gain vigilance and haste until end of turn.
+---
+This spell can't be countered.
+Spells and abilities you control can't be countered.
+
+The Voughts, Legacy Act
+
+Set Teardown
+
+Union Meeting
+
+Domesticated Shipbreaker
+
+Harsh Director
+
+Luxurious Geode
+
+Glittering Geode
+
+Negatives Cutter
+
+Returned Thespian
+
+Samara's Gallery
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three Treasure tokens. Scry 3.
+II — Discard any number of cards, then draw that many cards plus two.
+III — Whenever you cast an instant or sorcery spell this turn, copy it. You may choose new targets for those copies.
+---
+You don't lose unspent blue or red mana as steps and phases end.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three Treasure tokens. Scry 3.
+II — Discard any number of cards, then draw that many cards plus two.
+III — Whenever you cast an instant or sorcery spell this turn, copy it. You may choose new targets for those copies.
+---
+You don't lose unspent blue or red mana as steps and phases end.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

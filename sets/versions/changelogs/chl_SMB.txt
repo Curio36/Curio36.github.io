@@ -1,4 +1,623 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Clash of Light and Dark
+
+King K. Rool
+
+Maker Pigeon
+
+Guard Broggy
+
+Magic Shades Moe-Eye
+
+Poplin Supporters
+
+Superstar Baby
+
+Hint Toad
+
+Twirling-Hair Heroine
+
+Bouncy Hoppo
+
+Toad Tea Time
+
+Turnip Toss
+
+Matrimonial Rejection
+
+Whistletop Train
+
+Geno Whirl
+
+Gold Leaf
+
+Sand Bird
+
+Moo Moo Meadows Cow
+
+Koopa Paratroopa
+
+Tanuki Shopkeepers
+
+Friendly Pachyderm Mount
+
+Sparkling Ego
+
+Chic Sizeshifter
+
+Friendly Dolphin
+
+Porcupuffer
+
+Yoofoe Ship
+
+Radical Failure
+
+Poochy's Hint Art
+
+Mini Mushroom
+
+Spiny Shell Crashout
+
+Spray Away
+
+Capture Companion
+
+Belome, Long-Tongued Demon
+
+The Ice Vellumental
+
+Frog Suit
+
+Warp Cannons
+
+Whirly Gecko
+
+Mischievous Bandits
+
+Kritter Kommando
+
+Cantankerous Elder
+
+Insightful Ghost
+
+Assaulting Phantamanta
+
+Polterpup's Assistance
+
+Ghost Guess
+
+Cackletta's Intrusion
+
+Bowser's Big Suck
+
+Grasp of the River Twygz
+
+Ashley, Young Witch
+
+Tatanga, Mysterious Spaceman
+
+Kleptomaniac Condor
+
+Poisonous Mushroom
+
+Tox Box
+
+Fire Bro
+
+Quick-Arrival Jaxi
+
+Rescue Squad Chief
+
+Real Funky Dude
+
+Gobblegut Gargantua
+
+Thunderhand
+
+Gold Block Dash
+
+Flowery Advice
+
+Hammer Assault
+
+Bros Ball Training
+
+Fire Vellumental's Glory
+
+Birdo, Egg Bombardier
+
+Lakithunder, Lakitu Boss
+
+Deflecting Spin
+
+Karter's Focus
+
+Bowser's Fire Hazard
+
+Ecstatic Steam Gardener
+
+Beanie Swarm
+
+Hungry Maw-Maw
+
+Scuttlebug
+
+Lumbering Gorilla
+
+Tropical Wiggler
+
+Sunnycide Egg
+
+Sandmaargh
+
+Big Baby Yoshi
+
+Piranha Plant Parade
+
+Into the Portrait
+
+Kong Elder
+
+Cruise the Bean Stalk
+
+Gutsy Galoomba
+
+Blue and Yellow, Elite Toads
+
+Peewee Piranha, Temperamental
+
+Potted Uproot
+
+Luigi Logic
+
+Motley Bossblob
+
+Smithy, Factory Tyrant
+
+Dealer Luigi
+
+Paper Princess Peach
+
+Torpedo Ted
+
+Chincho Swarm
+
+Blooper Nanny
+
+Machine Made Replica
+
+Ghost Portrificationizer
+
+Beanbean Machine
+
+Farsight Binoculars
+
+Huey, Paint Pal
+rules_text: {T}: Add one mana of any color. When you use this mana to cast a multicolored spell, you gain 1 life for each of its colors beyond the first.
+[i]Exhaust[/i] — {W}{U}{B}{R}{G}, {T}: Put two +1/+1 counters on Huey, then you draw two cards and gain 2 life. Huey becomes all colors. [i](Activate each exhaust ability only once.)[/i] => {T}: Add one mana of any color. When you use this mana to cast a multicolored spell, you gain 1 life for each of its colors beyond the first.
+[i]Exhaust[/i] — {W}{U}{B}{R}{G}, {T}: Put two +1/+1 counters on Huey, then you draw two cards and gain 2 life. Huey becomes all colors. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Slippery Banana Peel
+
+Welcome to the Party
+
+Bone Piranha Plant
+
+Culex 3D
+
+Rainbow Road
+
+Bob-omb Buddy
+
+Whacka Bump
+
+Starlow, Guiding Voice
+
+Jump Up, Super Star!
+
+Toad House Assistant
+
+Cat Mario
+
+Koops, Timid Turtle
+
+Pipe Cork
+
+Parakarry, Mailman
+
+Racetrack Lakitu
+
+Dr. Mario
+
+Swordfighter Peach
+
+End of Sammer's Kingdom
+
+Nimble Ninji
+
+Walbrick Shieldmate
+
+Sidestepper
+
+Camera Lakitu
+
+Thought Peek
+
+Goombella, Archaeology Student
+
+Magic Whistle
+
+Cape Mario
+
+Cheep Cheep
+
+Helpful Water Dragon
+
+Penguin Mario
+
+Aggressive Maw-Ray
+
+Comet Observatory
+rules_text: This land enters tapped unless you control a legendary creature.
+{T}: Add {U}.
+Exhaust — {4}{U}, {T}: One or two target creatures you control each get +1/+1 and gain flying until end of turn. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => This land enters tapped unless you control a legendary creature.
+{T}: Add {U}.
+Exhaust — {4}{U}, {T}: One or two target creatures you control each get +1/+1 and gain flying until end of turn. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Koopa Troopa
+
+Swoops Swarm
+
+Dry Bones
+
+Ms. Mowz, Flirty Thief
+
+Skeleton Mario
+
+Waluigi, Rude Racer
+
+Bowser's Clown Car
+
+Cosmic Mario
+
+Mad Piano
+
+King Boo
+
+Fire Piranha
+
+Monty Mole
+
+Shy Guy
+
+Bob-omb
+
+Bob-ombs Away!!
+
+Fire Flower
+
+Goombario, Mario's Friend
+
+Woolly Sniffit
+
+Coin Coffer
+rules_text: Menace
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Menace
+Whenever this creature is dealt damage, create that many tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Bombette, Bombastic Starlet
+
+Dancer Mario
+
+March of the Minis
+
+Bullet Bill Blaster
+
+Strong-Arm Chuckster
+
+Unchained Chomp
+
+Smithy's Stolen Keep
+rules_text: This land enters tapped unless you control a legendary creature.
+{T}: Add {R}.
+Exhaust — {4}{R}, {T}: Create a token that's a copy of target artifact or creature you control except it has haste and “At the beginning of your end step, sacrifice this token.” Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => This land enters tapped unless you control a legendary creature.
+{T}: Add {R}.
+Exhaust — {4}{R}, {T}: Create a token that's a copy of target artifact or creature you control except it has haste and “At the beginning of your end step, sacrifice this token.” Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Back Alley Rex
+
+Goomba Stomp
+
+Yoshi Tongue
+
+Patrolling Goomba
+
+Luigi, Frightened Vacuumeer
+
+Mega Mushroom
+
+Elephant Mario
+
+Yoshi's Island
+rules_text: This land enters tapped unless you control a legendary creature.
+{T}: Add {G}.
+Exhaust — {2}{G}{G}, {T}: Choose a creature with the least toughness among creatures you control. Put X +1/+1 counters on it, where X is the greatest toughness among creatures you control. [i](Activate each exhaust ability only once.)[/i] => This land enters tapped unless you control a legendary creature.
+{T}: Add {G}.
+Exhaust — {2}{G}{G}, {T}: Choose a creature with the least toughness among creatures you control. Put X +1/+1 counters on it, where X is the greatest toughness among creatures you control. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Gooigi Canister
+
+Rock Mario
+
+Twinkling Luma
+
+Standard Kart
+
+Maker Course
+
+Boomerang Flower
+
+Bowser Jr., Punk Prince
+
+Captain Toad, Treasure Tracker
+
+Chargin' Chuck
+
+Coin Rush
+
+Daisy, Tennis Ace
+
+DK, Core Delver
+
+Kammy Koopa, the Brains
+
+Ludwig Von Koopa, Composer
+
+Merlee's Luck Spell
+
+Pauline, New Donk Mayor
+
+Princess Shroob, the Younger
+
+Star Road Map
+
+Super Acorn
+
+Antasma, Evil Bat King
+
+Count Bleck
+
+Fawful, Beanish Brainiac
+
+Fury Bowser
+
+Goomboss, Grand Pooh-bah
+
+King Bob-omb
+
+King Bowser, the Mighty
+
+Lady Bow, Boo Princess
+
+Petey Piranha
+
+Rosalina, Cosmic Guardian
+
+Mechawiggler, New Donk Terror
+
+Bowser's Kingdom
+rules_text: This land enters tapped unless you control a legendary creature.
+{T}: Add {B}.
+Exhaust — {4}{B}, {T}: Create two X/X black Minion creature tokens with “This token can't block”, where X is the greatest power among creature cards in your graveyard. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => This land enters tapped unless you control a legendary creature.
+{T}: Add {B}.
+Exhaust — {4}{B}, {T}: Create two X/X black Minion creature tokens with “This token can't block”, where X is the greatest power among creature cards in your graveyard. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Toadette, Princess's Favored
+
+Tutankoopa, Pyramid Wizard
+
+Dr. Goomba Tower
+
+Viral Outbreak
+
+Question Mark Block
+
+Firebrand Mario
+
+Baby Yoshi
+
+Super Mushroom
+
+Super Mario Bros
+
+Raging Broozer
+
+Delfino Plaza
+
+Dry Dry Desert
+
+Flame Pipe
+
+Ghost House
+
+Glitz Pit
+
+New Donk City Hall
+
+Pagoda Peak
+
+Spiky Palms
+
+Toad Town
+
+Vim Factory
+
+Stages and Worlds
+
+Boom Boom, Henchturtle
+
+Mr. I
+
+Captured Glydon
+
+Power Balloon
+
+Wart, Subcon Tyrant
+
+Toadsworth, Old Aide
+
+Urban Stingbies
+
+1-Up
+
+Biddybuggy
+
+Pirate King's Meditation
+
+I Spyglass
+
+Witch's Brew
+
+Shadow Clone Koopa
+
+Sushie, Romantic Cheep
+
+Stolen Name
+
+Ride the Eelevator
+
+Smelt Anew
+
+Toxic Spew
+
+Garlic Breath
+
+Queen Jaydes's Blessing
+
+Towering Pokey
+
+Yoshi Steed
+
+Courier's Pets
+
+Tiki Doom
+
+Find the Giant Seed
+
+Monkey Business
+
+Roll Call
+
+Invasive Overgrowth
+
+Mega Mechakoopa
+
+Pipe Frame Kart
+
+Rosalina's Storybook
+
+Mario Circuit
+
+Get the Shine Sprites!
+
+Bowser Tug o' War
+
+Madame Flurrie, Charming
+
+E. Gadd, Ghost Researcher
+
+Funky Dorrie Aqua-Trikes
+
+Punch
+
+The Boss's Approach
+
+Fabled Passage
+
+Monstro Town
+
+RoboBrood, Moon Mech
+
+Dark Vortex
+
+Dark Star's Invigoration
+
+Corrupted Giga Bell
+
+Admiring the Mushrooms
+
+The Majesty of Space
+
+Mushroom Kingdom
+rules_text: This land enters tapped unless you control a legendary creature.
+{T}: Add {W}.
+Exhaust — {2}{W}{W}, {T}: Exile target Aura card from your graveyard, then create a token that's a copy of it. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => This land enters tapped unless you control a legendary creature.
+{T}: Add {W}.
+Exhaust — {2}{W}{W}, {T}: Exile target Aura card from your graveyard, then create a token that's a copy of it. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] [i](Activate each exhaust ability only once.)[/i]
+
+Crushing Whomp
+
+Top Secret Area
+
+The Honey Queen
+
+Wario, Greedy Antihero
+
+Wonder Dragon
+
+Captain Syrup, Black Sugar Bandit
+
+Toad Brigade Poplin
+
+Junior's Clown Car
+
+Minion
+
+Minion
+
+Minion
+
+Minion Army
+
+Spirit Minion
+
+Treasure
+
+Treasure
+
+Minion
+
+Cat Hero
+
+Insect
+
+Super
+
+Copy
+
+Food
+
+Construct Minion
+
+Cannon
+
+Citizen
+
+Alien Minion
+
+Star
+
+Fungus Citizen
+
+Dog Minion
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

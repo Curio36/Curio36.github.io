@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "3"
     },
     {
         "card_name": "Luigi, Best Bro",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "0"
     },
     {
         "card_name": "Bowser, Monstrous King",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "1"
     },
     {
         "card_name": "Super Mario",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "2"
     },
     {
         "card_name": "DK, Gorilla Great",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "4"
     },
     {
         "card_name": "Peach's Blessing",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "19"
     },
     {
         "card_name": "Luigi's Determination",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "18"
     },
     {
         "card_name": "Bowser's Brutality",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "17"
     },
     {
         "card_name": "Mario's Courage",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "15"
     },
     {
         "card_name": "DK's Jungle Beatdown",
@@ -77,7 +77,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "16"
     },
     {
         "card_name": "Toad, Mushroom Steward",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "7"
     },
     {
         "card_name": "E. Gadd, Nutty Professor",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "8"
     },
     {
         "card_name": "Wonder Bowser Jr.",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "6"
     },
     {
         "card_name": "Princess Daisy, Tomboy Biker",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "9"
     },
     {
         "card_name": "Diddy Kong, Best Buddy",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "5"
     },
     {
         "card_name": "Castle Bunny",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "10"
     },
     {
         "card_name": "Circuit Statues",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "11"
     },
     {
         "card_name": "Biddybud Battalion",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "12"
     },
     {
         "card_name": "Red Yoshi",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "13"
     },
     {
         "card_name": "Rhino Pal",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "SME",
         "rotated": false,
-        "position": ""
+        "position": "14"
     },
     {
         "card_name": "er"
