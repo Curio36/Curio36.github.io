@@ -1,4 +1,642 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Hadal Tyrant added.
+Hadal Tyrant's Challenge added.
+Traderoutes Tyrant's Challenge added.
+Traderoutes Tyrant added.
+Imperial Guard Hydra added.
+Piratehunter Patrolship added.
+Roaring Fleet Skirmisher added.
+
+Deckside Gunner removed.
+Gelid Tyrant removed.
+Gelid Tyrant's Challenge removed.
+Deep Tyrant's Challenge removed.
+Deep Tyrant removed.
+Hydra Hullbreaker removed.
+Port Patrolship removed.
+
+Determined Push
+
+Eradicating Wave
+
+Cloudscape Kraken
+rules_text: Flying, vigilance
+Other creatures you control get +1/+1.
+Manufacture 3—{1}{W}{W} [i]({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i] => Flying, vigilance
+Other creatures you control get +1/+1.
+Manufacture 3—{1}{W}{W} [i]({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Repel Titans
+rules_text: Choose one —
+• Exile target artifact or enchantment.
+• Exile target creature with mana value, power, or toughness 5 or greater. => Choose one —
+• Exile target artifact or enchantment.
+• Exile target creature with mana value, power, or toughness 4 or greater.
+
+Shore Tyrant's Challenge
+type: Sorcery => Instant
+cost: {X}{W} => {X}{W}{W}
+
+Splendor Port Guardship
+rules_text: Whenever this Vehicle attacks, tap target creature you don't control. If this Vehicle was crewed by creatures with total power 5 or greater this turn, tap all creatures you don't control instead.
+Crew 2 => Whenever this Vehicle attacks, tap target creature you don't control. If this Vehicle was crewed by creatures with total power 4 or greater this turn, tap all creatures you don't control instead.
+Crew 2
+
+Sunvine Nurturer
+
+Beachcombing Tiktaalik
+
+Breaching Greatshark
+
+Chart a Course
+
+Cloud Sea Bell
+
+Cloud Sea Snatcher
+
+Cynette, Cnidariamancer
+
+Dash on the Rocks
+
+Disrupt Existence
+
+Freezing Winds
+
+Giant Remora
+
+Fishy Rumormonger
+
+Hippocamp Wrangler
+rules_text: Vigilance
+[i]Overwhelm [/i]— Whenever another permanent you control with mana value 4 or greater enters or a creature you control matures, create a 2/1 blue Horse Fish creature token named Hippocamp. => Vigilance
+Whenever another permanent you control with mana value 4 or greater enters or a creature you control matures, create a 2/1 blue Horse Fish creature token named Hippocamp.
+
+Hunting Whale
+
+Inkmane Hippocamp
+
+Mercurial Skyrod
+
+Meticulous Planning
+type: Sorcery => Instant
+cost: {4}{U} => {3}{U}{U}
+
+Mindribbon Serpent
+rules_text: Mindribbon Serpent's power and toughness are each equal to twice the number of cards in your hand.
+Whenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.
+Manufacture 3—{2}{U}{U} [i]({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i] => Mindribbon Serpent's power and toughness are each equal to twice the number of cards in your hand.
+Whenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.
+Manufacture 3—{2}{U}{U} [i]({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Gelid Sea Courier
+
+Overwhelming Riptide
+
+Pearl Trader's Manta
+
+Read the Starfish
+
+Sea Witch's Wards
+
+Seafoam Shackles
+
+Spellcatcher Conch
+
+Starry Night Skiff
+
+Submersible Pod
+
+Thirst for Power
+
+Titanic Haruspicy
+
+Wash Overboard
+
+Stormbringer Ship
+
+Wunderpus Mimic
+
+Ambitious Prototype
+
+Crossbone Cove Cutter
+
+Cursed Compass
+
+Devour
+
+Dredging Arm
+
+Fangcrest Finisher
+
+Grimechurner Rotboat
+
+Deadman's Tales
+
+Inktrench Stinger
+
+Inktrench's Trail
+
+Fleetsinker
+rules_text: When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.
+Manufacture 3—{2}{B}{B} [i]({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i] => When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.
+Manufacture 3—{2}{B}{B} [i]({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Jahan, High Seas Lich
+
+Jahan's Pets
+
+Lamprey Swarm
+
+Lich's Insight
+
+Midnight Queen, Damned Vessel
+
+Noxious Venting
+
+Perilous Pickpocket
+
+Raise from the Depths
+
+Requisitioned Raider
+
+Retrofitted Rampager
+
+Ripmaw Assassin
+
+Rot Sea Surge
+
+Rakish Buccaneer
+
+Shipyard Scavenger
+
+Silent Drifter
+
+Tendrils of the Deep
+
+Titan Bone Assault
+
+Standard Issue Guardbot
+
+Vile Gastrolith
+
+Basking Iguanin
+
+Big Score
+
+Blacksail Looter
+
+Bursting Vein Serpent
+
+Charred Isles Excavator
+
+Charred Isles Shovelbearer
+
+Clamp Down
+
+Crushing Charge
+
+Daunting Figurehead
+
+Dockside Rebuffer
+
+Dunemaker Wurm
+
+Encrusted Crustacean
+
+Eruptive Emergence
+
+Expedition Funding
+
+Explosive Rage
+
+Full Tilt
+
+Vein Tyrant
+
+Lovebyrd's Galleon
+
+Inevitable, Doom's Flagship
+rules_text: Menace
+Double all damage that sources you control would deal to an opponent or a permanent an opponent controls. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
+Crew 5 => Menace
+Double all damage that sources you control would deal to an opponent or a permanent an opponent controls. Triple that damage instead if that source is a Vehicle, Artificer, Sailor, Pilot, or Pirate.
+Crew 4
+
+Lavaheart Dragon
+
+Lightning Rod Installer
+
+Loose Cannon
+
+Magmatic Gastrolith
+
+Magmawake Whale
+rules_text: Menace
+Whenever a creature attacks one of your opponents, it deals 1 damage to that player.
+Manufacture 3—{3}{R}{R} [i]({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i] => Menace
+Whenever a creature attacks one of your opponents, it deals 1 damage to that player.
+Manufacture 3—{3}{R}{R} [i]({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Overloaded Cannonship
+
+Ready, Aim, Fire!
+
+Roaming Dunkleosteus
+pt: 4/4 => 3/4
+
+Seasoned Cannoneer
+
+Scorching Fox
+
+Stormward Shanties
+
+Powderkeg Explosion
+
+Tyrant's Demand
+
+Apex Anomalocaris
+
+Ava, Thorny Diva
+
+Coral Tyrant's Challenge
+
+Destructive Wake
+
+Drag from the Shallows
+
+Dryad Navigator
+
+Elemental's Flourish
+
+Foraging Badger
+
+Gilded Plating
+
+Give In to Instinct
+
+Coral Tyrant
+
+Hoofbeats in the Woods
+rules_text: Create a 4/4 green Elemental Elk creature token.
+Flashback {5}{G}, Exile two land cards from your graveyard [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Create a 4/4 green Elemental Elk creature token.
+Flashback—-{4}{G}, Exile two land cards from your graveyard [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Propagated Bioship
+
+Isle-Mimic Leviathan
+rules_text: Trample
+You may play lands from your graveyard and you may play an additional land each turn.
+Manufacture 3—{2}{G}{G} [i]({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery. It isn't a creature except when crewed.)[/i] => Trample
+You may play lands from your graveyard and you may play an additional land each turn.
+Manufacture 3—{2}{G}{G} [i]({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Leafwhisper Beetle
+
+Lineaz Eulogist
+
+Mosstusk Guardian
+
+Otoro, Wild Explorer
+
+Perennial Regrowth
+
+Plow Through
+
+Primordial Coelacanth
+
+Ramming Prow
+
+Wingbeast Hunter
+
+Rootpath Mamba
+
+Rustbladder Kelp
+
+Tin Isle Channeler
+
+Tin Isle Lifetender
+
+Tin Isle Wurmrig
+
+To the Horizon
+
+Vedre Strait Caller
+
+Vibrant Siphonophore
+
+Zoophonic Call
+rules_text: Search your library for a creature card with mana value 5 or greater or with {X} in its cost, reveal it, put it into your hand, then shuffle. You gain 3 life. => Search your library for a creature card with mana value 4 or greater or with {X} in its cost, reveal it, put it into your hand, then shuffle. You gain 3 life.
+
+Abyssal Sea-Witch
+
+Aesi, Capricious Serpent
+rules_text: This spell can't be countered.
+Trample
+Whenever Aesi enters or attacks, mill two cards, then you may put a land card from your hand or graveyard onto the battlefield. => Trample
+Whenever Aesi enters, attacks, or becomes the target of a spell or ability an opponent controls, mill two cards, then you may put a land card from your hand or graveyard onto the battlefield.
+pt: 6/6 => 7/7
+
+Back For More
+
+Beliaz, Hot Shot
+
+Grahn, Seafolk Huntmaster
+
+Cephalid Strategist
+
+Apex Landshifter
+
+Chordatan Bloodseeker
+
+Cloudbelt Synthesis
+
+Cyfra, Inktrench Tyrant
+
+Engines Critical
+
+Eskin, Furnace Master
+
+Evram, Blind Metallomancer
+
+Fangworm Fleetship
+
+Firenz, Sunvine Custodian
+
+Ehn, Cloud Sea Ancient
+
+Grandir, the Storm-Bodied
+rules_text: Flash
+You have no maximum hand size.
+At the beginning of your end step, draw a card for each card you discarded this turn. When you do, Grandir deals damage to any target equal to the number of cards you drew this turn. => Flash
+You have no maximum hand size.
+At the beginning of each end step, draw a card for each card you discarded this turn. When you do, Grandir deals damage to any target equal to the number of cards you discarded this turn.
+
+Grandir's Trove
+rules_text: Whenever you draw your second or fifth card each turn, put a charge counter on Grandir's Trove.
+{U}{U}{R}{R}, {T}, Sacrifice Grandir's Trove: It deals X damage to target player and another target player draws X cards, where X is the number of charge counters on it. => When Grandir's Trove enters, draw a card.
+Whenever you draw your second or fifth card each turn, put a charge counter on Grandir's Trove.
+{U}{U}{R}{R}, {T}, Sacrifice Grandir's Trove: It deals X damage to target player and another target player draws X cards, where X is the number of charge counters on it.
+
+Holtz, Devilish Benefactor
+
+Intrepid Courier
+
+Ka'bi, the Bloomhoof
+
+Lava Flow Hellbender
+
+Len, Endless Tentacles
+
+Malzan the Shipwright
+
+Pantry Filler
+
+Provisions Ship
+
+Raucous Week, Party Ship
+
+Reckless Innovator
+
+Relentless Reconstructionist
+
+Runes of Recall
+
+Soulbound Sloop
+
+Superb Salvage
+
+Firejelly Anomaly
+
+Tiz'ek's Meltdown
+
+Tyrant Territory
+
+Cogwork Companion
+
+Cogwork Ichthyoid
+
+Deepweb Spider
+
+High Seas Harrier
+
+Goldvein Monstrosity
+
+Merchant Vessel
+
+Pirate Salvo
+
+Power Siphon
+
+Research Vessel
+
+Uncovered Pitfall
+
+Sturdy Anchoring
+
+Tideborne Generator
+
+Trench Drone
+
+Untapped Gastrolith
+
+Busy Workshop
+
+Churning Landscape
+
+Deepsea Maw
+
+Glamorous Port
+
+Seafolk Court
+
+Pirates' Bay
+
+Crackling Cataract
+
+Uncharted Strait
+
+Unstable Vein
+
+Cloud Sea
+
+Congregation Reef
+
+Grand Rim Caldera
+
+Gyre Strait
+
+Inktrench Crag
+
+Rot Sea
+
+Silent Shores
+
+Storm Belt
+
+Tin Isle Canyon
+
+Turtle Beach
+
+Ankertrold, the Harrower
+
+Muzzio, Exiled Cogworker
+
+Out of the Tombs
+
+Bloodgap, Reaver Warship
+
+Lazing Megatherium
+
+Coloeus, Blacksail Flagship
+
+Drang, Blacksail Captain
+
+Ruz and Elda, Lethal Lovebirds
+
+Waveslicer, Liko's Cruiser
+
+Copy
+
+Sailor
+
+Whale
+
+Bird Pirate
+
+Construct
+
+Hippocamp
+
+Jellyfish
+
+Shrimp
+
+Pirate
+
+Serpent
+
+Dragon Fish
+
+Elemental Elk
+
+Scout
+
+Turtle
+
+Blood
+
+Clue
+
+Map
+
+Treasure
+
+Surly Maintainer
+
+Riding Turtle
+
+Hungering Greatleech
+
+Memory Eater
+
+Nurturing Algaeback
+
+Gothil's Clutchling
+
+Lurking Alligator
+
+Pathstomper Javelina
+
+Quaking Tunneler
+
+Shallows Altisaur
+
+Tin Isle Bear
+
+Exuberant Podcaller
+cost: {4}{W}{W} => {3}{W}{W}
+rules_text: Yearling {1}{W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking. => Yearling {W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.
+special_text: Yearling {1}{W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking. => Yearling {W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.
+
+Steelfin Dolphin
+
+Tanglegrasp Jelly
+
+Abyssal Trilobite
+
+Gelid Sea Whale
+
+Observant Osprey
+
+Stormbelt Serpent
+
+Abyssal Tempter
+
+Deadlights Leviathan
+
+Rot Sea Worm
+
+Whirlpool Annihilator
+
+Angered Slaghorn
+
+Ironfang Amphisbaena
+
+Thrashing Fiddler
+
+Reprieve
+
+Clattering Boneship
+
+Pirate's Blessing
+
+Seafolk Pilgrimguard
+
+Mooneye Octopus
+
+Hookfin, Basalt Commander
+
+Algal Orchard
+
+Fertile Delta
+
+Gold Mine
+
+Labor District
+
+Elbow-Grease Innovator
+rules_text: Artifact creatures you control with counters on them get +2/+2.
+Vehicles you control have undying. [i](When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Vehicles you control get +2/+2 and have crew 2 and undying. [i](When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+
+Elagid, the Endless Glutton
+
+Crackling Eel
+rules_text: Yearling {1}{R} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Menace
+Whenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player. => Yearling {R}{R} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Menace
+Whenever an opponent activates an ability that isn't a mana ability, this creature deals damage equal to its power to that player.
+pt: 3/5 => 4/4
+special_text: Yearling {1}{R} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Menace
+Whenever an opponent activates a nonmana ability, this creature deals damage equal to its power to that player. => Yearling {R}{R} — 2/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Menace
+Whenever an opponent activates an ability that isn't a mana ability, this creature deals damage equal to its power to that player.
+
+Vein Tyrant's Challenge
+cost: {X}{R}{R} => {X}{X}{R}
+rules_text: [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+Create X tapped Treasure tokens. When you do, Vein Tyrant's Challenge deals damage equal to the number of artifacts you control to target creature or planeswalker you don't control. => [i]Overwhelm [/i]— This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.
+Vein Tyrant's Challenge deals X damage to target player and each creature and planeswalker that player controls.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
