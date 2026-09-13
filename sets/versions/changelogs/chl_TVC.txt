@@ -1,4 +1,15 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Fruitful Discussion
+rules_text: Overload {X}{U} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+Target player draws X cards. => Target player draws X cards.
+Overload {X}{U} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

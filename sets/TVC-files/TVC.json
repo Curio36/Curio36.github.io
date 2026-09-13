@@ -1086,7 +1086,7 @@
             "number": 10,
             "color_identity": "U",
             "cost": "{X}{U}{U}{U}",
-            "rules_text": "Overload {X}{U} [i](You may cast this spell for its overload cost. If you do, change \u201ctarget\u201d in its text to \u201ceach.\u201d)[/i]\nTarget player draws X cards.",
+            "rules_text": "Target player draws X cards.\nOverload {X}{U} [i](You may cast this spell for its overload cost. If you do, change \u201ctarget\u201d in its text to \u201ceach.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2129,5 +2129,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

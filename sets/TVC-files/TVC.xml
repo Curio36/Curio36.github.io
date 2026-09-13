@@ -5,7 +5,7 @@
 			<name>TVC</name>
 			<longname>Titans of Viludin Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-08</releasedate>
+			<releasedate>2026-09-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -900,8 +900,8 @@ Whenever a ward cost of a permanent you control is paid, draw a card.</text>
 		</card>
 		<card>
 			<name>Fruitful Discussion</name>
-			<text>Overload {X}{U} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)
-Target player draws X cards.</text>
+			<text>Target player draws X cards.
+Overload {X}{U} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVC-files/img/51.png" num="10">TVC</set>
 			<prop>
 				<layout>normal</layout>
