@@ -1,4 +1,24 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+GR-4E, Personal Guard
+rules_text: Flash
+Vigilance
+{W}, Sacrifice GR-4E: Each other permanent you control gains indestructible and hexproof until end of turn. Scry 2. => Flash
+Vigilance
+{W}, Sacrifice GR-4E: Each other permanent you control gains indestructible and hexproof until end of turn. Surveil 2.
+
+Piratehunter Patrolship
+rules_text: This spell costs {1} less to cast for each tapped nonland permanent you control.
+During your turn, this Vehicle is an artifact creature.
+When this Vehicle enters, scry 1, then draw a card. => This spell costs {1} less to cast for each tapped nonland permanent you control.
+During your turn, this Vehicle is an artifact creature.
+When this Vehicle enters, surveil 1, then draw a card.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Hadal Tyrant added.

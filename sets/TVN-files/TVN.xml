@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-13</releasedate>
+			<releasedate>2026-09-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -357,7 +357,7 @@ Activated abilities of nonartifact creatures your opponents control can&apos;t b
 			<name>GR-4E, Personal Guard</name>
 			<text>Flash
 Vigilance
-{W}, Sacrifice GR-4E: Each other permanent you control gains indestructible and hexproof until end of turn. Scry 2.</text>
+{W}, Sacrifice GR-4E: Each other permanent you control gains indestructible and hexproof until end of turn. Surveil 2.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/20.png" num="18">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5256,7 +5256,7 @@ When enchanted permanent dies, draw a card and create a Treasure token.</text>
 			<name>Piratehunter Patrolship</name>
 			<text>This spell costs {1} less to cast for each tapped nonland permanent you control.
 During your turn, this Vehicle is an artifact creature.
-When this Vehicle enters, scry 1, then draw a card.</text>
+When this Vehicle enters, surveil 1, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/300.png" num="22">TVN</set>
 			<prop>
 				<layout>normal</layout>
