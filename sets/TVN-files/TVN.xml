@@ -5380,7 +5380,7 @@ Creatures you control get +X/+0, where X is the number of cards you&apos;ve draw
 		</card>
 		<card>
 			<name>Elbow-Grease Innovator</name>
-			<text>Vehicles you control get +1/+1 and have undying. (When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
+			<text>Vehicles you control get +1/+1 and have crew 2 and undying. (When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/307.png" num="11">TVN</set>
 			<prop>
 				<layout>normal</layout>

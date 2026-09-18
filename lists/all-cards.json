@@ -27762,7 +27762,7 @@
             "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Vehicles you control get +1/+1 and have undying. [i](When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]",
+            "rules_text": "Vehicles you control get +1/+1 and have crew 2 and undying. [i](When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
