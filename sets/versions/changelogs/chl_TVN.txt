@@ -1,4 +1,46 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Inkmane Hippocamp
+cost: {6}{U}{U} => {5}{U}{U}{U}
+
+Traderoutes Tyrant's Challenge
+type: Instant => Sorcery
+
+Roaming Dunkleosteus
+rules_text: First strike
+During your turn, double all damage this creature would deal. => First strike
+Damage can't be prevented.
+Players can't gain life.
+pt: 3/4 => 4/4
+
+Churning Landscape
+rules_text: {T}, Pay 1 life: Add {G}.
+{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. You gain 4 life. => {T}, Pay 1 life: Add {G}.
+{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. You gain 3 life.
+
+Exuberant Podcaller
+rules_text: Yearling {W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking. => Yearling {W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+At the beginning of your end step, if this creature is tapped, create a number of 1/1 white Whale creature tokens equal to its power.
+special_text: Yearling {W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking. => Yearling {W}{W} — 1/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+At the beginning of your end step, if this creature is tapped, create a number of 1/1 white Whale creature tokens equal to its power.
+
+Gold Mine
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}, Discard this card: Create two Treasure tokens. If an opponent controls more lands than you, create three Treasure tokens instead. => This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}, Discard this card: Create two Treasure tokens.
+
+Elbow-Grease Innovator
+rules_text: Vehicles you control get +2/+2 and have crew 2 and undying. [i](When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Vehicles you control get +1/+1 and have undying. [i](When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Booty Courier added.

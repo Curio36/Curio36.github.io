@@ -503,7 +503,7 @@
 		{
 			"name": "Inkmane Hippocamp",
 			"rarity": "rare",
-			"mana_cost": "{6}{U}{U}",
+			"mana_cost": "{5}{U}{U}{U}",
 			"type": "Creature — Nightmare Horse Fish",
 			"collector_number": "57",
 			"image_uris": {
@@ -724,7 +724,7 @@
 			"name": "Traderoutes Tyrant's Challenge",
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "112",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/72.png"

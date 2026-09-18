@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-17</releasedate>
+			<releasedate>2026-09-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -897,7 +897,7 @@ When this creature enters, exile up to one target nonland card in a graveyard th
 				<side>front</side>
 				<type>Creature — Nightmare Horse Fish</type>
 				<maintype>Creature</maintype>
-				<manacost>6UU</manacost>
+				<manacost>5UUU</manacost>
 				<cmc>8</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -1288,8 +1288,8 @@ Target opponent exiles the top X cards of their library face down. You may look 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>XBB</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
@@ -2257,7 +2257,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Roaming Dunkleosteus</name>
 			<text>First strike
-During your turn, double all damage this creature would deal.</text>
+Damage can&apos;t be prevented.
+Players can&apos;t gain life.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/127.png" num="145">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2268,7 +2269,7 @@ During your turn, double all damage this creature would deal.</text>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3811,7 +3812,7 @@ When this creature enters, exile each opponent&apos;s graveyard.</text>
 		<card>
 			<name>Churning Landscape</name>
 			<text>{T}, Pay 1 life: Add {G}.
-{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. You gain 4 life.</text>
+{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. You gain 3 life.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/216.png" num="249">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4926,7 +4927,7 @@ If this creature would die, exile it instead.</text>
 		<card>
 			<name>Exuberant Podcaller</name>
 			<text>Yearling {W}{W} — 1/3 (You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)
-Whenever this creature attacks, create a number of 1/1 white Whale creature tokens equal to its power that are tapped and attacking.</text>
+At the beginning of your end step, if this creature is tapped, create a number of 1/1 white Whale creature tokens equal to its power.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/282.png" num="14">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5347,7 +5348,7 @@ Creatures you control get +X/+0, where X is the number of cards you&apos;ve draw
 			<name>Gold Mine</name>
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
-{1}{R}{W}, Discard this card: Create two Treasure tokens. If an opponent controls more lands than you, create three Treasure tokens instead.</text>
+{1}{R}{W}, Discard this card: Create two Treasure tokens.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/305.png" num="254">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5379,7 +5380,7 @@ Creatures you control get +X/+0, where X is the number of cards you&apos;ve draw
 		</card>
 		<card>
 			<name>Elbow-Grease Innovator</name>
-			<text>Vehicles you control get +2/+2 and have crew 2 and undying. (When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
+			<text>Vehicles you control get +1/+1 and have undying. (When one is put into a graveyard from the battlefield, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/307.png" num="11">TVN</set>
 			<prop>
 				<layout>normal</layout>
