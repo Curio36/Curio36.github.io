@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-14</releasedate>
+			<releasedate>2026-09-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1850,7 +1850,7 @@ Crew 2</text>
 			<text>Trample
 When this creature enters, it deals 3 damage to each opponent.
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/104.png" num="119">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/104.png" num="120">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1868,7 +1868,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 			<name>Charred Isles Excavator</name>
 			<text>Whenever this Vehicle attacks, exile the top two cards of your library, then choose one of them. You may play that card until the end of your next turn. If this Vehicle was crewed by creatures with total power 6 or greater this turn, you may play that card this way without paying its mana cost.
 Crew 3</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/105.png" num="120">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/105.png" num="121">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1886,7 +1886,7 @@ Crew 3</text>
 			<name>Charred Isles Shovelbearer</name>
 			<text>Menace, haste
 {4}{R}, {T}, Sacrifice this creature: It deals 4 damage to target creature or planeswalker.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/106.png" num="121">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/106.png" num="122">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1904,7 +1904,7 @@ Crew 3</text>
 			<name>Clamp Down</name>
 			<text>Clamp Down deals 1 damage to any target. Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 You may discard a card. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/107.png" num="122">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/107.png" num="123">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1922,7 +1922,7 @@ You may discard a card. If you do, draw a card.</text>
 			<text>Overwhelm — Choose one. If you controlled a permanent with mana value 4 or greater as you cast this spell, you may choose both instead.
 • Crushing Charge deals 4 damage to target creature or planeswalker.
 • Exile target artifact.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/108.png" num="124">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/108.png" num="125">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1939,7 +1939,7 @@ You may discard a card. If you do, draw a card.</text>
 			<name>Daunting Figurehead</name>
 			<text>Reach
 {2}{R}, Sacrifice another artifact or land: Draw a card. This creature gets +2/+0 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/109.png" num="125">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/109.png" num="126">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1956,7 +1956,7 @@ You may discard a card. If you do, draw a card.</text>
 		<card>
 			<name>Dockside Rebuffer</name>
 			<text>When this creature enters, you may sacrifice another artifact or creature. When you do, this creature deals 2 damage to any target.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/110.png" num="126">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/110.png" num="127">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1974,7 +1974,7 @@ You may discard a card. If you do, draw a card.</text>
 			<name>Dunemaker Wurm</name>
 			<text>Haste
 Whenever this creature attacks, you may discard a card. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/111.png" num="127">TVN</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/111.png" num="128">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1989,14 +1989,14 @@ Whenever this creature attacks, you may discard a card. If you do, draw a card.<
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Encrusted Crustacean</name>
+			<name>Booty Courier</name>
 			<text>During your turn, this creature has first strike.
 When this creature dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/112.png" num="128">TVN</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/112.png" num="119">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Crab</type>
+				<type>Creature — Human Pirate</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
@@ -5436,7 +5436,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<text>Yearling {R}{R} — 2/2 (You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)
 Menace
 Whenever an opponent activates an ability that isn&apos;t a mana ability, this creature deals damage equal to its power to that player.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/310.png" num="123">TVN</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/310.png" num="124">TVN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

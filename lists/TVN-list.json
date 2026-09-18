@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Charred Isles Excavator",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Crackling Eel",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
@@ -425,7 +425,7 @@
     },
     {
         "card_name": "Clamp Down",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "Dunemaker Wurm",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
@@ -1064,12 +1064,12 @@
         "position": "77"
     },
     {
-        "card_name": "Bursting Vein Serpent",
+        "card_name": "Booty Courier",
         "number": 119,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": "104"
+        "position": "112"
     },
     {
         "card_name": "Elemental's Flourish",
@@ -1104,12 +1104,12 @@
         "position": "73"
     },
     {
-        "card_name": "Charred Isles Shovelbearer",
-        "number": 121,
+        "card_name": "Bursting Vein Serpent",
+        "number": 120,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": "106"
+        "position": "104"
     },
     {
         "card_name": "Give In to Instinct",
@@ -1144,12 +1144,12 @@
         "position": "75"
     },
     {
-        "card_name": "Crushing Charge",
-        "number": 124,
+        "card_name": "Charred Isles Shovelbearer",
+        "number": 122,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": "108"
+        "position": "106"
     },
     {
         "card_name": "Hoofbeats in the Woods",
@@ -1184,12 +1184,12 @@
         "position": "78"
     },
     {
-        "card_name": "Daunting Figurehead",
+        "card_name": "Crushing Charge",
         "number": 125,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": "109"
+        "position": "108"
     },
     {
         "card_name": "Leafwhisper Beetle",
@@ -1224,12 +1224,12 @@
         "position": "83"
     },
     {
-        "card_name": "Dockside Rebuffer",
+        "card_name": "Daunting Figurehead",
         "number": 126,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": "110"
+        "position": "109"
     },
     {
         "card_name": "Mosstusk Guardian",
@@ -1264,12 +1264,12 @@
         "position": "86"
     },
     {
-        "card_name": "Encrusted Crustacean",
-        "number": 128,
+        "card_name": "Dockside Rebuffer",
+        "number": 127,
         "shape": "normal",
         "set": "TVN",
         "rotated": false,
-        "position": "112"
+        "position": "110"
     },
     {
         "card_name": "Propagated Bioship",

@@ -1045,7 +1045,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Elemental Serpent",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/105.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/106.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/107.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/108.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Giant Pirate",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/109.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact Creature — Warrior",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/110.png"
 			}
@@ -1115,17 +1115,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Elemental Wurm",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/111.png"
 			}
 		},
 		{
-			"name": "Encrusted Crustacean",
+			"name": "Booty Courier",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Crab",
-			"collector_number": "128",
+			"type": "Creature — Human Pirate",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/112.png"
 			}
@@ -3105,7 +3105,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Fish",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVN-files/img/310.png"
 			}
@@ -3350,7 +3350,7 @@
 	8 Crushing Charge
 	8 Daunting Figurehead
 	8 Dockside Rebuffer
-	8 Encrusted Crustacean
+	8 Booty Courier
 	8 Expedition Funding
 	8 Explosive Rage
 	8 Lightning Rod Installer
@@ -3442,7 +3442,7 @@
 	8 Crushing Charge
 	8 Daunting Figurehead
 	8 Dockside Rebuffer
-	8 Encrusted Crustacean
+	8 Booty Courier
 	8 Expedition Funding
 	8 Explosive Rage
 	8 Lightning Rod Installer
@@ -3604,7 +3604,7 @@
 	12 Daunting Figurehead
 	12 Dockside Rebuffer
 	6 Dunemaker Wurm
-	12 Encrusted Crustacean
+	12 Booty Courier
 	6 Eruptive Emergence
 	12 Expedition Funding
 	12 Explosive Rage
@@ -3874,7 +3874,7 @@
 	6 Daunting Figurehead
 	6 Dockside Rebuffer
 	15 Dunemaker Wurm
-	6 Encrusted Crustacean
+	6 Booty Courier
 	15 Eruptive Emergence
 	6 Expedition Funding
 	6 Explosive Rage

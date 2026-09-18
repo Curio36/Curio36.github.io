@@ -1,4 +1,12 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Booty Courier added.
+
+Encrusted Crustacean removed.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
