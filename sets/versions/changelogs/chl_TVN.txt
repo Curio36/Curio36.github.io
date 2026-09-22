@@ -1,4 +1,45 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Engine Repairs
+rules_text: Return up to two target artifact or creature card with total mana value 3 or less from your graveyard to the battlefield. => Return up to two target artifact or creature cards with total mana value 3 or less from your graveyard to the battlefield.
+
+Inkmane Hippocamp
+
+Meticulous Planning
+
+Len, Endless Tentacles
+rules_text: This spell costs {X} less to cast, where X is the greatest mana value among permanents you control.
+Ward—Pay 8 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 8 life.)[/i]
+Other creatures you control have base power and toughness 8/8. => This spell costs {5} less to cast if creatures you control have total power 8 or greater.
+Ward—Pay 8 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 8 life.)[/i]
+Whenever Len attacks, other creatures you control have base power and toughness 8/8 until end of turn.
+
+Crackling Cataract
+
+Exuberant Podcaller
+
+Deadlights Leviathan
+rules_text: Yearling {2}{B}{B} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped. => Yearling {2}{B}{B} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, if it was cast, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped.
+special_text: Yearling {2}{B}{B} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters or matures, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped. => Yearling {2}{B}{B} — 3/3 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+When this creature enters, if it was cast, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield tapped.
+
+Gold Mine
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}, Discard this card: Create two Treasure tokens. => This land enters tapped.
+{T}: Add {R} or {W}.
+{1}{R}{W}, Discard this card: Return target artifact card from your graveyard to your hand.
+
+Elbow-Grease Innovator
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

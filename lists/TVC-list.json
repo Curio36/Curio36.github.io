@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "TVC",
         "rotated": false,
-        "position": "98"
+        "position": "97"
     },
     {
         "card_name": "Iska, Returned Oneiromancer",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "TVC",
         "rotated": false,
-        "position": "96"
+        "position": "95"
     },
     {
         "card_name": "Fruitful Discussion",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "TVC",
         "rotated": false,
-        "position": "97"
+        "position": "96"
     },
     {
         "card_name": "e"
@@ -235,7 +235,7 @@
         "shape": "normal",
         "set": "TVC",
         "rotated": false,
-        "position": "95"
+        "position": "94"
     },
     {
         "card_name": "e"
@@ -478,7 +478,7 @@
         "shape": "normal",
         "set": "TVC",
         "rotated": false,
-        "position": "100"
+        "position": "99"
     },
     {
         "card_name": "Tursi, Peaceful Courier",
@@ -593,7 +593,7 @@
         "shape": "normal",
         "set": "TVC",
         "rotated": false,
-        "position": "99"
+        "position": "98"
     },
     {
         "card_name": "er"
@@ -689,16 +689,8 @@
     },
     "a->token",
     {
-        "card_name": "Beau",
-        "number": 1,
-        "shape": "token",
-        "set": "TVC",
-        "rotated": false,
-        "position": "62"
-    },
-    {
         "card_name": "Copy",
-        "number": 2,
+        "number": 1,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -706,7 +698,7 @@
     },
     {
         "card_name": "Pilot",
-        "number": 3,
+        "number": 2,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -714,7 +706,7 @@
     },
     {
         "card_name": "Blood",
-        "number": 30,
+        "number": 29,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -722,7 +714,7 @@
     },
     {
         "card_name": "Construct",
-        "number": 31,
+        "number": 30,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -730,23 +722,23 @@
     },
     {
         "card_name": "Junk",
+        "number": 31,
+        "shape": "token",
+        "set": "TVC",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Mechtitan",
         "number": 32,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
-        "position": "94"
-    },
-    {
-        "card_name": "Treasure",
-        "number": 34,
-        "shape": "token",
-        "set": "TVC",
-        "rotated": false,
-        "position": "22"
+        "position": "46"
     },
     {
         "card_name": "Vehicle",
-        "number": 35,
+        "number": 34,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -754,7 +746,7 @@
     },
     {
         "card_name": "Zeppelin",
-        "number": 36,
+        "number": 35,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -762,7 +754,7 @@
     },
     {
         "card_name": "Angel",
-        "number": 4,
+        "number": 3,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -770,7 +762,7 @@
     },
     {
         "card_name": "Clown Robot",
-        "number": 5,
+        "number": 4,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -778,7 +770,7 @@
     },
     {
         "card_name": "Sailor",
-        "number": 6,
+        "number": 5,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -786,11 +778,19 @@
     },
     {
         "card_name": "Soldier",
-        "number": 7,
+        "number": 6,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
         "position": "63"
+    },
+    {
+        "card_name": "Beau",
+        "number": 7,
+        "shape": "token",
+        "set": "TVC",
+        "rotated": false,
+        "position": "62"
     },
     {
         "card_name": "Koma's Coil",
@@ -841,16 +841,8 @@
         "position": "43"
     },
     {
-        "card_name": "Voidseed Warrior",
-        "number": 14,
-        "shape": "token",
-        "set": "TVC",
-        "rotated": false,
-        "position": "93"
-    },
-    {
         "card_name": "Zombie",
-        "number": 15,
+        "number": 14,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -858,7 +850,7 @@
     },
     {
         "card_name": "Dwarf Berserker",
-        "number": 16,
+        "number": 15,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -866,7 +858,7 @@
     },
     {
         "card_name": "Elemental",
-        "number": 17,
+        "number": 16,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -874,7 +866,7 @@
     },
     {
         "card_name": "Bear",
-        "number": 18,
+        "number": 17,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -882,7 +874,7 @@
     },
     {
         "card_name": "Beast",
-        "number": 19,
+        "number": 18,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -890,7 +882,7 @@
     },
     {
         "card_name": "Elemental Rabbit",
-        "number": 20,
+        "number": 19,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -898,7 +890,7 @@
     },
     {
         "card_name": "Elemental Rabbit 2",
-        "number": 21,
+        "number": 20,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -906,7 +898,7 @@
     },
     {
         "card_name": "Elephant",
-        "number": 22,
+        "number": 21,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -914,7 +906,7 @@
     },
     {
         "card_name": "Insect",
-        "number": 23,
+        "number": 22,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -922,7 +914,7 @@
     },
     {
         "card_name": "Plant",
-        "number": 24,
+        "number": 23,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -930,7 +922,7 @@
     },
     {
         "card_name": "Plant Warrior",
-        "number": 25,
+        "number": 24,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -938,7 +930,7 @@
     },
     {
         "card_name": "Troll Warrior",
-        "number": 26,
+        "number": 25,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -946,7 +938,7 @@
     },
     {
         "card_name": "Voja",
-        "number": 27,
+        "number": 26,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -954,7 +946,7 @@
     },
     {
         "card_name": "Voja Fenstalker",
-        "number": 28,
+        "number": 27,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
@@ -962,11 +954,14 @@
     },
     {
         "card_name": "Voja, Friend to Elves",
-        "number": 29,
+        "number": 28,
         "shape": "token",
         "set": "TVC",
         "rotated": false,
         "position": "68"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Troll Warrior",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bear",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Rabbit",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Rabbit",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant Warrior",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Blood",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/22.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pilot",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Angel",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Clown Robot",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Sailor",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/41.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dwarf Berserker",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact Creature — Construct",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vehicle",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vehicle",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/48.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Ox",
-			"collector_number": "1",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/63.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elephant",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Wolf",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Wolf",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/67.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Wolf",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/68.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TVC-files/img/86.png"
 			}
@@ -931,23 +931,13 @@
 			}
 		},
 		{
-			"name": "Voidseed Warrior",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Voidseed Warrior",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVC-files/img/93.png"
-			}
-		},
-		{
 			"name": "Junk",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Junk",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVC-files/img/94.png"
+				"en": "https://Curio36.github.io/sets/TVC-files/img/93.png"
 			}
 		},
 		{
@@ -957,7 +947,7 @@
 			"type": "Enchantment",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVC-files/img/95.png"
+				"en": "https://Curio36.github.io/sets/TVC-files/img/94.png"
 			}
 		},
 		{
@@ -967,7 +957,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVC-files/img/96.png"
+				"en": "https://Curio36.github.io/sets/TVC-files/img/95.png"
 			}
 		},
 		{
@@ -977,7 +967,7 @@
 			"type": "Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVC-files/img/97.png"
+				"en": "https://Curio36.github.io/sets/TVC-files/img/96.png"
 			}
 		},
 		{
@@ -987,7 +977,7 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVC-files/img/98.png"
+				"en": "https://Curio36.github.io/sets/TVC-files/img/97.png"
 			}
 		},
 		{
@@ -997,7 +987,7 @@
 			"type": "Land",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVC-files/img/99.png"
+				"en": "https://Curio36.github.io/sets/TVC-files/img/98.png"
 			}
 		},
 		{
@@ -1007,7 +997,7 @@
 			"type": "Legendary Creature — Leviathan Avatar",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TVC-files/img/100.png"
+				"en": "https://Curio36.github.io/sets/TVC-files/img/99.png"
 			}
 		}
 	]

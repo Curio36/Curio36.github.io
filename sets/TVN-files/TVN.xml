@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-18</releasedate>
+			<releasedate>2026-09-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -264,7 +264,7 @@ Whenever this creature becomes tapped, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Engine Repairs</name>
-			<text>Return up to two target artifact or creature card with total mana value 3 or less from your graveyard to the battlefield.</text>
+			<text>Return up to two target artifact or creature cards with total mana value 3 or less from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/15.png" num="12">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3340,9 +3340,9 @@ At the beginning of combat on your turn, mill two cards, then this creature gets
 		</card>
 		<card>
 			<name>Len, Endless Tentacles</name>
-			<text>This spell costs {X} less to cast, where X is the greatest mana value among permanents you control.
+			<text>This spell costs {5} less to cast if creatures you control have total power 8 or greater.
 Ward—Pay 8 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 8 life.)
-Other creatures you control have base power and toughness 8/8.</text>
+Whenever Len attacks, other creatures you control have base power and toughness 8/8 until end of turn.</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVN-files/img/188.png" num="217">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5074,7 +5074,7 @@ When this creature enters, you may pay 2 life. If you do, you draw a card and cr
 		<card>
 			<name>Deadlights Leviathan</name>
 			<text>Yearling {2}{B}{B} — 3/3 (You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)
-When this creature enters or matures, return target creature card with mana value less than or equal to this creature&apos;s power from your graveyard to the battlefield tapped.</text>
+When this creature enters, if it was cast, return target creature card with mana value less than or equal to this creature&apos;s power from your graveyard to the battlefield tapped.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/290.png" num="82">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5348,7 +5348,7 @@ Creatures you control get +X/+0, where X is the number of cards you&apos;ve draw
 			<name>Gold Mine</name>
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
-{1}{R}{W}, Discard this card: Create two Treasure tokens.</text>
+{1}{R}{W}, Discard this card: Return target artifact card from your graveyard to your hand.</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/305.png" num="254">TVN</set>
 			<prop>
 				<layout>normal</layout>
