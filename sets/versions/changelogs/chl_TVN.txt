@@ -1,4 +1,84 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Eradicating Wave
+
+Cloudscape Kraken
+rules_text: Flying, vigilance
+Other creatures you control get +1/+1.
+Manufacture 3—{1}{W}{W} [i]({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i] => Flying, vigilance
+Other creatures you control get +1/+1.
+Manufacture 3—{1}{W}{W} [i]({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Glorycarved Masthead
+
+Shore Tyrant's Challenge
+
+Mindribbon Serpent
+rules_text: Mindribbon Serpent's power and toughness are each equal to twice the number of cards in your hand.
+Whenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.
+Manufacture 3—{2}{U}{U} [i]({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i] => Mindribbon Serpent's power and toughness are each equal to twice the number of cards in your hand.
+Whenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.
+Manufacture 3—{2}{U}{U} [i]({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Sea Witch's Wards
+
+Thirst for Power
+
+Titanic Haruspicy
+
+Fleetsinker
+rules_text: When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.
+Manufacture 3—{2}{B}{B} [i]({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i] => When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.
+Manufacture 3—{2}{B}{B} [i]({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Vile Gastrolith
+
+Magmawake Whale
+rules_text: Menace
+Whenever a creature attacks one of your opponents, it deals 1 damage to that player.
+Manufacture 3—{3}{R}{R} [i]({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i] => Menace
+Whenever a creature attacks one of your opponents, it deals 1 damage to that player.
+Manufacture 3—{3}{R}{R} [i]({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Powderkeg Explosion
+
+Propagated Bioship
+
+Isle-Mimic Leviathan
+rules_text: Trample
+You may play lands from your graveyard and you may play an additional land each turn.
+Manufacture 3—{2}{G}{G} [i]({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i] => Trample
+You may play an additional land on each of your turns.
+You may play lands from your graveyard.
+Manufacture 3—{2}{G}{G} [i]({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]
+
+Tin Isle Channeler
+
+Grandir, the Storm-Bodied
+
+Len, Endless Tentacles
+
+Pantry Filler
+
+Tiz'ek's Meltdown
+
+Quaking Tunneler
+
+Exuberant Podcaller
+
+Clattering Boneship
+
+Roaring Fleet Skirmisher
+
+Crackling Eel
+
+Vein Tyrant's Challenge
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

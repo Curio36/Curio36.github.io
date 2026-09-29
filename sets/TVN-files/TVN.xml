@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-21</releasedate>
+			<releasedate>2026-09-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -319,7 +319,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<name>Cloudscape Kraken</name>
 			<text>Flying, vigilance
 Other creatures you control get +1/+1.
-Manufacture 3—{1}{W}{W} ({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)</text>
+Manufacture 3—{1}{W}{W} ({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it. It&apos;s a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/18.png" num="1">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -945,7 +945,7 @@ Discard any number of cards, then draw that many cards.</text>
 			<name>Mindribbon Serpent</name>
 			<text>Mindribbon Serpent&apos;s power and toughness are each equal to twice the number of cards in your hand.
 Whenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.
-Manufacture 3—{2}{U}{U} ({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)</text>
+Manufacture 3—{2}{U}{U} ({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it. It&apos;s a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/53.png" num="60">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1425,7 +1425,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 		<card>
 			<name>Fleetsinker</name>
 			<text>When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.
-Manufacture 3—{2}{B}{B} ({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)</text>
+Manufacture 3—{2}{B}{B} ({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it. It&apos;s a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/80.png" num="87">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2204,7 +2204,7 @@ Equip {3}</text>
 			<name>Magmawake Whale</name>
 			<text>Menace
 Whenever a creature attacks one of your opponents, it deals 1 damage to that player.
-Manufacture 3—{3}{R}{R} ({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)</text>
+Manufacture 3—{3}{R}{R} ({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it. It&apos;s a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/124.png" num="141">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2602,8 +2602,9 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>Isle-Mimic Leviathan</name>
 			<text>Trample
-You may play lands from your graveyard and you may play an additional land each turn.
-Manufacture 3—{2}{G}{G} ({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)</text>
+You may play an additional land on each of your turns.
+You may play lands from your graveyard.
+Manufacture 3—{2}{G}{G} ({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it. It&apos;s a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/TVN-files/img/147.png" num="167">TVN</set>
 			<prop>
 				<layout>normal</layout>

@@ -362,7 +362,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sweeper"
         },
         {
             "card_name": "First Fleet Airship",
@@ -393,7 +393,7 @@
             "number": 1,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flying, vigilance\nOther creatures you control get +1/+1.\nManufacture 3\u2014{1}{W}{W} [i]({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]",
+            "rules_text": "Flying, vigilance\nOther creatures you control get +1/+1.\nManufacture 3\u2014{1}{W}{W} [i]({1}{W}{W}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -425,7 +425,7 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "GR-4E, Personal Guard",
@@ -656,7 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Skilled Shipwright",
@@ -1128,7 +1128,7 @@
             "number": 60,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "Mindribbon Serpent's power and toughness are each equal to twice the number of cards in your hand.\nWhenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.\nManufacture 3\u2014{2}{U}{U} [i]({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]",
+            "rules_text": "Mindribbon Serpent's power and toughness are each equal to twice the number of cards in your hand.\nWhenever you attack, draw a card. Then if you have fewer than four cards in hand, draw a card.\nManufacture 3\u2014{2}{U}{U} [i]({2}{U}{U}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "*/*",
             "special_text": "",
@@ -1265,7 +1265,7 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag counterspell"
         },
         {
             "card_name": "Seafoam Shackles",
@@ -1370,7 +1370,7 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag draw"
         },
         {
             "card_name": "Titanic Haruspicy",
@@ -1391,7 +1391,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag draw"
         },
         {
             "card_name": "Wash Overboard",
@@ -1695,7 +1695,7 @@
             "number": 87,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.\nManufacture 3\u2014{2}{B}{B} [i]({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]",
+            "rules_text": "When Fleetsinker enters or attacks, each opponent loses 3 life unless that player sacrifices a nontoken, nonland permanent of their choice or discards a card.\nManufacture 3\u2014{2}{B}{B} [i]({2}{B}{B}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2126,7 +2126,7 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sweeper"
         },
         {
             "card_name": "Basking Iguanin",
@@ -2619,7 +2619,7 @@
             "number": 141,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Menace\nWhenever a creature attacks one of your opponents, it deals 1 damage to that player.\nManufacture 3\u2014{3}{R}{R} [i]({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]",
+            "rules_text": "Menace\nWhenever a creature attacks one of your opponents, it deals 1 damage to that player.\nManufacture 3\u2014{3}{R}{R} [i]({3}{R}{R}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2777,7 +2777,7 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Tyrant's Demand",
@@ -3092,7 +3092,7 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Isle-Mimic Leviathan",
@@ -3102,7 +3102,7 @@
             "number": 167,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Trample\nYou may play lands from your graveyard and you may play an additional land each turn.\nManufacture 3\u2014{2}{G}{G} [i]({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it as a Vehicle artifact with crew 3 and it loses all other card types. Manufacture only as a sorcery.)[/i]",
+            "rules_text": "Trample\nYou may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nManufacture 3\u2014{2}{G}{G} [i]({2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it. It's a Vehicle artifact with crew 3 and loses all other card types. Manufacture only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -3365,7 +3365,7 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Tin Isle Lifetender",
@@ -3848,7 +3848,7 @@
             "alias": "",
             "position": "182",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Grandir's Trove",
@@ -3974,7 +3974,7 @@
             "alias": "",
             "position": "188",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Malzan the Shipwright",
@@ -4016,7 +4016,7 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Provisions Ship",
@@ -4205,7 +4205,7 @@
             "alias": "",
             "position": "199",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sweeper"
         },
         {
             "card_name": "Tyrant Territory",
@@ -5885,7 +5885,7 @@
             "alias": "",
             "position": "279",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Shallows Altisaur",
@@ -5948,7 +5948,7 @@
             "alias": "",
             "position": "282",
             "rotated": false,
-            "notes": "!tag wishlist"
+            "notes": "!tag wishlist\n!tag aggro-threat"
         },
         {
             "card_name": "Steelfin Dolphin",
@@ -6263,7 +6263,7 @@
             "alias": "",
             "position": "297",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Pirate's Blessing",
@@ -6515,7 +6515,7 @@
             "alias": "",
             "position": "309",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Crackling Eel",
@@ -6536,7 +6536,7 @@
             "alias": "",
             "position": "310",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Vein Tyrant's Challenge",
@@ -6557,7 +6557,7 @@
             "alias": "",
             "position": "311",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sweeper"
         }
     ]
 }
