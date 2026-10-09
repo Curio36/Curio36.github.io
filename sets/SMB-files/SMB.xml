@@ -5,7 +5,7 @@
 			<name>SMB</name>
 			<longname>Super Mario Brothers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-03</releasedate>
+			<releasedate>2026-10-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1701,7 +1701,7 @@ When this creature enters, you may shuffle up to two cards from your graveyard i
 		<card>
 			<name>Huey, Paint Pal</name>
 			<text>{T}: Add one mana of any color. When you use this mana to cast a multicolored spell, you gain 1 life for each of its colors beyond the first.
-Exhaust — {W}{U}{B}{R}{G}, {T}: Put two +1/+1 counters on Huey, then you draw two cards and gain 2 life. Huey becomes all colors. (Activate each exhaust ability only once.) (Activate each exhaust ability only once.)</text>
+Exhaust — {W}{U}{B}{R}{G}, {T}: Put two +1/+1 counters on Huey, then you draw two cards and gain 2 life. Huey becomes all colors. (Activate each exhaust ability only once.)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMB-files/img/96.png" num="241">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2263,7 +2263,7 @@ Whenever this creature enters or attacks, clear a stage, then put a +1/+1 counte
 			<name>Comet Observatory</name>
 			<text>This land enters tapped unless you control a legendary creature.
 {T}: Add {U}.
-Exhaust — {4}{U}, {T}: One or two target creatures you control each get +1/+1 and gain flying until end of turn. Activate only as a sorcery. (Activate each exhaust ability only once.) (Activate each exhaust ability only once.)</text>
+Exhaust — {4}{U}, {T}: One or two target creatures you control each get +1/+1 and gain flying until end of turn. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/127.png" num="251">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2730,7 +2730,7 @@ At the beginning of your end step, sacrifice this creature.</text>
 			<name>Smithy&apos;s Stolen Keep</name>
 			<text>This land enters tapped unless you control a legendary creature.
 {T}: Add {R}.
-Exhaust — {4}{R}, {T}: Create a token that&apos;s a copy of target artifact or creature you control except it has haste and &quot;At the beginning of your end step, sacrifice this token.&quot; Activate only as a sorcery. (Activate each exhaust ability only once.) (Activate each exhaust ability only once.)</text>
+Exhaust — {4}{R}, {T}: Create a token that&apos;s a copy of target artifact or creature you control except it has haste and &quot;At the beginning of your end step, sacrifice this token.&quot; Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/153.png" num="259">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2871,7 +2871,7 @@ Whenever Elephant Mario deals combat damage to a player, surveil 1, then draw a 
 			<name>Yoshi&apos;s Island</name>
 			<text>This land enters tapped unless you control a legendary creature.
 {T}: Add {G}.
-Exhaust — {2}{G}{G}, {T}: Choose a creature with the least toughness among creatures you control. Put X +1/+1 counters on it, where X is the greatest toughness among creatures you control. (Activate each exhaust ability only once.) (Activate each exhaust ability only once.)</text>
+Exhaust — {2}{G}{G}, {T}: Choose a creature with the least toughness among creatures you control. Put X +1/+1 counters on it, where X is the greatest toughness among creatures you control. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/161.png" num="260">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3427,7 +3427,7 @@ Mechawiggler gets +X/+0, where X is the amount of damage dealt to it this turn.<
 			<name>Bowser&apos;s Kingdom</name>
 			<text>This land enters tapped unless you control a legendary creature.
 {T}: Add {B}.
-Exhaust — {4}{B}, {T}: Create two X/X black Minion creature tokens with &quot;This token can&apos;t block&quot;, where X is the greatest power among creature cards in your graveyard. Activate only as a sorcery. (Activate each exhaust ability only once.) (Activate each exhaust ability only once.)</text>
+Exhaust — {4}{B}, {T}: Create two X/X black Minion creature tokens with &quot;This token can&apos;t block&quot;, where X is the greatest power among creature cards in your graveyard. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/192.png" num="250">SMB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4679,7 +4679,7 @@ If you control fewer lands than the opponent who controls the most lands, create
 			<name>Mushroom Kingdom</name>
 			<text>This land enters tapped unless you control a legendary creature.
 {T}: Add {W}.
-Exhaust — {2}{W}{W}, {T}: Exile target Aura card from your graveyard, then create a token that&apos;s a copy of it. Activate only as a sorcery. (Activate each exhaust ability only once.) (Activate each exhaust ability only once.)</text>
+Exhaust — {2}{W}{W}, {T}: Exile target Aura card from your graveyard, then create a token that&apos;s a copy of it. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMB-files/img/266.png" num="256">SMB</set>
 			<prop>
 				<layout>normal</layout>
