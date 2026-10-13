@@ -1,4 +1,52 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Fishy Rumormonger
+rules_text: Vigilance
+{2}, {T}: Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Vigilance
+{2}, {T}: Create a Clue token. Surveil 1. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.” To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Charred Isles Shovelbearer
+type: Creature — Human Scout => Creature — Human Scout Pirate
+
+Vedre Strait Caller
+type: Creature — Dryad Druid => Creature — Merfolk Druid
+
+Provisions Ship
+rules_text: When this Vehicle enters, create a tapped Treasure token. [i](Clues are artifact tokens with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Churning Landscape
+rules_text: {T}, Pay 1 life: Add {G}.
+{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. You gain 3 life. => {T}, Pay 1 life: Add {G}.
+{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+
+Abyssal Trilobite
+cost: {4}{U} => {4}{U}{U}
+rules_text: Yearling {U} — 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Vigilance
+When this creature enters or dies, surveil X, where X is its power. => Yearling {U} — 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Vigilance
+When this creature enters, surveil X, where X is its power. [i](To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+pt: 3/4 => 4/5
+special_text: Yearling {U} — 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Vigilance
+When this creature enters or dies, surveil X, where X is its power. => Yearling {U} — 1/2 [i](You may cast this spell with different mana cost and size. Pay its normal cost once to have it mature.)[/i]
+Vigilance
+When this creature enters, surveil X, where X is its power. [i](To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Roaring Fleet Skirmisher
+rules_text: Flash
+When this Vehicle enters, destroy up to one target artifact or creature you don't control. If a permanent is destroyed this way, that permanent's owner draws a card.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flash
+When this Vehicle enters, destroy up to one other target artifact or creature. If a permanent is destroyed this way, that permanent's owner draws a card.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
