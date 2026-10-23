@@ -1,0 +1,75 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "The Ever-Bleeding Ink",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/HOC-files/img/0.png"
+			}
+		},
+		{
+			"name": "The Ever-Gnashing Maw",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/HOC-files/img/1.png"
+			}
+		},
+		{
+			"name": "The Ever-Knowing Tiller",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}",
+			"type": "Legendary Creature — Zombie Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/HOC-files/img/2.png"
+			}
+		},
+		{
+			"name": "The Ever-Spreading Dune",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}{W}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/HOC-files/img/3.png"
+			}
+		},
+		{
+			"name": "The Ever-Watching Glint",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/HOC-files/img/4.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 The Ever-Bleeding Ink
+	1 The Ever-Gnashing Maw
+	1 The Ever-Knowing Tiller
+	1 The Ever-Spreading Dune
+	1 The Ever-Watching Glint
+[uncommon(3)]
+[common(6)]
+[common | masterpiece(1)]
+[foil(1)]
+	1 The Ever-Bleeding Ink
+	1 The Ever-Gnashing Maw
+	1 The Ever-Knowing Tiller
+	1 The Ever-Spreading Dune
+	1 The Ever-Watching Glint
+[wildcard(1)]
+	4 The Ever-Bleeding Ink
+	4 The Ever-Gnashing Maw
+	4 The Ever-Knowing Tiller
+	4 The Ever-Spreading Dune
+	4 The Ever-Watching Glint

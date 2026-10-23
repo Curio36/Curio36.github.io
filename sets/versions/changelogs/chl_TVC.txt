@@ -1,4 +1,20 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Grand Stateship, Mistcutter
+rules_text: Vehicles you control have vigilance and menace.
+{T}, Sacrifice another artifact or creature: Create a 1/1 white Sailor artifact creature token with “This token crews Vehicles as though its power were 2 greater.” If that permanent was legendary or a Vehicle, create two of those tokens instead.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Vehicles you control have vigilance and menace.
+{T}, Sacrifice another artifact or creature: Create a 1/1 white Sailor artifact creature token with “This token gets +2/+0 as long as it isn't attacking or blocking.” If that permanent was legendary or a Vehicle, create two of those tokens instead.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Sailor
+rules_text: This token crews Vehicles as though its power were 2 greater. => This token gets +2/+0 as long as it isn't attacking or blocking.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

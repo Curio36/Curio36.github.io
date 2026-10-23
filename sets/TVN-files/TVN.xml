@@ -5,7 +5,7 @@
 			<name>TVN</name>
 			<longname>Titans of Viludin</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-12</releasedate>
+			<releasedate>2026-10-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -123,7 +123,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>Cogwork Deckhands</name>
 			<text>Flash
-When this creature enters, create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater.&quot;</text>
+When this creature enters, create a 1/1 white Sailor artifact creature token with &quot;This token gets +2/+0 as long as it isn&apos;t attacking or blocking.&quot;</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/7.png" num="4">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -158,7 +158,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Deckhand&apos;s Blade</name>
-			<text>When this Equipment enters, create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater&quot;, then attach this Equipment to it.
+			<text>When this Equipment enters, create a 1/1 white Sailor artifact creature token with &quot;This token gets +2/+0 as long as it isn&apos;t attacking or blocking&quot;, then attach this Equipment to it.
 Equipped creature gets +1/+2
 Equip {1}{W}</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/9.png" num="6">TVN</set>
@@ -246,7 +246,7 @@ When this creature enters, create a 2/2 blue Construct artifact creature token.<
 		</card>
 		<card>
 			<name>Cog Maintainer</name>
-			<text>This creature crews Vehicles as though its power were 2 greater.
+			<text>This creature gets +2/+0 as long as it isn&apos;t attacking or blocking.
 Whenever this creature becomes tapped, you gain 1 life.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/14.png" num="2">TVN</set>
 			<prop>
@@ -2094,7 +2094,7 @@ Whenever this creature attacks, create two tapped Treasure tokens.</text>
 		<card>
 			<name>Lovebyrd&apos;s Galleon</name>
 			<text>Menace
-When this Vehicle enters, you may pay {2}. If you do, create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater&quot;
+When this Vehicle enters, you may pay {2}. If you do, create a 1/1 white Sailor artifact creature token with &quot;This token gets +2/+0 as long as it isn&apos;t attacking or blocking.&quot;
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/118.png" num="139">TVN</set>
 			<prop>
@@ -2496,7 +2496,7 @@ When this creature enters, return up to one target permanent card and up to one 
 		</card>
 		<card>
 			<name>Gilded Plating</name>
-			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (This instant can&apos;t be the target of spells or abilities your opponents control.)
+			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can&apos;t be the target of spells or abilities your opponents control.)
 Target player creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/141.png" num="162">TVN</set>
 			<prop>
@@ -4428,7 +4428,7 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Sailor TVN</name>
-			<text>This token crews Vehicles as though its power were 2 greater.</text>
+			<text>This token gets +2/+0 as long as it isn&apos;t attacking or blocking.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVN-files/img/254.png" num="2">TVN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4724,7 +4724,7 @@ This token can block only creatures with flying.</text>
 		<card>
 			<name>Surly Maintainer</name>
 			<text>When this creature enters, return up to one target artifact you control or artifact card in your graveyard to your hand.
-{4}: Create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater.&quot;</text>
+{4}: Create a 1/1 white Sailor artifact creature token with &quot;This token gets +2/+0 as long as it isn&apos;t attacking or blocking.&quot;</text>
 			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TVN-files/img/271.png" num="230">TVN</set>
 			<prop>
 				<layout>normal</layout>

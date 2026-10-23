@@ -1,4 +1,20 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Nantuko Waterweaver added.
+Captain Tcharok, Necrothrall added.
+Woods of the Dryad Mother added.
+
+Jorshu of Clan Nel Toth removed.
+
+Silver-Tongue Skald
+
+Tekerex, Porcelain Predator
+
+Abeena, Intrepid Hookslinger
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

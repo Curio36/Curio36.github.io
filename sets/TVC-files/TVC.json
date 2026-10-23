@@ -645,7 +645,7 @@
             "number": 40,
             "color_identity": "WBR",
             "cost": "{1}{R}{W}{B}",
-            "rules_text": "Vehicles you control have vigilance and menace.\n{T}, Sacrifice another artifact or creature: Create a 1/1 white Sailor artifact creature token with \u201cThis token crews Vehicles as though its power were 2 greater.\u201d If that permanent was legendary or a Vehicle, create two of those tokens instead.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "Vehicles you control have vigilance and menace.\n{T}, Sacrifice another artifact or creature: Create a 1/1 white Sailor artifact creature token with \u201cThis token gets +2/+0 as long as it isn't attacking or blocking.\u201d If that permanent was legendary or a Vehicle, create two of those tokens instead.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -876,7 +876,7 @@
             "number": 5,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "This token crews Vehicles as though its power were 2 greater.",
+            "rules_text": "This token gets +2/+0 as long as it isn't attacking or blocking.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2108,5 +2108,5 @@
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

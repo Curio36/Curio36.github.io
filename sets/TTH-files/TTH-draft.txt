@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Sailor",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TTH-files/img/2.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Enchantment Creature — Illusion",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TTH-files/img/4.png"
 			}
@@ -71,11 +71,11 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Nantuko Waterweaver",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Insect Druid",
-			"collector_number": "8",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TTH-files/img/7.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Faerie Wizard",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TTH-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Imp Rogue",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TTH-files/img/11.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Elf Wolf Ranger",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TTH-files/img/13.png"
 			}
@@ -171,23 +171,13 @@
 			}
 		},
 		{
-			"name": "Jorshu of Clan Nel Toth",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Legendary Creature — Human Druid",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TTH-files/img/17.png"
-			}
-		},
-		{
 			"name": "Silver-Tongue Skald",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Dwarf Bard",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TTH-files/img/18.png"
+				"en": "https://Curio36.github.io/sets/TTH-files/img/17.png"
 			}
 		},
 		{
@@ -197,7 +187,7 @@
 			"type": "Legendary Creature — Phyrexian",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/TTH-files/img/19.png"
+				"en": "https://Curio36.github.io/sets/TTH-files/img/18.png"
 			}
 		},
 		{
@@ -205,9 +195,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Kor Soldier Ally",
-			"collector_number": "9",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/TTH-files/img/19.png"
+			}
+		},
+		{
+			"name": "Captain Tcharok, Necrothrall",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Zombie Crocodile Pirate",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/TTH-files/img/20.png"
+			}
+		},
+		{
+			"name": "Woods of the Dryad Mother",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/TTH-files/img/21.png"
 			}
 		}
 	]
@@ -215,8 +225,9 @@
 [rare(1)]
 	2 Echoes Across Time
 	2 Subversive Sleeper
-	2 
+	2 Nantuko Waterweaver
 	2 The Admiral's Coffers
+	2 Woods of the Dryad Mother
 [uncommon(3)]
 	4 Cursetounge Kavu
 	4 Captain Hoyrik
@@ -229,10 +240,10 @@
 	4 Claire, Batfolk Astrologer
 	4 Grete, Odric's Right Hand
 	4 Himoto, Kami of the Spark
-	4 Jorshu of Clan Nel Toth
 	4 Silver-Tongue Skald
 	4 Tekerex, Porcelain Predator
 	4 Abeena, Intrepid Hookslinger
+	4 Captain Tcharok, Necrothrall
 [common(6)]
 [common | masterpiece(1)]
 [foil(1)]
@@ -242,7 +253,7 @@
 	6 Memories of Futures Lost
 	6 Stock Up
 	2 Subversive Sleeper
-	2 
+	2 Nantuko Waterweaver
 	6 Heron-Blessed Angel
 	6 Merrell, Tuinvale Glamerist
 	6 Kul, Time Crack Instigator
@@ -251,10 +262,11 @@
 	6 Claire, Batfolk Astrologer
 	6 Grete, Odric's Right Hand
 	6 Himoto, Kami of the Spark
-	6 Jorshu of Clan Nel Toth
 	6 Silver-Tongue Skald
 	6 Tekerex, Porcelain Predator
 	6 Abeena, Intrepid Hookslinger
+	6 Captain Tcharok, Necrothrall
+	2 Woods of the Dryad Mother
 [wildcard(1)]
 	15 Cursetounge Kavu
 	15 Captain Hoyrik
@@ -262,7 +274,7 @@
 	15 Memories of Futures Lost
 	15 Stock Up
 	7 Subversive Sleeper
-	7 
+	7 Nantuko Waterweaver
 	15 Heron-Blessed Angel
 	15 Merrell, Tuinvale Glamerist
 	15 Kul, Time Crack Instigator
@@ -271,7 +283,8 @@
 	15 Claire, Batfolk Astrologer
 	15 Grete, Odric's Right Hand
 	15 Himoto, Kami of the Spark
-	15 Jorshu of Clan Nel Toth
 	15 Silver-Tongue Skald
 	15 Tekerex, Porcelain Predator
 	15 Abeena, Intrepid Hookslinger
+	15 Captain Tcharok, Necrothrall
+	7 Woods of the Dryad Mother

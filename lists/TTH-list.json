@@ -65,7 +65,7 @@
         "shape": "adventure",
         "set": "TTH",
         "rotated": false,
-        "position": "18"
+        "position": "17"
     },
     {
         "card_name": "e"
@@ -94,7 +94,7 @@
     "a->gold",
     {
         "card_name": "Captain Hoyrik",
-        "number": 10,
+        "number": 9,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -110,7 +110,7 @@
     },
     {
         "card_name": "Kul, Time Crack Instigator",
-        "number": 16,
+        "number": 15,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -118,7 +118,7 @@
     },
     {
         "card_name": "Keyn and Ruckus, Wild Pair",
-        "number": 15,
+        "number": 14,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -130,7 +130,7 @@
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
-        "position": "19"
+        "position": "18"
     },
     {
         "card_name": "er"
@@ -164,24 +164,24 @@
         "position": "3"
     },
     {
-        "card_name": "Jorshu of Clan Nel Toth",
-        "number": 14,
-        "shape": "normal",
-        "set": "TTH",
-        "rotated": false,
-        "position": "17"
-    },
-    {
-        "card_name": "Abeena, Intrepid Hookslinger",
-        "number": 9,
+        "card_name": "Captain Tcharok, Necrothrall",
+        "number": 10,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
         "position": "20"
     },
     {
-        "card_name": "",
+        "card_name": "Abeena, Intrepid Hookslinger",
         "number": 8,
+        "shape": "normal",
+        "set": "TTH",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Nantuko Waterweaver",
+        "number": 18,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -192,7 +192,7 @@
     },
     {
         "card_name": "Memories of Futures Lost",
-        "number": 17,
+        "number": 16,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
@@ -206,11 +206,44 @@
     },
     {
         "card_name": "Merrell, Tuinvale Glamerist",
-        "number": 18,
+        "number": 17,
         "shape": "normal",
         "set": "TTH",
         "rotated": false,
         "position": "10"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Woods of the Dryad Mother",
+        "number": 20,
+        "shape": "normal",
+        "set": "TTH",
+        "rotated": false,
+        "position": "21"
     },
     {
         "card_name": "er"

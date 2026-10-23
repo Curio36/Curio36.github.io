@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>HOC</name>
+			<longname>Horizons Commander</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-10-22</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>The Ever-Bleeding Ink</name>
+			<text>Spells you cast with exactly one target cost {2} less to cast.
+Whenever you copy a spell, put a +1/+1 counter on The Ever-Bleeding Ink.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/HOC-files/img/0.png" num="1">HOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>RGWU</manacost>
+				<cmc>4</cmc>
+				<colors>WURG</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Ever-Gnashing Maw</name>
+			<text>Trample
+Whenever you cast a creature spell, The Ever-Gnashing Maw gets +X/+0 until end of turn, where X is that spell&apos;s mana value.
+Whenever The Ever-Gnashing Maw deals 10 or more combat damage to a player, create a token that&apos;s a copy of target creature.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/HOC-files/img/1.png" num="2">HOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>GWUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUBG</colors>
+				<coloridentity>WUBG</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Ever-Knowing Tiller</name>
+			<text>When The Ever-Knowing Tiller enters, reveal cards from the top of your library until you reveal two creature cards. Put those creature cards into your graveyard and the rest on the bottom of your library in a random order.
+Whenever one or more creature cards leave your graveyard, you draw a card and gain 2 life. This ability triggers only once each turn.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/HOC-files/img/2.png" num="3">HOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBR</manacost>
+				<cmc>4</cmc>
+				<colors>WUBR</colors>
+				<coloridentity>WUBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Ever-Spreading Dune</name>
+			<text>During your turn, creature tokens you control have menace.
+When The Ever-Spreading Dune enters, if they were cast, create a tapped 1/1 colorless Sand creature token for each land type among lands you control.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/HOC-files/img/3.png" num="4">HOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>BRGW</manacost>
+				<cmc>4</cmc>
+				<colors>WBRG</colors>
+				<coloridentity>WBRG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Ever-Watching Glint</name>
+			<text>Whenever a player discards one or more cards, target creature can&apos;t be blocked this turn.
+Whenever one or more creatures deal combat damage to your opponents, those creatures&apos; controller draws a card for each of your opponents dealt damage and may put a land card from their hand onto the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/HOC-files/img/4.png" num="5">HOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>UBRG</manacost>
+				<cmc>4</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

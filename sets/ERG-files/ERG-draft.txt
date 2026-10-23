@@ -541,23 +541,13 @@
 			}
 		},
 		{
-			"name": "Immense Tusks, Herdcaller",
-			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Legendary Creature — Elephant Avatar",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/54.png"
-			}
-		},
-		{
 			"name": "Feref Boughs Widow",
 			"rarity": "common",
 			"mana_cost": "{3}{B/G}",
 			"type": "Creature — Spider",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/55.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/54.png"
 			}
 		},
 		{
@@ -567,7 +557,7 @@
 			"type": "Creature — Fungus Insect",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/56.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/55.png"
 			}
 		},
 		{
@@ -577,7 +567,7 @@
 			"type": "Creature — Monkey",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/57.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/56.png"
 			}
 		},
 		{
@@ -587,7 +577,7 @@
 			"type": "Creature — Ape",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/58.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/57.png"
 			}
 		},
 		{
@@ -597,7 +587,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/59.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/58.png"
 			}
 		},
 		{
@@ -607,7 +597,7 @@
 			"type": "Legendary Creature — Bird Avatar",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/60.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/59.png"
 			}
 		},
 		{
@@ -617,7 +607,7 @@
 			"type": "Creature — Unicorn",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/61.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/60.png"
 			}
 		},
 		{
@@ -627,7 +617,7 @@
 			"type": "Creature — Hedgehog",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/62.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/61.png"
 			}
 		},
 		{
@@ -637,7 +627,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/63.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/62.png"
 			}
 		},
 		{
@@ -647,7 +637,7 @@
 			"type": "Enchantment",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/64.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/63.png"
 			}
 		},
 		{
@@ -657,7 +647,7 @@
 			"type": "Legendary Creature — Griffin",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/65.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/64.png"
 			}
 		},
 		{
@@ -667,7 +657,7 @@
 			"type": "Land",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/66.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/65.png"
 			}
 		},
 		{
@@ -677,7 +667,7 @@
 			"type": "Land",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/67.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/66.png"
 			}
 		},
 		{
@@ -687,7 +677,7 @@
 			"type": "Land",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/68.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/67.png"
 			}
 		},
 		{
@@ -697,7 +687,7 @@
 			"type": "Land",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/69.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/68.png"
 			}
 		},
 		{
@@ -707,7 +697,7 @@
 			"type": "Land",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/70.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/69.png"
 			}
 		},
 		{
@@ -717,7 +707,7 @@
 			"type": "Creature — Tapir",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/71.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/70.png"
 			}
 		},
 		{
@@ -727,7 +717,7 @@
 			"type": "Land",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/72.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/71.png"
 			}
 		},
 		{
@@ -737,7 +727,7 @@
 			"type": "Creature — Lizard Mutant",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/73.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/72.png"
 			}
 		},
 		{
@@ -747,7 +737,7 @@
 			"type": "Land",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/74.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/73.png"
 			}
 		},
 		{
@@ -757,7 +747,7 @@
 			"type": "Land",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/75.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/74.png"
 			}
 		},
 		{
@@ -767,7 +757,7 @@
 			"type": "Land",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/76.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/75.png"
 			}
 		},
 		{
@@ -777,7 +767,7 @@
 			"type": "Land",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/ERG-files/img/77.png"
+				"en": "https://Curio36.github.io/sets/ERG-files/img/76.png"
 			}
 		},
 		{
@@ -786,6 +776,16 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/ERG-files/img/77.png"
+			}
+		},
+		{
+			"name": "Immense Tusks, Herdcaller",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Elephant Avatar",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/ERG-files/img/78.png"
 			}
@@ -816,10 +816,10 @@
 	2 Mindleech Swarm
 	2 Mistborne Griffin
 	2 Poach
-	2 Immense Tusks, Herdcaller
 	2 Territorial Silverback
 	2 Luminous Wings, Nesttender
 	2 Skydance, Graceful Predator
+	2 Immense Tusks, Herdcaller
 [uncommon(3)]
 	4 Trace of Forbidden Knowledge
 	4 Trace of Living Death
@@ -953,7 +953,6 @@
 	6 Shadow-Eye Raven
 	12 Stalking Poacher
 	2 Poach
-	2 Immense Tusks, Herdcaller
 	12 Feref Boughs Widow
 	6 Fungal Beetle
 	6 Mischievous Monkey
@@ -977,6 +976,7 @@
 	12 Fruitful Clearing
 	12 Lodo Geysers
 	12 Mossyrock River Basin
+	2 Immense Tusks, Herdcaller
 [wildcard(1)]
 	4 Vivien, Wildheart Defender
 	4 Karlos, Spark Surveyor
@@ -1032,7 +1032,6 @@
 	15 Shadow-Eye Raven
 	6 Stalking Poacher
 	7 Poach
-	7 Immense Tusks, Herdcaller
 	6 Feref Boughs Widow
 	15 Fungal Beetle
 	15 Mischievous Monkey
@@ -1056,3 +1055,4 @@
 	6 Fruitful Clearing
 	6 Lodo Geysers
 	6 Mossyrock River Basin
+	7 Immense Tusks, Herdcaller

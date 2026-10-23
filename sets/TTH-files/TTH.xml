@@ -5,7 +5,7 @@
 			<name>TTH</name>
 			<longname>To The Horizon</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-08</releasedate>
+			<releasedate>2026-10-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -55,7 +55,7 @@ GU Harmonic (Artifacts + Enchantments)</text>
 		<card>
 			<name>Captain Hoyrik</name>
 			<text>Whenever Captain Hoyrik or another nontoken creature you control with power 2 or less enters, scry 1, then draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/2.png" num="10">TTH</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/2.png" num="9">TTH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -93,7 +93,7 @@ Whenever you cast a sorcery spell from your hand, you may cast an instant spell 
 Whenever Memories of Futures Lost deals combat damage to a player, draw a card, then discard a card. When you do, choose one—
 • You may play the discarded card this turn. (You still pay its costs. Timing restrictions still apply.)
 • Create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/4.png" num="17">TTH</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/4.png" num="16">TTH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -142,9 +142,9 @@ When this creature enters, if it was cast, counter up to one target spell, then 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Nantuko Waterweaver</name>
 			<text>When this creature enters, if it was cast, untap each basic land you control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/TTH-files/img/7.png" num="8">TTH</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TTH-files/img/7.png" num="18">TTH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -154,6 +154,7 @@ When this creature enters, if it was cast, counter up to one target spell, then 
 				<cmc>5</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -198,7 +199,7 @@ When this creature enters, create a 1/1 white Human creature token.</text>
 			<name>Merrell, Tuinvale Glamerist</name>
 			<text>Flying
 Merrell&apos;s power is equal to the number of artifacts you control plus the number of enchantments you control.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/10.png" num="18">TTH</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/10.png" num="17">TTH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -216,7 +217,7 @@ Merrell&apos;s power is equal to the number of artifacts you control plus the nu
 			<name>Kul, Time Crack Instigator</name>
 			<text>When Kul enters, discard a card, then create two Junk tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
 Paradox — Whenever you cast a spell from anywhere other than your hand, target creature you control gets +1/+0 and gains menace until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/11.png" num="16">TTH</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/11.png" num="15">TTH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -252,7 +253,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, target
 			<name>Keyn and Ruckus, Wild Pair</name>
 			<text>Trample
 Whenever you choose one or more modes for a spell or ability, put two +1/+1 counters on Keyn and Ruckus. If those modes were for an ability of another creature you control, you may put a +1/+1 counter on that creature.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/13.png" num="15">TTH</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/13.png" num="14">TTH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -322,25 +323,6 @@ Whenever Himoto deals combat damage to a player, look at the top two cards of yo
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Jorshu of Clan Nel Toth</name>
-			<text>Whenever Jorshu or another nontoken creature you control enters, surveil 1.
-Descend 4 — At the beginning of your end step, if there are four or more permanent cards in you graveyard, create a 1/1 green Saproling creature token.
-Descend 8 — Jorshu and Saprolings you control get +1/+0 and have menace as long as there are eight or more permanent cards in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/17.png" num="14">TTH</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Druid</type>
-				<maintype>Creature</maintype>
-				<manacost>1BG</manacost>
-				<cmc>3</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Silver-Tongue Skald // Recall the Tales</name>
 			<text>Lifelink
 Whenever you cast an enchantment spell, this creature becomes prepared. This ability triggers only once each turn. (While it&apos;s prepared, you may cast a copy of its spell. Doing so unprepares it.)
@@ -348,7 +330,7 @@ Whenever you cast an enchantment spell, this creature becomes prepared. This abi
 ---
 
 You gain 2 life and draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/18.png" num="3">TTH</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/17.png" num="3">TTH</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -366,7 +348,7 @@ You gain 2 life and draw a card.</text>
 			<name>Tekerex, Porcelain Predator</name>
 			<text>Reach
 When Tekerex enters or attacks, you may sacrifice another artifact, creature, or enchantment. If you do, you draw a card and gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/19.png" num="19">TTH</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/18.png" num="19">TTH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -384,7 +366,7 @@ When Tekerex enters or attacks, you may sacrifice another artifact, creature, or
 			<name>Abeena, Intrepid Hookslinger</name>
 			<text>During your turn, Abeena has flying.
 Landfall — Whenever a land you control enters, Abeena gets +2/+0 until end of turn. You may discard a card. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/20.png" num="9">TTH</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/19.png" num="8">TTH</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -397,6 +379,42 @@ Landfall — Whenever a land you control enters, Abeena gets +2/+0 until end of 
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain Tcharok, Necrothrall</name>
+			<text>Trample
+Captain Tcharok can&apos;t attack or block unless you&apos;ve scried or surveilled this turn.
+Whenever Captain Tcharok deals combat damage to a player, that player discards a card.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/TTH-files/img/20.png" num="10">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Crocodile Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Woods of the Dryad Mother</name>
+			<text>This land enters tapped during any player&apos;s first or second turns of the game.
+{T}: Add {G}.
+{1}{G}, {T}: Until end of turn, creature spells you cast and abilities from creature sources you control can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/TTH-files/img/21.png" num="20">TTH</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

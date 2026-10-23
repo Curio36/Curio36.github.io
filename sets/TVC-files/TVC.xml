@@ -5,7 +5,7 @@
 			<name>TVC</name>
 			<longname>Titans of Viludin Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-21</releasedate>
+			<releasedate>2026-10-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -546,7 +546,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		<card>
 			<name>Grand Stateship, Mistcutter</name>
 			<text>Vehicles you control have vigilance and menace.
-{T}, Sacrifice another artifact or creature: Create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater.&quot; If that permanent was legendary or a Vehicle, create two of those tokens instead.
+{T}, Sacrifice another artifact or creature: Create a 1/1 white Sailor artifact creature token with &quot;This token gets +2/+0 as long as it isn&apos;t attacking or blocking.&quot; If that permanent was legendary or a Vehicle, create two of those tokens instead.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="mythic" picurl="https://Curio36.github.io/sets/TVC-files/img/30.png" num="40">TVC</set>
 			<prop>
@@ -725,7 +725,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		</card>
 		<card>
 			<name>Sailor TVC</name>
-			<text>This token crews Vehicles as though its power were 2 greater.</text>
+			<text>This token gets +2/+0 as long as it isn&apos;t attacking or blocking.</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/TVC-files/img/41.png" num="5">TVC</set>
 			<prop>
 				<layout>normal</layout>

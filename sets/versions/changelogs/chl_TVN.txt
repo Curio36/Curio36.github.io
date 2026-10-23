@@ -1,4 +1,47 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Cogwork Deckhands
+rules_text: Flash
+When this creature enters, create a 1/1 white Sailor artifact creature token with “This token crews Vehicles as though its power were 2 greater.” => Flash
+When this creature enters, create a 1/1 white Sailor artifact creature token with “This token gets +2/+0 as long as it isn't attacking or blocking.”
+
+Deckhand's Blade
+rules_text: When this Equipment enters, create a 1/1 white Sailor artifact creature token with “This token crews Vehicles as though its power were 2 greater”, then attach this Equipment to it.
+Equipped creature gets +1/+2
+Equip {1}{W} => When this Equipment enters, create a 1/1 white Sailor artifact creature token with “This token gets +2/+0 as long as it isn't attacking or blocking”, then attach this Equipment to it.
+Equipped creature gets +1/+2
+Equip {1}{W}
+
+Cog Maintainer
+rules_text: This creature crews Vehicles as though its power were 2 greater.
+Whenever this creature becomes tapped, you gain 1 life. => This creature gets +2/+0 as long as it isn't attacking or blocking.
+Whenever this creature becomes tapped, you gain 1 life.
+
+Lovebyrd's Galleon
+rules_text: Menace
+When this Vehicle enters, you may pay {2}. If you do, create a 1/1 white Sailor artifact creature token with “This token crews Vehicles as though its power were 2 greater”
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Menace
+When this Vehicle enters, you may pay {2}. If you do, create a 1/1 white Sailor artifact creature token with “This token gets +2/+0 as long as it isn't attacking or blocking.”
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Gilded Plating
+rules_text: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](This instant can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. [i](It can't be the target of spells or abilities your opponents control.)[/i]
+Target player creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Sailor
+rules_text: This token crews Vehicles as though its power were 2 greater. => This token gets +2/+0 as long as it isn't attacking or blocking.
+
+Surly Maintainer
+rules_text: When this creature enters, return up to one target artifact you control or artifact card in your graveyard to your hand.
+{4}: Create a 1/1 white Sailor artifact creature token with “This token crews Vehicles as though its power were 2 greater.” => When this creature enters, return up to one target artifact you control or artifact card in your graveyard to your hand.
+{4}: Create a 1/1 white Sailor artifact creature token with “This token gets +2/+0 as long as it isn't attacking or blocking.”
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
