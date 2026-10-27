@@ -5,7 +5,7 @@
 			<name>SMB</name>
 			<longname>Super Mario Brothers</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-09</releasedate>
+			<releasedate>2026-10-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -333,7 +333,7 @@ When this creature enters, you and target opponent each draw a card.
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Dog Citizen</type>
+				<type>Creature — Dog Merchant</type>
 				<maintype>Creature</maintype>
 				<manacost>3W</manacost>
 				<cmc>4</cmc>
@@ -3865,7 +3865,7 @@ Whenever this creature attacks, it gains first strike until end of turn. If you&
 		<card>
 			<name>Power Balloon</name>
 			<text>Enchant creature
-Enchanted creature gets +1/+1 and has flying.
+Enchanted creature gets +2/+2 and has flying.
 Stock (You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMB-files/img/218.png" num="64">SMB</set>
 			<prop>
@@ -3873,8 +3873,8 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>

@@ -184,7 +184,7 @@
 			"name": "Tanuki Shopkeepers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Dog Citizen",
+			"type": "Creature — Dog Merchant",
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMB-files/img/18.png"
@@ -2183,7 +2183,7 @@
 		{
 			"name": "Power Balloon",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "64",
 			"image_uris": {

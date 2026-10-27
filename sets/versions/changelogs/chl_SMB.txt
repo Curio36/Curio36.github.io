@@ -1,4 +1,21 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Tanuki Shopkeepers
+type: Creature — Dog Citizen => Creature — Dog Merchant
+
+Power Balloon
+cost: {1}{U} => {2}{U}
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i] => Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+Stock [i](You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

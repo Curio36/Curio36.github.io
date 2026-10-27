@@ -1,0 +1,608 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Pink Gold Peach",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/0.png"
+			}
+		},
+		{
+			"name": "Our Princess Is In Another Castle!",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/1.png"
+			}
+		},
+		{
+			"name": "Bowser's Bigger Blast",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/2.png"
+			}
+		},
+		{
+			"name": "Donkey Kong",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Creature — Ape Shaman",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/3.png"
+			}
+		},
+		{
+			"name": "Donkey Kong Jr.",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Monkey Noble",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/4.png"
+			}
+		},
+		{
+			"name": "Rosalina's Storybook",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Artifact — Book",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/5.png"
+			}
+		},
+		{
+			"name": "Bowser, Galactic Threat",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Dragon Avatar",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/6.png"
+			}
+		},
+		{
+			"name": "♡ ♪！？ (Geno)",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Artifact Creature — Toy",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/7.png"
+			}
+		},
+		{
+			"name": "Mallow, Adopted Tadpole",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Frog Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/8.png"
+			}
+		},
+		{
+			"name": "POW Block",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/9.png"
+			}
+		},
+		{
+			"name": "Squawks",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/10.png"
+			}
+		},
+		{
+			"name": "Bogmire",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/11.png"
+			}
+		},
+		{
+			"name": "Mimi, I'm Not Nice",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/12.png"
+			}
+		},
+		{
+			"name": "Dimentio, It's Showtime",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/13.png"
+			}
+		},
+		{
+			"name": "Nastasia, Bleck's Second",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/14.png"
+			}
+		},
+		{
+			"name": "O'Chunks, Warrior",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/15.png"
+			}
+		},
+		{
+			"name": "Super Crown",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/16.png"
+			}
+		},
+		{
+			"name": "World 1-1",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/17.png"
+			}
+		},
+		{
+			"name": "Pauline",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/18.png"
+			}
+		},
+		{
+			"name": "Mario, Older Brother",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/19.png"
+			}
+		},
+		{
+			"name": "Luigi, Younger Brother",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/20.png"
+			}
+		},
+		{
+			"name": "Princess Peach",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/21.png"
+			}
+		},
+		{
+			"name": "Princess Daisy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/22.png"
+			}
+		},
+		{
+			"name": "Wario, Wafty Wonder",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Halfling Rogue",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/23.png"
+			}
+		},
+		{
+			"name": "Waluigi, Duos Partner",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/24.png"
+			}
+		},
+		{
+			"name": "Princess Rosalina",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/25.png"
+			}
+		},
+		{
+			"name": "Toad, Mushroom Retainer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Phyrexian Fungus",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/26.png"
+			}
+		},
+		{
+			"name": "Yoshi, Friendly Steed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Brushwagg Mount",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/27.png"
+			}
+		},
+		{
+			"name": "Count Bleck, Longing",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Archon",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/28.png"
+			}
+		},
+		{
+			"name": "Gold and Silver Fireballs",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/29.png"
+			}
+		},
+		{
+			"name": "Huey, Port Prisma's Savior",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/30.png"
+			}
+		},
+		{
+			"name": "Bowser Jr.",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B/P}{B/P}{B/P}",
+			"type": "Legendary Creature — Phyrexian Horror Minion",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/31.png"
+			}
+		},
+		{
+			"name": "Kamek, Magikoopa",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/32.png"
+			}
+		},
+		{
+			"name": "King Grambi of the Overthere",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/33.png"
+			}
+		},
+		{
+			"name": "Bowser, Big Bad",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Dragon Noble",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/34.png"
+			}
+		},
+		{
+			"name": "Poltergust 3000",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/35.png"
+			}
+		},
+		{
+			"name": "Queen Jaydes of the Underwhere",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/36.png"
+			}
+		},
+		{
+			"name": "Dorrie, Hazy Maze Sea Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Elder Dinosaur",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/37.png"
+			}
+		},
+		{
+			"name": "Clawswipe Colosseum",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/38.png"
+			}
+		},
+		{
+			"name": "The Last Resort",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/39.png"
+			}
+		},
+		{
+			"name": "Enguarde",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/40.png"
+			}
+		},
+		{
+			"name": "Top-Hat Tower",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/41.png"
+			}
+		},
+		{
+			"name": "Toad House Minigame",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/42.png"
+			}
+		},
+		{
+			"name": "Mario, Mushroom Kingdom Hero",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/43.png"
+			}
+		},
+		{
+			"name": "Forest of Illusion",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/44.png"
+			}
+		},
+		{
+			"name": "Tick Tock Clock",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SUP-files/img/45.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Pink Gold Peach
+	1 Our Princess Is In Another Castle!
+	1 Bowser's Bigger Blast
+	1 Donkey Kong
+	1 Donkey Kong Jr.
+	1 Rosalina's Storybook
+	1 Bowser, Galactic Threat
+	1 ♡ ♪！？ (Geno)
+	1 Mallow, Adopted Tadpole
+	1 POW Block
+	1 Squawks
+	1 Bogmire
+	1 Mimi, I'm Not Nice
+	1 Dimentio, It's Showtime
+	1 Nastasia, Bleck's Second
+	1 O'Chunks, Warrior
+	1 Super Crown
+	1 World 1-1
+	1 Pauline
+	1 Mario, Older Brother
+	1 Luigi, Younger Brother
+	1 Princess Peach
+	1 Princess Daisy
+	1 Wario, Wafty Wonder
+	1 Waluigi, Duos Partner
+	1 Princess Rosalina
+	1 Toad, Mushroom Retainer
+	1 Yoshi, Friendly Steed
+	1 Count Bleck, Longing
+	1 Gold and Silver Fireballs
+	1 Huey, Port Prisma's Savior
+	1 Bowser Jr.
+	1 Kamek, Magikoopa
+	1 King Grambi of the Overthere
+	1 Bowser, Big Bad
+	1 Poltergust 3000
+	1 Queen Jaydes of the Underwhere
+	1 Dorrie, Hazy Maze Sea Dragon
+	1 Clawswipe Colosseum
+	1 The Last Resort
+	1 Enguarde
+	1 Top-Hat Tower
+	1 Toad House Minigame
+	1 Mario, Mushroom Kingdom Hero
+	1 Forest of Illusion
+	1 Tick Tock Clock
+[uncommon(3)]
+[common(6)]
+[common | masterpiece(1)]
+[foil(1)]
+	1 Pink Gold Peach
+	1 Our Princess Is In Another Castle!
+	1 Bowser's Bigger Blast
+	1 Donkey Kong
+	1 Donkey Kong Jr.
+	1 Rosalina's Storybook
+	1 Bowser, Galactic Threat
+	1 ♡ ♪！？ (Geno)
+	1 Mallow, Adopted Tadpole
+	1 POW Block
+	1 Squawks
+	1 Bogmire
+	1 Mimi, I'm Not Nice
+	1 Dimentio, It's Showtime
+	1 Nastasia, Bleck's Second
+	1 O'Chunks, Warrior
+	1 Super Crown
+	1 World 1-1
+	1 Pauline
+	1 Mario, Older Brother
+	1 Luigi, Younger Brother
+	1 Princess Peach
+	1 Princess Daisy
+	1 Wario, Wafty Wonder
+	1 Waluigi, Duos Partner
+	1 Princess Rosalina
+	1 Toad, Mushroom Retainer
+	1 Yoshi, Friendly Steed
+	1 Count Bleck, Longing
+	1 Gold and Silver Fireballs
+	1 Huey, Port Prisma's Savior
+	1 Bowser Jr.
+	1 Kamek, Magikoopa
+	1 King Grambi of the Overthere
+	1 Bowser, Big Bad
+	1 Poltergust 3000
+	1 Queen Jaydes of the Underwhere
+	1 Dorrie, Hazy Maze Sea Dragon
+	1 Clawswipe Colosseum
+	1 The Last Resort
+	1 Enguarde
+	1 Top-Hat Tower
+	1 Toad House Minigame
+	1 Mario, Mushroom Kingdom Hero
+	1 Forest of Illusion
+	1 Tick Tock Clock
+[wildcard(1)]
+	4 Pink Gold Peach
+	4 Our Princess Is In Another Castle!
+	4 Bowser's Bigger Blast
+	4 Donkey Kong
+	4 Donkey Kong Jr.
+	4 Rosalina's Storybook
+	4 Bowser, Galactic Threat
+	4 ♡ ♪！？ (Geno)
+	4 Mallow, Adopted Tadpole
+	4 POW Block
+	4 Squawks
+	4 Bogmire
+	4 Mimi, I'm Not Nice
+	4 Dimentio, It's Showtime
+	4 Nastasia, Bleck's Second
+	4 O'Chunks, Warrior
+	4 Super Crown
+	4 World 1-1
+	4 Pauline
+	4 Mario, Older Brother
+	4 Luigi, Younger Brother
+	4 Princess Peach
+	4 Princess Daisy
+	4 Wario, Wafty Wonder
+	4 Waluigi, Duos Partner
+	4 Princess Rosalina
+	4 Toad, Mushroom Retainer
+	4 Yoshi, Friendly Steed
+	4 Count Bleck, Longing
+	4 Gold and Silver Fireballs
+	4 Huey, Port Prisma's Savior
+	4 Bowser Jr.
+	4 Kamek, Magikoopa
+	4 King Grambi of the Overthere
+	4 Bowser, Big Bad
+	4 Poltergust 3000
+	4 Queen Jaydes of the Underwhere
+	4 Dorrie, Hazy Maze Sea Dragon
+	4 Clawswipe Colosseum
+	4 The Last Resort
+	4 Enguarde
+	4 Top-Hat Tower
+	4 Toad House Minigame
+	4 Mario, Mushroom Kingdom Hero
+	4 Forest of Illusion
+	4 Tick Tock Clock
