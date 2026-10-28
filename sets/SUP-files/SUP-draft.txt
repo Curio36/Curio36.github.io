@@ -483,7 +483,7 @@
 		{
 			"name": "King Smithy",
 			"rarity": "mythic",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{4}{U}{R}",
 			"type": "Legendary Artifact Creature — Phyrexian Artificer",
 			"collector_number": "40",
 			"image_uris": {

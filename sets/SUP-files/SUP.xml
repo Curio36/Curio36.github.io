@@ -874,8 +874,8 @@ At the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifac
 				<side>front</side>
 				<type>Legendary Artifact Creature — Phyrexian Artificer</type>
 				<maintype>Creature</maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 				<pt>4/4</pt>
