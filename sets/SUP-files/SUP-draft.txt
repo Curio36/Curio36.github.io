@@ -5,7 +5,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "51",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}",
 			"type": "Enchantment",
-			"collector_number": "32",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Creature — Ape Shaman",
-			"collector_number": "38",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Monkey Noble",
-			"collector_number": "39",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/4.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Dragon Avatar",
-			"collector_number": "43",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/6.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Frog Wizard",
-			"collector_number": "47",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "19",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "21",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "26",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Spider Horror",
-			"collector_number": "30",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Elder Demon",
-			"collector_number": "44",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "25",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "36",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{7}",
 			"type": "Legendary Enchantment — Aura",
-			"collector_number": "16",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/16.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "18",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "49",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "46",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "20",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Vampire Noble",
-			"collector_number": "52",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Halfling Rogue",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "37",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "53",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Phyrexian Fungus",
-			"collector_number": "40",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Brushwagg Mount",
-			"collector_number": "41",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Creature — Archon",
-			"collector_number": "29",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "33",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/29.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B/P}{B/P}{B/P}",
 			"type": "Legendary Creature — Phyrexian Horror Minion",
-			"collector_number": "27",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "45",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "17",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Dragon Noble",
-			"collector_number": "42",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/34.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "31",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Legendary Creature — Elder Dinosaur",
-			"collector_number": "23",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/37.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "24",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/40.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "48",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/43.png"
 			}
@@ -461,41 +461,41 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Camera Ready",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "15",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/46.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Sphynx, Riddler",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "3",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Sphinx",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/47.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "King Smithy",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "7",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Artifact Creature — Phyrexian Artificer",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/48.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Hooktail's Presence",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "10",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Instant",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{R}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/50.png"
 			}
@@ -515,27 +515,27 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Spirit Warrior",
-			"collector_number": "34",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/51.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Undermine",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "14",
+			"mana_cost": "{U}{U}{B}",
+			"type": "Instant",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/52.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Toadette, Eager to Help",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "8",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Saproling",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/53.png"
 			}
@@ -545,97 +545,97 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "28",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/54.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Wart, 8-Bits Leader",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "9",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Frog Horror",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/55.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "DK's Konga Beat",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "6",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/56.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Vivian, Friendly Shadow",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "5",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Phyrexian Kor Cleric",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/57.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Nabbit, Nabbing Rabbit",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "4",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/58.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Flash Liquidizer Ultra Dousing Device",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "2",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/59.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "The Style Sisters",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "13",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Merfolk Wizard",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/60.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Double Cherry",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "12",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/61.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Happy Mother Cat",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "11",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Cat Warrior",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/62.png"
 			}
 		},
 		{
-			"name": "",
+			"name": "Fuzzy Horde Invasion",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SUP-files/img/63.png"
 			}
@@ -689,24 +689,24 @@
 	1 Mario, Mushroom Kingdom Hero
 	1 Forest of Illusion
 	1 Tick Tock Clock
-	1 
-	1 
-	1 
-	1 
+	1 Camera Ready
+	1 Sphynx, Riddler
+	1 King Smithy
+	1 Hooktail's Presence
 	1 Mario's Fireball
 	1 Koopa the Quick
-	1 
-	1 
+	1 Undermine
+	1 Toadette, Eager to Help
 	1 Coffin Congestion
-	1 
-	1 
-	1 
-	1 
-	1 
-	1 
-	1 
-	1 
-	1 
+	1 Wart, 8-Bits Leader
+	1 DK's Konga Beat
+	1 Vivian, Friendly Shadow
+	1 Nabbit, Nabbing Rabbit
+	1 Flash Liquidizer Ultra Dousing Device
+	1 The Style Sisters
+	1 Double Cherry
+	1 Happy Mother Cat
+	1 Fuzzy Horde Invasion
 [uncommon(3)]
 [common(6)]
 [common | masterpiece(1)]
@@ -757,24 +757,24 @@
 	1 Mario, Mushroom Kingdom Hero
 	1 Forest of Illusion
 	1 Tick Tock Clock
-	1 
-	1 
-	1 
-	1 
+	1 Camera Ready
+	1 Sphynx, Riddler
+	1 King Smithy
+	1 Hooktail's Presence
 	1 Mario's Fireball
 	1 Koopa the Quick
-	1 
-	1 
+	1 Undermine
+	1 Toadette, Eager to Help
 	1 Coffin Congestion
-	1 
-	1 
-	1 
-	1 
-	1 
-	1 
-	1 
-	1 
-	1 
+	1 Wart, 8-Bits Leader
+	1 DK's Konga Beat
+	1 Vivian, Friendly Shadow
+	1 Nabbit, Nabbing Rabbit
+	1 Flash Liquidizer Ultra Dousing Device
+	1 The Style Sisters
+	1 Double Cherry
+	1 Happy Mother Cat
+	1 Fuzzy Horde Invasion
 [wildcard(1)]
 	4 Pink Gold Peach
 	4 Our Princess Is In Another Castle!
@@ -822,21 +822,21 @@
 	4 Mario, Mushroom Kingdom Hero
 	4 Forest of Illusion
 	4 Tick Tock Clock
-	4 
-	4 
-	4 
-	4 
+	4 Camera Ready
+	4 Sphynx, Riddler
+	4 King Smithy
+	4 Hooktail's Presence
 	4 Mario's Fireball
 	4 Koopa the Quick
-	4 
-	4 
+	4 Undermine
+	4 Toadette, Eager to Help
 	4 Coffin Congestion
-	4 
-	4 
-	4 
-	4 
-	4 
-	4 
-	4 
-	4 
-	4 
+	4 Wart, 8-Bits Leader
+	4 DK's Konga Beat
+	4 Vivian, Friendly Shadow
+	4 Nabbit, Nabbing Rabbit
+	4 Flash Liquidizer Ultra Dousing Device
+	4 The Style Sisters
+	4 Double Cherry
+	4 Happy Mother Cat
+	4 Fuzzy Horde Invasion

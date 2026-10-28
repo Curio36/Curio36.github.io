@@ -1,4 +1,65 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Camera Ready added.
+Sphynx, Riddler added.
+King Smithy added.
+Hooktail's Presence added.
+Undermine added.
+Toadette, Eager to Help added.
+Wart, 8-Bits Leader added.
+DK's Konga Beat added.
+Vivian, Friendly Shadow added.
+Nabbit, Nabbing Rabbit added.
+Flash Liquidizer Ultra Dousing Device added.
+The Style Sisters added.
+Double Cherry added.
+Happy Mother Cat added.
+Fuzzy Horde Invasion added.
+
+
+Luigi, Younger Brother
+
+Princess Peach
+
+Toad, Mushroom Retainer
+
+Yoshi, Friendly Steed
+
+Count Bleck, Longing
+
+King Grambi of the Overthere
+
+Bowser, Big Bad
+
+Poltergust 3000
+
+Queen Jaydes of the Underwhere
+
+Clawswipe Colosseum
+
+The Last Resort
+
+Top-Hat Tower
+
+Toad House Minigame
+rules_text: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. => Search your library for an Aura, Equipment, or Spacecraft card, reveal it, put it into your hand, then shuffle.
+Recall {3}{W} [i](You may cast this card from your graveyard for {3}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)[/i]
+
+Mario, Mushroom Kingdom Hero
+
+Forest of Illusion
+
+Tick Tock Clock
+
+Mario's Fireball
+
+Koopa the Quick
+
+Coffin Congestion
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Mario's Fireball added.
