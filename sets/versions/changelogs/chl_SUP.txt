@@ -1,4 +1,133 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Mario's Fireball added.
+Koopa the Quick added.
+Coffin Congestion added.
+
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+type: Legendary Creature — Human Pilot => 
+cost: {R}{W} => 
+rules_text: Mounts and Vehicles you control have haste.
+Whenever a Mount you control enters, it becomes saddled until end of turn.
+Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn. => 
+pt: 2/3 => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

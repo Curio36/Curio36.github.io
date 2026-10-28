@@ -14,7 +14,7 @@
 			<text>Mounts and Vehicles you control have haste.
 Whenever a Mount you control enters, it becomes saddled until end of turn.
 Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/0.png" num="33">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/0.png" num="51">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Whenever a Vehicle you control enters, it becomes an artifact creature until end
 		<card>
 			<name>Our Princess Is In Another Castle!</name>
 			<text>Counter target noncreature spell. Your opponents can&apos;t cast noncreature spells this turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/1.png" num="32">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/1.png" num="50">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@ Whenever a Vehicle you control enters, it becomes an artifact creature until end
 			<name>Bowser&apos;s Bigger Blast</name>
 			<text>When this enchantment enters, choose four nonenchantment permanents you don&apos;t control and put an aim counter on each of them.
 At the beginning of your end step, if two or more permanents you don&apos;t control have an aim counter on them, destroy one of those permanents at random.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/2.png" num="16">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/2.png" num="32">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -67,7 +67,7 @@ At the beginning of your end step, if two or more permanents you don&apos;t cont
 • Destroy target artifact or enchantment.
 • Look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
 • You gain 4 life.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/3.png" num="20">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/3.png" num="38">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@ At the beginning of your end step, if two or more permanents you don&apos;t cont
 			<text>{T}: Each player creates a colorless artifact token named Banana with &quot;{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.&quot;
 Whenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that&apos;s an Ape or a Monkey.
 Whenever Kibo attacks, defending player sacrifices an artifact of their choice.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/4.png" num="21">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/4.png" num="39">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@ Whenever Kibo attacks, defending player sacrifices an artifact of their choice.<
 			<name>Rosalina&apos;s Storybook</name>
 			<text>You have no maximum hand size.
 At the beginning of your upkeep, you gain 1 life for each card in your hand.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/5.png" num="40">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/5.png" num="58">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,7 +120,7 @@ At the beginning of your upkeep, you gain 1 life for each card in your hand.</te
 			<text>Eminence — As long as Bowser is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.
 Flying
 Whenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/6.png" num="25">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/6.png" num="43">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -137,7 +137,7 @@ Whenever one or more Dragons you control attack, draw that many cards, then you 
 		<card>
 			<name>♡ ♪！？ (Geno)</name>
 			<text>Whenever Geno attacks, it deals X damage to each opponent and you gain X life, where X is the number of creatures you control with power 2 or less.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/7.png" num="37">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/7.png" num="55">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -155,7 +155,7 @@ Whenever one or more Dragons you control attack, draw that many cards, then you 
 			<name>Mallow, Adopted Tadpole</name>
 			<text>Reach
 When this creature enters, tap up to one target creature and put three stun counters on it. If you control that creature, draw two cards.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/8.png" num="29">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/8.png" num="47">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -172,7 +172,7 @@ When this creature enters, tap up to one target creature and put three stun coun
 		<card>
 			<name>POW Block</name>
 			<text>Destroy all creatures. They can&apos;t be regenerated.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/9.png" num="4">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/9.png" num="19">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -190,7 +190,7 @@ When this creature enters, tap up to one target creature and put three stun coun
 			<text>Flying
 At the beginning of combat on your turn, populate.
 Whenever a creature token you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/10.png" num="6">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/10.png" num="21">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -208,7 +208,7 @@ Whenever a creature token you control enters, put a +1/+1 counter on this creatu
 			<name>Bogmire</name>
 			<text>Extort
 Whenever you tap a Swamp for mana, add an additional {B}.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/11.png" num="11">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/11.png" num="26">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -227,7 +227,7 @@ Whenever you tap a Swamp for mana, add an additional {B}.</text>
 			<text>Reach
 Soulbond
 As long as Mimi is paired with another creature, each of those creatures has &quot;When this creature dies, draw cards equal to its power.&quot;</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/12.png" num="14">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/12.png" num="30">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -246,7 +246,7 @@ As long as Mimi is paired with another creature, each of those creatures has &qu
 			<text>Flying
 Ward—Pay 2 life.
 Whenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Dimentio and draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/13.png" num="26">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/13.png" num="44">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -263,7 +263,7 @@ Whenever an opponent loses life for the first time during each of their turns, p
 		<card>
 			<name>Nastasia, Bleck&apos;s Second</name>
 			<text>Whenever a creature an opponent controls becomes the target of a spell or ability you control, gain control of that creature for as long as you control this creature.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/14.png" num="10">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/14.png" num="25">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -282,7 +282,7 @@ Whenever an opponent loses life for the first time during each of their turns, p
 			<text>Menace
 Whenever one or more creatures you control deal combat damage to a player, create a Treasure token.
 Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/15.png" num="18">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/15.png" num="36">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -301,7 +301,7 @@ Sacrifice a Treasure: Exile the top card of your library. You may play that card
 			<text>Enchant creature you control
 Enchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.
 Whenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/16.png" num="1">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/16.png" num="16">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -317,7 +317,7 @@ Whenever enchanted creature deals combat damage to an opponent, it deals that mu
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {C}.
 {T}, Pay 1 life: Add one mana of any color.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/17.png" num="46">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/17.png" num="64">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -332,7 +332,7 @@ Whenever enchanted creature deals combat damage to an opponent, it deals that mu
 			<name>Pauline</name>
 			<text>Mobilize 2
 Your opponents can&apos;t cast spells during your turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/18.png" num="3">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/18.png" num="18">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -350,7 +350,7 @@ Your opponents can&apos;t cast spells during your turn.</text>
 			<name>Mario, Older Brother</name>
 			<text>Whenever Mario enters or attacks, create a Virtuous Role token attached to another target creature you control.
 Whenever an enchanted creature you control deals combat damage to a player, draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/19.png" num="31">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/19.png" num="49">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -367,7 +367,7 @@ Whenever an enchanted creature you control deals combat damage to a player, draw
 		<card>
 			<name>Luigi, Younger Brother</name>
 			<text>Whenever Luigi attacks, create Gooigi, a legendary 3/4 red and green Human Warrior creature token. It enters tapped and attacking. For each Aura and Equipment attached to Stangg, create a token that&apos;s a copy of it attached to Gooigi. Sacrifice all tokens created this way at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/20.png" num="28">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/20.png" num="46">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -384,7 +384,7 @@ Whenever an enchanted creature you control deals combat damage to a player, draw
 		<card>
 			<name>Princess Peach</name>
 			<text>Whenever an opponent casts their first noncreature spell each turn, you recruit.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/21.png" num="5">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/21.png" num="20">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -402,7 +402,7 @@ Whenever an enchanted creature you control deals combat damage to a player, draw
 			<name>Princess Daisy</name>
 			<text>First strike
 At the beginning of each of your postcombat main phases, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/22.png" num="34">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/22.png" num="52">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -419,7 +419,7 @@ At the beginning of each of your postcombat main phases, look at the top X cards
 		<card>
 			<name>Wario, Wafty Wonder</name>
 			<text>Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/23.png" num="36">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/23.png" num="54">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -437,7 +437,7 @@ At the beginning of each of your postcombat main phases, look at the top X cards
 			<name>Waluigi, Duos Partner</name>
 			<text>{R}, {T}, Discard a card: Create a token that&apos;s a copy of another target creature you control. It gains haste and &quot;When this token dies, draw a card.&quot; Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
 Blitz {1}{R}</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/24.png" num="19">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/24.png" num="37">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -456,7 +456,7 @@ Blitz {1}{R}</text>
 			<text>Indestructible
 As long as your devotion to white and blue is less than seven, Rosalina isn&apos;t a creature.
 At the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/25.png" num="35">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/25.png" num="53">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -476,7 +476,7 @@ At the beginning of each upkeep, if you had another creature enter the battlefie
 • Destroy target artifact.
 • Destroy target enchantment.
 • Proliferate.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/26.png" num="22">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/26.png" num="40">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -494,7 +494,7 @@ At the beginning of each upkeep, if you had another creature enter the battlefie
 			<text>At the beginning of combat on your turn, put a +1/+1 counter on target creature.
 Whenever this creature attacks while saddled, double the number of +1/+1 counters on target creature.
 Saddle 2</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/27.png" num="23">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/27.png" num="41">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -512,7 +512,7 @@ Saddle 2</text>
 			<name>Count Bleck, Longing</name>
 			<text>Flying
 Whenever this creature enters or attacks, target opponent sacrifices a creature or planeswalker of their choice, discards a card, and loses 3 life. You draw a card and gain 3 life.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/28.png" num="13">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/28.png" num="29">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -529,7 +529,7 @@ Whenever this creature enters or attacks, target opponent sacrifices a creature 
 		<card>
 			<name>Gold and Silver Fireballs</name>
 			<text>Gold and Silver Fireballs deals X damage to target creature. Create a number of tapped Treasure tokens equal to the amount of excess damage dealt to that creature this way.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/29.png" num="17">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/29.png" num="33">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -546,7 +546,7 @@ Whenever this creature enters or attacks, target opponent sacrifices a creature 
 			<name>Huey, Port Prisma&apos;s Savior</name>
 			<text>As this creature enters, choose a color.
 All cards that aren&apos;t on the battlefield, spells, and permanents are the chosen color in addition to their other colors.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/30.png" num="38">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/30.png" num="56">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -563,7 +563,7 @@ All cards that aren&apos;t on the battlefield, spells, and permanents are the ch
 			<text>Lifelink
 For each {B} in a cost, you may pay 2 life rather than pay that mana.
 Whenever you cast a black spell, put a +1/+1 counter on Bowser Jr.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/31.png" num="12">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/31.png" num="27">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -581,7 +581,7 @@ Whenever you cast a black spell, put a +1/+1 counter on Bowser Jr.</text>
 			<name>Kamek, Magikoopa</name>
 			<text>Flying
 Once during each of your turns, you may cast an instant or sorcery spell from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/32.png" num="27">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/32.png" num="45">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -601,7 +601,7 @@ Once during each of your turns, you may cast an instant or sorcery spell from yo
 As long as your devotion to white is less than five, King Grambi isn&apos;t a creature.
 Whenever you gain life, put a +1/+1 counter on target creature or enchantment you control.
 {1}{W}: Another target creature gains lifelink until end of turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/33.png" num="2">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/33.png" num="17">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -620,7 +620,7 @@ Whenever you gain life, put a +1/+1 counter on target creature or enchantment yo
 			<text>Flying
 Whenever Bowser enters or attacks, sacrifice another permanent.
 Whenever you sacrifice a permanent, put a +1/+1 counter on Bowser and draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/34.png" num="24">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/34.png" num="42">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -638,7 +638,7 @@ Whenever you sacrifice a permanent, put a +1/+1 counter on Bowser and draw a car
 			<name>Poltergust 3000</name>
 			<text>{T}: Exile target card from a graveyard.
 {6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/35.png" num="39">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/35.png" num="57">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -655,7 +655,7 @@ Whenever you sacrifice a permanent, put a +1/+1 counter on Bowser and draw a car
 As long as your devotion to black is less than five, Queen Jaydes isn&apos;t a creature.
 Your opponents can&apos;t gain life.
 {1}{B}, Pay 2 life: Draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/36.png" num="15">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/36.png" num="31">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -675,7 +675,7 @@ Your opponents can&apos;t gain life.
 You have no maximum hand size.
 Whenever an opponent casts a noncreature spell, draw a card.
 Discard three cards: Exile Dorrie. Return it to the battlefield tapped under its owner&apos;s control at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/37.png" num="8">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/37.png" num="23">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -694,7 +694,7 @@ Discard three cards: Exile Dorrie. Return it to the battlefield tapped under its
 			<text>This land enters tapped unless you control a Mountain.
 {T}: Add {R}.
 {R}, {T}, Exert this land: Add {R}{R}. If any of that mana is spent on a creature spell, it gains haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/38.png" num="41">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/38.png" num="59">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -711,7 +711,7 @@ Discard three cards: Exile Dorrie. Return it to the battlefield tapped under its
 			<text>This land enters tapped unless you control a Swamp.
 {T}: Add {B}.
 {B}, {T}: Target creature you control connives X, where X is the number of creatures that died this turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/39.png" num="43">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/39.png" num="61">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -727,7 +727,7 @@ Discard three cards: Exile Dorrie. Return it to the battlefield tapped under its
 			<name>Enguarde</name>
 			<text>Any player may cast spells as though they had flash.
 Your opponents can&apos;t cast spells during your turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/40.png" num="9">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/40.png" num="24">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -746,7 +746,7 @@ Your opponents can&apos;t cast spells during your turn.</text>
 			<text>This land enters tapped unless you control a Plains.
 {T}: Add {W}.
 {2}{W}{W}, {T}: Look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/41.png" num="45">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/41.png" num="63">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -761,7 +761,7 @@ Your opponents can&apos;t cast spells during your turn.</text>
 		<card>
 			<name>Toad House Minigame</name>
 			<text>Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/42.png" num="7">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/42.png" num="22">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -778,7 +778,7 @@ Your opponents can&apos;t cast spells during your turn.</text>
 			<name>Mario, Mushroom Kingdom Hero</name>
 			<text>Exalted
 Whenever a creature you control attacks alone, it gains double strike until end of turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/43.png" num="30">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/43.png" num="48">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -797,7 +797,7 @@ Whenever a creature you control attacks alone, it gains double strike until end 
 			<text>This land enters tapped unless you control a Forest.
 {T}: Add {G}.
 Delirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/44.png" num="42">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/44.png" num="60">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -814,7 +814,7 @@ Delirium — {2}{G}{G}: This land becomes a copy of target permanent card in you
 			<text>This land enters tapped unless you control an Island.
 {T}: Add {U}.
 {U}, {T}: The next spell you cast this turn has improvise.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/45.png" num="44">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/45.png" num="62">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -825,6 +825,268 @@ Delirium — {2}{G}{G}: This land becomes a copy of target permanent card in you
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/46.png" num="15">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/47.png" num="3">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/48.png" num="7">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/49.png" num="10">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mario&apos;s Fireball</name>
+			<text>Mario&apos;s Fireball deals 1 damage to target player or planeswalker and 1 damage to target creature that player or that planeswalker&apos;s controller controls.
+Landfall — If you had a land enter the battlefield under your control this turn, Mario&apos;s Fireball deals 3 damage to that player or planeswalker and 3 damage to that creature instead.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/50.png" num="35">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Koopa the Quick</name>
+			<text>Haste
+Whenever Koopa the Quick attacks, exile the top card of your library. You may play that card this turn.
+Whenever one or more cards are put into exile from your library and/or your graveyard, put a +1/+1 counter on Koopa the Quick.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/51.png" num="34">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/52.png" num="14">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/53.png" num="8">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Coffin Congestion</name>
+			<text>Each player may bid life. You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and draws four cards.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/54.png" num="28">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/55.png" num="9">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/56.png" num="6">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/57.png" num="5">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/58.png" num="4">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/59.png" num="2">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/60.png" num="13">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/61.png" num="12">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/62.png" num="11">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/63.png" num="1">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
