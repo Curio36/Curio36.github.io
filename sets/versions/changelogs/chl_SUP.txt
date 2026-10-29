@@ -1,4 +1,16 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Shake It! added.
+
+Double Cherry removed.
+
+Happy Mother Cat
+
+Fuzzy Horde Invasion
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

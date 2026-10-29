@@ -14,7 +14,7 @@
 			<text>Mounts and Vehicles you control have haste.
 Whenever a Mount you control enters, it becomes saddled until end of turn.
 Whenever a Vehicle you control enters, it becomes an artifact creature until end of turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/0.png" num="47">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/0.png" num="46">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Whenever a Vehicle you control enters, it becomes an artifact creature until end
 		<card>
 			<name>Our Princess Is In Another Castle!</name>
 			<text>Counter target noncreature spell. Your opponents can&apos;t cast noncreature spells this turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/1.png" num="46">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/1.png" num="45">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -155,7 +155,7 @@ Whenever one or more Dragons you control attack, draw that many cards, then you 
 			<name>Mallow, Adopted Tadpole</name>
 			<text>Reach
 When this creature enters, tap up to one target creature and put three stun counters on it. If you control that creature, draw two cards.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/8.png" num="42">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/8.png" num="41">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -350,7 +350,7 @@ Your opponents can&apos;t cast spells during your turn.</text>
 			<name>Mario, Older Brother</name>
 			<text>Whenever Mario enters or attacks, create a Virtuous Role token attached to another target creature you control.
 Whenever an enchanted creature you control deals combat damage to a player, draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/19.png" num="44">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/19.png" num="43">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -367,7 +367,7 @@ Whenever an enchanted creature you control deals combat damage to a player, draw
 		<card>
 			<name>Luigi, Younger Brother</name>
 			<text>Whenever Luigi attacks, create Gooigi, a legendary 3/4 red and green Human Warrior creature token. It enters tapped and attacking. For each Aura and Equipment attached to Stangg, create a token that&apos;s a copy of it attached to Gooigi. Sacrifice all tokens created this way at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/20.png" num="41">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/20.png" num="40">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -402,7 +402,7 @@ Whenever an enchanted creature you control deals combat damage to a player, draw
 			<name>Princess Daisy</name>
 			<text>First strike
 At the beginning of each of your postcombat main phases, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/22.png" num="48">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/22.png" num="47">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -456,7 +456,7 @@ Blitz {1}{R}</text>
 			<text>Indestructible
 As long as your devotion to white and blue is less than seven, Rosalina isn&apos;t a creature.
 At the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/25.png" num="49">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/25.png" num="48">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -581,7 +581,7 @@ Whenever you cast a black spell, put a +1/+1 counter on Bowser Jr.</text>
 			<name>Kamek, Magikoopa</name>
 			<text>Flying
 Once during each of your turns, you may cast an instant or sorcery spell from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/32.png" num="39">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/32.png" num="38">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -779,7 +779,7 @@ Recall {3}{W} (You may cast this card from your graveyard for {3}{W} if you also
 			<name>Mario, Mushroom Kingdom Hero</name>
 			<text>Exalted
 Whenever a creature you control attacks alone, it gains double strike until end of turn.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/43.png" num="43">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/43.png" num="42">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -868,7 +868,7 @@ Whenever Unesh or another Sphinx you control enters, reveal the top four cards o
 			<name>King Smithy</name>
 			<text>Creature tokens you control have haste.
 At the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifact creature token. Then you may choose a token you control. If you do, each other token you control becomes a copy of that token.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/48.png" num="40">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/48.png" num="39">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -887,7 +887,7 @@ At the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifac
 			<text>Choose one. If you control a commander as you cast this spell, you may choose both instead.
 • Hooktail&apos;s Presence deals X damage to each creature without flying.
 • Destroy up to X target artifacts and/or enchantments.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/49.png" num="38">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/49.png" num="37">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1046,7 +1046,7 @@ Whenever another creature you control dies, each opponent loses 1 life.</text>
 			<name>Nabbit, Nabbing Rabbit</name>
 			<text>Nabbit can&apos;t be blocked.
 Whenever Nabbit deals combat damage to a player, that player exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then that player puts the exiled cards that weren&apos;t cast this way on the bottom of their library in a random order.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/58.png" num="45">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/58.png" num="44">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1096,27 +1096,10 @@ If one or more tokens would be created under your control, twice that many of th
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Double Cherry</name>
-			<text>Target creature you control gains myriad until end of turn.
-Overload {3}{U}{U}{R}{R}</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/61.png" num="35">SUP</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
-				<colors>UR</colors>
-				<coloridentity>UR</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Happy Mother Cat</name>
 			<text>Your opponent can&apos;t cast spells during your turn.
 Whenever one or more creatures you control each with power greater than its base power deals combat damage to a player, draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/62.png" num="37">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/61.png" num="36">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1133,7 +1116,7 @@ Whenever one or more creatures you control each with power greater than its base
 		<card>
 			<name>Fuzzy Horde Invasion</name>
 			<text>Destroy each nonland permanent with mana value 2 or less. Add {B} or {G} for each permanent destroyed this way.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/63.png" num="36">SUP</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/62.png" num="35">SUP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1143,6 +1126,26 @@ Whenever one or more creatures you control each with power greater than its base
 				<cmc>4</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shake It!</name>
+			<text>Choose two —
+• Shake It! deals 2 damage to any target.
+• Target player draws two cards, then discards two cards.
+• Target player creates a Treasure token.
+• Destroy target artifact.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SUP-files/img/63.png" num="49">SUP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
