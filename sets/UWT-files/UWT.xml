@@ -5,7 +5,7 @@
 			<name>UWT</name>
 			<longname>UniWit Collective</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-08</releasedate>
+			<releasedate>2026-10-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -27,7 +27,7 @@
 		<card>
 			<name>Dark Omens</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/1.png" num="3">UWT</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/1.png" num="4">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -397,7 +397,7 @@ Whenever you attack, look at the top six cards of your library. You may cast a s
 			<name>Banish to Another Universe</name>
 			<text>Affinity for historic permanents (This spell costs {1} less to cast for each historic permanent you control.)
 When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/22.png" num="5">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/22.png" num="6">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -414,7 +414,7 @@ When this enchantment enters, exile target nonland permanent an opponent control
 			<name>Flowering of the White Tree</name>
 			<text>Legendary creatures you control get +2/+1 and have ward {1}.
 Nonlegendary creatures you control get +1/+1.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/23.png" num="10">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/23.png" num="12">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -432,7 +432,7 @@ Nonlegendary creatures you control get +1/+1.</text>
 			<text>Choose one —
 • Destroy all artifacts and creatures.
 • Return target historic permanent card from your graveyard to the battlefield. It enters with two additional +1/+1 counters on it if it&apos;s a creature. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/24.png" num="22">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/24.png" num="25">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -448,7 +448,7 @@ Nonlegendary creatures you control get +1/+1.</text>
 		<card>
 			<name>Desynchronization</name>
 			<text>Return each nonland permanent that&apos;s not historic to its owner&apos;s hand. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/25.png" num="28">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/25.png" num="31">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -464,7 +464,7 @@ Nonlegendary creatures you control get +1/+1.</text>
 		<card>
 			<name>Their Name is Death</name>
 			<text>Destroy all nonartifact creatures.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/26.png" num="47">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/26.png" num="58">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -481,7 +481,7 @@ Nonlegendary creatures you control get +1/+1.</text>
 			<name>Decaying Time Loop</name>
 			<text>Discard all the cards in your hand, then draw that many cards.
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/27.png" num="49">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/27.png" num="61">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -497,7 +497,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 		<card>
 			<name>Delete</name>
 			<text>Delete deals X damage to each nonartifact creature and each player.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/28.png" num="50">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/28.png" num="63">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -513,7 +513,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 		<card>
 			<name>Kelpbearer&apos;s Restoration</name>
 			<text>Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/29.png" num="66">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/29.png" num="83">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -530,7 +530,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 			<name>Noblis, Worldsoul of Flood</name>
 			<text>Flying
 Whenever Noblis enters or attacks, exile a permanent card from your graveyard at random, then create a tapped token that&apos;s a copy of that card. If the exiled card is a land card, repeat this process.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/30.png" num="104">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/30.png" num="122">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -549,7 +549,7 @@ Whenever Noblis enters or attacks, exile a permanent card from your graveyard at
 			<text>Flying, indestructible
 Whenever this Vehicle attacks, mill three cards. For each creature card milled this way, create a 2/2 black Voidseed Warrior artifact creature token.
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/31.png" num="125">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/31.png" num="147">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -566,7 +566,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<text>Flying
 When this Vehicle enters, create a 2/2 black Voidseed Warrior artifact creature token.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/32.png" num="126">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/32.png" num="148">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -582,7 +582,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Great Hall of the Citadel</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/33.png" num="130">UWT</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/33.png" num="152">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -596,7 +596,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Voidseed Warrior UWT</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/34.png" num="1">UWT</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/34.png" num="2">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -614,7 +614,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Junk UWT</name>
 			<text>{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/35.png" num="3">UWT</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/35.png" num="4">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -631,7 +631,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<text>Bastion of New Argive enters tapped unless you control a legendary creature.
 {T}: Add {W}.
 {1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/36.png" num="127">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/36.png" num="149">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -647,7 +647,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Orcish Bowmasters</name>
 			<text>Flash
 When this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1. (Put a +1/+1 counter on an Army you control. It&apos;s also an Orc. If you don&apos;t control an Army, create a 0/0 black Orc Army creature token first.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/37.png" num="44">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/37.png" num="53">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -667,7 +667,7 @@ When this creature enters and whenever an opponent draws a card except the first
 When The Darkest Truth enters, if you cast it, you gain protection from everything until your next turn.
 At the beginning of your upkeep, you lose 1 life for each burden counter on The Darkest Truth.
 {T}: Put a burden counter on The Darkest Truth, then draw a card for each burden counter on The Darkest Truth.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/38.png" num="124">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/38.png" num="145">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -682,7 +682,7 @@ At the beginning of your upkeep, you lose 1 life for each burden counter on The 
 			<name>Gritty Scrapyard</name>
 			<text>{T}: Add {C}.
 {4}{R}, {T}, Sacrifice this land: Create three Junk tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/39.png" num="131">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/39.png" num="153">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -698,7 +698,7 @@ At the beginning of your upkeep, you lose 1 life for each burden counter on The 
 			<name>Hard-Won Jitte</name>
 			<text>Equipped creature has double strike.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/40.png" num="52">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/40.png" num="66">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -716,7 +716,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>As this Equipment becomes attached to a creature, choose a creature card name and a creature type.
 Equipped creature has ward {1}, it can&apos;t be blocked, and its name and creature type are the last chosen name and creature type.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/41.png" num="122">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/41.png" num="143">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -732,7 +732,7 @@ Equip {2}</text>
 			<text>You may play an additional land on each of your turns.
 Rella gets +1/+0 for each land you control.
 At the beginning of your end step, return a land you control to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/42.png" num="55">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/42.png" num="70">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -750,7 +750,7 @@ At the beginning of your end step, return a land you control to its owner&apos;s
 			<name>Pyromancer&apos;s Skill</name>
 			<text>When this enchantment enters, create a 2/2 red Soldier creature token with fireweaving 1.
 Whenever a creature you control attacking causes a triggered ability of that creature to trigger, put a quest counter on this enchantment. Then if it has four or more quest counters on it, you may copy that ability. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/43.png" num="54">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/43.png" num="69">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -767,7 +767,7 @@ Whenever a creature you control attacking causes a triggered ability of that cre
 			<name>Unending Flames</name>
 			<text>Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.
 Until end of turn, you don&apos;t lose unspent red mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/44.png" num="59">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/44.png" num="76">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -784,7 +784,7 @@ Until end of turn, you don&apos;t lose unspent red mana as steps and phases end.
 			<name>Tunnelrunner Kit</name>
 			<text>When this creature enters, earthweave 1. (Target land you control becomes a 0/0 creature with haste that&apos;s still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)
 Whenever you tap a creature for mana, add an additional {G}.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/45.png" num="73">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/45.png" num="90">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -801,7 +801,7 @@ Whenever you tap a creature for mana, add an additional {G}.</text>
 		<card>
 			<name>Thornfang Abomination</name>
 			<text>Whenever this creature attacks, it gets +9999/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/46.png" num="72">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/46.png" num="89">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -819,7 +819,7 @@ Whenever you tap a creature for mana, add an additional {G}.</text>
 			<name>Delighted Halfling</name>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can&apos;t be countered.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/47.png" num="64">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/47.png" num="81">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -837,7 +837,7 @@ Whenever you tap a creature for mana, add an additional {G}.</text>
 			<name>Gruul Diplomacy</name>
 			<text>The first creature spell you cast each turn costs {2} less to cast.
 Whenever an opponent casts their first noncreature spell each turn, this enchantment deals 2 damage to that player.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/48.png" num="92">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/48.png" num="111">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -854,7 +854,7 @@ Whenever an opponent casts their first noncreature spell each turn, this enchant
 			<name>Well Rested</name>
 			<text>Enchant creature
 Enchanted creature has &quot;Whenever this creature becomes untapped, put two +1/+1 counters on it, then you gain 2 life and draw a card. This ability triggers only once each turn.&quot;</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/49.png" num="74">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/49.png" num="91">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -871,7 +871,7 @@ Enchanted creature has &quot;Whenever this creature becomes untapped, put two +1
 			<name>Crystalline Armor</name>
 			<text>Enchant creature
 Enchanted creature gets +1/+1 for each land you control and has trample.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/50.png" num="63">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/50.png" num="80">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -889,7 +889,7 @@ Enchanted creature gets +1/+1 for each land you control and has trample.</text>
 			<text>When Grayhold enters, scry 1.
 {T}: Add {C}.
 {T}: Add one mana of any color among legendary creature cards in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/51.png" num="129">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/51.png" num="151">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -904,7 +904,7 @@ Enchanted creature gets +1/+1 for each land you control and has trample.</text>
 			<name>Linassa, the Left Hand</name>
 			<text>Whenever a creature you control with power 2 or less attacks, it gains skulk until end of turn. (It can&apos;t be blocked by creatures with greater power.)
 Whenever a creature with power 4 or greater attacks you, its controller loses 2 life and you gain 2 life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/52.png" num="99">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/52.png" num="116">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -922,7 +922,7 @@ Whenever a creature with power 4 or greater attacks you, its controller loses 2 
 			<name>Dera, Angel-Touched</name>
 			<text>Flying, lifelink
 At the beginning of your end step, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the amount of life you gained this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/53.png" num="7">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/53.png" num="9">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -941,7 +941,7 @@ At the beginning of your end step, return target creature card with mana value X
 			<text>Flash
 You may cast legendary spells and artifact spells as though they had flash.
 If a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/54.png" num="19">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/54.png" num="22">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -959,7 +959,7 @@ If a legendary permanent or an artifact entering or leaving the battlefield caus
 			<name>Nasty End</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards. If the sacrificed creature was legendary, draw three cards instead.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/55.png" num="43">UWT</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/55.png" num="52">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -977,7 +977,7 @@ Draw two cards. If the sacrificed creature was legendary, draw three cards inste
 			<text>Mina enters tapped unless you control a legendary creature.
 {T}: Add {U}.
 {1}{U}, {T}: Scry 2. Activate only if you control a legendary creature.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/56.png" num="132">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/56.png" num="154">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -993,7 +993,7 @@ Draw two cards. If the sacrificed creature was legendary, draw three cards inste
 			<name>Chypp, Supplier</name>
 			<text>Whenever you cast a noncreature spell, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 {T}: Until end of turn, target artifact token you control becomes a 3/1 Construct artifact creature with flying.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/57.png" num="26">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/57.png" num="29">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1012,7 +1012,7 @@ Draw two cards. If the sacrificed creature was legendary, draw three cards inste
 			<text>As an additional cost to cast this spell, you may waterweave 6. (While paying a waterweave cost, you can tap your artifacts and creatures to help. Each one pays for 1.)
 Draw two cards. If this spell&apos;s additional cost was paid, instead shuffle your graveyard into your library, draw seven cards, and you have no maximum hand size for the rest of the game.
 Exile Lagoon Refocusing.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/58.png" num="34">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/58.png" num="37">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1028,7 +1028,7 @@ Exile Lagoon Refocusing.</text>
 		<card>
 			<name>Bekkomaru, Determined Kappa</name>
 			<text>Whenever Bekkomaru attacks, if it&apos;s the first combat phase of the turn, untap one or two target attacking creatures. After this phase, there is an additional combat phase.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/59.png" num="118">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/59.png" num="139">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1045,7 +1045,7 @@ Exile Lagoon Refocusing.</text>
 		<card>
 			<name>Viyana, Nostalgic Hero</name>
 			<text>At the beginning of your upkeep, put a time counter on Viyana. Then look at the top X cards of your library, where X is the number of time counters on Viyana. You may put a nonland permanent card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/60.png" num="21">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/60.png" num="24">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1062,7 +1062,7 @@ Exile Lagoon Refocusing.</text>
 		<card>
 			<name>Resist the Calamity</name>
 			<text>Destroy all creatures with power 3 or greater. Then create a Food token for each creature you control. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/61.png" num="17">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/61.png" num="20">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1079,7 +1079,7 @@ Exile Lagoon Refocusing.</text>
 			<name>Dawn of a New Age</name>
 			<text>This enchantment enters with a hope counter on it for each creature you control.
 At the beginning of your end step, remove a hope counter from this enchantment. If you do, draw a card. Then if this enchantment has no hope counters on it, sacrifice it and you gain 4 life.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/62.png" num="6">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/62.png" num="8">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1096,7 +1096,7 @@ At the beginning of your end step, remove a hope counter from this enchantment. 
 			<name>The Charac, Predation Itself</name>
 			<text>Flash
 When The Charac enters, destroy up to three target creatures.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/63.png" num="39">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/63.png" num="44">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1114,7 +1114,7 @@ When The Charac enters, destroy up to three target creatures.</text>
 			<name>Elias, Noble Mender</name>
 			<text>Once during each of your turns, you may cast an artifact spell from your graveyard. If you cast a spell this way, that artifact enters tapped.
 Whenever Elias attacks, it gets +X/+0 until end of turn, where X is the greatest mana value among artifacts you control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/64.png" num="89">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/64.png" num="107">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1132,7 +1132,7 @@ Whenever Elias attacks, it gets +X/+0 until end of turn, where X is the greatest
 			<name>Elzia, Reluctant Hero</name>
 			<text>{WB}: If Elzia is a Citizen, she becomes a Halfling Scout with base power and toughness 2/3 and lifelink.
 {B}{B}{B}: If Elzia is a Scout, she becomes a Halfling Rogue with &quot;Whenever this creature deals combat damage to a player, that player loses the game if Dark Omens have beckoned you four or more times this game. Otherwise, Dark Omens beckon you.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/65.png" num="8">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/65.png" num="10">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1151,7 +1151,7 @@ Whenever Elias attacks, it gets +X/+0 until end of turn, where X is the greatest
 			<text>Flying, lifelink
 Pay 3 life: M.A.G.R.X. connives. Activate only during your turn. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)
 Creatures your opponents control get -1/-1.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/66.png" num="42">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/66.png" num="51">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1169,7 +1169,7 @@ Creatures your opponents control get -1/-1.</text>
 			<name>The Starfield Maw</name>
 			<text>Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
 Whenever The Starfield Maw attacks, you may sacrifice another creature. If you do, creatures you control have base power and toughness X/X until end of turn, where X is the sacrificed creature&apos;s mana value.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/67.png" num="45">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/67.png" num="55">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1187,7 +1187,7 @@ Whenever The Starfield Maw attacks, you may sacrifice another creature. If you d
 			<name>Kallan, Aurora Chosen</name>
 			<text>Whenever you cast a spell during an opponent&apos;s turn, you get an experience counter.
 Whenever Kallan attacks, you may draw a card for each experience counter you have. If you do, discard a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/68.png" num="31">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/68.png" num="34">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1206,7 +1206,7 @@ Whenever Kallan attacks, you may draw a card for each experience counter you hav
 			<text>Flying
 When Its-Wingbeats-Hurricanes enters, target nonland permanent&apos;s owner puts it into their library second from the top or on the bottom.
 Whenever one or more cards are put into a library from anywhere, create two 1/1 colorless Spirit creature tokens with &quot;This token can&apos;t block or be blocked by non-Spirit creatures.&quot;</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/69.png" num="30">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/69.png" num="33">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1224,7 +1224,7 @@ Whenever one or more cards are put into a library from anywhere, create two 1/1 
 			<name>Ronie, Gourmet Gatherer</name>
 			<text>If you would gain life, you gain that much life plus 1 instead.
 {2}{W}{B}{G}, {T}, Exile Ronie: Search your library for any number of creature cards, put them onto the battlefield, then shuffle. Activate only if you have 111 or more life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/70.png" num="110">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/70.png" num="128">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1242,7 +1242,7 @@ Whenever one or more cards are put into a library from anywhere, create two 1/1 
 			<name>Amulin, Professor of Replication</name>
 			<text>The &quot;legend rule&quot; doesn&apos;t apply to creatures you control.
 At the beginning of combat on your turn, if you&apos;ve cast a noncreature spell this turn, create a token that&apos;s a copy of Amulin.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/71.png" num="23">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/71.png" num="26">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1259,7 +1259,7 @@ At the beginning of combat on your turn, if you&apos;ve cast a noncreature spell
 		<card>
 			<name>Tariq, Astronomer</name>
 			<text>At the beginning of your end step, draw a card for each card type among spells you&apos;ve cast this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/72.png" num="37">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/72.png" num="41">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1277,7 +1277,7 @@ At the beginning of combat on your turn, if you&apos;ve cast a noncreature spell
 			<name>Prisha, Court Summoner</name>
 			<text>Lifelink
 Whenever Prisha attacks, you may remove a lore counter from each of any number of Sagas you control. Put a +1/+1 counter on Prisha for each lore counter removed this way.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/73.png" num="105">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/73.png" num="123">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1295,7 +1295,7 @@ Whenever Prisha attacks, you may remove a lore counter from each of any number o
 			<name>Ansha, Beacon of Reunion</name>
 			<text>At the beginning of combat on your turn, mill two cards. Ansha gains flying until end of turn.
 Whenever Ansha deals combat damage to a player, you may pay {2}. When you do, return target creature card with power 3 or less from your graveyard to the battlefield tapped.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/74.png" num="77">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/74.png" num="95">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1313,7 +1313,7 @@ Whenever Ansha deals combat damage to a player, you may pay {2}. When you do, re
 			<name>Restorer of the Eighth Age</name>
 			<text>When Restorer of the Eighth Age enters, mill three cards.
 Once during each of your turns, you may play a historic land or cast a historic permanent spell from your graveyard. If you do, it gains &quot;If this permanent would leave the battlefield, exile it instead of putting it anywhere else.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/75.png" num="108">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/75.png" num="126">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1333,7 +1333,7 @@ Once during each of your turns, you may play a historic land or cast a historic 
 When Far Fortune&apos;s Fang Tank enters, you may tap it. When you do, destroy target creature with power 4 or less.
 {1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
 Crew 2</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/76.png" num="41">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/76.png" num="49">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1351,7 +1351,7 @@ Crew 2</text>
 			<name>Tes, Cogbeast Commander</name>
 			<text>Vigilance, reach
 Whenever one or more artifact creatures you control attack, discover X, where X is the greatest power among them. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/77.png" num="112">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/77.png" num="132">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1368,7 +1368,7 @@ Whenever one or more artifact creatures you control attack, discover X, where X 
 		<card>
 			<name>Shandiàn, Storm Trickster</name>
 			<text>Whenever a player or permanent becomes the target of an ability you control, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/78.png" num="36">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/78.png" num="39">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1386,7 +1386,7 @@ Whenever one or more artifact creatures you control attack, discover X, where X 
 			<name>Marius, Eager Tourist</name>
 			<text>The first historic spell you cast each turn has convoke. (Artifacts, legendaries, and Sagas are historic. Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/79.png" num="12">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/79.png" num="14">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1405,7 +1405,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>Defender
 Margarit has hexproof as long as she&apos;s untapped.
 {T}: Until end of turn, target creature gains &quot;If this creature would deal combat damage to a player, prevent that damage. This creature&apos;s controller and that player each draw half that many cards, rounded down.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/80.png" num="101">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/80.png" num="119">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1422,7 +1422,7 @@ Margarit has hexproof as long as she&apos;s untapped.
 		<card>
 			<name>The Arcane Breath</name>
 			<text>Whenever you cast an instant or sorcery spell from your hand during an opponent&apos;s turn, exile that card with three time counters on it instead of putting it into your graveyard as it resolves. Then if the exiled card doesn&apos;t have suspend, it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last is removed, you may play it without paying its mana cost.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/81.png" num="79">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/81.png" num="97">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1437,11 +1437,11 @@ Margarit has hexproof as long as she&apos;s untapped.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Karin, Royal Guard</name>
+			<name>Karin, Royal Patrol</name>
 			<text>Each historic card in your hand has cycling {2}{W}. (Artifacts, legendaries, and Sagas are historic. {2}{W}, Discard that card: Draw a card.)
 Whenever you cycle a card, put a +1/+1 counter on Karin.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/82.png" num="11">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/82.png" num="13">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1458,7 +1458,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 		<card>
 			<name>Anauf, Mother of Beasts</name>
 			<text>Whenever Anauf or another nontoken creature you control enters, look at the top X cards of your library, where X is that creature&apos;s mana value. You may reveal a creature card that doesn&apos;t share a creature type with a creature you control from among those cards and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/83.png" num="61">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/83.png" num="78">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1477,7 +1477,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>As long as D0 Unit Gamma is untapped, other legendary creatures you control have ward {1}.
 {1}{U}, {T}: Target legendary creature can&apos;t be blocked this turn.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/84.png" num="27">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/84.png" num="30">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1492,10 +1492,10 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>War Mage of Lost Ages</name>
-			<text>Whenever one or more other permanents phase out and whenever one or more other cards are put into exile from anywhere, put a time counter on War Mage of Lost Ages.
-Whenever War Mage of Lost Ages attacks, it deals damage equal to the number of time counters on it to any target. If a creature dealt damage this way would die this turn, exile it instead.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/85.png" num="116">UWT</set>
+			<name>Magus of Forgotten Ages</name>
+			<text>Whenever one or more other permanents phase out and whenever one or more other cards are put into exile from anywhere, put a time counter on Magus of Forgotten Ages.
+Whenever Magus of Forgotten Ages attacks, it deals damage equal to the number of time counters on it to any target. If a creature dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/85.png" num="117">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1510,10 +1510,10 @@ Whenever War Mage of Lost Ages attacks, it deals damage equal to the number of t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Investigator of the Tenth Age</name>
+			<name>Seeker of the Tenth Age</name>
 			<text>Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn&apos;t have suspend, it gains suspend.
 {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/86.png" num="97">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/86.png" num="130">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1531,7 +1531,7 @@ Whenever War Mage of Lost Ages attacks, it deals damage equal to the number of t
 			<name>Bud, Eager Wanderer</name>
 			<text>When Bud enters, create a Food token.
 At the beginning of your end step, if you sacrificed a Food this turn, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/87.png" num="62">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/87.png" num="79">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1549,7 +1549,7 @@ At the beginning of your end step, if you sacrificed a Food this turn, you may s
 			<name>Selsana, Thief in the Night</name>
 			<text>Spells you cast from anywhere other than your hand cost {1} less to cast.
 Whenever Selsana attacks, you may cast an artifact, instant, or sorcery spell from your graveyard. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/88.png" num="35">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/88.png" num="38">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1566,7 +1566,7 @@ Whenever Selsana attacks, you may cast an artifact, instant, or sorcery spell fr
 		<card>
 			<name>Ascetic of the Fifth Age</name>
 			<text>At the beginning of your end step, put a +1/+1 counter on each creature you control that didn&apos;t attack or enter this turn. Untap those creatures.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/89.png" num="82">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/89.png" num="100">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1584,7 +1584,7 @@ Whenever Selsana attacks, you may cast an artifact, instant, or sorcery spell fr
 			<name>Architect of New Fates</name>
 			<text>{T}: Target creature an opponent controls with power less than or equal to Architect of New Fates&apos;s power gains skulk until end of turn. Goad it.
 Whenever a creature with skulk deals combat damage to one of your opponents, put a +1/+1 counter on Architect of New Fates and draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/90.png" num="80">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/90.png" num="98">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1602,7 +1602,7 @@ Whenever a creature with skulk deals combat damage to one of your opponents, put
 			<name>Askien, Timeline Twister</name>
 			<text>{T}: Add {U} for each card you&apos;ve drawn this turn. Spend this mana only to cast noncreature spells.
 Power-up — {5}{U}{U}: Each player shuffles their hand and graveyard into their library, then draws seven cards. Put a +1/+1 counter on Askien. (Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn.) (Activate each power-up ability only once. Reduce the cost by this creature&apos;s mana cost if it entered this turn.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/91.png" num="24">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/91.png" num="27">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1620,7 +1620,7 @@ Power-up — {5}{U}{U}: Each player shuffles their hand and graveyard into their
 			<name>Toren, Slumbering Psychic</name>
 			<text>Whenever you cast a spell with mana value 5 or greater, investigate twice.
 {T}, Sacrifice X artifacts: Target player loses X life. Target player gains X life. The next spell you cast this turn costs {X} less to cast.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/92.png" num="114">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/92.png" num="135">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1639,7 +1639,7 @@ Power-up — {5}{U}{U}: Each player shuffles their hand and graveyard into their
 			<text>Trample, double strike, haste
 If a card or token would be put into an opponent&apos;s graveyard from anywhere, exile it instead.
 Whenever Ygrim attacks, exile target creature defending player controls. Then you may pay {X}, where X is that creature&apos;s mana value. If you do, put it onto the battlefield under your control tapped and attacking.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/93.png" num="117">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/93.png" num="138">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1658,7 +1658,7 @@ Whenever Ygrim attacks, exile target creature defending player controls. Then yo
 			<text>Tara-Nom enters tapped unless you control a legendary creature.
 {T}: Add {B}.
 {X}{X}{B}, {T}: Amass Orcs X. Activate only if a creature died this turn. (To amass Orcs X, put X +1/+1 counters on an Army you control. It&apos;s also an Orc. If you don&apos;t control an Army, create a 0/0 black Orc Army creature token first.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/94.png" num="133">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/94.png" num="155">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1675,7 +1675,7 @@ Whenever Ygrim attacks, exile target creature defending player controls. Then yo
 			<text>Torga enters tapped unless you control a legendary creature.
 {T}: Add {R}.
 {3}{R}, {T}, Exile three cards from your graveyard: Create two Treasure tokens.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/95.png" num="134">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/95.png" num="156">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1692,7 +1692,7 @@ Whenever Ygrim attacks, exile target creature defending player controls. Then yo
 			<text>Ferndale enters tapped unless you control a legendary creature.
 {T}: Add {G}.
 {1}{G}, {T}, Tap an untapped creature you control: Create a Food token.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/96.png" num="128">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/96.png" num="150">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1709,7 +1709,7 @@ Whenever Ygrim attacks, exile target creature defending player controls. Then yo
 			<text>When Enigma enters, you may have an opponent gain control of it. If you do, it&apos;s goaded for as long as they control it.
 At the beginning of your end step, draw a card, then you lose life equal to the number of cards in your hand.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/97.png" num="40">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/97.png" num="47">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1728,7 +1728,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>{T}: Add {U} for each counter on Tinhead. Spend this mana only to cast noncreature spells.
 Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/98.png" num="38">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/98.png" num="42">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1746,7 +1746,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Aya, Teller of Truths</name>
 			<text>Sagas you control have read ahead. (As a Saga enters, choose a chapter and start with that many lore counters. Skipped chapters don&apos;t trigger.)
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/99.png" num="4">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/99.png" num="5">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1764,7 +1764,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Professor Penn, Folklorist</name>
 			<text>Each Saga spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast that Saga, copy it for each time you paid its replicate cost. Copies of Saga spells become tokens.)
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/100.png" num="15">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/100.png" num="18">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1782,7 +1782,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Victoria, Subtle Sleuth</name>
 			<text>Whenever you cast a historic spell, investigate. This ability triggers only once each turn. (Artifacts, legendaries, and Sagas are historic. To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/101.png" num="20">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/101.png" num="23">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1797,11 +1797,11 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Researcher of a Bountiful Tomorrow</name>
+			<name>Researcher of Bounties</name>
 			<text>Vigilance
 {1}, {T}: Create a tapped token that&apos;s a copy of target token that entered this turn.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/102.png" num="16">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/102.png" num="19">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1819,7 +1819,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Matya, Guide and Guard</name>
 			<text>Whenever you attack, target attacking historic creature gets +1/+1 and gains indestructible until end of turn. (Artifacts, legendaries, and Sagas are historic.)
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/103.png" num="13">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/103.png" num="15">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1838,7 +1838,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>Olive gets +1/+1 for each time counter on it.
 Whenever Olive attacks, put a time counter on it for each suspended card you own and each other permanent you control with a time counter on it.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/104.png" num="14">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/104.png" num="16">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1857,7 +1857,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
 Whenever Rosie or a creature she&apos;s paired with is dealt damage, Rosie deals that much damage to target opponent.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/105.png" num="56">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/105.png" num="72">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1875,7 +1875,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Larala, On the Scene</name>
 			<text>{T}: Exile the top card of your library. Until your next end step, you may play it.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/106.png" num="53">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/106.png" num="68">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1894,7 +1894,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>Trample
 Fighter of the Third Age gets +1/+1 for each noncreature token you control.
 When Fighter of the Third Age enters, create your choice of a Clue token, a Food token, or a Treasure token.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/107.png" num="90">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/107.png" num="109">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1909,11 +1909,11 @@ When Fighter of the Third Age enters, create your choice of a Clue token, a Food
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ado, The Woman Outside Time</name>
+			<name>Ado, Woman Outside Time</name>
 			<text>If Ado is your commander, choose a color before the game begins. Ado is the chosen color.
 If a triggered ability of a Doctor you control triggers, that ability triggers an additional time.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/108.png" num="2">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/108.png" num="3">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1930,7 +1930,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>Flying
 Whenever Skarla enters or attacks, exile up to one target creature. That creature&apos;s controller gains life equal to its power.
 Whenever a creature other than Skarla is exiled from the battlefield, you gain life equal to its power.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/109.png" num="18">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/109.png" num="21">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1949,7 +1949,7 @@ Whenever a creature other than Skarla is exiled from the battlefield, you gain l
 			<text>Trample
 Whenever you cast a historic spell, Nira gets +X/+X until end of turn, where X is that spell&apos;s mana value. (Artifacts, legendaries, and Sagas are historic.)
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/110.png" num="70">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/110.png" num="87">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1968,7 +1968,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>When Ayra enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Whenever you sacrifice a Clue, Ayra and up to one other target creature can&apos;t be blocked this turn.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/111.png" num="25">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/111.png" num="28">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2001,7 +2001,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>{U}, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.
 {1}{U}, Sacrifice Kole: Counter target activated or triggered ability.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/113.png" num="32">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/113.png" num="35">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2020,7 +2020,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>You have no maximum hand size.
 Whenever Koral attacks, sacrifice any number of artifacts. When you sacrifice one or more artifacts this way, tap up to that many target creatures and draw that many cards.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/114.png" num="33">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/114.png" num="36">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2038,7 +2038,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Mazie, Fearless Rebel</name>
 			<text>Whenever Mazie attacks, you may sacrifice an artifact. When you do, put a +1/+1 counter on Mazie, then it fights up to one target creature defending player controls.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/115.png" num="69">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/115.png" num="86">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2056,7 +2056,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Liyla, Magiknight Apprentice</name>
 			<text>Whenever an opponent draws a card except the first one they draw in each of their draw steps, put a +1/+1 counter on Liyla.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/116.png" num="68">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/116.png" num="85">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2074,7 +2074,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Lima, Traveling Baker</name>
 			<text>Paradox — Whenever you cast a spell from anywhere other than your hand, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/117.png" num="67">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/117.png" num="84">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2093,7 +2093,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>If you would planeswalk, instead look at the top two cards of your planar deck, put one on the bottom of your planar deck and the other on top, then planeswalk.
 {T}: Add {G}.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/118.png" num="71">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/118.png" num="88">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2111,7 +2111,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Evenclaire, Mystery Magnet</name>
 			<text>Whenever Evenclaire attacks, exile cards from the top of your library until you exile a nonland card. You may cast the exiled card without paying its mana cost if it&apos;s a spell with mana value less than or equal to Evenclaire&apos;s power. Put the exiled cards not cast this way on the bottom of your library in a random order.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/119.png" num="51">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/119.png" num="64">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2129,7 +2129,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Taku, Uneasy Scavenger</name>
 			<text>Noncreature, non-Equipment artifacts you control are Equipment in addition to their other types and have &quot;Equipped creature gets +1/+0&quot; and equip {1}.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/120.png" num="58">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/120.png" num="75">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2147,7 +2147,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<name>Taira, Graceful Partner</name>
 			<text>Whenever you cast an instant or sorcery spell that targets only Taira or activate an ability that targets only Taira, copy that spell or ability. You may choose new targets for the copy. This ability triggers only once each turn.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/121.png" num="57">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/121.png" num="74">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2162,11 +2162,11 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Axwell, Looking for Love Lost</name>
+			<name>Axwell, Love-Bound</name>
 			<text>Partner with Araty, Time-Lost (When this creature enters, target player may put Araty into their hand from their library, then shuffle.)
 Whenever Axwell deals combat damage to a player, choose a suspended card you own and remove that many time counters from it.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/122.png" num="48">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/122.png" num="59">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2185,7 +2185,7 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 			<text>Ward {2}
 Whenever you cast a Doctor spell or creature spell with doctor&apos;s aide, draw a card.
 Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/123.png" num="29">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/123.png" num="32">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2201,10 +2201,10 @@ Doctor&apos;s aide (You can have two commanders if the other is a Chronan Doctor
 		</card>
 		<card>
 			<name>Araty, Time-Lost</name>
-			<text>Partner with Axwell, Looking for Love Lost (When this creature enters, target player may put Axwell into their hand from their library, then shuffle.)
+			<text>Partner with Axwell, Love-Bound (When this creature enters, target player may put Axwell into their hand from their library, then shuffle.)
 First strike, lifelink
 When you cast this spell from anywhere other than exile, exile it with three time counters on it. It gains suspend. Then investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/124.png" num="78">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/124.png" num="96">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2219,10 +2219,10 @@ When you cast this spell from anywhere other than exile, exile it with three tim
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Remembrance of a Forgotten Age</name>
-			<text>When Remembrance of a Forgotten Age enters, investigate.
-Whenever Remembrance of a Forgotten Age attacks, you may sacrifice a Clue. When you do, target instant or sorcery card in your graveyard gains flashback {2}{R}{G} until end of turn. (You may cast that card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/125.png" num="106">UWT</set>
+			<name>Memory of a Lost Age</name>
+			<text>When Memory of a Lost Age enters, investigate.
+Whenever Memory of a Lost Age attacks, you may sacrifice a Clue. When you do, target instant or sorcery card in your graveyard gains flashback {2}{R}{G} until end of turn. (You may cast that card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/125.png" num="120">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2237,10 +2237,10 @@ Whenever Remembrance of a Forgotten Age attacks, you may sacrifice a Clue. When 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Innovator of the Fifteenth Age</name>
-			<text>Whenever Innovator of the Fifteenth Age enters or attacks, mill three cards. You may put an artifact card with mana value 2 or 3 from among them into your hand.
+			<name>Tinkerer of the Fifteenth Age</name>
+			<text>Whenever Tinkerer of the Fifteenth Age enters or attacks, mill three cards. You may put an artifact card with mana value 2 or 3 from among them into your hand.
 The first nonartifact spell you cast each turn has improvise. (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/126.png" num="96">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/126.png" num="133">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2258,7 +2258,7 @@ The first nonartifact spell you cast each turn has improvise. (Your artifacts ca
 			<name>Reminiscer of the Second Age</name>
 			<text>Players have no maximum hand size.
 At the beginning of your end step, each player may draw a card. Each opponent who does can&apos;t attack you or permanents you control during their next turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/127.png" num="107">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/127.png" num="125">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2273,10 +2273,10 @@ At the beginning of your end step, each player may draw a card. Each opponent wh
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Traveler of the Fourteenth Age</name>
+			<name>Nomad of the Fourteenth Age</name>
 			<text>When you cast this spell, reveal the top fourteen cards of your library. Put all Doctor cards revealed this way into your graveyard and the rest on the bottom of your library in a random order.
-You may have Traveler of the Fourteenth Age enter as a copy of a Doctor card in your graveyard that was put there from your library this turn. If you do, it gains haste until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/128.png" num="121">UWT</set>
+You may have Nomad of the Fourteenth Age enter as a copy of a Doctor card in your graveyard that was put there from your library this turn. If you do, it gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/128.png" num="142">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2291,10 +2291,10 @@ You may have Traveler of the Fourteenth Age enter as a copy of a Doctor card in 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Hedonist of the Thirteenth Age</name>
+			<name>Sage of the Thirteenth Age</name>
 			<text>Paradox — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on target creature.
 At the beginning of your end step, untap each creature you control with a counter on it.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/129.png" num="93">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/129.png" num="129">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2312,7 +2312,7 @@ At the beginning of your end step, untap each creature you control with a counte
 			<name>Bard of the Twelfth Age</name>
 			<text>The first spell you cast from anywhere other than your hand each turn has demonstrate. (When you cast that spell, you may copy it. If you do, choose an opponent to also copy it. A copy of a permanent spell becomes a token.)
 Whenever you copy a spell, put a +1/+1 counter on Bard of the Twelfth Age.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/130.png" num="83">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/130.png" num="101">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2330,7 +2330,7 @@ Whenever you copy a spell, put a +1/+1 counter on Bard of the Twelfth Age.</text
 			<name>Ritualist of the Eleventh Age</name>
 			<text>Whenever Ritualist of the Eleventh Age deals combat damage to a player, you may exile a card from your hand with a number of time counters on it equal to its mana value. If it doesn&apos;t have suspend, it gains suspend.
 {2}: Target creature with power 3 or less can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/131.png" num="109">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/131.png" num="127">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2348,7 +2348,7 @@ Whenever you copy a spell, put a +1/+1 counter on Bard of the Twelfth Age.</text
 			<name>Captain of the Ninth Age</name>
 			<text>Haste
 Whenever Captain of the Ninth Age becomes untapped during your untap step, you get an additional upkeep step after this step.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/132.png" num="84">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/132.png" num="102">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2366,7 +2366,7 @@ Whenever Captain of the Ninth Age becomes untapped during your untap step, you g
 			<name>Chronologist of the First Age</name>
 			<text>When Chronologist of the First Age enters, search your library and/or graveyard for a card named Chronorb, reveal it, and put it into your hand. If you search your library this way, shuffle.
 Whenever you cast a spell with cascade, put a +1/+1 counter on target artifact or creature.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/133.png" num="86">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/133.png" num="104">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2383,7 +2383,7 @@ Whenever you cast a spell with cascade, put a +1/+1 counter on target artifact o
 		<card>
 			<name>Host of the Sixth Age</name>
 			<text>Whenever you cast a historic spell, copy it, except the copy isn&apos;t legendary. This ability triggers only once each turn. (Artifacts, legendaries, and Sagas are historic. A copy of a permanent spell becomes a token.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/134.png" num="95">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/134.png" num="113">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2398,9 +2398,9 @@ Whenever you cast a spell with cascade, put a +1/+1 counter on target artifact o
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Game Lover of the Seventh Age</name>
-			<text>Whenever The Seventh Doctor attacks, choose a card in your hand. Defending player guesses whether that card&apos;s mana value is greater than the number of artifacts you control. If they guessed wrong, you may cast it without paying its mana cost. If you don&apos;t cast a spell this way, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/135.png" num="91">UWT</set>
+			<name>Gambler of the Seventh Age</name>
+			<text>Whenever Gambler of the Seventh Age attacks, choose a card in your hand. Defending player guesses whether that card&apos;s mana value is greater than the number of artifacts you control. If they guessed wrong, you may cast it without paying its mana cost. If you don&apos;t cast a spell this way, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/135.png" num="110">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2418,7 +2418,7 @@ Whenever you cast a spell with cascade, put a +1/+1 counter on target artifact o
 			<name>Herald of the Fourth Age</name>
 			<text>You may look at the top card of your library any time.
 Once each turn, you may play a historic land or cast a historic spell from the top of your library. When you do, create a Food token. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/136.png" num="94">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/136.png" num="112">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2437,7 +2437,7 @@ Once each turn, you may play a historic land or cast a historic spell from the t
 			<text>Flying
 Whenever this Vehicle attacks, if you control a Chronan, the next spell you cast this turn has cascade and you may planeswalk.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/137.png" num="123">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/137.png" num="144">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2455,7 +2455,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 When Ndoye enters, choose one —
 • Create a 1/1 colorless Robot Hero artifact creature token with flying.
 • Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/138.png" num="120">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/138.png" num="141">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2474,7 +2474,7 @@ When Ndoye enters, choose one —
 			<text>Myriad
 The &quot;legend rule&quot; doesn&apos;t apply to creature tokens you control.
 Triggered abilities you control can&apos;t cause you to sacrifice or exile creature tokens you control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/139.png" num="100">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/139.png" num="118">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2492,7 +2492,7 @@ Triggered abilities you control can&apos;t cause you to sacrifice or exile creat
 			<name>A Desperate, Disembodied Mind</name>
 			<text>When you cast this spell, you may exile a creature you control and put a takeover counter on it.
 You may have A Desperate, Disembodied Mind enter as a copy of a creature card in exile with a takeover counter on it.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/140.png" num="87">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/140.png" num="105">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2509,7 +2509,7 @@ You may have A Desperate, Disembodied Mind enter as a copy of a creature card in
 		<card>
 			<name>The Lady of Red Rebirth</name>
 			<text>Whenever a nontoken artifact creature you control dies, you may exile it. If you do, choose an opponent with the most life among your opponents. That player faces a villainous choice — They lose 4 life, or you create a token that&apos;s a copy of that card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/141.png" num="98">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/141.png" num="114">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2524,10 +2524,10 @@ You may have A Desperate, Disembodied Mind enter as a copy of a creature card in
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>The Mistress of Unlife and Undeath</name>
+			<name>Lady of Unlife and Undeath</name>
 			<text>Whenever another nonartifact creature dies, return it to the battlefield under your control face down and tapped. It&apos;s a 2/2 Techghoul artifact creature.
 At the beginning of your end step, each opponent faces a villainous choice — Each artifact creature you control deals 1 damage to that opponent, or you draw a card and chaos ensues.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/142.png" num="102">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/142.png" num="115">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2546,7 +2546,7 @@ At the beginning of your end step, each opponent faces a villainous choice — E
 			<text>Deathtouch
 Whenever a creature you control with deathtouch deals combat damage to a player, put that many +1/+1 counters on that creature.
 Disguise {B}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/143.png" num="60">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/143.png" num="77">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2564,7 +2564,7 @@ Disguise {B}{G} (You may cast this card face down for {3} as a 2/2 creature with
 			<name>Arick, Assassin Outfitter</name>
 			<text>As long as Arick hasn&apos;t dealt damage yet, he has hexproof and can&apos;t be blocked.
 Whenever Arick deals combat damage to a player, create a 1/1 black Assassin creature token with menace. When you do, return target Equipment card from your graveyard to the battlefield, then attach it to that token.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/144.png" num="81">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/144.png" num="99">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2582,7 +2582,7 @@ Whenever Arick deals combat damage to a player, create a 1/1 black Assassin crea
 			<name></name>
 			<text>Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
 When this creature enters, it fights up to one target creature an opponent controls. If that creature would die this turn, exile it instead.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/145.png" num="75">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/145.png" num="92">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2600,7 +2600,7 @@ When this creature enters, it fights up to one target creature an opponent contr
 			<name>Taleran, Blessed by Mutation</name>
 			<text>At the beginning of combat on your turn, put a +1/+1 counter on target creature.
 {T}: Add {C}{C}. When you next cast a spell with {X} in its mana cost or activate an ability with {X} in its activation cost this turn, copy that spell or ability. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/146.png" num="111">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/146.png" num="131">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2618,7 +2618,7 @@ When this creature enters, it fights up to one target creature an opponent contr
 			<name>Chemister of the Urge</name>
 			<text>Whenever The Rani enters or attacks, create a red Aura enchantment token named Enraging Fumes attached to another target creature. That token has enchant creature and &quot;Enchanted creature gets +2/+2 and is goaded.&quot;
 Whenever a goaded creature deals combat damage to one of your opponents, investigate.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/147.png" num="85">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/147.png" num="103">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2636,7 +2636,7 @@ Whenever a goaded creature deals combat damage to one of your opponents, investi
 			<name>Enraging Fumes UWT</name>
 			<text>Enchant creature
 Enchanted creature gets +2/+2 and is goaded.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/148.png" num="2">UWT</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/148.png" num="3">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2654,7 +2654,7 @@ Enchanted creature gets +2/+2 and is goaded.</text>
 			<name>D&apos;Nu&apos;Ra, the Spawnmother</name>
 			<text>At the beginning of combat on your turn, put a number of +1/+1 counters equal to D&apos;Nu&apos;Ra&apos;s power on up to one other target creature. That creature becomes a Mutant in addition to its other types.
 Whenever a Mutant you control dies during your turn, you draw cards equal to its power.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/149.png" num="88">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/149.png" num="106">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2673,7 +2673,7 @@ Whenever a Mutant you control dies during your turn, you draw cards equal to its
 			<text>Bloodthirst X (This creature enters with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)
 Menace
 Enrage — Whenever Gax is dealt damage, choose an opponent at random. Gax deals damage equal to its power to that player unless they sacrifice a nontoken creature of their choice.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/150.png" num="119">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/150.png" num="140">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2692,7 +2692,7 @@ Enrage — Whenever Gax is dealt damage, choose an opponent at random. Gax deals
 			<text>Menace
 Tellur gets +1/+0 for each other Assassin you control and each Assassin card in your graveyard.
 Whenever Tellur deals combat damage to a player, surveil X, where X is the amount of damage it dealt to that player.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/151.png" num="46">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/151.png" num="57">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2709,7 +2709,7 @@ Whenever Tellur deals combat damage to a player, surveil X, where X is the amoun
 		<card>
 			<name>Torm, Stickyfingers</name>
 			<text>Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this treasure: Add one mana of any color.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/152.png" num="115">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/152.png" num="136">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2728,7 +2728,7 @@ Whenever Tellur deals combat damage to a player, surveil X, where X is the amoun
 			<text>Partner with Nella, Despondent Hero (When this creature enters, target player may put Nella into their hand from their library, then shuffle.)
 At the beginning of combat on your turn, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Activated abilities of Foods you control cost {1} less to activate.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/153.png" num="76">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/153.png" num="94">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2746,7 +2746,7 @@ Activated abilities of Foods you control cost {1} less to activate.</text>
 			<text>Partner with Amora, Loyal Attendant
 Vigilance
 Whenever Nella attacks, if you gained 3 or more life this turn, Dark Omens beckon you. Then if Nella is your Omenseeker and Dark Omens have beckoned you two or more times this game, draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/154.png" num="103">UWT</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/154.png" num="121">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2764,7 +2764,7 @@ Whenever Nella attacks, if you gained 3 or more life this turn, Dark Omens becko
 			<name>Ennie Jenn, Berry Expert</name>
 			<text>When Ennie Jenn enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Whenever you create a token, put a +1/+1 counter on target creature you control other than Ennie Jenn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/155.png" num="9">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/155.png" num="11">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2784,7 +2784,7 @@ Whenever you create a token, put a +1/+1 counter on target creature you control 
 
 {1}, {T}: Create a Food token.
 {T}, Sacrifice four Foods: Other creatures you control get +3/+3 and gain haste until end of turn. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/156.png" num="113">UWT</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/156.png" num="134">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2801,7 +2801,7 @@ Whenever you create a token, put a +1/+1 counter on target creature you control 
 			<name>Gal&apos;Jun Witness</name>
 			<text>Flash
 Whenever another creature dies, if it was attacking or blocking alone, exile it and investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/157.png" num="65">UWT</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/157.png" num="82">UWT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2814,6 +2814,438 @@ Whenever another creature dies, if it was attacking or blocking alone, exile it 
 				<pt>0/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sweettooth Brawler</name>
+			<text>When this creature enters, put two +1/+1 counters on target creature. When you do, destroy up to one target creature with mana value less than or equal to the number of counters among permanents you control.
+{2}, {T}, Sacrifice this creature: You gain 3 life and each opponent loses 3 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/158.png" num="56">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Alien Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leaping Leftovers</name>
+			<text>When this creature enters, put two +1/+1 counters on target creature. When you do, destroy up to one target creature with mana value less than or equal to the number of counters among permanents you control.
+{2}, {T}, Sacrifice this creature: You gain 3 life and each opponent loses 3 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/159.png" num="50">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Food Alien Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eshela, Carving Death // Dark Tutor</name>
+			<text>Whenever a player loses life during your turn, you may create that many tapped 2/2 black Zombie creature tokens. Do this only once each turn.
+
+---
+
+(Cast only from your graveyard. Then exile it.)
+Search your library for a card, put it into your hand or graveyard, then shuffle. You lose 3 life.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/160.png" num="48">UWT</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — God Sorcerer Villain // Sorcery — Vengeance</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB // 1BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Convocation of the Hellstag</name>
+			<text>Choose up to five {J} worth of modes. You may choose the same mode more than once.
+{J} — Target creature gets +1/+0 and gains deathtouch until end of turn.
+{J}{J} — Until end of turn, target creature gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
+{J}{J}{J} — Destroy each non-Zombie creature with power 3 or less.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/161.png" num="45">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Arcane</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demonfold, First Tome of Evil</name>
+			<text>{T}: Put a sin counter on Demonfold. Draw a card for each sin counter on it, then you lose 1 life for each card in your hand.
+6BB, T: Each player&apos;s life total becomes the lowest life total among all players. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/162.png" num="46">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Book</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rise from the Nether</name>
+			<text>Create a 3/1 black Servitor creature token for each noncreature, nonland card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/163.png" num="71">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Arcane</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6R</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Servitor UWT</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/UWT-files/img/164.png" num="1">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Servitor</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Eno&apos;Kowath, the Shambler</name>
+			<text>Deathtouch
+Eno&apos;Kowath enters with three +1/+1 counters on him.
+At the beginning of your upkeep, double the number of +1/+1 counters on Eno&apos;Kowath.
+Whenever Eno&apos;Kowath deals combat damage to an opponent, he deals that much damage to each other opponent.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/165.png" num="108">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder God Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valur, Blood Magik Savior</name>
+			<text>At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.
+At the beginning of your end step, if you&apos;ve sacrificed two or more permanents this turn, you may transform Valur.
+---
+(Back): Witchmaw, Inner Demon</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/166_front.png" num="137a">UWT</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Sorcerer Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Witchmaw, Inner Demon</related>
+		</card>
+		<card>
+			<name>Witchmaw, Inner Demon</name>
+			<text>At the beginning of your upkeep, exile cards from the top of your library until you exile a nonland card. You may play those cards this turn.
+Pay 4 life: Witchmaw gains indestructible until end of turn. Tap her.
+---
+(Front): Valur, Blood Magik Savior</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/166_back.png" num="137b">UWT</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Mutant Demon Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Valur, Blood Magik Savior</related>
+		</card>
+		<card>
+			<name>Curious Critters</name>
+			<text>This creature can&apos;t block.
+At the beginning of your upkeep, create a token that&apos;s a copy of this creature.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/168.png" num="7">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Critter</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Deckmaster</name>
+			<text>When The Deckmaster enters, shuffle your library, then exile cards from the top of your library until you exile a nonland card. That nonland card gains &quot;Exile a card from your hand: Create a copy of this card. You may cast the copy. Activate only during your turn and only if this card is exiled.&quot;</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/169.png" num="62">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Za</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gayaban, Hustler</name>
+			<text>You can&apos;t sacrifice Treasure tokens.
+At the beginning of each upkeep, create a Treasure token.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/170.png" num="65">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Doro Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Gateway Between</name>
+			<text>Once during each of your turns, you may play a permanent card you own from outside the game or from your graveyard.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/171.png" num="146">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/172.png" num="2">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Peace in Our Time</name>
+			<text>At the beginning of combat on each player&apos;s turn, that player may draw a card. If they do, they can&apos;t attack this turn and you put a peace counter on this enchantment.
+At the beginning of your upkeep, if this enchantment has twelve or more peace counters on it, you win the game.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/173.png" num="17">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Hellfire Ruination</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — This Saga deals 4 damage to target creature an opponent controls. At the beginning of the next combat this turn, gain control of that creature until end of turn. Untap it. It gains haste until end of turn.
+II — You may exile a card from your hand. If you do, draw a card.
+III — Each opponent sacrifices a nontoken permanent of their choice.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/174.png" num="67">UWT</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Summitfest Performance</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for a basic Mountain card, put it onto the battlefield tapped, then shuffle.
+II — Whenever a creature you control enters this turn, put a +1/+1 counter on it and it gains haste until end of turn.
+III — Sacrifice a land.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/175.png" num="73">UWT</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brazen Bluff</name>
+			<text>Choose target noncreature spell an opponent controls. That player may exile it. If they don&apos;t, you may cast a noncreature spell from your hand without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/176.png" num="60">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Agog, Speaker of Many Voices</name>
+			<text>Whenever you cast an enchantment spell, draw a card. If it&apos;s a Saga spell, Dathon deals 2 damage to each opponent.
+{2}: Choose a counter on target enchantment you control. Put another counter of that kind on it. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/177.png" num="93">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Memorialist Officer</type>
+				<maintype>Creature</maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>R.X., Cyber Analyst</name>
+			<text>Whenever you face a dilemma, draw a card. (You face a dilemma as you choose one or more modes for a spell or ability.)</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/UWT-files/img/178.png" num="124">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Human Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yt, Overworked Archivist</name>
+			<text>During your main phase, each card in your graveyard has recall. The recall cost is equal to that spell&apos;s mana cost. Yt can&apos;t be recalled to cast a spell this way. (Only instant and sorcery spells can be cast this way. You may cast a card from your graveyard for its recall cost if you also return another creature you control to its owner&apos;s hand. Then exile that spell.)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/179.png" num="43">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Psychic Vampire</name>
+			<text>Lifelink
+When this creature enters, look at target opponent&apos;s hand. You may choose a nonland card from it. If you do, that player exiles that card, then draws a card.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/UWT-files/img/180.png" num="54">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Sphinx&apos;s Riddles</name>
+			<text>At the beginning of your upkeep, choose one that hasn&apos;t been chosen —
+• Return up to one target creature an opponent controls with mana value 3 or less to its owner&apos;s hand.
+• Draw two cards.
+• Create two 1/1 red Officer creature tokens.
+• You lose the game.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/UWT-files/img/181.png" num="40">UWT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

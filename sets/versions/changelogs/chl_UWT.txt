@@ -1,4 +1,84 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Karin, Royal Patrol added.
+Magus of Forgotten Ages added.
+Seeker of the Tenth Age added.
+Researcher of Bounties added.
+Ado, Woman Outside Time added.
+Axwell, Love-Bound added.
+Memory of a Lost Age added.
+Tinkerer of the Fifteenth Age added.
+Nomad of the Fourteenth Age added.
+Sage of the Thirteenth Age added.
+Gambler of the Seventh Age added.
+Lady of Unlife and Undeath added.
+Sweettooth Brawler added.
+Leaping Leftovers added.
+Eshela, Carving Death added.
+Convocation of the Hellstag added.
+Demonfold, First Tome of Evil added.
+Rise from the Nether added.
+Servitor added.
+Eno'Kowath, the Shambler added.
+Valur, Blood Magik Savior added.
+Curious Critters added.
+The Deckmaster added.
+Gayaban, Hustler added.
+The Gateway Between added.
+Peace in Our Time added.
+The Hellfire Ruination added.
+Summitfest Performance added.
+Brazen Bluff added.
+Agog, Speaker of Many Voices added.
+R.X., Cyber Analyst added.
+Yt, Overworked Archivist added.
+Psychic Vampire added.
+The Sphinx's Riddles added.
+
+Karin, Royal Guard removed.
+War Mage of Lost Ages removed.
+Investigator of the Tenth Age removed.
+Researcher of a Bountiful Tomorrow removed.
+Ado, The Woman Outside Time removed.
+Axwell, Looking for Love Lost removed.
+Remembrance of a Forgotten Age removed.
+Innovator of the Fifteenth Age removed.
+Traveler of the Fourteenth Age removed.
+Hedonist of the Thirteenth Age removed.
+Game Lover of the Seventh Age removed.
+The Mistress of Unlife and Undeath removed.
+
+Resist the Calamity
+
+Toren, Slumbering Psychic
+
+Professor Penn, Folklorist
+
+Olive, Loop Trapped
+
+
+rules_text: ​ => 
+
+Araty, Time-Lost
+rules_text: Partner with Axwell, Looking for Love Lost [i](When this creature enters, target player may put Axwell into their hand from their library, then shuffle.)[/i]
+First strike, lifelink
+When you cast this spell from anywhere other than exile, exile it with three time counters on it. It gains suspend. Then investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Partner with Axwell, Love-Bound [i](When this creature enters, target player may put Axwell into their hand from their library, then shuffle.)[/i]
+First strike, lifelink
+When you cast this spell from anywhere other than exile, exile it with three time counters on it. It gains suspend. Then investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+
+type:  => Creature — Genovore
+cost:  => {X}{R}{G}
+rules_text: ​ => Ravenous [i](This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)[/i]
+When this creature enters, it fights up to one target creature an opponent controls. If that creature would die this turn, exile it instead.
+pt:  => 2/2
+
+
+rules_text: ​ => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
