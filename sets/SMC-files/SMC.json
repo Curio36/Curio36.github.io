@@ -389,7 +389,7 @@
             "card_name": "Tayce T., Toad Town Cook",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Fungus Citizen",
+            "type": "Legendary Creature \u2014 Fungus Cook",
             "number": 5,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -1877,5 +1877,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

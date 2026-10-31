@@ -5,7 +5,7 @@
 			<name>SMC</name>
 			<longname>Super Mario Brothers Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-08</releasedate>
+			<releasedate>2026-10-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -341,7 +341,7 @@ Whenever you gain life, create a Super token attached to up to one target creatu
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Fungus Citizen</type>
+				<type>Legendary Creature — Fungus Cook</type>
 				<maintype>Creature</maintype>
 				<manacost>3W</manacost>
 				<cmc>4</cmc>

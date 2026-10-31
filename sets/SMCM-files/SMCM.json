@@ -1,9 +1,11 @@
 ﻿{
     "name": "Mushroom Kingdom Commander Precon",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Bobbery, Salty Sea Dog",
@@ -21,6 +23,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Intelligent Systems",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -39,6 +44,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Shokora; Nintendo",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -57,6 +65,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -75,6 +86,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -93,6 +107,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Intelligent Systems",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -111,6 +128,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "IsaacMan; Intelligent System",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -129,6 +149,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "sylvan; Intelligent System",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -147,24 +170,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Kingrs; Intelligent System",
-            "notes": ""
-        },
-        {
-            "card_name": "Turtle Egg",
-            "color": "R",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Turtle Egg",
-            "number": 5,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "This token can't block.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCM",
-            "loyalty": "",
-            "artist": "Supermariofan67; Nintendo",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -183,6 +191,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Intelligent System",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,6 +212,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Zootalo; ArtePiazza and Nintendo",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -219,6 +233,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Zootalo; ArtePiazza and Nintendo",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -237,6 +254,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "RAP; Namco Bandai",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -255,6 +275,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "RAP; Namco Bandai",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -273,6 +296,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "11th; Bandai Namco and Sora Ltd",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -291,6 +317,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Intelligent Systems",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -309,6 +338,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "0blivion; Nintendo",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -327,6 +359,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "TOSE Software",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -345,13 +380,16 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Kobunsha; AlphaDream; Nintendo",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Tayce T., Toad Town Cook",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Fungus Citizen",
+            "type": "Legendary Creature \u2014 Fungus Cook",
             "number": 5,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -363,6 +401,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Intelligence Systems",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -381,6 +422,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "RARE",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -399,6 +443,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Intelligent Systems",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -417,6 +464,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Trainiax; Nintendo",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -435,6 +485,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -453,6 +506,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "ZanyDragon; Good-Feel",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -471,6 +527,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "NDCube, CAProduction",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -489,6 +548,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Supermariofan67; Nintendo",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -507,6 +569,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Bloober; AlphaDream",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -525,6 +590,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -543,6 +611,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Good-Feel and Nintendo",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -561,6 +632,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Blhte; Nintendo",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -579,6 +653,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Nintendo Power",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -597,6 +674,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -615,6 +695,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -633,6 +716,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Bandai Namco",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -651,6 +737,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Nintendo, Bandai",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -669,6 +758,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Prima, Nintendo",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -687,132 +779,9 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "Ninelevendo; AlphaDream, Good-Feel",
-            "notes": ""
-        },
-        {
-            "card_name": "Performer",
-            "color": "W",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Performer",
-            "number": 4,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCM",
-            "loyalty": "",
-            "artist": "DandelionSprout; Good-Feel",
-            "notes": ""
-        },
-        {
-            "card_name": "Fungus Hero",
-            "color": "WG",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Fungus Hero",
-            "number": 6,
-            "color_identity": "WG",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCM",
-            "loyalty": "",
-            "artist": "Nintendo Cube, CAProduction",
-            "notes": ""
-        },
-        {
-            "card_name": "Copy",
-            "color": "",
-            "rarity": "common",
-            "type": "Token",
-            "number": 1,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "[i](This token can be used to represent a token that's a copy of a permanent.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCM",
-            "loyalty": "",
-            "artist": "Nightwicked Bowser; Intelligent Systems",
-            "notes": ""
-        },
-        {
-            "card_name": "Star",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Enchantment Creature \u2014 Star",
-            "number": 2,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Flying",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCM",
-            "loyalty": "",
-            "artist": "Illumination",
-            "notes": ""
-        },
-        {
-            "card_name": "Super",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Enchantment \u2014 Aura",
-            "number": 3,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Enchant creature\nEnchanted creature gets +1/+1.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCM",
-            "loyalty": "",
-            "artist": "Nintendo",
-            "notes": ""
-        },
-        {
-            "card_name": "Food",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2014 Food",
-            "number": 7,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCM",
-            "loyalty": "",
-            "artist": "Mario jc; Feel-Good",
-            "notes": ""
-        },
-        {
-            "card_name": "Treasure",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2014 Treasure",
-            "number": 8,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCM",
-            "loyalty": "",
-            "artist": "Shokora; Nintendo",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -831,6 +800,198 @@
             "set": "SMCM",
             "loyalty": "",
             "artist": "3D Player 2010; Nintendo",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Turtle Egg",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Turtle Egg",
+            "number": 5,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "This token can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "Supermariofan67; Nintendo",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Performer",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Performer",
+            "number": 4,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "DandelionSprout; Good-Feel",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Fungus Hero",
+            "color": "WG",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Fungus Hero",
+            "number": 6,
+            "color_identity": "WG",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "Nintendo Cube, CAProduction",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Copy",
+            "color": "",
+            "rarity": "common",
+            "type": "Token",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "[i](This token can be used to represent a token that's a copy of a permanent.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "Nightwicked Bowser; Intelligent Systems",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Star",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Enchantment Creature \u2014 Star",
+            "number": 2,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "Illumination",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Super",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Enchantment \u2014 Aura",
+            "number": 3,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Enchant creature\nEnchanted creature gets +1/+1.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "Nintendo",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Food",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Food",
+            "number": 7,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "Mario jc; Feel-Good",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Treasure",
+            "number": 8,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "Shokora; Nintendo",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Mushroom Kingdom Defense",
+            "color": "WRG",
+            "rarity": "common",
+            "type": "",
+            "number": 0,
+            "color_identity": "WRG",
+            "cost": "{R}{G}{W}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SMCM",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         }
     ],

@@ -184,7 +184,7 @@
 			"name": "Tayce T., Toad Town Cook",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature — Fungus Citizen",
+			"type": "Legendary Creature — Fungus Cook",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMC-files/img/18.png"

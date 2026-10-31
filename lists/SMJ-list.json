@@ -1,0 +1,373 @@
+﻿[
+    {
+        "card_name": "Cookatiel, Kooky Cook",
+        "number": 2,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Invisible Mario",
+        "number": 11,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Gloomtail, Trial Pit Boss",
+        "number": 13,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Princess Daisy",
+        "number": 16,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Drill Mario",
+        "number": 17,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Mario & Luigi, Baby Buggy Duo",
+        "number": 5,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Gelato Cataquacks",
+        "number": 10,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Boo Mario",
+        "number": 12,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Clown Mario",
+        "number": 15,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Wrecking Crewmate",
+        "number": 19,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Tuxedo Mario",
+        "number": 9,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Koopa Kid",
+        "number": 14,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Runaway Watermelon",
+        "number": 18,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Excited Karter",
+        "number": 3,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Guest Racer",
+        "number": 4,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Paratroopa Wings",
+        "number": 6,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Royal Racers",
+        "number": 8,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "King K. Rool",
+        "number": 20,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Superstar Mario",
+        "number": 21,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Princess Peach",
+        "number": 0,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Dry",
+        "number": 0,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "",
+        "number": 1,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Thriving Heath",
+        "number": 24,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Thriving Isle",
+        "number": 25,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Thriving Moor",
+        "number": 26,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Thriving Bluff",
+        "number": 22,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Thriving Grove",
+        "number": 23,
+        "shape": "normal",
+        "set": "SMJ",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,0 +1,389 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Tuxedo Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/0.png"
+			}
+		},
+		{
+			"name": "Drill Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/1.png"
+			}
+		},
+		{
+			"name": "Invisible Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/2.png"
+			}
+		},
+		{
+			"name": "Boo Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Spirit Hero",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/3.png"
+			}
+		},
+		{
+			"name": "Runaway Watermelon",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Food",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/4.png"
+			}
+		},
+		{
+			"name": "Gelato Cataquacks",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/5.png"
+			}
+		},
+		{
+			"name": "Wrecking Crewmate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/6.png"
+			}
+		},
+		{
+			"name": "Superstar Mario",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Star Hero",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/7.png"
+			}
+		},
+		{
+			"name": "Guest Racer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Guest Pilot",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/8.png"
+			}
+		},
+		{
+			"name": "Princess Peach",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/9.png"
+			}
+		},
+		{
+			"name": "Princess Peach",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/10.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/11.png"
+			}
+		},
+		{
+			"name": "Koopa Kid",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Turtle Dragon Minion",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/12.png"
+			}
+		},
+		{
+			"name": "Princess Daisy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/13.png"
+			}
+		},
+		{
+			"name": "Royal Racers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Noble Pilot",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/14.png"
+			}
+		},
+		{
+			"name": "Paratroopa Wings",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/15.png"
+			}
+		},
+		{
+			"name": "King K. Rool",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Crocodile Noble",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/16.png"
+			}
+		},
+		{
+			"name": "Excited Karter",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Fungus Pilot",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/17.png"
+			}
+		},
+		{
+			"name": "Clown Mario",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Clown Hero",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/18.png"
+			}
+		},
+		{
+			"name": "Thriving Moor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/19.png"
+			}
+		},
+		{
+			"name": "Thriving Bluff",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/20.png"
+			}
+		},
+		{
+			"name": "Thriving Grove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/21.png"
+			}
+		},
+		{
+			"name": "Thriving Heath",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/22.png"
+			}
+		},
+		{
+			"name": "Thriving Isle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/23.png"
+			}
+		},
+		{
+			"name": "Mario & Luigi, Baby Buggy Duo",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/24.png"
+			}
+		},
+		{
+			"name": "Cookatiel, Kooky Cook",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Bird Minion Cook",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/25.png"
+			}
+		},
+		{
+			"name": "Gloomtail, Trial Pit Boss",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Legendary Creature — Skeleton Dragon Minion",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/26.png"
+			}
+		},
+		{
+			"name": "Dry",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/27.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Superstar Mario
+	1 Princess Peach
+	1 Princess Daisy
+	2 King K. Rool
+	2 Mario & Luigi, Baby Buggy Duo
+	1 Cookatiel, Kooky Cook
+	1 Gloomtail, Trial Pit Boss
+[uncommon(3)]
+	4 Tuxedo Mario
+	4 Drill Mario
+	4 Invisible Mario
+	4 Boo Mario
+	4 Wrecking Crewmate
+	4 Clown Mario
+[common(6)]
+	8 Runaway Watermelon
+	8 Gelato Cataquacks
+	8 Guest Racer
+	8 Princess Peach
+	8 
+	8 Koopa Kid
+	8 Royal Racers
+	8 Paratroopa Wings
+	8 Excited Karter
+	8 Thriving Moor
+	8 Thriving Bluff
+	8 Thriving Grove
+	8 Thriving Heath
+	8 Thriving Isle
+	8 Dry
+[common | masterpiece(1)]
+	8 Runaway Watermelon
+	8 Gelato Cataquacks
+	8 Guest Racer
+	8 Princess Peach
+	8 
+	8 Koopa Kid
+	8 Royal Racers
+	8 Paratroopa Wings
+	8 Excited Karter
+	8 Thriving Moor
+	8 Thriving Bluff
+	8 Thriving Grove
+	8 Thriving Heath
+	8 Thriving Isle
+	8 Dry
+[foil(1)]
+	6 Tuxedo Mario
+	6 Drill Mario
+	6 Invisible Mario
+	6 Boo Mario
+	12 Runaway Watermelon
+	12 Gelato Cataquacks
+	6 Wrecking Crewmate
+	1 Superstar Mario
+	12 Guest Racer
+	1 Princess Peach
+	12 Princess Peach
+	12 
+	12 Koopa Kid
+	1 Princess Daisy
+	12 Royal Racers
+	12 Paratroopa Wings
+	2 King K. Rool
+	12 Excited Karter
+	6 Clown Mario
+	12 Thriving Moor
+	12 Thriving Bluff
+	12 Thriving Grove
+	12 Thriving Heath
+	12 Thriving Isle
+	2 Mario & Luigi, Baby Buggy Duo
+	1 Cookatiel, Kooky Cook
+	1 Gloomtail, Trial Pit Boss
+	12 Dry
+[wildcard(1)]
+	15 Tuxedo Mario
+	15 Drill Mario
+	15 Invisible Mario
+	15 Boo Mario
+	6 Runaway Watermelon
+	6 Gelato Cataquacks
+	15 Wrecking Crewmate
+	4 Superstar Mario
+	6 Guest Racer
+	4 Princess Peach
+	6 Princess Peach
+	6 
+	6 Koopa Kid
+	4 Princess Daisy
+	6 Royal Racers
+	6 Paratroopa Wings
+	7 King K. Rool
+	6 Excited Karter
+	15 Clown Mario
+	6 Thriving Moor
+	6 Thriving Bluff
+	6 Thriving Grove
+	6 Thriving Heath
+	6 Thriving Isle
+	7 Mario & Luigi, Baby Buggy Duo
+	4 Cookatiel, Kooky Cook
+	4 Gloomtail, Trial Pit Boss
+	6 Dry

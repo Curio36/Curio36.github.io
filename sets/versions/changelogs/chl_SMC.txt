@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Tayce T., Toad Town Cook
+type: Legendary Creature — Fungus Citizen => Legendary Creature — Fungus Cook
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

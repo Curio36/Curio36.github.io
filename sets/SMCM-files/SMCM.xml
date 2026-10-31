@@ -5,7 +5,7 @@
 			<name>SMCM</name>
 			<longname>Mushroom Kingdom Commander Precon</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-16</releasedate>
+			<releasedate>2026-10-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Bobbery, Salty Sea Dog</name>
 			<text>Whenever a source you control deals excess noncombat damage to a creature you don&apos;t control, Bobbery deals twice that much damage to that creature&apos;s controller.
 Bomb — {3}{R}: Bobbery deals 2 damage to target creature you don&apos;t control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/8_Bobbery, Salty Sea Dog.png" num="8">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/0.png" num="8">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Bomb — {3}{R}: Bobbery deals 2 damage to target creature you don&apos;t contro
 			<name>3-Up Moon</name>
 			<text>Return each creature card with mana value 3 or less and up to one Hero or Noble card from your graveyard to the battlefield.
 Exile this spell.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/1_3-Up Moon.png" num="1">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/1.png" num="1">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -49,7 +49,7 @@ Exile this spell.</text>
 			<text>Enchant creature
 Enchant creature has myriad. Those tokens aren&apos;t legendary.
 Stock (You may cast a copy of this spell from your graveyard by exiling this card in addition to its other costs.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/10_Double Cherries.png" num="10">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/2.png" num="10">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -68,7 +68,7 @@ Stock (You may cast a copy of this spell from your graveyard by exiling this car
 Captive Peach can&apos;t attack or block.
 Whenever a creature attacks you, untap it. It gains menace until end of turn.
 {5}, Sacrifice Captive Peach: Her owner draws a card and creates two Treasure tokens. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/20_Captive Peach.png" num="20">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/3.png" num="20">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@ Whenever a creature attacks you, untap it. It gains menace until end of turn.
 			<name>Yoshi Kid</name>
 			<text>Vigilance
 Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that he doesn&apos;t have on him from among reach, first strike, menace, and trample. Put a counter of that kind on Yoshi Kid. If he has a counter of each of those kinds on him, put two +1/+1 counters on him instead.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/37_Yoshi Kid.png" num="37">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/4.png" num="37">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -105,7 +105,7 @@ Whenever Yoshi Kid enters or attacks, choose a kind of counter at random that he
 			<text>Vigilance
 Kooper enters with a shield counter on him. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 When Kooper enters, put a shield counter on each other modified creature you control. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/28_Kooper, Power Shell.png" num="28">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/5.png" num="28">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -124,7 +124,7 @@ When Kooper enters, put a shield counter on each other modified creature you con
 			<text>Whenever another legendary creature you control enters, put a +1/+1 counter on Watt.
 As long as Watt has three or more counters on her, she has first strike
 As long as Watt has six or more counters on her, she has double strike.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/12_Watt, Baby Spark.png" num="12">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/6.png" num="12">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -143,7 +143,7 @@ As long as Watt has six or more counters on her, she has double strike.</text>
 			<text>Flying
 As long as Lakilester is attacking, prevent all combat damage that would be dealt to other attacking creatures you control.
 At the beginning of each end step, if damage was prevented this turn, create two 1/1 red Turtle Egg creature tokens with &quot;This token can&apos;t block&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/3_Lakilester, Cool Cloud Rider.png" num="3">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/7.png" num="3">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -158,28 +158,10 @@ At the beginning of each end step, if damage was prevented this turn, create two
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Turtle Egg SMCM</name>
-			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/5t_Turtle Egg.png" num="5">SMCM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Turtle Egg</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Tippi, Helpful Pixl</name>
 			<text>Flying
 Whenever Tippi or another legendary permanent you control enters, you gain 1 life and draw a card. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/6_Tippi, Helpful Pixl.png" num="6">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/8.png" num="6">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -198,7 +180,7 @@ Whenever Tippi or another legendary permanent you control enters, you gain 1 lif
 			<text>Reach
 Whenever you sacrifice an enchantment, Mallow deals 2 damage to any target and you gain 2 life.
 {2}{R}{G}, Sacrifice an Aura with mana value 1 or greater: Discover X, where X is that Aura&apos;s mana value. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/30_Mallow, Lost Prince.png" num="30">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/9.png" num="30">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -216,7 +198,7 @@ Whenever you sacrifice an enchantment, Mallow deals 2 damage to any target and y
 			<name>Geno, Star-Powered Puppet</name>
 			<text>Haste
 Shooting Star Shot — Whenever Geno attacks for the first time each turn, creatures you control get +1/+1 until end of turn. Then if you control three or more attacking enchanted creatures, untap all attacking creatures. After this phase, there is an additional combat phase.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/25_Geno, Star-Powered Puppet.png" num="25">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/10.png" num="25">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -234,7 +216,7 @@ Shooting Star Shot — Whenever Geno attacks for the first time each turn, creat
 			<name>Mario, Superstar</name>
 			<text>Whenever Mario attacks, create a tapped Treasure token for each Aura attached to him.
 Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCM-files/img/31_Mario, Superstar.png" num="31">SMCM</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCM-files/img/11.png" num="31">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -252,7 +234,7 @@ Partner—Cross Heroes (You can have two commanders if both have this ability.)<
 			<name>Luigi, Second Banana</name>
 			<text>Whenever an Aura enters attached to Luigi, you may create a token that&apos;s a copy of it attached to another target legendary creature you control.
 Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCM-files/img/29_Luigi, Second Banana.png" num="29">SMCM</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCM-files/img/12.png" num="29">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -271,7 +253,7 @@ Partner—Cross Heroes (You can have two commanders if both have this ability.)<
 			<text>Flying
 Clay Shooting — Whenever one or more commanders you control attack, Duck Hunt Duo deals 2 damage to each defending player. Create a Treasure token for each player dealt damage this way.
 Partner—Cross Heroes (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCM-files/img/22_Duck Hunt Duo.png" num="22">SMCM</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCM-files/img/13.png" num="22">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -289,7 +271,7 @@ Partner—Cross Heroes (You can have two commanders if both have this ability.)<
 			<name>Vivian, Shadow Sister</name>
 			<text>Veil — At the beginning of combat on your turn, target creature you control gets +1/+0 and gains indestructible until end of turn.
 Fiery Hex — During your turn, double all damage commanders you control would deal to your opponents and to permanents your opponents control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/36_Vivian, Shadow Sister.png" num="36">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/14.png" num="36">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -308,7 +290,7 @@ Fiery Hex — During your turn, double all damage commanders you control would d
 			<text>Enchant legendary creature you control
 Auras you control have hexproof and indestructible.
 Enchanted creature gets +10/+10 and can&apos;t be blocked by creatures with power 2 or less.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/23_The Fabled Giga Bell.png" num="23">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/15.png" num="23">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -328,7 +310,7 @@ Enchanted creature gets +10/+10 and can&apos;t be blocked by creatures with powe
 • Rage — First strike
 • Gloom — Deathtouch
 • Calm — Lifelink</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCM-files/img/35_Super Princess Peach.png" num="35">SMCM</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCM-files/img/16.png" num="35">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -347,7 +329,7 @@ Enchanted creature gets +10/+10 and can&apos;t be blocked by creatures with powe
 			<text>Flying
 Untap each enchanted permanent you control during each opponent&apos;s untap step.
 Whenever you attack, for each defending player, tap target creature that player controls.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/33_Prince Peasley, Flamboyant Bean.png" num="33">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/17.png" num="33">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -365,11 +347,11 @@ Whenever you attack, for each defending player, tap target creature that player 
 			<name>Tayce T., Toad Town Cook</name>
 			<text>When Tayce T. enters and at the beginning of your upkeep, create a Food token.
 Whenever you gain life, create a Super token attached to up to one target creature you control. (It&apos;s a colorless Aura enchantment token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/5_Tayce T., Toad Town Cook.png" num="5">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/18.png" num="5">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Fungus Citizen</type>
+				<type>Legendary Creature — Fungus Cook</type>
 				<maintype>Creature</maintype>
 				<manacost>3W</manacost>
 				<cmc>4</cmc>
@@ -384,7 +366,7 @@ Whenever you gain life, create a Super token attached to up to one target creatu
 			<text>This spell can&apos;t be countered
 Trample, haste
 Whenever DK &amp; Diddy attacks, double each other attacking creature&apos;s power until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/21_DK &amp; Diddy.png" num="21">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/19.png" num="21">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -402,7 +384,7 @@ Whenever DK &amp; Diddy attacks, double each other attacking creature&apos;s pow
 			<name>Paper Mario, Team Player</name>
 			<text>Menace
 Whenever Paper Mario attacks, you may exert him. When you do, copy up to two other triggered abilities you control. You may choose new targets for those abilities. (An exerted creature won&apos;t untap during your next untap step.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/11_Paper Mario, Team Player.png" num="11">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/20.png" num="11">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -420,7 +402,7 @@ Whenever Paper Mario attacks, you may exert him. When you do, copy up to two oth
 			<name>Gold Skin</name>
 			<text>Enchant creature or Vehicle
 Enchanted creature gets +2/+2 and has ward {2} and &quot;Whenever this creature deals combat damage to a player, create that many Treasure tokens.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/26_Gold Skin.png" num="26">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/21.png" num="26">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -439,7 +421,7 @@ Enchanted creature gets +2/+2 and has ward {2} and &quot;Whenever this creature 
 Permanent spells you control can&apos;t be countered.
 {T}: Add {G}.
 {3}{G}, {T}: Whenever an enchanted creature you control deals combat damage to a player this turn, draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/16_Prince Florian, Wriggly Wonder.png" num="16">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/22.png" num="16">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -459,7 +441,7 @@ Permanent spells you control can&apos;t be countered.
 Enchant creature
 When this aura enters, create X 1/1 white Performer creature tokens.
 Enchanted creature gets +1/+1 for each creature you control.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/19_Call the Theets.png" num="19">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/23.png" num="19">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -476,7 +458,7 @@ Enchanted creature gets +1/+1 for each creature you control.</text>
 			<name>Giant Wiggler</name>
 			<text>Indestructible
 When this creature enters, clear a stage for each creature you control with power 4 or greater. (When you clear a stage, draw a card, then discard a card. Every third stage you clear, you clear a world. Draw a card and create a Treasure token instead.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/14_Giant Wiggler.png" num="14">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/24.png" num="14">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -496,7 +478,7 @@ When this creature enters, clear a stage for each creature you control with powe
 As this Aura enters, choose a color.
 Untap enchanted land during each opponent&apos;s untap step.
 Whenever enchanted land is tapped for mana, add one mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/17_Star Festival.png" num="17">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/25.png" num="17">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -515,7 +497,7 @@ Whenever enchanted land is tapped for mana, add one mana of the chosen color.</t
 • Target creature you control deals damage equal to its power to target creature you don&apos;t control.
 • Destroy target artifact.
 • Destroy target enchantment.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/18_Super Cyclone Bros..png" num="18">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/26.png" num="18">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -534,7 +516,7 @@ Whenever enchanted land is tapped for mana, add one mana of the chosen color.</t
 Starshroom gets +1/+0 for each other creature and/or enchantment you control.
 When this Vehicle enters, create a 1/1 green and white Fungus Hero Creature token with Vigilance and a 1/1 colorless Star enchantment creature token with flying.
 Crew 2</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/34_Starshroom.png" num="34">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/27.png" num="34">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -553,7 +535,7 @@ Crew 2</text>
 			<text>Flash
 Flying
 You may cast enchantment spells as though they had flash.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/4_Stella, Sparkle Sprite.png" num="4">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/28.png" num="4">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -571,7 +553,7 @@ You may cast enchantment spells as though they had flash.</text>
 			<name>Peachette, Super Crowned</name>
 			<text>Flying
 At the beginning of your end step, return target Aura card from your graveyard to your hand if you attacked with a commander this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/32_Peachette, Super Crowned.png" num="32">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/29.png" num="32">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -590,7 +572,7 @@ At the beginning of your end step, return target Aura card from your graveyard t
 			<text>This spell costs {X} less to cast, where X is its target&apos;s power.
 Enchant creature
 Enchanted creature has base power 6 and has trample and lifelink.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/27_Hammer Suit.png" num="27">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/30.png" num="27">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -607,7 +589,7 @@ Enchanted creature has base power 6 and has trample and lifelink.</text>
 			<name>Friendly Footrace</name>
 			<text>All creatures can attack your opponents as though those creatures had haste.
 Creatures that entered this turn and that aren&apos;t attacking you get +1/+0 and have trample.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/24_Friendly Footrace.png" num="24">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/31.png" num="24">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -624,7 +606,7 @@ Creatures that entered this turn and that aren&apos;t attacking you get +1/+0 an
 			<name>Hungry Luma</name>
 			<text>Flying
 Whenever you cast an enchantment spell with mana value greater than this creature&apos;s power, put a +1/+1 counter on this creature, draw a card, then you may put a land card from your hand onto the battlefield.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/15_Hungry Luma.png" num="15">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/32.png" num="15">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -643,7 +625,7 @@ Whenever you cast an enchantment spell with mana value greater than this creatur
 			<text>Menace
 Whenever you cast an enchantment spell, exile the top card of your library. You may play that card this turn. This ability triggers only once each turn.
 Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on Daisy.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/9_Daisy, Sport Superstar.png" num="9">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/33.png" num="9">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -660,7 +642,7 @@ Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counte
 		<card>
 			<name>Alternate Costumes</name>
 			<text>Whenever you cast an Aura spell, look at the top five cards of your library. You may reveal an Aura card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/2_Alternate Costumes.png" num="2">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/34.png" num="2">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -677,7 +659,7 @@ Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counte
 			<name>Blast Off!</name>
 			<text>Each commander creature you control gets +X/+0 and gain first strike and haste until end of turn.
 Flashback {X}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/7_Blast Off!.png" num="7">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/35.png" num="7">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -695,7 +677,7 @@ Flashback {X}{R}{R} (You may cast this card from your graveyard for its flashbac
 			<text>Enchant creature
 Enchanted creature gets +3/+3 and is a Giant in addition to its other types.
 Whenever an enchanted creature or enchantment creature you control deals combat damage to a player, draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/13_Dreamy Giant Form.png" num="13">SMCM</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCM-files/img/36.png" num="13">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -709,9 +691,42 @@ Whenever an enchanted creature or enchantment creature you control deals combat 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
+			<name>Stages and Worlds SMCM</name>
+			<text>​</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/37.png" num="1">SMCM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Turtle Egg SMCM</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/38.png" num="5">SMCM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Turtle Egg</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
 			<name>Performer SMCM</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/4t_Performer.png" num="4">SMCM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/39.png" num="4">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -729,7 +744,7 @@ Whenever an enchanted creature or enchantment creature you control deals combat 
 		<card>
 			<name>Fungus Hero SMCM</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/6t_Fungus Hero.png" num="6">SMCM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/40.png" num="6">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -746,7 +761,7 @@ Whenever an enchanted creature or enchantment creature you control deals combat 
 		<card>
 			<name>Copy SMCM</name>
 			<text>(This token can be used to represent a token that&apos;s a copy of a permanent.)</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/1t_Copy.png" num="1">SMCM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/41.png" num="1">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -761,7 +776,7 @@ Whenever an enchanted creature or enchantment creature you control deals combat 
 		<card>
 			<name>Star SMCM</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/2t_Star.png" num="2">SMCM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/42.png" num="2">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -778,7 +793,7 @@ Whenever an enchanted creature or enchantment creature you control deals combat 
 			<name>Super SMCM</name>
 			<text>Enchant creature
 Enchanted creature gets +1/+1.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/3t_Super.png" num="3">SMCM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/43.png" num="3">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -793,7 +808,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Food SMCM</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/7t_Food.png" num="7">SMCM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/44.png" num="7">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -808,7 +823,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Treasure SMCM</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/8t_Treasure.png" num="8">SMCM</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/45.png" num="8">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -821,19 +836,20 @@ Enchanted creature gets +1/+1.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Stages and Worlds SMCM</name>
-			<text>​</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/1t_Stages and Worlds.png" num="1">SMCM</set>
+			<name>Mushroom Kingdom Defense</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCM-files/img/46.png" num="0">SMCM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type></type>
 				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

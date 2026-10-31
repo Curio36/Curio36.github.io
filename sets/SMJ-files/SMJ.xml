@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SMJ</name>
+			<longname>Super Mario Brothers Jumpstart</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-10-31</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Tuxedo Mario</name>
+			<text>Vigilance
+Whenever you cast an enchantment spell, you gain 1 life and scry 1.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/0.png" num="9">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drill Mario</name>
+			<text>Drill Mario can&apos;t be blocked by creatures with flying.
+Whenever one or more Heroes you control deal combat damage to a player, you may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/1.png" num="17">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invisible Mario</name>
+			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Invisible Mario can&apos;t be blocked.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/2.png" num="11">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boo Mario</name>
+			<text>Flying
+Boo Mario can&apos;t block.
+Whenever a Hero you control attacks, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/3.png" num="12">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Runaway Watermelon</name>
+			<text>When this artifact enters, destroy up to one target artifact or enchantment. If a permanent you controlled was destroyed this way, you gain 3 life.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/4.png" num="18">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gelato Cataquacks</name>
+			<text>When this creature enters, return target creature an opponent controls to its owner&apos;s hand. If that creature was a token, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/5.png" num="10">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrecking Crewmate</name>
+			<text>When this creature enters, choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/6.png" num="19">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Superstar Mario</name>
+			<text>Indestructible, haste
+When Superstar Mario enters, mill six cards, then return any number of Aura cards from your graveyard to the battlefield attached to Superstar Mario.
+At the beginning of your end step, sacrifice Superstar Mario.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/7.png" num="21">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Star Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guest Racer</name>
+			<text>When this creature enters, scry 2.
+This creature crews Vehicles as though its power were 2 greater.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/8.png" num="4">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Guest Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Princess Peach</name>
+			<text>Flying, vigilance
+Whenever Princess Peach enters or attacks, create a 1/1 green and white Fungus Hero creature token, then create a Super token attached to that creature. (A Super token is a colorless Aura token with enchant creature and &quot;Enchanted creature gets +1/+1.&quot;)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/9.png" num="7">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Princess Peach</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/10.png" num="0">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/11.png" num="1">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Koopa Kid</name>
+			<text>Menace
+When this creature enters, you draw a card and lose 1 life.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/12.png" num="14">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Dragon Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Princess Daisy</name>
+			<text>Whenever you draw your second card each turn, exile the top card of your library. You may play that card until your next end step.
+Whenever you play a land or cast a spell from anywhere other than your hand, put a +1/+1 counter on Princess Daisy.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/13.png" num="16">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Racers</name>
+			<text>When this creature enters, you gain 1 life for each creature you control, then you gain 1 additional life for each legendary creature you control.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/14.png" num="8">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paratroopa Wings</name>
+			<text>Enchant creature you control.
+When this Aura enters, draw a card.
+Enchanted creature has flying and expendable 1. (When that creature dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/15.png" num="6">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>King K. Rool</name>
+			<text>Ward {2}
+Ward abilities your opponents control don&apos;t trigger.
+When King K. Rool enters, destroy target nonland permanent an opponent controls. That permanent&apos;s controller loses 3 life and you gain 3 life.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/16.png" num="20">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Crocodile Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Excited Karter</name>
+			<text>This creature crews Vehicles using its toughness rather than its power.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/17.png" num="3">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clown Mario</name>
+			<text>Menace
+Whenever you play a land or cast a spell from anywhere other than your hand, target creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/18.png" num="15">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Clown Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thriving Moor</name>
+			<text>This land enters tapped. As it enters, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/19.png" num="26">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Bluff</name>
+			<text>This land enters tapped. As it enters, choose a color other than red.
+{T}: Add {R} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/20.png" num="22">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Grove</name>
+			<text>This land enters tapped. As it enters, choose a color other than green.
+{T}: Add {G} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/21.png" num="23">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Heath</name>
+			<text>This land enters tapped. As it enters, choose a color other than white.
+{T}: Add {W} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/22.png" num="24">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thriving Isle</name>
+			<text>This land enters tapped. As it enters, choose a color other than blue
+{T}: Add {U} or one mana of the chosen color.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/23.png" num="25">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mario &amp; Luigi, Baby Buggy Duo</name>
+			<text>When Mario &amp; Luigi enter, create a 3/2 colorless Vehicle artifact token with crew 1.
+Whenever you attack with one or more Vehicles, target attacking Vehicle gains double strike until end of turn.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/24.png" num="5">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cookatiel, Kooky Cook</name>
+			<text>Flying, lifelink
+Whenever you gain life during your turn, put that many +1/+1 counters on Cookatiel.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/25.png" num="2">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Minion Cook</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gloomtail, Trial Pit Boss</name>
+			<text>Flying, trample
+When Gloomtail enters, each non-Skeleton creature gets -3/-3 until end of turn. Whenever a creature dies this turn, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/26.png" num="13">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton Dragon Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dry</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/27.png" num="0">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
