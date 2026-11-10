@@ -1,4 +1,330 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Mistress of Unlife added.
+Hegemon, Harrower Juggernaut added.
+Hit It! added.
+Alone Neverending added.
+The First Invaders added.
+Miracles of Medicine added.
+A Blade Between Wars added.
+The Invisible Hand added.
+Ilvia, Drifter In Time added.
+The One Voice Above added.
+Xenocider added.
+Belloch, The Progenitor added.
+Arlo, Reliquary Reclaimant added.
+Lively Bazaar added.
+
+Toren, Slumbering Psychic removed.
+Ygrim, War's Wake removed.
+Lady of Unlife and Undeath removed.
+Sweettooth Brawler removed.
+
+Marius, Eager Tourist
+rules_text: The first historic spell you cast each turn has convoke. [i](Artifacts, legendaries, and Sagas are historic. Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => The first historic spell you cast each turn has convoke. [i](Artifacts, legendaries, and Sagas are historic. Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Karin, Royal Patrol
+rules_text: Each historic card in your hand has cycling {2}{W}. [i](Artifacts, legendaries, and Sagas are historic. {2}{W}, Discard that card: Draw a card.)[/i]
+Whenever you cycle a card, put a +1/+1 counter on Karin.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Each historic card in your hand has cycling {2}{W}. [i](Artifacts, legendaries, and Sagas are historic. {2}{W}, Discard that card: Draw a card.)[/i]
+Whenever you cycle a card, put a +1/+1 counter on Karin.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+D0 Unit Gamma, Shuttle Courier
+rules_text: As long as D0 Unit Gamma is untapped, other legendary creatures you control have ward {1}.
+{1}{U}, {T}: Target legendary creature can't be blocked this turn.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => As long as D0 Unit Gamma is untapped, other legendary creatures you control have ward {1}.
+{1}{U}, {T}: Target legendary creature can't be blocked this turn.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Bud, Eager Wanderer
+
+Tara-Nom, Black Spear Encampment
+
+Torga, Dwarven Mother Vein
+
+Ferndale, the First Farm
+
+Enigma, Unknown Agent
+rules_text: When Enigma enters, you may have an opponent gain control of it. If you do, it's goaded for as long as they control it.
+At the beginning of your end step, draw a card, then you lose life equal to the number of cards in your hand.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => When Enigma enters, you may have an opponent gain control of it. If you do, it's goaded for as long as they control it.
+At the beginning of your end step, draw a card, then you lose life equal to the number of cards in your hand.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Tinhead, Alchemist Android
+rules_text: {T}: Add {U} for each counter on Tinhead. Spend this mana only to cast noncreature spells.
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => {T}: Add {U} for each counter on Tinhead. Spend this mana only to cast noncreature spells.
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Aya, Teller of Truths
+rules_text: Sagas you control have read ahead. [i](As a Saga enters, choose a chapter and start with that many lore counters. Skipped chapters don't trigger.)[/i]
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Sagas you control have read ahead. [i](As a Saga enters, choose a chapter and start with that many lore counters. Skipped chapters don't trigger.)[/i]
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Professor Penn, Folklorist
+rules_text: Each Saga spell you cast has replicate. The replicate cost is equal to its mana cost. [i](When you cast that Saga, copy it for each time you paid its replicate cost. Copies of Saga spells become tokens.)[/i]
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Each Saga spell you cast has replicate. The replicate cost is equal to its mana cost. [i](When you cast that Saga, copy it for each time you paid its replicate cost. Copies of Saga spells become tokens.)[/i]
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Victoria, Subtle Sleuth
+rules_text: Whenever you cast a historic spell, investigate. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic. To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Whenever you cast a historic spell, investigate. This ability triggers only once each turn. [i](Artifacts, legendaries, and Sagas are historic. To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Researcher of Bounties
+rules_text: Vigilance
+{1}, {T}: Create a tapped token that's a copy of target token that entered this turn.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Vigilance
+{1}, {T}: Create a tapped token that's a copy of target token that entered this turn.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Matya, Guide and Guard
+rules_text: Whenever you attack, target attacking historic creature gets +1/+1 and gains indestructible until end of turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Whenever you attack, target attacking historic creature gets +1/+1 and gains indestructible until end of turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Olive, Loop Trapped
+rules_text: Olive gets +1/+1 for each time counter on it.
+Whenever Olive attacks, put a time counter on it for each suspended card you own and each other permanent you control with a time counter on it.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Olive gets +1/+1 for each time counter on it.
+Whenever Olive attacks, put a time counter on it for each suspended card you own and each other permanent you control with a time counter on it.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Rosie, Pugnacious Companion
+rules_text: Soulbond [i](You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]
+Whenever Rosie or a creature she's paired with is dealt damage, Rosie deals that much damage to target opponent.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Soulbond [i](You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]
+Whenever Rosie or a creature she's paired with is dealt damage, Rosie deals that much damage to target opponent.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Larala, On the Scene
+rules_text: {T}: Exile the top card of your library. Until your next end step, you may play it.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => {T}: Exile the top card of your library. Until your next end step, you may play it.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Fighter of the Third Age
+
+Ado, Woman Outside Time
+rules_text: If Ado is your commander, choose a color before the game begins. Ado is the chosen color.
+If a triggered ability of a Doctor you control triggers, that ability triggers an additional time.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => If Ado is your commander, choose a color before the game begins. Ado is the chosen color.
+If a triggered ability of a Doctor you control triggers, that ability triggers an additional time.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Skarla, Guardian of All-Space
+
+Nira, Blade of Eternity
+rules_text: Trample
+Whenever you cast a historic spell, Nira gets +X/+X until end of turn, where X is that spell's mana value. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Trample
+Whenever you cast a historic spell, Nira gets +X/+X until end of turn, where X is that spell's mana value. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Ayra, Cleric of Curiosity
+rules_text: When Ayra enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, Ayra and up to one other target creature can't be blocked this turn.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => When Ayra enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, Ayra and up to one other target creature can't be blocked this turn.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+
+rules_text: ​ => 
+
+Kole, Too Clever
+rules_text: {U}, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.
+{1}{U}, Sacrifice Kole: Counter target activated or triggered ability.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => {U}, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.
+{1}{U}, Sacrifice Kole: Counter target activated or triggered ability.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Koral, Cyber Sleuth
+rules_text: You have no maximum hand size.
+Whenever Koral attacks, sacrifice any number of artifacts. When you sacrifice one or more artifacts this way, tap up to that many target creatures and draw that many cards.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => You have no maximum hand size.
+Whenever Koral attacks, sacrifice any number of artifacts. When you sacrifice one or more artifacts this way, tap up to that many target creatures and draw that many cards.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Mazie, Fearless Rebel
+rules_text: Whenever Mazie attacks, you may sacrifice an artifact. When you do, put a +1/+1 counter on Mazie, then it fights up to one target creature defending player controls.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Whenever Mazie attacks, you may sacrifice an artifact. When you do, put a +1/+1 counter on Mazie, then it fights up to one target creature defending player controls.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Liyla, Magiknight Apprentice
+rules_text: Whenever an opponent draws a card except the first one they draw in each of their draw steps, put a +1/+1 counter on Liyla.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Whenever an opponent draws a card except the first one they draw in each of their draw steps, put a +1/+1 counter on Liyla.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Lima, Traveling Baker
+rules_text: [i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => [i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Nurturer of the Future
+rules_text: If you would planeswalk, instead look at the top two cards of your planar deck, put one on the bottom of your planar deck and the other on top, then planeswalk.
+{T}: Add {G}.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => If you would planeswalk, instead look at the top two cards of your planar deck, put one on the bottom of your planar deck and the other on top, then planeswalk.
+{T}: Add {G}.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Evenclaire, Mystery Magnet
+rules_text: Whenever Evenclaire attacks, exile cards from the top of your library until you exile a nonland card. You may cast the exiled card without paying its mana cost if it's a spell with mana value less than or equal to Evenclaire's power. Put the exiled cards not cast this way on the bottom of your library in a random order.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Whenever Evenclaire attacks, exile cards from the top of your library until you exile a nonland card. You may cast the exiled card without paying its mana cost if it's a spell with mana value less than or equal to Evenclaire's power. Put the exiled cards not cast this way on the bottom of your library in a random order.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Taku, Uneasy Scavenger
+rules_text: Noncreature, non-Equipment artifacts you control are Equipment in addition to their other types and have “Equipped creature gets +1/+0” and equip {1}.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Noncreature, non-Equipment artifacts you control are Equipment in addition to their other types and have “Equipped creature gets +1/+0” and equip {1}.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Taira, Graceful Partner
+rules_text: Whenever you cast an instant or sorcery spell that targets only Taira or activate an ability that targets only Taira, copy that spell or ability. You may choose new targets for the copy. This ability triggers only once each turn.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Whenever you cast an instant or sorcery spell that targets only Taira or activate an ability that targets only Taira, copy that spell or ability. You may choose new targets for the copy. This ability triggers only once each turn.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Axwell, Love-Bound
+rules_text: Partner with Araty, Time-Lost [i](When this creature enters, target player may put Araty into their hand from their library, then shuffle.)[/i]
+Whenever Axwell deals combat damage to a player, choose a suspended card you own and remove that many time counters from it.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Partner with Araty, Time-Lost [i](When this creature enters, target player may put Araty into their hand from their library, then shuffle.)[/i]
+Whenever Axwell deals combat damage to a player, choose a suspended card you own and remove that many time counters from it.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Ekuja, Legacy of Time
+rules_text: Ward {2}
+Whenever you cast a Doctor spell or creature spell with doctor's aide, draw a card.
+Doctor's aide [i](You can have two commanders if the other is a Chronan Doctor.)[/i] => Ward {2}
+Whenever you cast a Doctor spell or creature spell with doctor's aide, draw a card.
+Doctor's aide [i](You can have two commanders if the other is exactly a Chronan Doctor.)[/i]
+
+Araty, Time-Lost
+
+Memory of a Lost Age
+
+Tinkerer of the Fifteenth Age
+
+Reminiscer of the Second Age
+
+Nomad of the Fourteenth Age
+
+Sage of the Thirteenth Age
+
+Bard of the Twelfth Age
+
+Ritualist of the Eleventh Age
+
+Captain of the Ninth Age
+
+Chronologist of the First Age
+
+Host of the Sixth Age
+
+Gambler of the Seventh Age
+
+Herald of the Fourth Age
+
+Chronorb
+
+Ndoye, Amiable Artificer
+
+The Many Faces of the Rogue
+
+A Desperate, Disembodied Mind
+
+The Lady of Red Rebirth
+
+Adautiste, Serpentines Alchemist
+
+Arick, Assassin Outfitter
+
+
+type:  => Creature — Genovore
+cost:  => {X}{R}{G}
+rules_text: ​ => Ravenous [i](This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)[/i]
+When this creature enters, it fights up to one target creature an opponent controls. If that creature would die this turn, exile it instead.
+pt:  => 2/2
+
+Taleran, Blessed by Mutation
+
+Chemister of the Urge
+
+Enraging Fumes
+
+D'Nu'Ra, the Spawnmother
+
+Gax, Saurian Ravage Commander
+
+Tellur, the Walking Shadow
+
+Torm, Stickyfingers
+
+Amora, Loyal Attendant
+
+Nella, Despondent Hero
+
+Ennie Jenn, Berry Expert
+
+Tinni, Perimeter Expert
+rules_text: Partner with Aldi, [i](When this creature enters, target player may put Aldi into their hand from their library, then shuffle.)[/i]
+
+{1}, {T}: Create a Food token.
+{T}, Sacrifice four Foods: Other creatures you control get +3/+3 and gain haste until end of turn. Activate only as a sorcery. => Partner with Aldi, [i](When this creature enters, target player may put Aldi into their hand from their library, then shuffle.)[/i]
+{1}, {T}: Create a Food token.
+{T}, Sacrifice four Foods: Other creatures you control get +3/+3 and gain haste until end of turn. Activate only as a sorcery.
+
+Gal'Jun Witness
+
+Leaping Leftovers
+
+Eshela, Carving Death
+
+Convocation of the Hellstag
+
+Demonfold, First Tome of Evil
+
+Rise from the Nether
+
+Servitor
+
+Eno'Kowath, the Shambler
+
+Valur, Blood Magik Savior
+
+Curious Critters
+
+The Deckmaster
+
+Gayaban, Hustler
+
+The Gateway Between
+
+
+rules_text: ​ => 
+
+Peace in Our Time
+
+The Hellfire Ruination
+
+Summitfest Performance
+
+Brazen Bluff
+
+Agog, Speaker of Many Voices
+
+R.X., Cyber Analyst
+
+Yt, Overworked Archivist
+
+Psychic Vampire
+
+The Sphinx's Riddles
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Karin, Royal Patrol added.
