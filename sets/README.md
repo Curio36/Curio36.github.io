@@ -9,7 +9,6 @@ py -m pip install markdown
 py scripts/build_site.py
 
 
-
 https://Curio36.github.io.
 
 If you can get people together a commons-only draft can teach you a lot

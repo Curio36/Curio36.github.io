@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Dawn of a New Age",
-        "number": 7,
+        "number": 5,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -17,23 +17,23 @@
     },
     {
         "card_name": "Demonfold, First Tome of Evil",
-        "number": 45,
+        "number": 47,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "159"
     },
     {
-        "card_name": "The Deckmaster",
-        "number": 60,
+        "card_name": "Agin, Generations of War",
+        "number": 61,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "166"
+        "position": "196"
     },
     {
         "card_name": "Anauf, Mother of Beasts",
-        "number": 77,
+        "number": 84,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -57,23 +57,23 @@
     },
     {
         "card_name": "Eshela, Carving Death",
-        "number": 47,
+        "number": 50,
         "shape": "adventure",
         "set": "UWT",
         "rotated": false,
         "position": "157"
     },
     {
-        "card_name": "Gayaban, Hustler",
-        "number": 63,
+        "card_name": "The Deckmaster",
+        "number": 66,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "167"
+        "position": "166"
     },
     {
         "card_name": "Tunnelrunner Kit",
-        "number": 89,
+        "number": 97,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -97,23 +97,23 @@
     },
     {
         "card_name": "M.A.G.R.X., Plaguesteel Annihilator",
-        "number": 50,
+        "number": 53,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "66"
     },
     {
-        "card_name": "Axwell, Love-Bound",
-        "number": 57,
+        "card_name": "Eya, Apocalypse Surveyor",
+        "number": 69,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "120"
+        "position": "198"
     },
     {
         "card_name": "Adautiste, Serpentines Alchemist",
-        "number": 76,
+        "number": 83,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Aya, Teller of Truths",
-        "number": 4,
+        "number": 2,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Selsana, Thief in the Night",
-        "number": 37,
+        "number": 38,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -137,23 +137,23 @@
     },
     {
         "card_name": "The Charac, Predation Itself",
-        "number": 43,
+        "number": 45,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "63"
     },
     {
-        "card_name": "Brazen Bluff",
-        "number": 58,
+        "card_name": "Gayaban, Hustler",
+        "number": 70,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "173"
+        "position": "167"
     },
     {
         "card_name": "Bud, Eager Wanderer",
-        "number": 78,
+        "number": 85,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -161,7 +161,7 @@
     },
     {
         "card_name": "Curious Critters",
-        "number": 6,
+        "number": 4,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "The Sphinx's Riddles",
-        "number": 39,
+        "number": 40,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -177,23 +177,23 @@
     },
     {
         "card_name": "Convocation of the Hellstag",
-        "number": 44,
+        "number": 46,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "158"
     },
     {
-        "card_name": "Delete",
-        "number": 61,
+        "card_name": "Axwell, Love-Bound",
+        "number": 62,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "28"
+        "position": "120"
     },
     {
         "card_name": "Crystalline Armor",
-        "number": 79,
+        "number": 86,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -201,7 +201,7 @@
     },
     {
         "card_name": "Dera, Angel-Touched",
-        "number": 8,
+        "number": 6,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -209,31 +209,31 @@
     },
     {
         "card_name": "Yt, Overworked Archivist",
-        "number": 42,
+        "number": 44,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "176"
     },
     {
-        "card_name": "Enigma, Unknown Agent",
-        "number": 46,
+        "card_name": "Desperate Plea",
+        "number": 48,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "95"
+        "position": "110"
     },
     {
-        "card_name": "Evenclaire, Mystery Magnet",
-        "number": 62,
-        "shape": "normal",
+        "card_name": "Bloodrager Class",
+        "number": 63,
+        "shape": "class",
         "set": "UWT",
         "rotated": false,
-        "position": "117"
+        "position": "202"
     },
     {
         "card_name": "Delighted Halfling",
-        "number": 80,
+        "number": 87,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Elzia, Reluctant Hero",
-        "number": 9,
+        "number": 7,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -256,24 +256,24 @@
         "position": "71"
     },
     {
-        "card_name": "Far Fortune's Fang Tank",
-        "number": 48,
+        "card_name": "Enigma, Unknown Agent",
+        "number": 49,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "76"
+        "position": "95"
     },
     {
-        "card_name": "The Hellfire Ruination",
-        "number": 66,
-        "shape": "saga",
+        "card_name": "Brazen Bluff",
+        "number": 64,
+        "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "171"
+        "position": "173"
     },
     {
         "card_name": "Lima, Traveling Baker",
-        "number": 83,
+        "number": 90,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Flowering of the White Tree",
-        "number": 11,
+        "number": 9,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -296,24 +296,24 @@
         "position": "109"
     },
     {
-        "card_name": "Orcish Bowmasters",
-        "number": 52,
+        "card_name": "Far Fortune's Fang Tank",
+        "number": 51,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "37"
+        "position": "76"
     },
     {
-        "card_name": "Larala, On the Scene",
+        "card_name": "Delete",
         "number": 67,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "104"
+        "position": "28"
     },
     {
         "card_name": "Liyla, Magiknight Apprentice",
-        "number": 84,
+        "number": 91,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Karin, Royal Patrol",
-        "number": 12,
+        "number": 10,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -336,24 +336,24 @@
         "position": "57"
     },
     {
-        "card_name": "Psychic Vampire",
-        "number": 53,
-        "shape": "normal",
+        "card_name": "Ninja Class",
+        "number": 55,
+        "shape": "class",
         "set": "UWT",
         "rotated": false,
-        "position": "177"
+        "position": "206"
     },
     {
-        "card_name": "Pyromancer's Skill",
+        "card_name": "Evenclaire, Mystery Magnet",
         "number": 68,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "43"
+        "position": "117"
     },
     {
         "card_name": "Mazie, Fearless Rebel",
-        "number": 85,
+        "number": 92,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Marius, Eager Tourist",
-        "number": 13,
+        "number": 11,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -376,32 +376,32 @@
         "position": "84"
     },
     {
-        "card_name": "The Starfield Maw",
-        "number": 54,
+        "card_name": "Orcish Bowmasters",
+        "number": 56,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "67"
+        "position": "37"
     },
     {
-        "card_name": "Rella, Adept Rumbler",
-        "number": 69,
-        "shape": "normal",
+        "card_name": "The Hellfire Ruination",
+        "number": 73,
+        "shape": "saga",
         "set": "UWT",
         "rotated": false,
-        "position": "42"
+        "position": "171"
     },
     {
-        "card_name": "Nira, Blade of Eternity",
-        "number": 86,
-        "shape": "normal",
+        "card_name": "Nature Warden Class",
+        "number": 93,
+        "shape": "class",
         "set": "UWT",
         "rotated": false,
-        "position": "108"
+        "position": "205"
     },
     {
         "card_name": "Matya, Guide and Guard",
-        "number": 14,
+        "number": 12,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -416,36 +416,36 @@
         "position": "25"
     },
     {
-        "card_name": "Tellur, the Walking Shadow",
-        "number": 55,
+        "card_name": "Psychic Vampire",
+        "number": 57,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "149"
+        "position": "177"
     },
     {
-        "card_name": "Rosie, Pugnacious Companion",
-        "number": 71,
+        "card_name": "Larala, On the Scene",
+        "number": 74,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "103"
+        "position": "104"
     },
     {
-        "card_name": "Nurturer of the Future",
-        "number": 87,
+        "card_name": "Nira, Blade of Eternity",
+        "number": 94,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "116"
+        "position": "108"
     },
     {
-        "card_name": "Olive, Loop Trapped",
-        "number": 15,
-        "shape": "normal",
+        "card_name": "Memories of the Ronin",
+        "number": 13,
+        "shape": "saga",
         "set": "UWT",
         "rotated": false,
-        "position": "102"
+        "position": "201"
     },
     {
         "card_name": "Ekuja, Legacy of Time",
@@ -456,36 +456,36 @@
         "position": "121"
     },
     {
-        "card_name": "Their Name is Death",
-        "number": 56,
+        "card_name": "The Starfield Maw",
+        "number": 58,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "26"
+        "position": "67"
     },
     {
-        "card_name": "Taira, Graceful Partner",
-        "number": 73,
+        "card_name": "Pyromancer's Skill",
+        "number": 75,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "119"
+        "position": "43"
     },
     {
-        "card_name": "Thornfang Abomination",
-        "number": 88,
+        "card_name": "Nurturer of the Future",
+        "number": 95,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "46"
+        "position": "116"
     },
     {
-        "card_name": "Peace in Our Time",
-        "number": 16,
+        "card_name": "Olive, Loop Trapped",
+        "number": 14,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "170"
+        "position": "102"
     },
     {
         "card_name": "Kole, Too Clever",
@@ -496,36 +496,36 @@
         "position": "111"
     },
     {
-        "card_name": "Leaping Leftovers",
-        "number": 49,
+        "card_name": "Tellur, the Walking Shadow",
+        "number": 59,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "156"
+        "position": "149"
     },
     {
-        "card_name": "Taku, Uneasy Scavenger",
-        "number": 74,
+        "card_name": "Rella, Adept Rumbler",
+        "number": 76,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "118"
+        "position": "42"
     },
     {
-        "card_name": "Gal'Jun Witness",
-        "number": 81,
+        "card_name": "Thornfang Abomination",
+        "number": 96,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "155"
+        "position": "46"
     },
     {
-        "card_name": "Professor Penn, Folklorist",
-        "number": 17,
+        "card_name": "Peace in Our Time",
+        "number": 15,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "98"
+        "position": "170"
     },
     {
         "card_name": "Koral, Cyber Sleuth",
@@ -536,36 +536,36 @@
         "position": "112"
     },
     {
-        "card_name": "Nasty End",
-        "number": 51,
+        "card_name": "Their Name is Death",
+        "number": 60,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "55"
+        "position": "26"
     },
     {
-        "card_name": "Unending Flames",
-        "number": 75,
+        "card_name": "Rosie, Pugnacious Companion",
+        "number": 78,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "44"
+        "position": "103"
     },
     {
-        "card_name": "Kelpbearer's Restoration",
-        "number": 82,
+        "card_name": "Gal'Jun Witness",
+        "number": 88,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "29"
+        "position": "155"
     },
     {
-        "card_name": "Researcher of Bounties",
-        "number": 18,
+        "card_name": "Professor Penn, Folklorist",
+        "number": 16,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "100"
+        "position": "98"
     },
     {
         "card_name": "Lagoon Refocusing",
@@ -576,19 +576,64 @@
         "position": "58"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Decaying Time Loop",
-        "number": 59,
+        "card_name": "Leaping Leftovers",
+        "number": 52,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "27"
+        "position": "156"
+    },
+    {
+        "card_name": "Taira, Graceful Partner",
+        "number": 80,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Kelpbearer's Restoration",
+        "number": 89,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Researcher of Bounties",
+        "number": 17,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Shandi\u00e0n, Storm Trickster",
+        "number": 39,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Nasty End",
+        "number": 54,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Taku, Uneasy Scavenger",
+        "number": 81,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "118"
     },
     {
         "card_name": "Well Rested",
-        "number": 90,
+        "number": 98,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -596,30 +641,60 @@
     },
     {
         "card_name": "Resist the Calamity",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "61"
     },
     {
-        "card_name": "Shandi\u00e0n, Storm Trickster",
-        "number": 38,
+        "card_name": "Tariq, Astronomer",
+        "number": 41,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "78"
+        "position": "72"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Hard-Won Jitte",
-        "number": 64,
+        "card_name": "Unending Flames",
+        "number": 82,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "40"
+        "position": "44"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Skald Class",
+        "number": 19,
+        "shape": "class",
+        "set": "UWT",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Technomancer Class",
+        "number": 42,
+        "shape": "class",
+        "set": "UWT",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Decaying Time Loop",
+        "number": 65,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "27"
     },
     {
         "card_name": "e"
@@ -633,23 +708,23 @@
         "position": "99"
     },
     {
-        "card_name": "Tariq, Astronomer",
-        "number": 40,
+        "card_name": "Tinhead, Alchemist Android",
+        "number": 43,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "72"
+        "position": "96"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Hegemon, Harrower Juggernaut",
-        "number": 65,
-        "shape": "leveler",
+        "card_name": "Hard-Won Jitte",
+        "number": 71,
+        "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "179"
+        "position": "40"
     },
     {
         "card_name": "e"
@@ -663,23 +738,23 @@
         "position": "60"
     },
     {
-        "card_name": "Tinhead, Alchemist Android",
-        "number": 41,
+        "card_name": "Riddles Answered",
+        "number": 37,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "96"
+        "position": "169"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Rise from the Nether",
-        "number": 70,
-        "shape": "normal",
+        "card_name": "Hegemon, Harrower Juggernaut",
+        "number": 72,
+        "shape": "leveler",
         "set": "UWT",
         "rotated": false,
-        "position": "160"
+        "position": "179"
     },
     {
         "card_name": "e"
@@ -699,19 +774,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "Summitfest Performance",
-        "number": 72,
-        "shape": "saga",
+        "card_name": "Rise from the Nether",
+        "number": 77,
+        "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "172"
+        "position": "160"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Banish to Another Universe",
-        "number": 5,
+        "number": 3,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -724,14 +799,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Summitfest Performance",
+        "number": 79,
+        "shape": "saga",
+        "set": "UWT",
+        "rotated": false,
+        "position": "172"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Ennie Jenn, Berry Expert",
-        "number": 10,
+        "number": 8,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -764,7 +844,7 @@
     "a->gold",
     {
         "card_name": "Araty, Time-Lost",
-        "number": 96,
+        "number": 103,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -772,31 +852,31 @@
     },
     {
         "card_name": "Architect of New Fates",
-        "number": 98,
+        "number": 105,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "90"
     },
     {
-        "card_name": "Valur, Blood Magik Savior",
-        "number": 144,
-        "shape": "transform double faced",
-        "set": "UWT",
-        "rotated": false,
-        "position": "163"
-    },
-    {
-        "card_name": "Gruul Diplomacy",
-        "number": 114,
+        "card_name": "Ghari, Wasteland Survivor",
+        "number": 122,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "48"
+        "position": "193"
+    },
+    {
+        "card_name": "Skull, Self-Serving Survivor",
+        "number": 150,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "200"
     },
     {
         "card_name": "Amora, Loyal Attendant",
-        "number": 94,
+        "number": 101,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -804,7 +884,7 @@
     },
     {
         "card_name": "Ascetic of the Fifth Age",
-        "number": 101,
+        "number": 108,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -812,31 +892,31 @@
     },
     {
         "card_name": "A Desperate, Disembodied Mind",
-        "number": 108,
+        "number": 116,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "138"
     },
     {
-        "card_name": "The Lady of Red Rebirth",
-        "number": 120,
-        "shape": "normal",
+        "card_name": "Valur, Blood Magik Savior",
+        "number": 158,
+        "shape": "transform double faced",
         "set": "UWT",
         "rotated": false,
-        "position": "139"
+        "position": "163"
     },
     {
-        "card_name": "Hit It!",
-        "number": 116,
+        "card_name": "Gruul Diplomacy",
+        "number": 123,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "180"
+        "position": "48"
     },
     {
         "card_name": "Prisha, Court Summoner",
-        "number": 131,
+        "number": 142,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -844,7 +924,7 @@
     },
     {
         "card_name": "Chronologist of the First Age",
-        "number": 107,
+        "number": 115,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -852,15 +932,50 @@
     },
     {
         "card_name": "The Invisible Hand",
-        "number": 119,
+        "number": 128,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "185"
     },
     {
+        "card_name": "The Lady of Red Rebirth",
+        "number": 130,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Hit It!",
+        "number": 125,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gambler of the Seventh Age",
+        "number": 121,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "R.X., Cyber Analyst",
+        "number": 143,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "175"
+    },
+    {
         "card_name": "The Many Faces of the Rogue",
-        "number": 123,
+        "number": 133,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -868,7 +983,7 @@
     },
     {
         "card_name": "Memory of a Lost Age",
-        "number": 125,
+        "number": 136,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -878,33 +993,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Gambler of the Seventh Age",
-        "number": 113,
-        "shape": "normal",
-        "set": "UWT",
-        "rotated": false,
-        "position": "133"
-    },
-    {
-        "card_name": "R.X., Cyber Analyst",
-        "number": 132,
-        "shape": "normal",
-        "set": "UWT",
-        "rotated": false,
-        "position": "175"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Margarit, Polis Elder",
-        "number": 124,
+        "number": 134,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -917,14 +1007,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Territorial Genovore",
+        "number": 152,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "143"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Miracles of Medicine",
-        "number": 126,
+        "number": 137,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -944,7 +1039,7 @@
     },
     {
         "card_name": "Reminiscer of the Second Age",
-        "number": 133,
+        "number": 144,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -964,7 +1059,7 @@
     },
     {
         "card_name": "Restorer of the Eighth Age",
-        "number": 134,
+        "number": 145,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -984,7 +1079,7 @@
     },
     {
         "card_name": "Ritualist of the Eleventh Age",
-        "number": 135,
+        "number": 146,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1004,7 +1099,7 @@
     },
     {
         "card_name": "Ndoye, Amiable Artificer",
-        "number": 147,
+        "number": 162,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1039,7 +1134,7 @@
     },
     {
         "card_name": "Nella, Despondent Hero",
-        "number": 128,
+        "number": 139,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1047,7 +1142,7 @@
     },
     {
         "card_name": "Seeker of the Tenth Age",
-        "number": 138,
+        "number": 149,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1055,23 +1150,23 @@
     },
     {
         "card_name": "Eno'Kowath, the Shambler",
-        "number": 111,
+        "number": 119,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "162"
     },
     {
-        "card_name": "A Blade Between Wars",
-        "number": 104,
+        "card_name": "Zedus, Experienced Father",
+        "number": 159,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "184"
+        "position": "192"
     },
     {
         "card_name": "Herald of the Fourth Age",
-        "number": 115,
+        "number": 124,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1079,39 +1174,39 @@
     },
     {
         "card_name": "Alone Neverending",
-        "number": 93,
+        "number": 100,
         "shape": "saga",
         "set": "UWT",
         "rotated": false,
         "position": "181"
     },
     {
-        "card_name": "Bard of the Twelfth Age",
-        "number": 102,
+        "card_name": "Ullir, Impulsive Archer",
+        "number": 157,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "128"
+        "position": "195"
     },
     {
-        "card_name": "D'Nu'Ra, the Spawnmother",
-        "number": 109,
+        "card_name": "Medj, Still-Standing",
+        "number": 135,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "147"
+        "position": "199"
     },
     {
-        "card_name": "Elias, Noble Mender",
-        "number": 110,
+        "card_name": "A Blade Between Wars",
+        "number": 112,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "64"
+        "position": "184"
     },
     {
         "card_name": "Sage of the Thirteenth Age",
-        "number": 137,
+        "number": 148,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1119,39 +1214,39 @@
     },
     {
         "card_name": "Linassa, the Left Hand",
-        "number": 121,
+        "number": 131,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "52"
     },
     {
-        "card_name": "Captain of the Ninth Age",
-        "number": 105,
+        "card_name": "Bard of the Twelfth Age",
+        "number": 110,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "130"
+        "position": "128"
     },
     {
-        "card_name": "Tinni, Perimeter Expert",
-        "number": 142,
+        "card_name": "D'Nu'Ra, the Spawnmother",
+        "number": 117,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "154"
+        "position": "147"
     },
     {
-        "card_name": "Magus of Forgotten Ages",
-        "number": 122,
+        "card_name": "Elias, Noble Mender",
+        "number": 118,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "85"
+        "position": "64"
     },
     {
         "card_name": "Tes, Cogbeast Commander",
-        "number": 140,
+        "number": 153,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1159,15 +1254,50 @@
     },
     {
         "card_name": "Torm, Stickyfingers",
-        "number": 143,
+        "number": 156,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "150"
     },
     {
+        "card_name": "Captain of the Ninth Age",
+        "number": 113,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "Tinni, Perimeter Expert",
+        "number": 155,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Magus of Forgotten Ages",
+        "number": 132,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Fighter of the Third Age",
+        "number": 120,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Ilvia, Drifter In Time",
-        "number": 118,
+        "number": 127,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1178,26 +1308,26 @@
     },
     {
         "card_name": "Bekkomaru, Determined Kappa",
-        "number": 145,
+        "number": 160,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "59"
     },
     {
-        "card_name": "Fighter of the Third Age",
-        "number": 112,
+        "card_name": "Host of the Sixth Age",
+        "number": 126,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "105"
+        "position": "132"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Tinkerer of the Fifteenth Age",
-        "number": 141,
+        "number": 154,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1210,47 +1340,42 @@
         "card_name": "e"
     },
     {
-        "card_name": "Host of the Sixth Age",
-        "number": 117,
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Kagemaru, The Ghostblade",
+        "number": 129,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "132"
+        "position": "194"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Arick, Assassin Outfitter",
-        "number": 99,
+        "card_name": "Ayax & Dril, Treasure Hunters",
+        "number": 109,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
-        "position": "142"
-    },
-    {
-        "card_name": "Belloch, The Progenitor",
-        "number": 103,
-        "shape": "normal",
-        "set": "UWT",
-        "rotated": false,
-        "position": "189"
+        "position": "197"
     },
     {
         "card_name": "Gax, Saurian Ravage Commander",
-        "number": 146,
+        "number": 161,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1263,11 +1388,36 @@
         "card_name": "e"
     },
     {
+        "card_name": "Arick, Assassin Outfitter",
+        "number": 106,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Belloch, The Progenitor",
+        "number": 111,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "e"
     },
     {
         "card_name": "Chemister of the Urge",
-        "number": 106,
+        "number": 114,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1287,7 +1437,7 @@
     },
     {
         "card_name": "Mistress of Unlife",
-        "number": 127,
+        "number": 138,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1307,7 +1457,7 @@
     },
     {
         "card_name": "The One Voice Above",
-        "number": 130,
+        "number": 141,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1339,7 +1489,7 @@
     },
     {
         "card_name": "Ansha, Beacon of Reunion",
-        "number": 95,
+        "number": 102,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1347,7 +1497,7 @@
     },
     {
         "card_name": "Arlo, Reliquary Reclaimant",
-        "number": 100,
+        "number": 107,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1355,7 +1505,7 @@
     },
     {
         "card_name": "Ronie, Gourmet Gatherer",
-        "number": 136,
+        "number": 147,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1363,7 +1513,7 @@
     },
     {
         "card_name": "The Arcane Breath",
-        "number": 97,
+        "number": 104,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1371,7 +1521,7 @@
     },
     {
         "card_name": "Noblis, Worldsoul of Flood",
-        "number": 129,
+        "number": 140,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1382,7 +1532,7 @@
     },
     {
         "card_name": "Taleran, Blessed by Mutation",
-        "number": 139,
+        "number": 151,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1402,7 +1552,7 @@
     },
     {
         "card_name": "Agog, Speaker of Many Voices",
-        "number": 92,
+        "number": 99,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1434,7 +1584,7 @@
     },
     {
         "card_name": "Nomad of the Fourteenth Age",
-        "number": 148,
+        "number": 163,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1466,16 +1616,8 @@
     },
     "a->colorless",
     {
-        "card_name": "",
-        "number": 2,
-        "shape": "normal",
-        "set": "UWT",
-        "rotated": false,
-        "position": "169"
-    },
-    {
         "card_name": "The Darkest Truth",
-        "number": 151,
+        "number": 166,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1483,7 +1625,7 @@
     },
     {
         "card_name": "Ado, Woman Outside Time",
-        "number": 3,
+        "number": 1,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1491,7 +1633,7 @@
     },
     {
         "card_name": "Chronorb",
-        "number": 150,
+        "number": 165,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1499,7 +1641,7 @@
     },
     {
         "card_name": "The First Invaders",
-        "number": 152,
+        "number": 167,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1507,7 +1649,7 @@
     },
     {
         "card_name": "The Gateway Between",
-        "number": 153,
+        "number": 168,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1515,7 +1657,7 @@
     },
     {
         "card_name": "Voidseed Annihilator",
-        "number": 154,
+        "number": 169,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1523,7 +1665,7 @@
     },
     {
         "card_name": "Bastion of New Argive",
-        "number": 156,
+        "number": 172,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1531,7 +1673,7 @@
     },
     {
         "card_name": "Camouflage Cloak",
-        "number": 149,
+        "number": 164,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1539,7 +1681,7 @@
     },
     {
         "card_name": "Voidseed Infiltrator",
-        "number": 155,
+        "number": 170,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1552,18 +1694,6 @@
         "set": "UWT",
         "rotated": false,
         "position": "1"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1583,7 +1713,7 @@
     },
     {
         "card_name": "Mina, Trenchside Capital",
-        "number": 162,
+        "number": 178,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1591,7 +1721,7 @@
     },
     {
         "card_name": "Tara-Nom, Black Spear Encampment",
-        "number": 163,
+        "number": 179,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1599,7 +1729,7 @@
     },
     {
         "card_name": "Gritty Scrapyard",
-        "number": 160,
+        "number": 176,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1607,7 +1737,7 @@
     },
     {
         "card_name": "Ferndale, the First Farm",
-        "number": 157,
+        "number": 173,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1624,7 +1754,7 @@
     },
     {
         "card_name": "Torga, Dwarven Mother Vein",
-        "number": 164,
+        "number": 180,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1650,7 +1780,7 @@
     },
     {
         "card_name": "Lively Bazaar",
-        "number": 161,
+        "number": 177,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
@@ -1658,22 +1788,27 @@
     },
     {
         "card_name": "Grayhold, Reliquary of Legends",
-        "number": 158,
+        "number": 174,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "51"
     },
     {
+        "card_name": "Adventurer's Inn",
+        "number": 171,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "207"
+    },
+    {
         "card_name": "Great Hall of the Citadel",
-        "number": 159,
+        "number": 175,
         "shape": "normal",
         "set": "UWT",
         "rotated": false,
         "position": "33"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1692,12 +1827,28 @@
     },
     "a->token",
     {
+        "card_name": "Dark Omens",
+        "number": 1,
+        "shape": "token",
+        "set": "UWT",
+        "rotated": false,
+        "position": "0"
+    },
+    {
         "card_name": "Junk",
         "number": 5,
         "shape": "token",
         "set": "UWT",
         "rotated": false,
         "position": "35"
+    },
+    {
+        "card_name": "Servitor",
+        "number": 1,
+        "shape": "token",
+        "set": "UWT",
+        "rotated": false,
+        "position": "161"
     },
     {
         "card_name": "Voidseed Warrior",
@@ -1722,6 +1873,15 @@
         "set": "UWT",
         "rotated": false,
         "position": "146"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1762,6 +1922,14 @@
         "set": "UWT",
         "rotated": false,
         "position": "11"
+    },
+    {
+        "card_name": "Reprieve",
+        "number": 1,
+        "shape": "normal",
+        "set": "UWT",
+        "rotated": false,
+        "position": "2"
     },
     {
         "card_name": "The Terminus of Apparition",
@@ -1890,9 +2058,6 @@
         "set": "UWT",
         "rotated": false,
         "position": "9"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

@@ -1,4 +1,34 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Desperate Plea added.
+Territorial Genovore added.
+Riddles Answered added.
+Zedus, Experienced Father added.
+Ghari, Wasteland Survivor added.
+Kagemaru, The Ghostblade added.
+Ullir, Impulsive Archer added.
+Agin, Generations of War added.
+Ayax & Dril, Treasure Hunters added.
+Eya, Apocalypse Surveyor added.
+Medj, Still-Standing added.
+Skull, Self-Serving Survivor added.
+Memories of the Ronin added.
+Bloodrager Class added.
+Technomancer Class added.
+Skald Class added.
+Nature Warden Class added.
+Ninja Class added.
+Adventurer's Inn added.
+
+
+Tes, Cogbeast Commander
+
+Torm, Stickyfingers
+rules_text: Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this treasure: Add one mana of any color.”)[/i] => Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Mistress of Unlife added.
