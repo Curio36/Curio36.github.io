@@ -1,4 +1,99 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Princess Daisy added.
+The Royal Racers added.
+Topper, Broodal Leader added.
+Rango, Broodal Bouncer added.
+Hariet, Broodal Pyrotechnician added.
+Spewart, Broodal Entertainer added.
+Ludwig von Koopa, Supergenius added.
+Larry, Mischievous Koopaling added.
+Wendy O Koopa added.
+Roy, Dumb Muscle added.
+Iggy, Loopy Koopaling added.
+Morton, the Big One added.
+Lemmy, the Ditz added.
+Angry Sun added.
+It's-a Me! added.
+Bouncy Thwimp added.
+Crashing Thwomps added.
+Cranky Whimps added.
+Sumo Bro added.
+Hammer Bro added.
+King K. Rool added.
+
+
+Tuxedo Mario
+rules_text: Vigilance
+Whenever you cast an enchantment spell, you gain 1 life and scry 1. => Vigilance
+Whenever an enchantment you control enters, you gain 1 life and scry 1.
+
+Invisible Mario
+
+Boo Mario
+
+Runaway Watermelon
+
+Gelato Cataquacks
+
+Wrecking Crewmate
+
+Superstar Mario
+
+Guest Racer
+
+Princess Peach
+
+Princess Peach
+
+
+type: Legendary Creature — Human Hero => 
+cost: {1}{W} => 
+rules_text: Vigilance
+Whenever you cast an enchantment spell, you gain 1 life and scry 1. => 
+pt: 2/3 => 
+
+Koopa Kid
+
+Princess Daisy
+
+Royal Racers
+
+Paratroopa Wings
+
+King K. Rool
+
+Excited Karter
+
+Clown Mario
+
+Thriving Moor
+
+Thriving Bluff
+
+Thriving Grove
+
+Thriving Heath
+
+Thriving Isle
+
+Mario & Luigi, Baby Buggy Duo
+
+Cookatiel, Kooky Cook
+
+Gloomtail, Trial Pit Boss
+
+Dry
+
+Drill Mario
+cost: {2}{G} => {3}{RG}
+rules_text: Drill Mario can't be blocked by creatures with flying.
+Whenever one or more Heroes you control deal combat damage to a player, you may put a land card from your hand onto the battlefield tapped. => Drill Mario can't be blocked by creatures with flying.
+Whenever Drill Mario attacks, you may put a land card from your hand onto the battlefield. If you do, return a land you control to its owner's hand at the beginning of the next end step.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
