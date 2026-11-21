@@ -1,4 +1,43 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Anthropological Mission added.
+Bothersome Noisemaker added.
+Wulfir Hunter added.
+Meka, At Inner Peace added.
+Rustic Hamlet added.
+Reliquary of Techniques added.
+Celerity Boots added.
+Suchoza, Crocodilian Titan added.
+Ettu, Flying Lemur Sage added.
+Sejan, Desperate Commander added.
+Guardian Kiwi added.
+Geomancer's Ascension added.
+Druidic Sanctum added.
+Elven Passage added.
+Ravenous Cosmozoan added.
+Sena, Cosmos Tender added.
+Niada, Graceful Deciever added.
+Adya, Cosmoblade's Chosen added.
+
+
+Skarla, Guardian of All-Space
+cost: {5}{W}{W} => {3}{W}{W}
+rules_text: Flying
+Whenever Skarla enters or attacks, exile up to one target creature. That creature's controller gains life equal to its power.
+Whenever a creature other than Skarla is exiled from the battlefield, you gain life equal to its power. => Flash
+Flying, lifelink
+Power-up — {5}{W}{W}: Put a +1/+1 counter and an indestructible counter on Skarla. [i](Activate each power-up ability only once. Reduce the cost by this creature's mana cost if she entered this turn.)[/i]
+pt: 6/6 => 5/4
+
+Torm, Stickyfingers
+rules_text: Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this treasure: Add one mana of any color.”)[/i]
+
+The Deckmaster
+type: Legendary Creature — Za => Legendary Creature — Za'az
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Desperate Plea added.
