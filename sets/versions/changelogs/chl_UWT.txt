@@ -1,4 +1,26 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Geurilla Gorilla added.
+Tusks, Thick-Skinned Junker added.
+Erden, Escorted Collector added.
+Gleaming Bastion added.
+Test of Courage added.
+Project Budućnost Incubator added.
+Venture into the Woods added.
+
+
+Wulfir Hunter
+rules_text: Trample
+Whenever this creature deals combat damage to a player, choose one —
+• Put a +1/+1 counter on target Wolf you control.
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Trample
+Whenever this creature deals combat damage to a player, choose one —
+• Put a +1/+1 counter on target Wolf you control.
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this treasure: Add one mana of any color.”)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Anthropological Mission added.
