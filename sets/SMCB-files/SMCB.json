@@ -1,9 +1,11 @@
 ﻿{
     "name": "Bowser\u2019s Baddies Commander Precon",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Lava Moat Blargg",
@@ -21,24 +23,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Nintendo",
-            "notes": ""
-        },
-        {
-            "card_name": "Robot Minion",
-            "color": "R",
-            "rarity": "common",
-            "type": "Token Artifact Creature \u2014 Robot Minion",
-            "number": 5,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "2/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCB",
-            "loyalty": "",
-            "artist": "Xiahou Ba; Nintendo",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -57,6 +44,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Jsylvan; Hudson Soft",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -75,6 +65,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "TheRaoul1992",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -93,6 +86,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "LuigiMaster123; Nintendo",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -111,6 +107,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Nintendo Australia",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -129,6 +128,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Sparks; Nintendo",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -147,6 +149,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Reese Rivers; Nintendo",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -165,6 +170,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Nintendo Benelux",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -183,6 +191,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "WaluigiWarrior; Nintendo",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,6 +212,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -219,6 +233,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Intelligent Systems",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -237,6 +254,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "M&SG; Retro Studios",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -255,6 +275,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -273,6 +296,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Intelligent Systems",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -291,6 +317,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Cuckoo Kirby fan; Sora LTD",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -309,96 +338,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Wildgoosespeeder; Nintendo",
-            "notes": ""
-        },
-        {
-            "card_name": "Minion",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Minion",
-            "number": 1,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "This token can't block.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCB",
-            "loyalty": "",
-            "artist": "Doomdorm64; Nintendo",
-            "notes": ""
-        },
-        {
-            "card_name": "Minion",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Minion",
-            "number": 2,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "This token can't block.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCB",
-            "loyalty": "",
-            "artist": "Yook Bab-imba; Nintendo",
-            "notes": ""
-        },
-        {
-            "card_name": "Minion",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Minion",
-            "number": 3,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "This token can't block.",
-            "flavor_text": "[i][/i]",
-            "pt": "*/*",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCB",
-            "loyalty": "",
-            "artist": "Zootalo; Nintendo",
-            "notes": ""
-        },
-        {
-            "card_name": "Minion",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Minion",
-            "number": 4,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "This token can't block.",
-            "flavor_text": "[i][/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCB",
-            "loyalty": "",
-            "artist": "Nintendo",
-            "notes": ""
-        },
-        {
-            "card_name": "Treasure",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2014 Treasure",
-            "number": 7,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCB",
-            "loyalty": "",
-            "artist": "Shokora; Nintendo",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -417,6 +359,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "3D Player 2010; Nintendo",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -435,6 +380,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "BossBattleChannel; Intelligent Systems",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -453,6 +401,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "BossBattleChannel; AlphaDream",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -471,6 +422,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "M&SG; Nintendo",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -489,6 +443,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Supermariofan67; Nintendo",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -507,6 +464,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Nintendo",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -525,6 +485,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Madz the Penguin; Nintendo",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -543,6 +506,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Next Level Games",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -561,6 +527,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Supermariofan67; Nintendo",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -573,12 +542,15 @@
             "cost": "{9}{B}{R}",
             "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\nTrample, haste\nWhenever Dry Bowser attacks, mill three cards. You may play one of those cards this turn.",
             "flavor_text": "[i][/i]",
-            "pt": "8/8",
+            "pt": "6/6",
             "special_text": "",
             "shape": "normal",
             "set": "SMCB",
             "loyalty": "",
             "artist": "BlooP-OW; NDCube and CAProduction",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -597,6 +569,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Ultimate Mr. L; Nintendo",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -615,6 +590,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "TomZhao; Intelligent Systems",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -633,6 +611,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Good-Fell",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -651,6 +632,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Hiccup; Nintendo",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -669,6 +653,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Trig Jegman; HudsonSoft and CAProduction",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -679,7 +666,7 @@
             "number": 1,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Sneak {3}{U}{U} [i](You may cast this spell for {3}{U}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. They enter tapped and attacking.)[/i]\nThe Ba-Boom Brothers can't be blocked.\nWhenever The Ba-Boom Brothers deal combat damage to a player, goad target creature that player controls. If they entered this turn, goad each creature that player controls instead.",
+            "rules_text": "Sneak {3}{U}{U} [i](You may cast this spell for {3}{U}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. They enter tapped and attacking.)[/i] [i](You may cast this spell for {3}{U}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)[/i]\nThe Ba-Boom Brothers can't be blocked.\nWhenever The Ba-Boom Brothers deal combat damage to a player, goad target creature that player controls. If they entered this turn, goad each creature that player controls instead.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -687,6 +674,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Gamefreak75; Retro Studios",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -705,6 +695,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "A gossip-loving Toad; Intelligent Systems",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -723,6 +716,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Sylux; Camelot",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -741,6 +737,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Macharv; NDCube and CAProduction",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -759,24 +758,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "MrHonor; Nintendo",
-            "notes": ""
-        },
-        {
-            "card_name": "Chompikins",
-            "color": "",
-            "rarity": "common",
-            "type": "Legendary Artifact Creature \u2014 Dog Minion",
-            "number": 6,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Whenever you lose life, each opponent who controls a Noble gains that much life.\nWhenever you discard one or more cards, each opponent who controls a Noble draws that many cards.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "SMCB",
-            "loyalty": "",
-            "artist": "Nintendo Australia",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -795,6 +779,9 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "Mister Wu; Nintendo",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -813,6 +800,177 @@
             "set": "SMCB",
             "loyalty": "",
             "artist": "SUPEDUPEmario; Ubisoft",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Robot Minion",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Robot Minion",
+            "number": 5,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCB",
+            "loyalty": "",
+            "artist": "Xiahou Ba; Nintendo",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Minion",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Minion",
+            "number": 1,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "This token can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCB",
+            "loyalty": "",
+            "artist": "Doomdorm64; Nintendo",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Minion",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Minion",
+            "number": 2,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "This token can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCB",
+            "loyalty": "",
+            "artist": "Yook Bab-imba; Nintendo",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Minion",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Minion",
+            "number": 3,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "This token can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "*/*",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCB",
+            "loyalty": "",
+            "artist": "Zootalo; Nintendo",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Minion",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Minion",
+            "number": 4,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "This token can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCB",
+            "loyalty": "",
+            "artist": "Nintendo",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Treasure",
+            "number": 7,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCB",
+            "loyalty": "",
+            "artist": "Shokora; Nintendo",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Chompikins",
+            "color": "",
+            "rarity": "common",
+            "type": "Legendary Artifact Creature \u2014 Dog Minion",
+            "number": 6,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Whenever you lose life, each opponent who controls a Noble gains that much life.\nWhenever you discard one or more cards, each opponent who controls a Noble draws that many cards.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SMCB",
+            "loyalty": "",
+            "artist": "Nintendo Australia",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Bowser's Baddies",
+            "color": "UBR",
+            "rarity": "common",
+            "type": "",
+            "number": 0,
+            "color_identity": "UBR",
+            "cost": "{U}{B}{R}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SMCB",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": ""
         }
     ],

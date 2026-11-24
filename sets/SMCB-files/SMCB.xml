@@ -5,7 +5,7 @@
 			<name>SMCB</name>
 			<longname>Bowser&apos;s Baddies Commander Precon</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-16</releasedate>
+			<releasedate>2026-11-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Lava Moat Blargg</name>
 			<text>Trample
 When this creature enters, each opponent sacrifices an artifact of their choice. Then this creature deals 3 damage to each opponent. It deals 6 damage to each opponent who didn&apos;t sacrifice an artifact with mana value 3 or greater this way instead.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/15_Lava Moat Blargg.png" num="15">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/0.png" num="15">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -28,27 +28,9 @@ When this creature enters, each opponent sacrifices an artifact of their choice.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Robot Minion SMCB</name>
-			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/5t_Robot Minion.png" num="5">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact Creature — Robot Minion</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Bowser&apos;s Chance Time</name>
 			<text>Each player rolls two six-sided dice. For each opponent, Bowser&apos;s Chance Time deals damage to that player equal to the difference between the total of their results and the total of your results. If less than 3 damage is dealt to that player this way, you create X Treasure tokens, where X is 3 minus the amount of damage dealt to that player.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/22_Bowser&apos;s Chance Time.png" num="22">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/1.png" num="22">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -65,7 +47,7 @@ When this creature enters, each opponent sacrifices an artifact of their choice.
 			<name>The Koopalings, Mean Mob</name>
 			<text>Flying, menace
 At the beginning of your end step, each opponent who lost life this turn faces a villainous choice — That player loses 4 life and discards a card at random, or each of your other opponents loses 4 life and you draw a card.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/29_The Koopalings, Mean Mob.png" num="29">SMCB</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/2.png" num="29">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -84,7 +66,7 @@ At the beginning of your end step, each opponent who lost life this turn faces a
 			<text>Flying
 Whenever you cast a spell that shares a creature type with your commander, you surveil 1 and Kamek deals 1 damage to each opponent. If that spell is your commander, instead you surveil 3 and Kamek deals 3 damage to each opponent.
 Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/27_Kamek, Chief Magikoopa.png" num="27">SMCB</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/3.png" num="27">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -102,7 +84,7 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 			<name>Madame Broode, Wedding Manager</name>
 			<text>Protection from Dogs
 When Madame Broode enters, target opponent creates Chompikins, a legendary 6/6 Dog Minion artifact creature token with &quot;Whenever you lose life, each opponent who controls a Noble gains that much life&quot; and &quot;Whenever you discard one or more cards, each opponent who controls a Noble draws that many cards.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/32_Madame Broode, Wedding Manager.png" num="32">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/4.png" num="32">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -119,7 +101,7 @@ When Madame Broode enters, target opponent creates Chompikins, a legendary 6/6 D
 		<card>
 			<name>Spike</name>
 			<text>Whenever this creature or a commander you control attacks, for each opponent, create a 1/1 black Minion creature token with &quot;This token can&apos;t block&quot; that&apos;s tapped and attacking that player.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/16_Spike.png" num="16">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/5.png" num="16">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -138,7 +120,7 @@ When Madame Broode enters, target opponent creates Chompikins, a legendary 6/6 D
 			<text>Flash
 Minion Offering (You may cast this spell as though it had flash by sacrificing a Minion and paying the difference in mana costs between this and the sacrificed Minion. Mana cost includes color.)
 When this creature enters, if it was cast for its offering cost, return each other creature and spell with lesser mana value than the offered permanent to their owner&apos;s hands.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/6_Wonder Smackerel.png" num="6">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/6.png" num="6">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -157,7 +139,7 @@ When this creature enters, if it was cast for its offering cost, return each oth
 			<text>Flash
 Deathtouch
 When this creature enters, you may sacrifice another creature you control. If you do, you draw a card and this creature gains lifelink and indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/19_Big Urchin.png" num="19">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/7.png" num="19">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -175,7 +157,7 @@ When this creature enters, you may sacrifice another creature you control. If yo
 			<name>Tokotoko Speedster</name>
 			<text>Haste
 Whenever this creature attacks while you control a commander, exile the top card of your library. You may play that card this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/17_Tokotoko Speedster.png" num="17">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/8.png" num="17">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -194,7 +176,7 @@ Whenever this creature attacks while you control a commander, exile the top card
 			<text>Flying, vigilance
 Other attacking Minions, Nobles, and Villains you control get +1/+0 and have flying.
 {4}{U}: Draw a card. Create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/4_Kamek&apos;s Toadies.png" num="4">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/9.png" num="4">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -212,7 +194,7 @@ Other attacking Minions, Nobles, and Villains you control get +1/+0 and have fly
 			<name>Lord Crump, X-Naut Second</name>
 			<text>Minion, Noble, and Villain spells you cast cost {1} less to cast.
 For each creature you control with expendable, increase its expendable value by 1. (For example, if that creature has expendable 1, it becomes expendable 2 and you create a 2/2 Minion when it dies. If a creature has multiple instances of expendable, increase each one separately.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/30_Lord Crump, X-Naut Second.png" num="30">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/10.png" num="30">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -232,7 +214,7 @@ For each creature you control with expendable, increase its expendable value by 
 Ward {2}
 When Lord Fredrik enters, put two stun counters on each tapped nonland permanent your opponents control.
 Whenever Lord Fredrik attacks, draw a card for each tapped nonland permanent defending player controls, then discard a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/5_Lord Fredrik, the Snowmad King.png" num="5">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/11.png" num="5">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -250,7 +232,7 @@ Whenever Lord Fredrik attacks, draw a card for each tapped nonland permanent def
 			<name>Spoiled Rotten, Eggplant Brat</name>
 			<text>Whenever one or more tokens you control enter, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot; This ability triggers only once each turn.
 Whenever Spoiled Rotten attacks, you may sacrifice up to two other creatures. For each creature sacrificed this way, draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/12_Spoiled Rotten, Eggplant Brat.png" num="12">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/12.png" num="12">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -268,7 +250,7 @@ Whenever Spoiled Rotten attacks, you may sacrifice up to two other creatures. Fo
 			<name>Jr. Troopa, Recurring Boss</name>
 			<text>Menace
 Whenever Jr. Troopa or another legendary creature dies, clear a stage. (When you clear a stage, draw a card, then discard a card. Every third stage you clear, you clear a world. Draw a card and create a Treasure token instead.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/8_Jr. Troopa, Recurring Boss.png" num="8">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/13.png" num="8">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -287,7 +269,7 @@ Whenever Jr. Troopa or another legendary creature dies, clear a stage. (When you
 			<text>Flying, lifelink
 Whenever Marx deals combat damage to a player, exile that many cards from the top of that player&apos;s library. You may cast a spell from among them without paying its mana cost.
 Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/34_Marx, Star Jester.png" num="34">SMCB</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/14.png" num="34">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -307,7 +289,7 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 Other Minions, Nobles, and Villains you control have trample and haste.
 At the beginning of combat on your turn, create a 2/1 red Robot Minion artifact creature token.
 Partner—Cross Villains (You can have two commanders if both have this ability.)</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/21_Bowser, King Koopa.png" num="21">SMCB</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMCB-files/img/15.png" num="21">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -322,96 +304,9 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Minion SMCB</name>
-			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/1t_Minion.png" num="1">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Minion</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Minion SMCB</name>
-			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/2t_Minion.png" num="2">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Minion</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Minion SMCB</name>
-			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/3t_Minion.png" num="3">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Minion</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>*/*</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Minion SMCB</name>
-			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/4t_Minion.png" num="4">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Minion</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Treasure SMCB</name>
-			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/7t_Treasure.png" num="7">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact — Treasure</type>
-				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Stages and Worlds SMCB</name>
 			<text>​</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/1t_Stages and Worlds.png" num="1">SMCB</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/16.png" num="1">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -427,7 +322,7 @@ Partner—Cross Villains (You can have two commanders if both have this ability.
 			<name>General Guy, Toy Box Terror</name>
 			<text>When General Guy enters, create a number of 1/1 black Minion creature token with &quot;This token can&apos;t block&quot; equal to the number of opponents you have.
 Charge! — Tap three untapped creatures you control: General Guy deals 2 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/13_General Guy, Toy Box Terror.png" num="13">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/17.png" num="13">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -445,7 +340,7 @@ Charge! — Tap three untapped creatures you control: General Guy deals 2 damage
 			<name>Cackletta, Beanbean Witch</name>
 			<text>First strike
 Steal Voice — Whenever Cackletta attacks, each noncommander creature defending player controls loses all abilities until your next turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/24_Cackletta, Beanbean Witch.png" num="24">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/18.png" num="24">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -463,7 +358,7 @@ Steal Voice — Whenever Cackletta attacks, each noncommander creature defending
 			<name>Reznor, Dino-Rhino Wheel</name>
 			<text>When Reznor enters, create three 3/3 black Minion creature tokens with &quot;This token can&apos;t block.&quot;
 Whenever a token you control leaves the battlefield, each opponent loses 2 life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/10_Reznor, Dino-Rhino Wheel.png" num="10">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/19.png" num="10">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -481,7 +376,7 @@ Whenever a token you control leaves the battlefield, each opponent loses 2 life.
 			<name>King Whomp</name>
 			<text>Trample
 Topple — When King Whomp enters, he deals damage to each opponent equal to twice the number of nonbasic lands that player controls. Each player dealt damage this way sacrifices a nonbasic land of their choice.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/14_King Whomp.png" num="14">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/20.png" num="14">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -498,7 +393,7 @@ Topple — When King Whomp enters, he deals damage to each opponent equal to twi
 		<card>
 			<name>Shadow Mario</name>
 			<text>You may have Shadow Mario enter as a copy of any creature on the battlefield, except it&apos;s an Ooze Minion in addition to its other types, it isn&apos;t legendary, and it has expendable 3. (When this creature dies, create a 3/3 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/35_Shadow Mario.png" num="35">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/21.png" num="35">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -517,7 +412,7 @@ Topple — When King Whomp enters, he deals damage to each opponent equal to twi
 			<text>Flying, vigilance
 Spells you cast from anywhere other than your hand cost {1} less to cast
 Whenever Wingo attacks, defending player exiles the top card of their library.You may play that card until you exile another card with Wingo.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/37_Wingo, Thieving Roc.png" num="37">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/22.png" num="37">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -535,7 +430,7 @@ Whenever Wingo attacks, defending player exiles the top card of their library.Yo
 			<name>King Boo, Haunted Hotelier</name>
 			<text>Flying, deathtouch
 Whenever King Boo attacks, you and defending player each reveal the top card of your library. You lose life equal to the lowest mana value among those cards and defending player loses life equal to the greatest mana value among them. Then you each draw a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/28_King Boo, Haunted Hotelier.png" num="28">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/23.png" num="28">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -553,7 +448,7 @@ Whenever King Boo attacks, you and defending player each reveal the top card of 
 			<name>Bowser Jr., Terrible Tyke</name>
 			<text>Whenever Bowser Jr. enters or attacks, you may sacrifice another creature. If you do, goad one or two target creatures. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
 Goaded creatures get +1/+0 and have first strike and &quot;This creature can&apos;t block.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/20_Bowser Jr., Terrible Tyke.png" num="20">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/24.png" num="20">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -572,7 +467,7 @@ Goaded creatures get +1/+0 and have first strike and &quot;This creature can&apo
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Trample, haste
 Whenever Dry Bowser attacks, mill three cards. You may play one of those cards this turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/25_Dry Bowser.png" num="25">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/25.png" num="25">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -582,7 +477,7 @@ Whenever Dry Bowser attacks, mill three cards. You may play one of those cards t
 				<cmc>11</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>8/8</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -591,7 +486,7 @@ Whenever Dry Bowser attacks, mill three cards. You may play one of those cards t
 			<text>Ward {2}
 If you would create one or more non-Treasure tokens, create that many tokens plus that many Treasure tokens instead.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/23_Bowser&apos;s Muscle Car.png" num="23">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/26.png" num="23">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -609,7 +504,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Volcano Wario&apos;s Deflection</name>
 			<text>You may cast this spell without paying its mana cost if it targets a spell or ability targeting your commander.
 You may choose new targets for target spell or ability with only one target. This spell deals 2 damage to that spell or ability&apos;s controller.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/36_Volcano Wario&apos;s Deflection.png" num="36">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/27.png" num="36">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -627,7 +522,7 @@ You may choose new targets for target spell or ability with only one target. Thi
 			<text>Flying, lifelink
 Sour Grapes — Whenever you gain life, you may pay twice that much life. If you do, draw a card for each 1 life you gained.
 The Ultimate Tragedy — Whenever a player loses the game, put four +1/+1 counters on Madame Grape.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/33_Madame Grape.png" num="33">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/28.png" num="33">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -645,7 +540,7 @@ The Ultimate Tragedy — Whenever a player loses the game, put four +1/+1 counte
 			<name>Gooper Blooper</name>
 			<text>When this creature enters, tap target artifact or creature you don&apos;t control and put two stun counters on it.
 Encore {6}{U}{U} ({6}{U}{U}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/2_Gooper Blooper.png" num="2">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/29.png" num="2">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -663,7 +558,7 @@ Encore {6}{U}{U} ({6}{U}{U}, Exile this card from your graveyard: For each oppon
 			<name>Kamek&apos;s Library</name>
 			<text>At the beginning of your end step, draw a card if you created a token this turn.
 {3}{U}: Until end of turn, target legendary creature you control gains &quot;Whenever this creature deals combat damage to a player, create a token that&apos;s a copy of it except it&apos;s not legendary and is a 1/1.&quot;</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/3_Kamek&apos;s Library.png" num="3">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/30.png" num="3">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -678,10 +573,10 @@ Encore {6}{U}{U} ({6}{U}{U}, Exile this card from your graveyard: For each oppon
 		</card>
 		<card>
 			<name>The Ba-Boom Brothers</name>
-			<text>Sneak {3}{U}{U} (You may cast this spell for {3}{U}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. They enter tapped and attacking.)
+			<text>Sneak {3}{U}{U} (You may cast this spell for {3}{U}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. They enter tapped and attacking.) (You may cast this spell for {3}{U}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
 The Ba-Boom Brothers can&apos;t be blocked.
 Whenever The Ba-Boom Brothers deal combat damage to a player, goad target creature that player controls. If they entered this turn, goad each creature that player controls instead.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/1_The Ba-Boom Brothers.png" num="1">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/31.png" num="1">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -700,7 +595,7 @@ Whenever The Ba-Boom Brothers deal combat damage to a player, goad target creatu
 			<text>Indestructible
 Whenever you play a land or cast a spell, draw a card.
 At the beginning of your end step, you lose half your life, rounded up, unless you sacrifice three other creatures.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/11_The Shadow Queen.png" num="11">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/32.png" num="11">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -718,7 +613,7 @@ At the beginning of your end step, you lose half your life, rounded up, unless y
 			<name>King Hisstocrat</name>
 			<text>Menace, deathtouch
 Whenever one or more tokens you control deal combat damage to a player, that player gets two poison counters. If King Hisstocrat dealt damage to that player this turn, they get four poison counters instead. (A player with ten or more poison counters loses the game.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/9_King Hisstocrat.png" num="9">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/33.png" num="9">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -735,7 +630,7 @@ Whenever one or more tokens you control deal combat damage to a player, that pla
 		<card>
 			<name>Burning Bridges</name>
 			<text>Starting with the next opponent in turn order, each opponent separates all creatures they control into three piles. For each opponent, choose one of their piles. Each player sacrifices all chosen permanents they control. (Piles can be empty.)</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/7_Burning Bridges.png" num="7">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/34.png" num="7">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -752,7 +647,7 @@ Whenever one or more tokens you control deal combat damage to a player, that pla
 			<name>Wonder Rush</name>
 			<text>The next time you attack with one or more noncreature tokens this turn, create that many 1/1 black Minion creature tokens with &quot;This token can&apos;t block&quot; that are attacking. Then untap each attacking creature you control. After that combat phase, there&apos;s an additional combat phase.
 Exile Wonder Rush.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/18_Wonder Rush.png" num="18">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/35.png" num="18">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -766,27 +661,11 @@ Exile Wonder Rush.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Chompikins SMCB</name>
-			<text>Whenever you lose life, each opponent who controls a Noble gains that much life.
-Whenever you discard one or more cards, each opponent who controls a Noble draws that many cards.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/6t_Chompikins.png" num="6">SMCB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Creature — Dog Minion</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>The Lord of Lightning</name>
 			<text>This spell costs {X} less to cast, where X is the greatest power among creatures you don&apos;t control.
 Flying, haste
 Whenever The Lord of Lightning attacks, defending player loses 3 life and discards a card.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/31_The Lord of Lightning.png" num="31">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/36.png" num="31">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -804,7 +683,7 @@ Whenever The Lord of Lightning attacks, defending player loses 3 life and discar
 			<name>Elite Magikoopa</name>
 			<text>Vigilance
 If an ability of another Minion, Noble, or Villain you control triggers, that ability triggers an additional time.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/26_Elite Magikoopa.png" num="26">SMCB</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMCB-files/img/37.png" num="26">SMCB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -817,6 +696,143 @@ If an ability of another Minion, Noble, or Villain you control triggers, that ab
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Robot Minion SMCB</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/38.png" num="5">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Robot Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Minion SMCB</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/39.png" num="1">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Minion SMCB</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/40.png" num="2">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Minion SMCB</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/41.png" num="3">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Minion SMCB</name>
+			<text>This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/42.png" num="4">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure SMCB</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/43.png" num="7">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Chompikins SMCB</name>
+			<text>Whenever you lose life, each opponent who controls a Noble gains that much life.
+Whenever you discard one or more cards, each opponent who controls a Noble draws that many cards.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/44.png" num="6">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Dog Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bowser&apos;s Baddies</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMCB-files/img/45.png" num="0">SMCB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

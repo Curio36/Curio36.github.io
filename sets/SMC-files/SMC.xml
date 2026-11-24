@@ -5,7 +5,7 @@
 			<name>SMC</name>
 			<longname>Super Mario Brothers Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-31</releasedate>
+			<releasedate>2026-11-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1103,7 +1103,7 @@ Whenever Dry Bowser attacks, mill three cards. You may play one of those cards t
 				<cmc>11</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>8/8</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

@@ -1256,7 +1256,7 @@
             "cost": "{9}{B}{R}",
             "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\nTrample, haste\nWhenever Dry Bowser attacks, mill three cards. You may play one of those cards this turn.",
             "flavor_text": "[i][/i]",
-            "pt": "8/8",
+            "pt": "6/6",
             "special_text": "",
             "shape": "normal",
             "set": "SMC",
