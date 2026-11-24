@@ -5,7 +5,7 @@
 			<name>SMJ</name>
 			<longname>Super Mario Brothers Jumpstart</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-16</releasedate>
+			<releasedate>2026-11-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -68,7 +68,7 @@ Whenever a Hero you control attacks, you gain 1 life.</text>
 			<name>Runaway Watermelon</name>
 			<text>When this artifact enters, destroy up to one target artifact or enchantment. If a permanent you controlled was destroyed this way, you gain 3 life.
 {2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/3.png" num="33">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/3.png" num="41">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@ Whenever a Hero you control attacks, you gain 1 life.</text>
 • Destroy target artifact.
 • Destroy target enchantment.
 • You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/5.png" num="34">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/5.png" num="42">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -123,7 +123,7 @@ Whenever a Hero you control attacks, you gain 1 life.</text>
 			<text>Indestructible, haste
 When Superstar Mario enters, mill six cards, then return any number of Aura cards from your graveyard to the battlefield attached to Superstar Mario.
 At the beginning of your end step, sacrifice Superstar Mario.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/6.png" num="37">SMJ</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/6.png" num="43">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -141,7 +141,7 @@ At the beginning of your end step, sacrifice Superstar Mario.</text>
 			<name>Guest Racer</name>
 			<text>When this creature enters, scry 2.
 This creature crews Vehicles as though its power were 2 greater.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/7.png" num="4">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/7.png" num="5">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -223,7 +223,7 @@ When this creature enters, you draw a card and lose 1 life.</text>
 			<name>Princess Daisy</name>
 			<text>Whenever you draw your second card each turn, exile the top card of your library. You may play that card until your next end step.
 Whenever you play a land or cast a spell from anywhere other than your hand, put a +1/+1 counter on Princess Daisy.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/12.png" num="30">SMJ</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/12.png" num="32">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -238,13 +238,13 @@ Whenever you play a land or cast a spell from anywhere other than your hand, put
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Royal Racers</name>
+			<name>Friendly Toads</name>
 			<text>When this creature enters, you gain 1 life for each creature you control, then you gain 1 additional life for each legendary creature you control.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/13.png" num="8">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/13.png" num="4">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Noble Pilot</type>
+				<type>Creature — Fungus Citizen</type>
 				<maintype>Creature</maintype>
 				<manacost>3W</manacost>
 				<cmc>4</cmc>
@@ -256,7 +256,7 @@ Whenever you play a land or cast a spell from anywhere other than your hand, put
 		</card>
 		<card>
 			<name>Paratroopa Wings</name>
-			<text>Enchant creature you control.
+			<text>Enchant creature you control
 When this Aura enters, draw a card.
 Enchanted creature has flying and expendable 1. (When that creature dies, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;)</text>
 			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/14.png" num="6">SMJ</set>
@@ -273,28 +273,9 @@ Enchanted creature has flying and expendable 1. (When that creature dies, create
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>King K. Rool</name>
-			<text>Ward {2}
-Ward abilities your opponents control don&apos;t trigger.
-When King K. Rool enters, destroy target nonland permanent an opponent controls. That permanent&apos;s controller loses 3 life and you gain 3 life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/15.png" num="35">SMJ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Crocodile Noble</type>
-				<maintype>Creature</maintype>
-				<manacost>4BG</manacost>
-				<cmc>6</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>6/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Excited Karter</name>
 			<text>This creature crews Vehicles using its toughness rather than its power.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/16.png" num="3">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/15.png" num="3">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -312,7 +293,7 @@ When King K. Rool enters, destroy target nonland permanent an opponent controls.
 			<name>Clown Mario</name>
 			<text>Menace
 Whenever you play a land or cast a spell from anywhere other than your hand, target creature can&apos;t block this turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/17.png" num="23">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/16.png" num="23">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -330,7 +311,7 @@ Whenever you play a land or cast a spell from anywhere other than your hand, tar
 			<name>Thriving Moor</name>
 			<text>This land enters tapped. As it enters, choose a color other than black.
 {T}: Add {B} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/18.png" num="42">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/17.png" num="48">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -346,7 +327,7 @@ Whenever you play a land or cast a spell from anywhere other than your hand, tar
 			<name>Thriving Bluff</name>
 			<text>This land enters tapped. As it enters, choose a color other than red.
 {T}: Add {R} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/19.png" num="38">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/18.png" num="44">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -362,7 +343,7 @@ Whenever you play a land or cast a spell from anywhere other than your hand, tar
 			<name>Thriving Grove</name>
 			<text>This land enters tapped. As it enters, choose a color other than green.
 {T}: Add {G} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/20.png" num="39">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/19.png" num="45">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -378,7 +359,7 @@ Whenever you play a land or cast a spell from anywhere other than your hand, tar
 			<name>Thriving Heath</name>
 			<text>This land enters tapped. As it enters, choose a color other than white.
 {T}: Add {W} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/21.png" num="40">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/20.png" num="46">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -394,7 +375,7 @@ Whenever you play a land or cast a spell from anywhere other than your hand, tar
 			<name>Thriving Isle</name>
 			<text>This land enters tapped. As it enters, choose a color other than blue
 {T}: Add {U} or one mana of the chosen color.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/22.png" num="41">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/21.png" num="47">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -410,17 +391,17 @@ Whenever you play a land or cast a spell from anywhere other than your hand, tar
 			<name>Mario &amp; Luigi, Baby Buggy Duo</name>
 			<text>When Mario &amp; Luigi enter, create a 3/2 colorless Vehicle artifact token with crew 1.
 Whenever you attack with one or more Vehicles, target attacking Vehicle gains double strike until end of turn.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/23.png" num="5">SMJ</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/22.png" num="30">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Pilot</type>
 				<maintype>Creature</maintype>
-				<manacost>3WW</manacost>
+				<manacost>3RR</manacost>
 				<cmc>5</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/6</pt>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -428,7 +409,7 @@ Whenever you attack with one or more Vehicles, target attacking Vehicle gains do
 			<name>Cookatiel, Kooky Cook</name>
 			<text>Flying, lifelink
 Whenever you gain life during your turn, put that many +1/+1 counters on Cookatiel.</text>
-			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/24.png" num="2">SMJ</set>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/23.png" num="2">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -446,7 +427,7 @@ Whenever you gain life during your turn, put that many +1/+1 counters on Cookati
 			<name>Gloomtail, Trial Pit Boss</name>
 			<text>Flying, trample
 When Gloomtail enters, each non-Skeleton creature gets -3/-3 until end of turn. Whenever a creature dies this turn, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/25.png" num="16">SMJ</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/24.png" num="16">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -463,7 +444,7 @@ When Gloomtail enters, each non-Skeleton creature gets -3/-3 until end of turn. 
 		<card>
 			<name>Dry</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/26.png" num="0">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/25.png" num="0">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -477,7 +458,7 @@ When Gloomtail enters, each non-Skeleton creature gets -3/-3 until end of turn. 
 		<card>
 			<name>Princess Daisy</name>
 			<text></text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/27.png" num="0">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/26.png" num="0">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -489,29 +470,10 @@ When Gloomtail enters, each non-Skeleton creature gets -3/-3 until end of turn. 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>The Royal Racers</name>
-			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
-Whenever you attack, you may discard a card. If you do or if you&apos;re attacking with a Vehicle, draw a card.
-Max speed — Attacking Vehicles you control have first strike and trample.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/28.png" num="36">SMJ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — God Human Noble Pilot</type>
-				<maintype>Creature</maintype>
-				<manacost>1RW</manacost>
-				<cmc>3</cmc>
-				<colors>WR</colors>
-				<coloridentity>WR</coloridentity>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Topper, Broodal Leader</name>
 			<text>Whenever a token you control enters, you gain 1 life.
 {W}, {T}, Sacrifice a token: Put a +1/+1 counter on Topper. You gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/29.png" num="9">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/27.png" num="9">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -529,7 +491,7 @@ Max speed — Attacking Vehicles you control have first strike and trample.</tex
 			<name>Rango, Broodal Bouncer</name>
 			<text>When Rango enters, return target creature an opponent controls to its owner&apos;s hand.
 Whenever Rango attacks, another target attacking creature you control gains flying until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/30.png" num="13">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/28.png" num="13">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -547,7 +509,7 @@ Whenever Rango attacks, another target attacking creature you control gains flyi
 			<name>Hariet, Broodal Pyrotechnician</name>
 			<text>Double strike (This creature deals both first-strike and regular combat damage.)
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/31.png" num="27">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/29.png" num="28">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -565,7 +527,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 			<name>Spewart, Broodal Entertainer</name>
 			<text>Menace
 Whenever a token you control enters during your turn, target creature an opponent controls gets -1/-1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/32.png" num="20">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/30.png" num="20">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -583,7 +545,7 @@ Whenever a token you control enters during your turn, target creature an opponen
 			<name>Ludwig von Koopa, Supergenius</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
 Whenever Ludwig von Koopa enters or attacks, you may discard a card or sacrifice an artifact. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/33.png" num="46">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/31.png" num="52">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -601,7 +563,7 @@ Whenever Ludwig von Koopa enters or attacks, you may discard a card or sacrifice
 			<name>Larry, Mischievous Koopaling</name>
 			<text>When Larry enters, draw two cards, then discard a card.
 Whenever you discard one or more cards, create a 2/2 black Minion creature token with &quot;This token can&apos;t block.&quot; This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/34.png" num="45">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/32.png" num="51">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -618,7 +580,7 @@ Whenever you discard one or more cards, create a 2/2 black Minion creature token
 		<card>
 			<name>Wendy O Koopa</name>
 			<text>Whenever Wendy attacks,create a tapped and attacking token that&apos;s a copy of up to one target creature you control except it isn&apos;t legendary. Sacrifice that token at end of combat.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/35.png" num="14">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/33.png" num="14">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -635,7 +597,7 @@ Whenever you discard one or more cards, create a 2/2 black Minion creature token
 		<card>
 			<name>Roy, Dumb Muscle</name>
 			<text>When Roy enters, you may sacrifice a creature. When you do, each opponent sacrifices a creature of their choice. Each opponent who didn&apos;t sacrifice a creature with mana value greater than or equal to the mana value of the creature you sacrificed this way loses 3 life.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/36.png" num="19">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/34.png" num="19">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -653,7 +615,7 @@ Whenever you discard one or more cards, create a 2/2 black Minion creature token
 			<name>Iggy, Loopy Koopaling</name>
 			<text>When Iggy enters, you may discard a card. If you do, Iggy gains haste until end of turn and he deals 2 damage to each opponent.
 Whenever Iggy attacks, put a +1/+1 counter on him if a player discarded a card this turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/37.png" num="44">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/35.png" num="50">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -670,7 +632,7 @@ Whenever Iggy attacks, put a +1/+1 counter on him if a player discarded a card t
 		<card>
 			<name>Morton, the Big One</name>
 			<text>When Morton enters, he deals X damage to any target, where X is the greatest amount of damage dealt by a source to a permanent or player this turn.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/38.png" num="29">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/36.png" num="31">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -688,7 +650,7 @@ Whenever Iggy attacks, put a +1/+1 counter on him if a player discarded a card t
 			<name>Lemmy, the Ditz</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever Lemmy deals 3 or more combat damage to a player, exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/39.png" num="28">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/37.png" num="29">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -707,7 +669,7 @@ Whenever Lemmy deals 3 or more combat damage to a player, exile the top two card
 			<text>Flying, haste
 Whenever a source you control deals damage to you, this creature deals that much damage to target opponent.
 {2}{R}: This creature deals 1 damage to each player.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/40.png" num="21">SMJ</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/38.png" num="21">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -725,7 +687,7 @@ Whenever a source you control deals damage to you, this creature deals that much
 			<name>Drill Mario</name>
 			<text>Drill Mario can&apos;t be blocked by creatures with flying.
 Whenever Drill Mario attacks, you may put a land card from your hand onto the battlefield. If you do, return a land you control to its owner&apos;s hand at the beginning of the next end step.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/41.png" num="43">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/39.png" num="49">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -742,7 +704,7 @@ Whenever Drill Mario attacks, you may put a land card from your hand onto the ba
 		<card>
 			<name>It&apos;s-a Me!</name>
 			<text>Reveal cards from the top of your library until you reveal a legendary creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. If that creature is a Hero or Noble, it enters with two additional +1/+1 counters on it.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/42.png" num="32">SMJ</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/40.png" num="38">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -759,7 +721,7 @@ Whenever Drill Mario attacks, you may put a land card from your hand onto the ba
 			<name>Bouncy Thwimp</name>
 			<text>Haste
 During your turn, this creature has flying.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/43.png" num="22">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/41.png" num="22">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -778,7 +740,7 @@ During your turn, this creature has flying.</text>
 			<text>Flying, trample
 This creature can&apos;t block.
 Whenever this creature attacks, each other attacking creature you control gets +1/+0 and gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/44.png" num="25">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/42.png" num="25">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -795,7 +757,7 @@ Whenever this creature attacks, each other attacking creature you control gets +
 		<card>
 			<name>Cranky Whimps</name>
 			<text>Whenever this creature and another creature you control with trample attack together, this creature gets +2/+0 and gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/45.png" num="24">SMJ</set>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/43.png" num="24">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -813,7 +775,7 @@ Whenever this creature attacks, each other attacking creature you control gets +
 			<name>Sumo Bro</name>
 			<text>When this creature enters, each creature with toughness 5 or less can&apos;t block this turn.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/46.png" num="31">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/44.png" num="34">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -830,7 +792,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Hammer Bro</name>
 			<text>When this creature enters, create a colorless Equipment artifact token named Hammer with &quot;Enchanted creature gets +2/+0&quot; and equip {2}. When you do, attach up to two target Equipments you control to this creature.</text>
-			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/47.png" num="26">SMJ</set>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/45.png" num="27">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -848,7 +810,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<name>King K. Rool</name>
 			<text>Ward abilities your opponents control don&apos;t trigger.
 When King K. Rool enters, destroy target creature an opponent controls. That creature&apos;s controller loses 3 life and you gain 3 life.</text>
-			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/48.png" num="17">SMJ</set>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/46.png" num="17">SMJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -859,6 +821,175 @@ When King K. Rool enters, destroy target creature an opponent controls. That cre
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mole Tracks</name>
+			<text>Landfall — Whenever a land you control enters, create a 1/1 black Minion creature token with &quot;This token can&apos;t block.&quot;
+Creature tokens you control have &quot;{T}: Add {G}.&quot;</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/47.png" num="39">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Royal Racers</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Attacking Vehicles and Pilots you control have first strike.
+Max Speed — At the beginning of your end step, untap each creature and artifact you control.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/48.png" num="8">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Noble Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monstro Town Gathering</name>
+			<text>Return one or two target creature cards from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/49.png" num="53">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>DK, Banana Slamma</name>
+			<text>Whenever DK enters or attacks, create a Banana token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.&quot;)</text>
+			<set rarity="mythic" picurl="https://Curio36.github.io/sets/SMJ-files/img/50.png" num="37">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ape Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Topmaniac, Battlerock King</name>
+			<text>Haste
+Whenever a creature you control with haste attacks, Topmaniac deals 1 damage to target player or planeswalker. If you were dealt damage this way, put a +1/+1 counter on Topmaniac.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/51.png" num="35">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Speedrunning</name>
+			<text></text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/52.png" num="0">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Overwhelming Display</name>
+			<text>Until end of turn, target creature you control gets +3/+3 and gains trample and &quot;This creature can&apos;t be blocked by more than one creature.&quot;</text>
+			<set rarity="uncommon" picurl="https://Curio36.github.io/sets/SMJ-files/img/53.png" num="40">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Banandium Motherlode</name>
+			<text>Look at the top six cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order. If you revealed an Ape or Monkey card this way, create a tapped Banana token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.&quot;)</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/54.png" num="36">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gold Koopa Freerunner</name>
+			<text>Haste
+Whenever one or more creatures you control that entered this turn deal combat damage to a player, create a Treasure token and exile the top card of that player&apos;s library. Until your next combat, you may cast that card.</text>
+			<set rarity="rare" picurl="https://Curio36.github.io/sets/SMJ-files/img/55.png" num="26">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Athlete</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roving Racer</name>
+			<text>Haste
+Sacrifice this creature: Another target creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://Curio36.github.io/sets/SMJ-files/img/56.png" num="33">SMJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Athlete</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

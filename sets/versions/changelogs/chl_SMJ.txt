@@ -1,4 +1,117 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Friendly Toads added.
+Mole Tracks added.
+Monstro Town Gathering added.
+DK, Banana Slamma added.
+Topmaniac, Battlerock King added.
+Speedrunning added.
+Overwhelming Display added.
+Banandium Motherlode added.
+Gold Koopa Freerunner added.
+Roving Racer added.
+
+Royal Racers removed.
+King K. Rool removed.
+
+
+type: Legendary Creature — Human Hero => 
+cost: {1}{W} => 
+rules_text: Vigilance
+Whenever an enchantment you control enters, you gain 1 life and scry 1. => 
+pt: 2/3 => 
+
+Paratroopa Wings
+rules_text: Enchant creature you control.
+When this Aura enters, draw a card.
+Enchanted creature has flying and expendable 1. [i](When that creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i] => Enchant creature you control
+When this Aura enters, draw a card.
+Enchanted creature has flying and expendable 1. [i](When that creature dies, create a 1/1 black Minion creature token with “This token can't block.”)[/i]
+
+Excited Karter
+
+Clown Mario
+
+Thriving Moor
+
+Thriving Bluff
+
+Thriving Grove
+
+Thriving Heath
+
+Thriving Isle
+
+Mario & Luigi, Baby Buggy Duo
+cost: {3}{W}{W} => {3}{R}{R}
+pt: 2/6 => 2/4
+
+Cookatiel, Kooky Cook
+
+Gloomtail, Trial Pit Boss
+
+Dry
+
+Princess Daisy
+
+Topper, Broodal Leader
+
+Rango, Broodal Bouncer
+
+Hariet, Broodal Pyrotechnician
+
+Spewart, Broodal Entertainer
+
+Ludwig von Koopa, Supergenius
+
+Larry, Mischievous Koopaling
+
+Wendy O Koopa
+
+Roy, Dumb Muscle
+
+Iggy, Loopy Koopaling
+
+Morton, the Big One
+
+Lemmy, the Ditz
+
+Angry Sun
+
+Drill Mario
+
+It's-a Me!
+
+Bouncy Thwimp
+
+Crashing Thwomps
+
+Cranky Whimps
+
+Sumo Bro
+
+Hammer Bro
+
+King K. Rool
+cost: {4}{B}{G} => {4}{B}{B}
+rules_text: Ward {2}
+Ward abilities your opponents control don't trigger.
+When King K. Rool enters, destroy target nonland permanent an opponent controls. That permanent's controller loses 3 life and you gain 3 life. => Ward abilities your opponents control don't trigger.
+When King K. Rool enters, destroy target creature an opponent controls. That creature's controller loses 3 life and you gain 3 life.
+
+The Royal Racers
+type: Legendary Creature — God Human Noble Pilot => Legendary Creature — Noble Pilot
+cost: {1}{R}{W} => {1}{W}{W}
+rules_text: Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+Whenever you attack, you may discard a card. If you do or if you're attacking with a Vehicle, draw a card.
+Max speed — Attacking Vehicles you control have first strike and trample. => Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+Attacking Vehicles and Pilots you control have first strike.
+Max Speed — At the beginning of your end step, untap each creature and artifact you control.
+pt: 3/2 => 3/3
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Princess Daisy added.

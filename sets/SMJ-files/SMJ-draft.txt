@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Food",
-			"collector_number": "33",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMJ-files/img/3.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "34",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMJ-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Human Star Hero",
-			"collector_number": "37",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMJ-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Guest Pilot",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMJ-files/img/7.png"
 			}
@@ -125,17 +125,17 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "30",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMJ-files/img/12.png"
 			}
 		},
 		{
-			"name": "Royal Racers",
+			"name": "Friendly Toads",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Noble Pilot",
-			"collector_number": "8",
+			"type": "Creature — Fungus Citizen",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMJ-files/img/13.png"
 			}
@@ -151,23 +151,13 @@
 			}
 		},
 		{
-			"name": "King K. Rool",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{G}",
-			"type": "Legendary Creature — Crocodile Noble",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/15.png"
-			}
-		},
-		{
 			"name": "Excited Karter",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Fungus Pilot",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/16.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/15.png"
 			}
 		},
 		{
@@ -177,7 +167,7 @@
 			"type": "Legendary Creature — Human Clown Hero",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/17.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/16.png"
 			}
 		},
 		{
@@ -185,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "42",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/18.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/17.png"
 			}
 		},
 		{
@@ -195,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "38",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/19.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/18.png"
 			}
 		},
 		{
@@ -205,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "39",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/20.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/19.png"
 			}
 		},
 		{
@@ -215,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "40",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/21.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/20.png"
 			}
 		},
 		{
@@ -225,19 +215,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "41",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/22.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/21.png"
 			}
 		},
 		{
 			"name": "Mario & Luigi, Baby Buggy Duo",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "5",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/23.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/22.png"
 			}
 		},
 		{
@@ -247,7 +237,7 @@
 			"type": "Legendary Creature — Bird Minion Cook",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/24.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/23.png"
 			}
 		},
 		{
@@ -257,7 +247,7 @@
 			"type": "Legendary Creature — Skeleton Dragon Minion",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/25.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/24.png"
 			}
 		},
 		{
@@ -267,7 +257,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/26.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/25.png"
 			}
 		},
 		{
@@ -277,17 +267,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/27.png"
-			}
-		},
-		{
-			"name": "The Royal Racers",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Legendary Creature — God Human Noble Pilot",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/28.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/26.png"
 			}
 		},
 		{
@@ -297,7 +277,7 @@
 			"type": "Legendary Creature — Rabbit Minion",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/29.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/27.png"
 			}
 		},
 		{
@@ -307,7 +287,7 @@
 			"type": "Legendary Creature — Rabbit Minion",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/30.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/28.png"
 			}
 		},
 		{
@@ -315,9 +295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Rabbit Minion",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/31.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/29.png"
 			}
 		},
 		{
@@ -327,7 +307,7 @@
 			"type": "Legendary Creature — Rabbit Minion",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/32.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/30.png"
 			}
 		},
 		{
@@ -335,9 +315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U/R}",
 			"type": "Legendary Creature — Turtle Minion Bard",
-			"collector_number": "46",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/33.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/31.png"
 			}
 		},
 		{
@@ -345,9 +325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U/B}",
 			"type": "Legendary Creature — Turtle Minion",
-			"collector_number": "45",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/34.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/32.png"
 			}
 		},
 		{
@@ -357,7 +337,7 @@
 			"type": "Legendary Creature — Turtle Minion",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/35.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/33.png"
 			}
 		},
 		{
@@ -367,7 +347,7 @@
 			"type": "Legendary Creature — Turtle Minion",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/36.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/34.png"
 			}
 		},
 		{
@@ -375,9 +355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B/R}",
 			"type": "Legendary Creature — Turtle Minion",
-			"collector_number": "44",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/37.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/35.png"
 			}
 		},
 		{
@@ -385,9 +365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Turtle Minion",
-			"collector_number": "29",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/38.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/36.png"
 			}
 		},
 		{
@@ -395,9 +375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Turtle Minion",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/39.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/37.png"
 			}
 		},
 		{
@@ -407,7 +387,7 @@
 			"type": "Creature — Star Minion",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/40.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/38.png"
 			}
 		},
 		{
@@ -415,9 +395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R/G}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "43",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/41.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/39.png"
 			}
 		},
 		{
@@ -425,9 +405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "32",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/42.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/40.png"
 			}
 		},
 		{
@@ -437,7 +417,7 @@
 			"type": "Artifact Creature — Wall Minion",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/43.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/41.png"
 			}
 		},
 		{
@@ -447,7 +427,7 @@
 			"type": "Artifact Creature — Wall Minion",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/44.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/42.png"
 			}
 		},
 		{
@@ -457,7 +437,7 @@
 			"type": "Artifact Creature — Wall Minion",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/45.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/43.png"
 			}
 		},
 		{
@@ -465,9 +445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Turtle Athlete Minion",
-			"collector_number": "31",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/46.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/44.png"
 			}
 		},
 		{
@@ -475,9 +455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Turtle Warrior Minion",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Curio36.github.io/sets/SMJ-files/img/47.png"
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/45.png"
 			}
 		},
 		{
@@ -487,7 +467,107 @@
 			"type": "Legendary Creature — Crocodile Noble",
 			"collector_number": "17",
 			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/46.png"
+			}
+		},
+		{
+			"name": "Mole Tracks",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/47.png"
+			}
+		},
+		{
+			"name": "The Royal Racers",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Noble Pilot",
+			"collector_number": "8",
+			"image_uris": {
 				"en": "https://Curio36.github.io/sets/SMJ-files/img/48.png"
+			}
+		},
+		{
+			"name": "Monstro Town Gathering",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/49.png"
+			}
+		},
+		{
+			"name": "DK, Banana Slamma",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Ape Hero",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/50.png"
+			}
+		},
+		{
+			"name": "Topmaniac, Battlerock King",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Artifact Creature — Construct Noble",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/51.png"
+			}
+		},
+		{
+			"name": "Speedrunning",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/52.png"
+			}
+		},
+		{
+			"name": "Overwhelming Display",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/53.png"
+			}
+		},
+		{
+			"name": "Banandium Motherlode",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/54.png"
+			}
+		},
+		{
+			"name": "Gold Koopa Freerunner",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Turtle Athlete",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/55.png"
+			}
+		},
+		{
+			"name": "Roving Racer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Turtle Athlete",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Curio36.github.io/sets/SMJ-files/img/56.png"
 			}
 		}
 	]
@@ -496,14 +576,17 @@
 	1 Superstar Mario
 	1 Princess Peach
 	1 Princess Daisy
-	2 King K. Rool
 	2 Mario & Luigi, Baby Buggy Duo
 	1 Cookatiel, Kooky Cook
 	2 Gloomtail, Trial Pit Boss
-	2 The Royal Racers
 	2 Angry Sun
 	2 It's-a Me!
 	2 King K. Rool
+	2 Mole Tracks
+	2 The Royal Racers
+	1 DK, Banana Slamma
+	2 Topmaniac, Battlerock King
+	2 Gold Koopa Freerunner
 [uncommon(3)]
 	4 Tuxedo Mario
 	4 Invisible Mario
@@ -524,6 +607,7 @@
 	4 Drill Mario
 	4 Sumo Bro
 	4 Hammer Bro
+	4 Overwhelming Display
 [common(6)]
 	8 Runaway Watermelon
 	8 Gelato Cataquacks
@@ -531,7 +615,7 @@
 	8 Princess Peach
 	8 
 	8 Koopa Kid
-	8 Royal Racers
+	8 Friendly Toads
 	8 Paratroopa Wings
 	8 Excited Karter
 	8 Thriving Moor
@@ -544,6 +628,10 @@
 	8 Bouncy Thwimp
 	8 Crashing Thwomps
 	8 Cranky Whimps
+	8 Monstro Town Gathering
+	8 Speedrunning
+	8 Banandium Motherlode
+	8 Roving Racer
 [common | masterpiece(1)]
 	8 Runaway Watermelon
 	8 Gelato Cataquacks
@@ -551,7 +639,7 @@
 	8 Princess Peach
 	8 
 	8 Koopa Kid
-	8 Royal Racers
+	8 Friendly Toads
 	8 Paratroopa Wings
 	8 Excited Karter
 	8 Thriving Moor
@@ -564,6 +652,10 @@
 	8 Bouncy Thwimp
 	8 Crashing Thwomps
 	8 Cranky Whimps
+	8 Monstro Town Gathering
+	8 Speedrunning
+	8 Banandium Motherlode
+	8 Roving Racer
 [foil(1)]
 	6 Tuxedo Mario
 	6 Invisible Mario
@@ -578,9 +670,8 @@
 	12 
 	12 Koopa Kid
 	1 Princess Daisy
-	12 Royal Racers
+	12 Friendly Toads
 	12 Paratroopa Wings
-	2 King K. Rool
 	12 Excited Karter
 	6 Clown Mario
 	12 Thriving Moor
@@ -593,7 +684,6 @@
 	2 Gloomtail, Trial Pit Boss
 	12 Dry
 	12 Princess Daisy
-	2 The Royal Racers
 	6 Topper, Broodal Leader
 	6 Rango, Broodal Bouncer
 	6 Hariet, Broodal Pyrotechnician
@@ -614,6 +704,16 @@
 	6 Sumo Bro
 	6 Hammer Bro
 	2 King K. Rool
+	2 Mole Tracks
+	2 The Royal Racers
+	12 Monstro Town Gathering
+	1 DK, Banana Slamma
+	2 Topmaniac, Battlerock King
+	12 Speedrunning
+	6 Overwhelming Display
+	12 Banandium Motherlode
+	2 Gold Koopa Freerunner
+	12 Roving Racer
 [wildcard(1)]
 	15 Tuxedo Mario
 	15 Invisible Mario
@@ -628,9 +728,8 @@
 	6 
 	6 Koopa Kid
 	4 Princess Daisy
-	6 Royal Racers
+	6 Friendly Toads
 	6 Paratroopa Wings
-	7 King K. Rool
 	6 Excited Karter
 	15 Clown Mario
 	6 Thriving Moor
@@ -643,7 +742,6 @@
 	7 Gloomtail, Trial Pit Boss
 	6 Dry
 	6 Princess Daisy
-	7 The Royal Racers
 	15 Topper, Broodal Leader
 	15 Rango, Broodal Bouncer
 	15 Hariet, Broodal Pyrotechnician
@@ -664,3 +762,13 @@
 	15 Sumo Bro
 	15 Hammer Bro
 	7 King K. Rool
+	7 Mole Tracks
+	7 The Royal Racers
+	6 Monstro Town Gathering
+	4 DK, Banana Slamma
+	7 Topmaniac, Battlerock King
+	6 Speedrunning
+	15 Overwhelming Display
+	6 Banandium Motherlode
+	7 Gold Koopa Freerunner
+	6 Roving Racer
